@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 07 Jun 2022 00:00:00 -0000
+Source: ros-one-multi-map-server
+Binary: ros-one-multi-map-server
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.2.12-185-g1ddd7669-2024.10.11.19.58
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-multi-map-server - multi_map_server provides the
+Changes:
+ ros-one-multi-map-server (2.2.12-185-g1ddd7669-2024.10.11.19.58) jammy; urgency=high
+Checksums-Sha1:
+ 35866d89764328cfa216607e090f57a1a9104cd2 589682 ros-one-multi-map-server-dbgsym_2.2.12-185-g1ddd7669-2024.10.11.19.58_amd64.ddeb
+ 2b32e0d8f777b04a00f28173894588a9cda511e1 41838 ros-one-multi-map-server_2.2.12-185-g1ddd7669-2024.10.11.19.58_amd64.buildinfo
+ dd14599fd6c28d142810c2669c2c926675b60b5a 54484 ros-one-multi-map-server_2.2.12-185-g1ddd7669-2024.10.11.19.58_amd64.deb
+Checksums-Sha256:
+ 6cfe95289f969f7c40426fd7099c0547f8c53c29af3582827fdf223a881a536c 589682 ros-one-multi-map-server-dbgsym_2.2.12-185-g1ddd7669-2024.10.11.19.58_amd64.ddeb
+ 5031a090c2dc3794bb36403318f8ea192733fbea42670db81a52017a386edb90 41838 ros-one-multi-map-server_2.2.12-185-g1ddd7669-2024.10.11.19.58_amd64.buildinfo
+ 8e9613c202dec767db42fbedbb3daf04e5c8c662860ee7b88afaa17f8e8104ca 54484 ros-one-multi-map-server_2.2.12-185-g1ddd7669-2024.10.11.19.58_amd64.deb
+Files:
+ 2105167dbd168103fde1618a6b1023d5 589682 debug optional ros-one-multi-map-server-dbgsym_2.2.12-185-g1ddd7669-2024.10.11.19.58_amd64.ddeb
+ afbc79569fddfb323851c3f33ce3a3c5 41838 misc optional ros-one-multi-map-server_2.2.12-185-g1ddd7669-2024.10.11.19.58_amd64.buildinfo
+ c1b54c72ee84eb4a7df628309c433ff4 54484 misc optional ros-one-multi-map-server_2.2.12-185-g1ddd7669-2024.10.11.19.58_amd64.deb

@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Wed, 26 May 2021 00:00:00 -0000
+Source: ros-one-pr2-computer-monitor
+Binary: ros-one-pr2-computer-monitor
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.6.32-21-gcb63b5d-2024.10.11.18.51
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Feil-Seifer <dave@cse.unr.edu>
+Changed-By: Dave Feil-Seifer <dave@cse.unr.edu>
+Description:
+ ros-one-pr2-computer-monitor - Monitors the computer's processor and hard drives of the PR2 and
+Changes:
+ ros-one-pr2-computer-monitor (1.6.32-21-gcb63b5d-2024.10.11.18.51) jammy; urgency=high
+ .
+   * Merge pull request #268 <https://github.com/pr2/pr2_robot/issues/268> from k-okada/fix_for_noetic
+   * run 2to3 -w -fexcept .
+   * run 2to3 -w -fprint .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 34f711cd0d6223da8bd4ed2dc9de029f66bb0d12 209246 ros-one-pr2-computer-monitor-dbgsym_1.6.32-21-gcb63b5d-2024.10.11.18.51_amd64.ddeb
+ 9509aa7d30ff5de7bebfacb6a38cbdac44916577 11536 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2024.10.11.18.51_amd64.buildinfo
+ 608cfc9670882ed76f42d70c9170ab8ca3680d5a 33542 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2024.10.11.18.51_amd64.deb
+Checksums-Sha256:
+ dac1267dffa9c5c712a1ec05d0f484c0f6dc470fe5ba025c50b9dce7bf9e83e8 209246 ros-one-pr2-computer-monitor-dbgsym_1.6.32-21-gcb63b5d-2024.10.11.18.51_amd64.ddeb
+ 032706046cf43e91070077be3acfd58534fda1998c5f7cbe7693dc97906416e9 11536 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2024.10.11.18.51_amd64.buildinfo
+ eb1b04ff8c003a9f3f3eafdb7d6032c518e8f89f8f9214ba6580cb362660afc9 33542 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2024.10.11.18.51_amd64.deb
+Files:
+ 89981a32e01eb0984a99ac52261549a3 209246 debug optional ros-one-pr2-computer-monitor-dbgsym_1.6.32-21-gcb63b5d-2024.10.11.18.51_amd64.ddeb
+ e6700627820ca5dc35fbbecdc6c2788a 11536 misc optional ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2024.10.11.18.51_amd64.buildinfo
+ 356a5997b3e7d5ced09ee22d8916a741 33542 misc optional ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2024.10.11.18.51_amd64.deb

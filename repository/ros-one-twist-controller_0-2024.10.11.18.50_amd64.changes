@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 29 Jul 2024 00:00:00 -0000
+Source: ros-one-twist-controller
+Binary: ros-one-twist-controller
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.11.18.50
+Distribution: jammy
+Urgency: high
+Maintainer: Stefan Scherzinger <scherzin@fzi.de>
+Changed-By: Stefan Scherzinger <scherzin@fzi.de>
+Description:
+ ros-one-twist-controller - A ros_control controller accepting Cartesian twist messages in or
+Changes:
+ ros-one-twist-controller (0-2024.10.11.18.50) jammy; urgency=high
+Checksums-Sha1:
+ e39768f6184baff6f34b8c03fb59c5d3588c7d08 949854 ros-one-twist-controller-dbgsym_0-2024.10.11.18.50_amd64.ddeb
+ 2b38b5110b1a0d2b415b70fd1f0638dd551a84ef 16397 ros-one-twist-controller_0-2024.10.11.18.50_amd64.buildinfo
+ 79fa579fffcb74c4e5e33130002df0d3cc8d241a 80068 ros-one-twist-controller_0-2024.10.11.18.50_amd64.deb
+Checksums-Sha256:
+ fab0ddaef9cb3462d6727b9b02dda6a0fdad37521dc54b87cae5bc8f8810a6f2 949854 ros-one-twist-controller-dbgsym_0-2024.10.11.18.50_amd64.ddeb
+ c8fa7c58c36eaac676f537ffcf52405413c1bf392aa0545e48883a2abc201918 16397 ros-one-twist-controller_0-2024.10.11.18.50_amd64.buildinfo
+ f8a8d19cac156f96548c7d728485412590c6306b12684c8db5491d59b610cb5f 80068 ros-one-twist-controller_0-2024.10.11.18.50_amd64.deb
+Files:
+ e3986dacae203a0b904bfc441d1824a3 949854 debug optional ros-one-twist-controller-dbgsym_0-2024.10.11.18.50_amd64.ddeb
+ 0fb5a746c2bcb026caf2971592d46235 16397 misc optional ros-one-twist-controller_0-2024.10.11.18.50_amd64.buildinfo
+ 2c0604a3e5a254852777488302a3e499 80068 misc optional ros-one-twist-controller_0-2024.10.11.18.50_amd64.deb

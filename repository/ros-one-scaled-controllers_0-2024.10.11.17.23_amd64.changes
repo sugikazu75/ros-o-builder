@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 15 Jun 2021 00:00:00 -0000
+Source: ros-one-scaled-controllers
+Binary: ros-one-scaled-controllers
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.11.17.23
+Distribution: jammy
+Urgency: high
+Maintainer: Felix Exner <exner@fzi.de>
+Changed-By: Felix Exner <exner@fzi.de>
+Description:
+ ros-one-scaled-controllers - scaled controllers metapackage
+Changes:
+ ros-one-scaled-controllers (0-2024.10.11.17.23) jammy; urgency=high
+Checksums-Sha1:
+ 84f95e58a4d841fce4a080ac577cdd634848e4b1 8145 ros-one-scaled-controllers_0-2024.10.11.17.23_amd64.buildinfo
+ eec844812b2c34ace10c62c5267d2389e5f2acba 1758 ros-one-scaled-controllers_0-2024.10.11.17.23_amd64.deb
+Checksums-Sha256:
+ 82087538b659f6b60483768a1bc922597f645a3f515f6b9e190ba3a5743f3d5e 8145 ros-one-scaled-controllers_0-2024.10.11.17.23_amd64.buildinfo
+ 59331994761b3c58c067bc84c2408c2de507381650dad9ea804ed6280965e63f 1758 ros-one-scaled-controllers_0-2024.10.11.17.23_amd64.deb
+Files:
+ 96f4896e6dd2cb5d0574ff5a562490a2 8145 misc optional ros-one-scaled-controllers_0-2024.10.11.17.23_amd64.buildinfo
+ 5d40f0a052fdc64a3d0eaf7af688231c 1758 misc optional ros-one-scaled-controllers_0-2024.10.11.17.23_amd64.deb

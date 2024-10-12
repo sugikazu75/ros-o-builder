@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-rostwitter
+Binary: ros-one-rostwitter
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.11.22.21
+Distribution: jammy
+Urgency: high
+Maintainer: k-okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: k-okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-rostwitter - The rostwitter package
+Changes:
+ ros-one-rostwitter (2.1.28-49-gfb32bec3-2024.10.11.22.21) jammy; urgency=high
+Checksums-Sha1:
+ 485ee9d6e100f5a5c0d59b22a78b1125a57a613b 15966 ros-one-rostwitter_2.1.28-49-gfb32bec3-2024.10.11.22.21_amd64.buildinfo
+ feed64f441b9ea132045617705fc8929d5feb9ed 127580 ros-one-rostwitter_2.1.28-49-gfb32bec3-2024.10.11.22.21_amd64.deb
+Checksums-Sha256:
+ 14d373945b20480b51f875949a9ab8a7b7c02ced8fd9b7e27b4c79f26ae0edf8 15966 ros-one-rostwitter_2.1.28-49-gfb32bec3-2024.10.11.22.21_amd64.buildinfo
+ 23deb08e5f5f339693fae8a5c56aaa4431e24e4307612f90e48abf7840b16034 127580 ros-one-rostwitter_2.1.28-49-gfb32bec3-2024.10.11.22.21_amd64.deb
+Files:
+ ab12afb3885142395165e31769449a67 15966 misc optional ros-one-rostwitter_2.1.28-49-gfb32bec3-2024.10.11.22.21_amd64.buildinfo
+ 133ba209b7b1d806e85e0e2354e0d076 127580 misc optional ros-one-rostwitter_2.1.28-49-gfb32bec3-2024.10.11.22.21_amd64.deb

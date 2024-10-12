@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 17 Jun 2024 00:00:00 -0000
+Source: ros-one-ur-dashboard-msgs
+Binary: ros-one-ur-dashboard-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.5-9-gdc545b5-2024.10.11.20.34
+Distribution: jammy
+Urgency: high
+Maintainer: Felix Exner <exner@FZI.de>
+Changed-By: Felix Exner <exner@FZI.de>
+Description:
+ ros-one-ur-dashboard-msgs - Messages around the UR Dashboard server.
+Changes:
+ ros-one-ur-dashboard-msgs (2.1.5-9-gdc545b5-2024.10.11.20.34) jammy; urgency=high
+Checksums-Sha1:
+ 6e2e593eb8f998776ace8f89374179bb13989d2e 9830 ros-one-ur-dashboard-msgs_2.1.5-9-gdc545b5-2024.10.11.20.34_amd64.buildinfo
+ badc2c65d41a02deda473aad643e8c54fcef5df8 68592 ros-one-ur-dashboard-msgs_2.1.5-9-gdc545b5-2024.10.11.20.34_amd64.deb
+Checksums-Sha256:
+ 57d600a399968fd504ed3e0173a11565be8730a140037f81a1a400034fd45588 9830 ros-one-ur-dashboard-msgs_2.1.5-9-gdc545b5-2024.10.11.20.34_amd64.buildinfo
+ 7a2a8cdcd9fd2c02420991138fc5dc05b0f82b7c289850fc9879b4e9824acc52 68592 ros-one-ur-dashboard-msgs_2.1.5-9-gdc545b5-2024.10.11.20.34_amd64.deb
+Files:
+ 8ffcd7d81d352be3cad25dcad015fb2e 9830 misc optional ros-one-ur-dashboard-msgs_2.1.5-9-gdc545b5-2024.10.11.20.34_amd64.buildinfo
+ 92a813f318625dd9512e6cd0658fab42 68592 misc optional ros-one-ur-dashboard-msgs_2.1.5-9-gdc545b5-2024.10.11.20.34_amd64.deb

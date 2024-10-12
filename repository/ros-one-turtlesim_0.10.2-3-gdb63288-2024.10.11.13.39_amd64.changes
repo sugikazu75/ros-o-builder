@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Fri, 31 Jul 2020 00:00:00 -0000
+Source: ros-one-turtlesim
+Binary: ros-one-turtlesim
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.10.2-3-gdb63288-2024.10.11.13.39
+Distribution: jammy
+Urgency: high
+Maintainer: Mabel Zhang <mabel@openrobotics.org>
+Changed-By: Mabel Zhang <mabel@openrobotics.org>
+Description:
+ ros-one-turtlesim - turtlesim is a tool made for teaching ROS and ROS packages.
+Changes:
+ ros-one-turtlesim (0.10.2-3-gdb63288-2024.10.11.13.39) jammy; urgency=high
+ .
+   * add holonomic motion for turtlesim (#94 <https://github.com/ros/ros_tutorials/issues/94>)
+Checksums-Sha1:
+ 1c411433c444825b3f14b5e53849b8d26ec3b07c 2382768 ros-one-turtlesim-dbgsym_0.10.2-3-gdb63288-2024.10.11.13.39_amd64.ddeb
+ cff6a11e2d216e1956c042577763c4e1a39fbe37 16563 ros-one-turtlesim_0.10.2-3-gdb63288-2024.10.11.13.39_amd64.buildinfo
+ b918589ca560bad4f448217540d7a8f0ac744e3a 230174 ros-one-turtlesim_0.10.2-3-gdb63288-2024.10.11.13.39_amd64.deb
+Checksums-Sha256:
+ e900068e108a52f5e593c654327e66525ccad1c8c616e42bcbc9eb2b53a63030 2382768 ros-one-turtlesim-dbgsym_0.10.2-3-gdb63288-2024.10.11.13.39_amd64.ddeb
+ 798ac2880b6ad8b85e9e49de31a90a9ac3507ddc84692c5eb7226f640ad798f0 16563 ros-one-turtlesim_0.10.2-3-gdb63288-2024.10.11.13.39_amd64.buildinfo
+ 09e8372365241fa4626373883ab744551d8a15cc4c6ea1696d64f99024d448fd 230174 ros-one-turtlesim_0.10.2-3-gdb63288-2024.10.11.13.39_amd64.deb
+Files:
+ 830e375b91ba012c7dcb561e38b4c5f7 2382768 debug optional ros-one-turtlesim-dbgsym_0.10.2-3-gdb63288-2024.10.11.13.39_amd64.ddeb
+ c32535769b2e79235414dded77a3d6fb 16563 misc optional ros-one-turtlesim_0.10.2-3-gdb63288-2024.10.11.13.39_amd64.buildinfo
+ e43bae4d23ad2ffbf6a5e1a10256045e 230174 misc optional ros-one-turtlesim_0.10.2-3-gdb63288-2024.10.11.13.39_amd64.deb

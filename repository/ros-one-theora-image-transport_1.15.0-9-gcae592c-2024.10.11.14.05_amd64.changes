@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 30 Jan 2023 00:00:00 -0000
+Source: ros-one-theora-image-transport
+Binary: ros-one-theora-image-transport
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.15.0-9-gcae592c-2024.10.11.14.05
+Distribution: jammy
+Urgency: high
+Maintainer: Kenji Brameld <kenjibrameld@gmail.com>
+Changed-By: Kenji Brameld <kenjibrameld@gmail.com>
+Description:
+ ros-one-theora-image-transport - Theora_image_transport provides a plugin to image_transport for t
+Changes:
+ ros-one-theora-image-transport (1.15.0-9-gcae592c-2024.10.11.14.05) jammy; urgency=high
+ .
+   * Update maintainer in ros1 branches (#132 <https://github.com/ros-perception/image_transport_plugins/issues/132>)
+   * Fix copyright year 20012 -> 2012 (#80 <https://github.com/ros-perception/image_transport_plugins/issues/80>)
+   * Contributors: Kenji Brameld, Lucas Walter, Michael Carroll, ijnek, v4hn
+Checksums-Sha1:
+ 037883240b4f3ec58dda6d0b889ffa83997e94cb 1841040 ros-one-theora-image-transport-dbgsym_1.15.0-9-gcae592c-2024.10.11.14.05_amd64.ddeb
+ 47cf3f9968b5cda754e955f5d3b4f049ba448405 31044 ros-one-theora-image-transport_1.15.0-9-gcae592c-2024.10.11.14.05_amd64.buildinfo
+ 29418b0a6229358ecfe84990a11c7e7c26a6c4ba 126206 ros-one-theora-image-transport_1.15.0-9-gcae592c-2024.10.11.14.05_amd64.deb
+Checksums-Sha256:
+ 7d3568ca46d95b228ae51a6b155e9a94bc75ef2b5db84066f9bebf9432f1afbe 1841040 ros-one-theora-image-transport-dbgsym_1.15.0-9-gcae592c-2024.10.11.14.05_amd64.ddeb
+ be048dddeee33686a1b3c74e643850cd822b400009a569fef6b2818ab7cf03a5 31044 ros-one-theora-image-transport_1.15.0-9-gcae592c-2024.10.11.14.05_amd64.buildinfo
+ 92b9485220c58f2f726f779c071d12955fd9cd5373fd095cd9570cd706499497 126206 ros-one-theora-image-transport_1.15.0-9-gcae592c-2024.10.11.14.05_amd64.deb
+Files:
+ 696d78effb9bdb41345399da69a2b974 1841040 debug optional ros-one-theora-image-transport-dbgsym_1.15.0-9-gcae592c-2024.10.11.14.05_amd64.ddeb
+ e0254fff144c12a2dbeb77ddb8bbf9e4 31044 misc optional ros-one-theora-image-transport_1.15.0-9-gcae592c-2024.10.11.14.05_amd64.buildinfo
+ c457cba2c1301d35fc1e72c3c6de5006 126206 misc optional ros-one-theora-image-transport_1.15.0-9-gcae592c-2024.10.11.14.05_amd64.deb

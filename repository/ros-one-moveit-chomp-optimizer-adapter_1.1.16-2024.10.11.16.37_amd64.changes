@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-chomp-optimizer-adapter
+Binary: ros-one-moveit-chomp-optimizer-adapter
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-2024.10.11.16.37
+Distribution: jammy
+Urgency: high
+Maintainer: Raghavender Sahdev <raghavendersahdev@gmail.com>
+Changed-By: Raghavender Sahdev <raghavendersahdev@gmail.com>
+Description:
+ ros-one-moveit-chomp-optimizer-adapter - MoveIt planning request adapter utilizing chomp for solution opti
+Changes:
+ ros-one-moveit-chomp-optimizer-adapter (1.1.16-2024.10.11.16.37) jammy; urgency=high
+Checksums-Sha1:
+ b4fd33fdee006cce5f6a2212e4224ac147c9a67d 1752324 ros-one-moveit-chomp-optimizer-adapter-dbgsym_1.1.16-2024.10.11.16.37_amd64.ddeb
+ 0b989b4f5d3ac38a19f2722b502116ff62e15235 22659 ros-one-moveit-chomp-optimizer-adapter_1.1.16-2024.10.11.16.37_amd64.buildinfo
+ 1b9e491b3e6f1d65db03cd02bc8aba238f578f8c 28766 ros-one-moveit-chomp-optimizer-adapter_1.1.16-2024.10.11.16.37_amd64.deb
+Checksums-Sha256:
+ 58e2f97bfa08eb823813f9195c62282dcfba98ad59d5270802be5fb9d42a8920 1752324 ros-one-moveit-chomp-optimizer-adapter-dbgsym_1.1.16-2024.10.11.16.37_amd64.ddeb
+ 1a156fe757766b91bfccd9d2ac5f59821159ab20c390cca3937bac6080c82262 22659 ros-one-moveit-chomp-optimizer-adapter_1.1.16-2024.10.11.16.37_amd64.buildinfo
+ e58a410f752afdb6e917985e5e20ab0f76dda6d23aad4073bc2c5b67f840433f 28766 ros-one-moveit-chomp-optimizer-adapter_1.1.16-2024.10.11.16.37_amd64.deb
+Files:
+ b8df9f55db16900c3b4513dc51fb92de 1752324 debug optional ros-one-moveit-chomp-optimizer-adapter-dbgsym_1.1.16-2024.10.11.16.37_amd64.ddeb
+ a8ccccc5cb00bc8dc81e49a7786d9a01 22659 misc optional ros-one-moveit-chomp-optimizer-adapter_1.1.16-2024.10.11.16.37_amd64.buildinfo
+ 4d51d86f048b67d492d6dfe58b120e1e 28766 misc optional ros-one-moveit-chomp-optimizer-adapter_1.1.16-2024.10.11.16.37_amd64.deb

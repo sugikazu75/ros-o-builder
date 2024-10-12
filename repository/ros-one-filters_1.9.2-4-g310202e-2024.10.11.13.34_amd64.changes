@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 09 May 2022 00:00:00 -0000
+Source: ros-one-filters
+Binary: ros-one-filters
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.9.2-4-g310202e-2024.10.11.13.34
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@willowgarage.com>
+Changed-By: Tully Foote <tfoote@willowgarage.com>
+Description:
+ ros-one-filters - This library provides a standardized interface for processing dat
+Changes:
+ ros-one-filters (1.9.2-4-g310202e-2024.10.11.13.34) jammy; urgency=high
+ .
+   * Give access to FilterChain list of loaded filters
+   * Fix warnings and problem with illegal xml characters
+   * Contributors: Markus Vieth, Martin Pecka
+Checksums-Sha1:
+ 74ac4af9deadd557ffe22e8410b6b2c476d6f1f4 1409522 ros-one-filters-dbgsym_1.9.2-4-g310202e-2024.10.11.13.34_amd64.ddeb
+ a9ad725dd4ee938a6852e1214e12e809fdeec13f 14597 ros-one-filters_1.9.2-4-g310202e-2024.10.11.13.34_amd64.buildinfo
+ 55925b1c84fe55846e4abfee0c694cf2642344b3 71092 ros-one-filters_1.9.2-4-g310202e-2024.10.11.13.34_amd64.deb
+Checksums-Sha256:
+ e3ffb4f391746b335e76422a3df0c12011c79ac1c18b98232e5cee5f17195b81 1409522 ros-one-filters-dbgsym_1.9.2-4-g310202e-2024.10.11.13.34_amd64.ddeb
+ 1e5a4bc7a2c34afe35c9ca75d4f0bc6523c0fa03022fda61f1eda411e6335935 14597 ros-one-filters_1.9.2-4-g310202e-2024.10.11.13.34_amd64.buildinfo
+ 144a7fbb0348d55ff54680f73712aadc430e054526844cfd420688b50d6d8c4a 71092 ros-one-filters_1.9.2-4-g310202e-2024.10.11.13.34_amd64.deb
+Files:
+ c8e0f519fde7487ea70ba13f338a228a 1409522 debug optional ros-one-filters-dbgsym_1.9.2-4-g310202e-2024.10.11.13.34_amd64.ddeb
+ a8a7c678c9d206806c3a76fdf33135f9 14597 misc optional ros-one-filters_1.9.2-4-g310202e-2024.10.11.13.34_amd64.buildinfo
+ ab39248dca9ef094c3d2723b837e19b9 71092 misc optional ros-one-filters_1.9.2-4-g310202e-2024.10.11.13.34_amd64.deb

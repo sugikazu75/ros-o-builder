@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-nlopt
+Binary: ros-one-nlopt
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.11.21.44
+Distribution: jammy
+Urgency: high
+Maintainer: Noda Shintaro <s-noda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Noda Shintaro <s-noda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-nlopt - nlopt
+Changes:
+ ros-one-nlopt (2.1.28-49-gfb32bec3-2024.10.11.21.44) jammy; urgency=high
+Checksums-Sha1:
+ a3294bea315a6a8a1c042d1c5c147b9092078551 19762 ros-one-nlopt-dbgsym_2.1.28-49-gfb32bec3-2024.10.11.21.44_amd64.ddeb
+ 4f0e02c6171ce9a89a427d24aaff4d9ac5c1ca33 11511 ros-one-nlopt_2.1.28-49-gfb32bec3-2024.10.11.21.44_amd64.buildinfo
+ 31ebdbfa7705763e837e154f0e282f6a72b4514e 178538 ros-one-nlopt_2.1.28-49-gfb32bec3-2024.10.11.21.44_amd64.deb
+Checksums-Sha256:
+ daaa7fa0688f25822bba4dee81daf99ab7c68abd989ee325e076d384f7235d42 19762 ros-one-nlopt-dbgsym_2.1.28-49-gfb32bec3-2024.10.11.21.44_amd64.ddeb
+ e646ae795bed9bff054d9dd60ecef21071a905d1982ca77999c38d9f23c040ac 11511 ros-one-nlopt_2.1.28-49-gfb32bec3-2024.10.11.21.44_amd64.buildinfo
+ a4995d58590de3ac0dc822740d8c61221aafd51675eca406c7e49b31eedf421a 178538 ros-one-nlopt_2.1.28-49-gfb32bec3-2024.10.11.21.44_amd64.deb
+Files:
+ b127bd3d4d516afedf3efec5c938c3ad 19762 debug optional ros-one-nlopt-dbgsym_2.1.28-49-gfb32bec3-2024.10.11.21.44_amd64.ddeb
+ 35b0218c3ff28b3d2b0b5204bdc53698 11511 misc optional ros-one-nlopt_2.1.28-49-gfb32bec3-2024.10.11.21.44_amd64.buildinfo
+ 51c7311ad6bd09e5a6b929b8be372050 178538 misc optional ros-one-nlopt_2.1.28-49-gfb32bec3-2024.10.11.21.44_amd64.deb

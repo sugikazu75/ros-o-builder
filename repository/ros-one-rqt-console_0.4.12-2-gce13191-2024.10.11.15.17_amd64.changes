@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 02 Oct 2023 00:00:00 -0000
+Source: ros-one-rqt-console
+Binary: ros-one-rqt-console
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.4.12-2-gce13191-2024.10.11.15.17
+Distribution: jammy
+Urgency: high
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Changed-By: Dirk Thomas <dthomas@osrfoundation.org>
+Description:
+ ros-one-rqt-console - rqt_console provides a GUI plugin for displaying and filtering RO
+Changes:
+ ros-one-rqt-console (0.4.12-2-gce13191-2024.10.11.15.17) jammy; urgency=high
+ .
+   * added LICENSE file
+   * Import setup from setuptools instead of distutils.core
+   * Add xml-model
+Checksums-Sha1:
+ d3a5b20d6e515a6395cac658cc08e90dfca18380 8177 ros-one-rqt-console_0.4.12-2-gce13191-2024.10.11.15.17_amd64.buildinfo
+ d95a84543c3874b0257361685e667f5a2a92fd44 53922 ros-one-rqt-console_0.4.12-2-gce13191-2024.10.11.15.17_amd64.deb
+Checksums-Sha256:
+ 8ce2a8e0e7780afc4f0e5a026dc22cc05794457d12f75bf85542f6d3671ba5ee 8177 ros-one-rqt-console_0.4.12-2-gce13191-2024.10.11.15.17_amd64.buildinfo
+ f1b29527a44ca1a35d5545a9c6f573d53ece8cd17a17c5738138bcf83b1df615 53922 ros-one-rqt-console_0.4.12-2-gce13191-2024.10.11.15.17_amd64.deb
+Files:
+ a33c1ff4ecd36781337cfc6eac542222 8177 misc optional ros-one-rqt-console_0.4.12-2-gce13191-2024.10.11.15.17_amd64.buildinfo
+ 158d8e635e8cbe8b0e20e6d0afd4b5c1 53922 misc optional ros-one-rqt-console_0.4.12-2-gce13191-2024.10.11.15.17_amd64.deb

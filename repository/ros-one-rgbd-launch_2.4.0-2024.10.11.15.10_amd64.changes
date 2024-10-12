@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 19 Feb 2023 00:00:00 -0000
+Source: ros-one-rgbd-launch
+Binary: ros-one-rgbd-launch
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.4.0-2024.10.11.15.10
+Distribution: jammy
+Urgency: high
+Maintainer: Piyush Khandelwal <piyushk@gmail.com>
+Changed-By: Piyush Khandelwal <piyushk@gmail.com>
+Description:
+ ros-one-rgbd-launch - Launch files to open an RGBD device and load all nodelets to conv
+Changes:
+ ros-one-rgbd-launch (2.4.0-2024.10.11.15.10) jammy; urgency=high
+ .
+   * Capability: Add queue_size option #52 <https://github.com/ros-drivers/rgbd_launch/issues/52>
+   * Maintenance: Synced with older master branch #54 <https://github.com/ros-drivers/rgbd_launch/issues/54>, #53 <https://github.com/ros-drivers/rgbd_launch/issues/53>
+Checksums-Sha1:
+ 093f972b42bb6c80abf2b42485191c3e9e912e85 32047 ros-one-rgbd-launch_2.4.0-2024.10.11.15.10_amd64.buildinfo
+ 4a9b233c2dc9661611d620f6b0518d7c6520a77c 9194 ros-one-rgbd-launch_2.4.0-2024.10.11.15.10_amd64.deb
+Checksums-Sha256:
+ d8b4188a9b4dc67cdd5c1781bed1bd073ecf1497611adb86bb89a3cfb63b019c 32047 ros-one-rgbd-launch_2.4.0-2024.10.11.15.10_amd64.buildinfo
+ c12d5de09372ce4fe344cb086e0ca2132f909477906c04bb5c5952f8a1bb061f 9194 ros-one-rgbd-launch_2.4.0-2024.10.11.15.10_amd64.deb
+Files:
+ 74cb6993819a296a5a6e80fe00226433 32047 misc optional ros-one-rgbd-launch_2.4.0-2024.10.11.15.10_amd64.buildinfo
+ 932b458c636e7ed80b5642b27016b8a6 9194 misc optional ros-one-rgbd-launch_2.4.0-2024.10.11.15.10_amd64.deb

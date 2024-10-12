@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 15 Feb 2023 00:00:00 -0000
+Source: ros-one-roslz4
+Binary: ros-one-roslz4
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.15.14-40-g164a2ac73-2024.10.11.12.50
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-roslz4 - A Python and C++ implementation of the LZ4 streaming format.
+Changes:
+ ros-one-roslz4 (1.15.14-40-g164a2ac73-2024.10.11.12.50) jammy; urgency=high
+Checksums-Sha1:
+ 93b3980fcb995e72d00a318efc6b2a15402bbb1c 27402 ros-one-roslz4-dbgsym_1.15.14-40-g164a2ac73-2024.10.11.12.50_amd64.ddeb
+ 2934a5d75c268f8cae78878afa0a4ac0f7b6ff61 9802 ros-one-roslz4_1.15.14-40-g164a2ac73-2024.10.11.12.50_amd64.buildinfo
+ 33f5da5729aa8a648a779d73ebd1f588989e1c27 18322 ros-one-roslz4_1.15.14-40-g164a2ac73-2024.10.11.12.50_amd64.deb
+Checksums-Sha256:
+ 2e625b4634aee8b27a98b6a492b79edee774ad524c6aa96467f8d30739bc6713 27402 ros-one-roslz4-dbgsym_1.15.14-40-g164a2ac73-2024.10.11.12.50_amd64.ddeb
+ a23229fa4c9cef7a192db0faf3685a8d6aecc30afd6c90e098dbca5957f7cdce 9802 ros-one-roslz4_1.15.14-40-g164a2ac73-2024.10.11.12.50_amd64.buildinfo
+ a5f306c03db6ca651508d3f6d5d71c4494f4e0013362fdae08ac816960fc7217 18322 ros-one-roslz4_1.15.14-40-g164a2ac73-2024.10.11.12.50_amd64.deb
+Files:
+ b612e21a652c80ce5dc209df6a63a316 27402 debug optional ros-one-roslz4-dbgsym_1.15.14-40-g164a2ac73-2024.10.11.12.50_amd64.ddeb
+ c909aeb278eada56ba5e3c3e1f96966d 9802 misc optional ros-one-roslz4_1.15.14-40-g164a2ac73-2024.10.11.12.50_amd64.buildinfo
+ 9a71158951109d3fec13a9f12fd68bb9 18322 misc optional ros-one-roslz4_1.15.14-40-g164a2ac73-2024.10.11.12.50_amd64.deb

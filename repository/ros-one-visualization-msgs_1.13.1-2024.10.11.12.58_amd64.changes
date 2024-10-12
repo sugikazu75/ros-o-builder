@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 11 Jan 2021 00:00:00 -0000
+Source: ros-one-visualization-msgs
+Binary: ros-one-visualization-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.13.1-2024.10.11.12.58
+Distribution: jammy
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-visualization-msgs - visualization_msgs is a set of messages used by higher level pack
+Changes:
+ ros-one-visualization-msgs (1.13.1-2024.10.11.12.58) jammy; urgency=high
+ .
+   * Update package maintainers (#168 <https://github.com/ros/common_msgs/issues/168>)
+   * Contributors: Michel Hidalgo
+Checksums-Sha1:
+ 28eb05a4da600bb57f8155cbd955dd4be280394d 9794 ros-one-visualization-msgs_1.13.1-2024.10.11.12.58_amd64.buildinfo
+ 1508e4b13731a9a6038fc62712186fad03277228 72716 ros-one-visualization-msgs_1.13.1-2024.10.11.12.58_amd64.deb
+Checksums-Sha256:
+ bd346bda48132c9c9f73c1d3a1499c6031fed7153e813fffd27c01106bc6892b 9794 ros-one-visualization-msgs_1.13.1-2024.10.11.12.58_amd64.buildinfo
+ 1181e265218c130c138eb676549e9d2ff1ec4e95552a111ba5ca70ba976cab5d 72716 ros-one-visualization-msgs_1.13.1-2024.10.11.12.58_amd64.deb
+Files:
+ 7bd00c0875abe946e7fbca8ac6037254 9794 misc optional ros-one-visualization-msgs_1.13.1-2024.10.11.12.58_amd64.buildinfo
+ 97bebda15f307a5485bcb3e1a980fae4 72716 misc optional ros-one-visualization-msgs_1.13.1-2024.10.11.12.58_amd64.deb

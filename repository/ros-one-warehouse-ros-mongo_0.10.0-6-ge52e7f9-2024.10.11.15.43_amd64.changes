@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 09 Oct 2020 00:00:00 -0000
+Source: ros-one-warehouse-ros-mongo
+Binary: ros-one-warehouse-ros-mongo
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.10.0-6-ge52e7f9-2024.10.11.15.43
+Distribution: jammy
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-one-warehouse-ros-mongo - warehouse_ros for MongoDB
+Changes:
+ ros-one-warehouse-ros-mongo (0.10.0-6-ge52e7f9-2024.10.11.15.43) jammy; urgency=high
+ .
+   * clang-format-10
+   * Python3 compatibility layer for roslaunch in CMake (#35 <https://github.com/ros-planning/warehouse_ros_mongo/issues/35>)
+   * Contributors: Robert Haschke, Tyler Weaver
+Checksums-Sha1:
+ 446df306bdc9ce408d9db7bf5ead41510e4023be 737848 ros-one-warehouse-ros-mongo-dbgsym_0.10.0-6-ge52e7f9-2024.10.11.15.43_amd64.ddeb
+ 1d10f2f3f19ee568c9081731f3307e897fa58f33 23358 ros-one-warehouse-ros-mongo_0.10.0-6-ge52e7f9-2024.10.11.15.43_amd64.buildinfo
+ 02a9ef83c8a8af9e8fb8ae687f8e5da6d3a9aa62 58046 ros-one-warehouse-ros-mongo_0.10.0-6-ge52e7f9-2024.10.11.15.43_amd64.deb
+Checksums-Sha256:
+ a6a95863d7b829d8630ec6a90561f61a97b87fba16fade309638a92af8d0ca32 737848 ros-one-warehouse-ros-mongo-dbgsym_0.10.0-6-ge52e7f9-2024.10.11.15.43_amd64.ddeb
+ 20c146bde6fbbf1af24616e74cdcc27b09f2b5a58ee768caf1434e548020a39a 23358 ros-one-warehouse-ros-mongo_0.10.0-6-ge52e7f9-2024.10.11.15.43_amd64.buildinfo
+ 71b7653ecd083252b7e244a5199d8ff5b5d788fadd5ce0875567efdac312cef3 58046 ros-one-warehouse-ros-mongo_0.10.0-6-ge52e7f9-2024.10.11.15.43_amd64.deb
+Files:
+ 2295e35d354bf14315f4815d3bc2b2b8 737848 debug optional ros-one-warehouse-ros-mongo-dbgsym_0.10.0-6-ge52e7f9-2024.10.11.15.43_amd64.ddeb
+ 2bb1af881ac5673c8c56a80289d52a25 23358 misc optional ros-one-warehouse-ros-mongo_0.10.0-6-ge52e7f9-2024.10.11.15.43_amd64.buildinfo
+ b116c1879822544a6c4dee25cbffb559 58046 misc optional ros-one-warehouse-ros-mongo_0.10.0-6-ge52e7f9-2024.10.11.15.43_amd64.deb

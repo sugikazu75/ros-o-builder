@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-single-joint-position-action
+Binary: ros-one-single-joint-position-action
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2024.10.11.17.29
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-single-joint-position-action - The single joint position action is a node that provides an actio
+Changes:
+ ros-one-single-joint-position-action (1.10.18-3-g8e8dfa0-2024.10.11.17.29) jammy; urgency=high
+Checksums-Sha1:
+ 6722ff4f3ecd928cde9631e4a298c1882cef7ea4 933716 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2024.10.11.17.29_amd64.ddeb
+ 2d2ed319066d76ccfb9b59e6ac16c19e67dfb675 13891 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2024.10.11.17.29_amd64.buildinfo
+ 3dbfbc0fcae107fd862d789c05784af2a8272210 82650 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2024.10.11.17.29_amd64.deb
+Checksums-Sha256:
+ 40353adad5e57a0eea9a625ca79bf42e112de6c9189d157e3d8ec81df9984ee1 933716 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2024.10.11.17.29_amd64.ddeb
+ 3d68509913c8e2ce493aa9ff080e36e21ae7141e6bc1081d15f331ee948b0a40 13891 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2024.10.11.17.29_amd64.buildinfo
+ 307cbb5f0c6ae6a6c2bbd79df6a78807ada18af73b8b87cd335cb0ca2c16ecb6 82650 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2024.10.11.17.29_amd64.deb
+Files:
+ fb1a7b879f2a42e0321c38ef44a5d176 933716 debug optional ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2024.10.11.17.29_amd64.ddeb
+ 6b722274211a3499fc52615dfd8b8239 13891 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2024.10.11.17.29_amd64.buildinfo
+ ef2927c45839c7917a67e529a0db30a6 82650 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2024.10.11.17.29_amd64.deb

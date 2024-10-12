@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 08 Apr 2024 00:00:00 -0000
+Source: ros-one-ur-kinematics
+Binary: ros-one-ur-kinematics
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.3.3-3-gcce1f0e-2024.10.11.19.57
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur-kinematics - Provides forward and inverse kinematics for Universal Robots desi
+Changes:
+ ros-one-ur-kinematics (1.3.3-3-gcce1f0e-2024.10.11.19.57) jammy; urgency=high
+ .
+   * Changed include for Boost in ur_kinematics (#675 <https://github.com/ros-industrial/universal_robot/issues/675>)
+   * UR30 description and meshes (#674 <https://github.com/ros-industrial/universal_robot/issues/674>)
+   * Contributors: Vincenzo Di Pentima
+Checksums-Sha1:
+ c4a9a4d99d8894d2791a72546623af2d9a1d869d 1551880 ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2024.10.11.19.57_amd64.ddeb
+ 7309032cc53fd7207d4a50fd2a79a854f1a9c7f7 25997 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.11.19.57_amd64.buildinfo
+ 6d3fae60f6e08f704457f35db1d315d8b661e930 74718 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.11.19.57_amd64.deb
+Checksums-Sha256:
+ 820cdb22adc449332db2071aa3d661d25e00b317dab283cd4d0f33647fc14b61 1551880 ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2024.10.11.19.57_amd64.ddeb
+ 10f3903f2bd9c3208a591a8ca1dfae8d0fbd1c59953b90a791be677108f5b598 25997 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.11.19.57_amd64.buildinfo
+ e5ba3efa3030e959e0aedce401ea25351a90511191bf10ff8b7b3f21145a8cf2 74718 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.11.19.57_amd64.deb
+Files:
+ 50dd15ef43b5f6e6d26156332d8414b1 1551880 debug optional ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2024.10.11.19.57_amd64.ddeb
+ 4384518d6e8fefd859acbec365b74081 25997 misc optional ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.11.19.57_amd64.buildinfo
+ a8493b510ae2a33837e2e2e26c562c92 74718 misc optional ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.11.19.57_amd64.deb

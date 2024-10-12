@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 15 Feb 2023 00:00:00 -0000
+Source: ros-one-roslaunch
+Binary: ros-one-roslaunch
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.15.14-40-g164a2ac73-2024.10.11.12.49
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-roslaunch - roslaunch is a tool for easily launching multiple ROS nodes local
+Changes:
+ ros-one-roslaunch (1.15.14-40-g164a2ac73-2024.10.11.12.49) jammy; urgency=high
+Checksums-Sha1:
+ ec50631c8f01899fcb8db86a96b6bbaf7856bbe9 8186 ros-one-roslaunch_1.15.14-40-g164a2ac73-2024.10.11.12.49_amd64.buildinfo
+ 128704f56bc6c36759631fef7eccb1668044e0a7 144912 ros-one-roslaunch_1.15.14-40-g164a2ac73-2024.10.11.12.49_amd64.deb
+Checksums-Sha256:
+ 9fd17eb70f0f0c8a57d05022f236ed061f59bff56bf09bab4e479ac9456c44b3 8186 ros-one-roslaunch_1.15.14-40-g164a2ac73-2024.10.11.12.49_amd64.buildinfo
+ f6fdffe3ee9f016b316fcefc7e5df0a1fc4ff928331fa2087cb3f4604113a075 144912 ros-one-roslaunch_1.15.14-40-g164a2ac73-2024.10.11.12.49_amd64.deb
+Files:
+ d9db26f62a97fb5deec14779c8fcb6b6 8186 misc optional ros-one-roslaunch_1.15.14-40-g164a2ac73-2024.10.11.12.49_amd64.buildinfo
+ 948dfd671a91a2b9bd58f5c29cec70a5 144912 misc optional ros-one-roslaunch_1.15.14-40-g164a2ac73-2024.10.11.12.49_amd64.deb

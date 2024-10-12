@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 06 Mar 2020 00:00:00 -0000
+Source: ros-one-urdf-parser-plugin
+Binary: ros-one-urdf-parser-plugin
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.13.2-2-g3df8012-2024.10.11.13.37
+Distribution: jammy
+Urgency: high
+Maintainer: Chris Lalancette <clalancette@osrfoundation.org>
+Changed-By: Chris Lalancette <clalancette@osrfoundation.org>
+Description:
+ ros-one-urdf-parser-plugin - This package contains a C++ base class for URDF parsers.
+Changes:
+ ros-one-urdf-parser-plugin (1.13.2-2-g3df8012-2024.10.11.13.37) jammy; urgency=high
+ .
+   * Bump CMake version to avoid CMP0048 warning (#32 <https://github.com/ros/urdf/issues/32>)
+   * Contributors: Shane Loretz
+Checksums-Sha1:
+ 6cd61a18e044cee45e10981845253dd9b6074970 8246 ros-one-urdf-parser-plugin_1.13.2-2-g3df8012-2024.10.11.13.37_amd64.buildinfo
+ b7222ea6a6764c43add258fec46893b8ae5b4e88 6654 ros-one-urdf-parser-plugin_1.13.2-2-g3df8012-2024.10.11.13.37_amd64.deb
+Checksums-Sha256:
+ 554baf145d89e6f3bb346b76463fd1f4e39751bea1dda9d0da986addf3838b3f 8246 ros-one-urdf-parser-plugin_1.13.2-2-g3df8012-2024.10.11.13.37_amd64.buildinfo
+ ae686dc573420adbbac8e0921346f2e5fba80d50b7408763b507a81b9e9e7c43 6654 ros-one-urdf-parser-plugin_1.13.2-2-g3df8012-2024.10.11.13.37_amd64.deb
+Files:
+ 87e09e61a3baa7900cfb41fea63c9705 8246 misc optional ros-one-urdf-parser-plugin_1.13.2-2-g3df8012-2024.10.11.13.37_amd64.buildinfo
+ 6bb7c1a5b7597a68ae557418dbb5d517 6654 misc optional ros-one-urdf-parser-plugin_1.13.2-2-g3df8012-2024.10.11.13.37_amd64.deb

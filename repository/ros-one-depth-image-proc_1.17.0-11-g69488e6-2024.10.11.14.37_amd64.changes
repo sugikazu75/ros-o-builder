@@ -1,0 +1,38 @@
+Format: 1.8
+Date: Mon, 17 Oct 2022 00:00:00 -0000
+Source: ros-one-depth-image-proc
+Binary: ros-one-depth-image-proc
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.17.0-11-g69488e6-2024.10.11.14.37
+Distribution: jammy
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-depth-image-proc - Contains nodelets for processing depth images such as those produ
+Changes:
+ ros-one-depth-image-proc (1.17.0-11-g69488e6-2024.10.11.14.37) jammy; urgency=high
+ .
+   * Switch to hpp headers of pluginlib
+   * Drop old C++ standard compiler flag
+   * Switch to new boost/bind/bind.hpp
+   * Add missing CATKIN_DEPENDS
+   * Update frame id to match depth_front, rgb_front
+   * Create point_cloud_xyzrgb.launch
+     Created launch file for point_cloud_xyzrgb
+   * Delete depth_image_proc/script directory
+   * Delete depth_image_proc/launch directory
+   * Contributors: Anirban Dam, Jochen Sprickerhof
+Checksums-Sha1:
+ 481f0da691c13649fea9789f55efb64a672b9d99 5113718 ros-one-depth-image-proc-dbgsym_1.17.0-11-g69488e6-2024.10.11.14.37_amd64.ddeb
+ 558f420d5fb49ebb680e88456aa98b33a79d4c93 31205 ros-one-depth-image-proc_1.17.0-11-g69488e6-2024.10.11.14.37_amd64.buildinfo
+ 9cb4d317044e09def1a4148458298b7ba12501a1 190306 ros-one-depth-image-proc_1.17.0-11-g69488e6-2024.10.11.14.37_amd64.deb
+Checksums-Sha256:
+ 316d1ef42361af4623c337b6e8daa55741e199baf578dad84eb51338263407f9 5113718 ros-one-depth-image-proc-dbgsym_1.17.0-11-g69488e6-2024.10.11.14.37_amd64.ddeb
+ 5c810528483d20b53289d68045ef9d101eefa515077aa95aae093a34974ae82c 31205 ros-one-depth-image-proc_1.17.0-11-g69488e6-2024.10.11.14.37_amd64.buildinfo
+ c3a54c8786a11207bb420018cf39c1ca28cf9851e2f84f65ccd817c3877ca992 190306 ros-one-depth-image-proc_1.17.0-11-g69488e6-2024.10.11.14.37_amd64.deb
+Files:
+ 9e00f42a407536babe01533551409425 5113718 debug optional ros-one-depth-image-proc-dbgsym_1.17.0-11-g69488e6-2024.10.11.14.37_amd64.ddeb
+ 9f370fc656e35e31c8f2ee8c08c1c3e0 31205 misc optional ros-one-depth-image-proc_1.17.0-11-g69488e6-2024.10.11.14.37_amd64.buildinfo
+ 43aa3e0ba5c53929e0ac8cd93fe436c0 190306 misc optional ros-one-depth-image-proc_1.17.0-11-g69488e6-2024.10.11.14.37_amd64.deb

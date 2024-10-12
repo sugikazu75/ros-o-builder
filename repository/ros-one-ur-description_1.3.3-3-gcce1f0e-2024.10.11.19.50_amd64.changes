@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 08 Apr 2024 00:00:00 -0000
+Source: ros-one-ur-description
+Binary: ros-one-ur-description
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.3.3-3-gcce1f0e-2024.10.11.19.50
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur-description - URDF description for Universal UR3(e), UR5(e), UR10(e), UR16e, UR
+Changes:
+ ros-one-ur-description (1.3.3-3-gcce1f0e-2024.10.11.19.50) jammy; urgency=high
+ .
+   * Fix default calibration file for UR30 (#677 <https://github.com/ros-industrial/universal_robot/issues/677>)
+   * UR30 description and meshes (#674 <https://github.com/ros-industrial/universal_robot/issues/674>)
+   * Contributors: Felix Exner, Vincenzo Di Pentima
+Checksums-Sha1:
+ 6a205dbeb010c23397dc925f11b7d969802aea1e 8197 ros-one-ur-description_1.3.3-3-gcce1f0e-2024.10.11.19.50_amd64.buildinfo
+ e0e178893cbf92b9adb3da10642d5b46d511be6b 20729190 ros-one-ur-description_1.3.3-3-gcce1f0e-2024.10.11.19.50_amd64.deb
+Checksums-Sha256:
+ 89fd86ba5d8fbd363311a3e8c3bd51ca7559e41e2689dead4d3261b08324b3e6 8197 ros-one-ur-description_1.3.3-3-gcce1f0e-2024.10.11.19.50_amd64.buildinfo
+ e873315c8f0660fc3aaff9de388b962a5b649aea5e26fe8db1e4b79a792790a8 20729190 ros-one-ur-description_1.3.3-3-gcce1f0e-2024.10.11.19.50_amd64.deb
+Files:
+ 910abcd10b080a3378043288ae1e4af6 8197 misc optional ros-one-ur-description_1.3.3-3-gcce1f0e-2024.10.11.19.50_amd64.buildinfo
+ 263653c1edc93c5063383c5a33e2b945 20729190 misc optional ros-one-ur-description_1.3.3-3-gcce1f0e-2024.10.11.19.50_amd64.deb

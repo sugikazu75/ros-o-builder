@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Thu, 15 Jun 2023 00:00:00 -0000
+Source: ros-one-roscpp-serialization
+Binary: ros-one-roscpp-serialization
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.3-2024.10.11.11.26
+Distribution: jammy
+Urgency: high
+Maintainer: Martin Pecka <peckama2@fel.cvut.cz>
+Changed-By: Martin Pecka <peckama2@fel.cvut.cz>
+Description:
+ ros-one-roscpp-serialization - roscpp_serialization contains the code for serialization as descr
+Changes:
+ ros-one-roscpp-serialization (0.7.3-2024.10.11.11.26) jammy; urgency=high
+ .
+   * Documented the API misuse in serializeServiceResponse
+   * Fixed wrong serialization of messages on ARM with GCC 9.3 and -O3 optimizations
+   * Changed maintainer to Martin Pecka
+   * Fix usage of deprecated std::allocator::rebind (#124 <https://github.com/ros/roscpp_core/issues/124>)
+   * Contributors: Martin Pecka, poggenhans
+Checksums-Sha1:
+ 19f50c1f9216e496110dea7742b231b3991c943c 30612 ros-one-roscpp-serialization-dbgsym_0.7.3-2024.10.11.11.26_amd64.ddeb
+ 84a67f4026f507e78edb0daf8683eca8f5727df2 9548 ros-one-roscpp-serialization_0.7.3-2024.10.11.11.26_amd64.buildinfo
+ 725ed58aad522b4d6db493aeb2f3d01ad57f0599 13966 ros-one-roscpp-serialization_0.7.3-2024.10.11.11.26_amd64.deb
+Checksums-Sha256:
+ e52c26253897aca1a1a3152ddd5e855d215e795d2e553855778238e95bf7fe5e 30612 ros-one-roscpp-serialization-dbgsym_0.7.3-2024.10.11.11.26_amd64.ddeb
+ 5585c0c55f4fe3626ffaed0d7c1bf7eaa9be3f3917d05194ecdc20249a1b1e7f 9548 ros-one-roscpp-serialization_0.7.3-2024.10.11.11.26_amd64.buildinfo
+ f4fccbfc0ddb139e142001e64eeb54f31ee2fc05e5a2663b596ed865cf21d263 13966 ros-one-roscpp-serialization_0.7.3-2024.10.11.11.26_amd64.deb
+Files:
+ d04bc2445666559d6b816c9518478224 30612 debug optional ros-one-roscpp-serialization-dbgsym_0.7.3-2024.10.11.11.26_amd64.ddeb
+ 02462b661c352db0e7e5f28bf3f178d8 9548 misc optional ros-one-roscpp-serialization_0.7.3-2024.10.11.11.26_amd64.buildinfo
+ 4d2c8d6cdcb663b71592e54665f6eb2c 13966 misc optional ros-one-roscpp-serialization_0.7.3-2024.10.11.11.26_amd64.deb

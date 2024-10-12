@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Wed, 13 May 2020 00:00:00 -0000
+Source: ros-one-rospack
+Binary: ros-one-rospack
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.6.2-2-gad85a87-2024.10.11.11.45
+Distribution: jammy
+Urgency: high
+Maintainer: Jacob Perron <jacob@openrobotics.org>
+Changed-By: Jacob Perron <jacob@openrobotics.org>
+Description:
+ ros-one-rospack - ROS Package Tool
+Changes:
+ ros-one-rospack (2.6.2-2-gad85a87-2024.10.11.11.45) jammy; urgency=high
+ .
+   * fix umask for rospack cache files, regression from 2.5.4 (#119 <https://github.com/ros/rospack/issues/119>)
+Checksums-Sha1:
+ c67418a9351ee1f77d0a6d69d4dea166bae13261 1170136 ros-one-rospack-dbgsym_2.6.2-2-gad85a87-2024.10.11.11.45_amd64.ddeb
+ 114303f0f8aad8e7d00a18cd6a67039d658b13ef 9538 ros-one-rospack_2.6.2-2-gad85a87-2024.10.11.11.45_amd64.buildinfo
+ 8f3b98f8c111268db02eb1e67bde684993bcc65d 101228 ros-one-rospack_2.6.2-2-gad85a87-2024.10.11.11.45_amd64.deb
+Checksums-Sha256:
+ 68c6060756b89acd579917251eedd0e49611718f1a5e48ed7cf34432e86a0b8d 1170136 ros-one-rospack-dbgsym_2.6.2-2-gad85a87-2024.10.11.11.45_amd64.ddeb
+ 1a40153123567abfe00f2eb764398bfd998eacd8af4ecef267c5371cc6301947 9538 ros-one-rospack_2.6.2-2-gad85a87-2024.10.11.11.45_amd64.buildinfo
+ f228412dc262b0d4b8975f74f729b8bed00f57a8ff60c2a6a122911d3fce224e 101228 ros-one-rospack_2.6.2-2-gad85a87-2024.10.11.11.45_amd64.deb
+Files:
+ 8c4e5fa17c3cb9ae191513f5dc7b80fe 1170136 debug optional ros-one-rospack-dbgsym_2.6.2-2-gad85a87-2024.10.11.11.45_amd64.ddeb
+ 8075a407e3fa275245166b096cb6bc64 9538 misc optional ros-one-rospack_2.6.2-2-gad85a87-2024.10.11.11.45_amd64.buildinfo
+ e825174f21232fd8b765547c5a6a7631 101228 misc optional ros-one-rospack_2.6.2-2-gad85a87-2024.10.11.11.45_amd64.deb

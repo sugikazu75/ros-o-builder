@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 13 May 2020 00:00:00 -0000
+Source: ros-one-visualization-marker-tutorials
+Binary: ros-one-visualization-marker-tutorials
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.11.17.37
+Distribution: jammy
+Urgency: high
+Maintainer: Mabel Zhang <mabel@openrobotics.org>
+Changed-By: Mabel Zhang <mabel@openrobotics.org>
+Description:
+ ros-one-visualization-marker-tutorials - The visulalization_marker_tutorials package
+Changes:
+ ros-one-visualization-marker-tutorials (0-2024.10.11.17.37) jammy; urgency=high
+Checksums-Sha1:
+ 253cbd6c52f497b3b7bb7e825843e63e7de0b3b5 474966 ros-one-visualization-marker-tutorials-dbgsym_0-2024.10.11.17.37_amd64.ddeb
+ db8632350b60f18395165ecc333405e8c5f5efe4 11463 ros-one-visualization-marker-tutorials_0-2024.10.11.17.37_amd64.buildinfo
+ fcf7397a1f7f9878f79213378e0ac3180cb218f0 25102 ros-one-visualization-marker-tutorials_0-2024.10.11.17.37_amd64.deb
+Checksums-Sha256:
+ 07c9a8776f18f92de231719a7bf03056d727ca3f1549cfab1479c94a4ec88fd7 474966 ros-one-visualization-marker-tutorials-dbgsym_0-2024.10.11.17.37_amd64.ddeb
+ f8b2e7bbe5bcb020b8f49faea5a5e10bc9b1752f11e00a0862fc0fb77caf1ca2 11463 ros-one-visualization-marker-tutorials_0-2024.10.11.17.37_amd64.buildinfo
+ 4f38845d0641c4055a6bf8f3ba2a532dad63c8c8a1a0020a8441ff3c7d5b3693 25102 ros-one-visualization-marker-tutorials_0-2024.10.11.17.37_amd64.deb
+Files:
+ 702729e1f3a2b0ee85cbaf86aa4d084f 474966 debug optional ros-one-visualization-marker-tutorials-dbgsym_0-2024.10.11.17.37_amd64.ddeb
+ 60be4b8baa6ad35b30307836774f4b29 11463 misc optional ros-one-visualization-marker-tutorials_0-2024.10.11.17.37_amd64.buildinfo
+ 5bb8e4cfb6508ab96286a357c4effbd6 25102 misc optional ros-one-visualization-marker-tutorials_0-2024.10.11.17.37_amd64.deb

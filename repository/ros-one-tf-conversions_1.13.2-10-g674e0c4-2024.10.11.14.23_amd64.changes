@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 08 Jun 2020 00:00:00 -0000
+Source: ros-one-tf-conversions
+Binary: ros-one-tf-conversions
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.13.2-10-g674e0c4-2024.10.11.14.23
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf-conversions - This package contains a set of conversion functions to convert co
+Changes:
+ ros-one-tf-conversions (1.13.2-10-g674e0c4-2024.10.11.14.23) jammy; urgency=high
+Checksums-Sha1:
+ b9f110483b25bdd200d3db4bd0f289272e4201a6 125856 ros-one-tf-conversions-dbgsym_1.13.2-10-g674e0c4-2024.10.11.14.23_amd64.ddeb
+ c304680854f9d808c15468390eda89ddeae0c41c 18686 ros-one-tf-conversions_1.13.2-10-g674e0c4-2024.10.11.14.23_amd64.buildinfo
+ edda662b5e5e04dab993bc1bb6b1398f215970d5 17648 ros-one-tf-conversions_1.13.2-10-g674e0c4-2024.10.11.14.23_amd64.deb
+Checksums-Sha256:
+ 9167c26c356d60890762b80ce6e3a25408f64e24228607b30315eee5e9b2c01a 125856 ros-one-tf-conversions-dbgsym_1.13.2-10-g674e0c4-2024.10.11.14.23_amd64.ddeb
+ 89a51373d5598ed6b9b6ac3a5e41a0f7a4659fdc434ad5670cdac78549c95499 18686 ros-one-tf-conversions_1.13.2-10-g674e0c4-2024.10.11.14.23_amd64.buildinfo
+ 6449818d5165794bc4255ae8441c52130e7b796a1634a07b25677887f3c27656 17648 ros-one-tf-conversions_1.13.2-10-g674e0c4-2024.10.11.14.23_amd64.deb
+Files:
+ a4ff3eeb3df338300dbc468cd171732c 125856 debug optional ros-one-tf-conversions-dbgsym_1.13.2-10-g674e0c4-2024.10.11.14.23_amd64.ddeb
+ b040e7dcd38b03700fe9c8653e47a28f 18686 misc optional ros-one-tf-conversions_1.13.2-10-g674e0c4-2024.10.11.14.23_amd64.buildinfo
+ 171d7201f7ca816630d65b625b337209 17648 misc optional ros-one-tf-conversions_1.13.2-10-g674e0c4-2024.10.11.14.23_amd64.deb

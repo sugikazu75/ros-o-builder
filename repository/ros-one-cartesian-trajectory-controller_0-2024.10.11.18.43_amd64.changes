@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 29 Jul 2024 00:00:00 -0000
+Source: ros-one-cartesian-trajectory-controller
+Binary: ros-one-cartesian-trajectory-controller
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.11.18.43
+Distribution: jammy
+Urgency: high
+Maintainer: Stefan Scherzinger <scherzin@fzi.de>
+Changed-By: Stefan Scherzinger <scherzin@fzi.de>
+Description:
+ ros-one-cartesian-trajectory-controller - A Cartesian trajectory controller with multiple hardware interfac
+Changes:
+ ros-one-cartesian-trajectory-controller (0-2024.10.11.18.43) jammy; urgency=high
+ .
+   * Move ik_solver header files to cartesian_trajectory_controller (#19 <https://github.com/UniversalRobots/Universal_Robots_ROS_controllers_cartesian/issues/19>)
+   * Contributors: Felix Exner (fexner)
+Checksums-Sha1:
+ 671c969617630c53692007855b56b63403d826a7 2834256 ros-one-cartesian-trajectory-controller-dbgsym_0-2024.10.11.18.43_amd64.ddeb
+ 7f1b30e2656f668f7ee77068c9413a06b48819fb 22897 ros-one-cartesian-trajectory-controller_0-2024.10.11.18.43_amd64.buildinfo
+ 9204090d008277d885ad38f358696899cb7fbe87 187936 ros-one-cartesian-trajectory-controller_0-2024.10.11.18.43_amd64.deb
+Checksums-Sha256:
+ 9f472ae3019bde572cff9f156b88df0df64735196c774be02073d3e41a70c994 2834256 ros-one-cartesian-trajectory-controller-dbgsym_0-2024.10.11.18.43_amd64.ddeb
+ dbdbf33624adb8d25e08c33ca11acc42e1761605f1dd5ad5ae238dd01cc3798f 22897 ros-one-cartesian-trajectory-controller_0-2024.10.11.18.43_amd64.buildinfo
+ d2306a07fb7ca4ef15fc26272bcd023af368a6b91fa124e1fe5ffb54e39afac9 187936 ros-one-cartesian-trajectory-controller_0-2024.10.11.18.43_amd64.deb
+Files:
+ 9832e40c640076b5bf74a2cec78d1aba 2834256 debug optional ros-one-cartesian-trajectory-controller-dbgsym_0-2024.10.11.18.43_amd64.ddeb
+ b63338b552ce0d0292f7136367d0c266 22897 misc optional ros-one-cartesian-trajectory-controller_0-2024.10.11.18.43_amd64.buildinfo
+ f15d15e38b79e3d7dfa838f48e07bf2d 187936 misc optional ros-one-cartesian-trajectory-controller_0-2024.10.11.18.43_amd64.deb

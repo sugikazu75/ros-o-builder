@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-planners-ompl
+Binary: ros-one-moveit-planners-ompl
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-2024.10.11.17.14
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Coleman <dave@picknik.ai>
+Changed-By: Dave Coleman <dave@picknik.ai>
+Description:
+ ros-one-moveit-planners-ompl - MoveIt interface to OMPL
+Changes:
+ ros-one-moveit-planners-ompl (1.1.16-2024.10.11.17.14) jammy; urgency=high
+Checksums-Sha1:
+ 146e5b6358e5c71b0ff3f9188aac9a63c43277a0 18891438 ros-one-moveit-planners-ompl-dbgsym_1.1.16-2024.10.11.17.14_amd64.ddeb
+ 4f2185a41e9f73722ec89f99fa0dcc8feecadbd5 24746 ros-one-moveit-planners-ompl_1.1.16-2024.10.11.17.14_amd64.buildinfo
+ 36667cbcb0b9d34fd262ff299ea82bee5b0c815f 384026 ros-one-moveit-planners-ompl_1.1.16-2024.10.11.17.14_amd64.deb
+Checksums-Sha256:
+ 8cf31def7659376ad7c5816b4d1312b4eb00247e3db9277cc12e912994dffe96 18891438 ros-one-moveit-planners-ompl-dbgsym_1.1.16-2024.10.11.17.14_amd64.ddeb
+ 61c8909f30755399cc72aebf89b991e8acce3d449cf1b67e071ad242a74b023a 24746 ros-one-moveit-planners-ompl_1.1.16-2024.10.11.17.14_amd64.buildinfo
+ efa911a76a39df2f703f4314c2c5f465737a1f17f52a0b129be2d383dd64a749 384026 ros-one-moveit-planners-ompl_1.1.16-2024.10.11.17.14_amd64.deb
+Files:
+ ecf5f78dbad2b8d8581198b1f41a5a5f 18891438 debug optional ros-one-moveit-planners-ompl-dbgsym_1.1.16-2024.10.11.17.14_amd64.ddeb
+ f55047347e26f9901f53c41b2b81083c 24746 misc optional ros-one-moveit-planners-ompl_1.1.16-2024.10.11.17.14_amd64.buildinfo
+ e6c56f70c4dfd0b42054486446d34229 384026 misc optional ros-one-moveit-planners-ompl_1.1.16-2024.10.11.17.14_amd64.deb

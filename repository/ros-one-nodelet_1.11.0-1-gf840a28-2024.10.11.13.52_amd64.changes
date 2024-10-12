@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Tue, 09 Jan 2024 00:00:00 -0000
+Source: ros-one-nodelet
+Binary: ros-one-nodelet
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.11.0-1-gf840a28-2024.10.11.13.52
+Distribution: jammy
+Urgency: high
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Changed-By: Geoffrey Biggs <geoff@openrobotics.org>
+Description:
+ ros-one-nodelet - The nodelet package is designed to provide a way to run multiple
+Changes:
+ ros-one-nodelet (1.11.0-1-gf840a28-2024.10.11.13.52) jammy; urgency=high
+ .
+   * Don't install version.h.in (#113 <https://github.com/ros/nodelet_core/issues/113>)
+   * Fix use-after-free when a nodelet throws on initialization (#122 <https://github.com/ros/nodelet_core/issues/122>)
+   * Update package maintainers (#114 <https://github.com/ros/nodelet_core/issues/114>)
+   * Reduce boost dependency scope (#118 <https://github.com/ros/nodelet_core/issues/118>)
+   * Switch to new boost/bind/bind.hpp (#117 <https://github.com/ros/nodelet_core/issues/117>)
+   * show warning in every 10 seconds when manager is not found (#115 <https://github.com/ros/nodelet_core/issues/115>)
+   * Contributors: Geoffrey Biggs, Hugal31, Jochen Sprickerhof, Shingo Kitagawa, Stephan
+Checksums-Sha1:
+ f323cdd872b2ec696d9667f5db1538fe50d8d97d 1849236 ros-one-nodelet-dbgsym_1.11.0-1-gf840a28-2024.10.11.13.52_amd64.ddeb
+ fb92df40fc6651c7c9fe776221bc7bd25b38be44 13844 ros-one-nodelet_1.11.0-1-gf840a28-2024.10.11.13.52_amd64.buildinfo
+ ed07cac94414997126c20cdca359b511280eb89c 148932 ros-one-nodelet_1.11.0-1-gf840a28-2024.10.11.13.52_amd64.deb
+Checksums-Sha256:
+ badb5b602a03cdf6b42ca37185b0bdf0fb612f5a32ec9ec7d02251e013aad868 1849236 ros-one-nodelet-dbgsym_1.11.0-1-gf840a28-2024.10.11.13.52_amd64.ddeb
+ 542be2f75e6aa6c203c649dd1b7736e8029c5aa364f50ea1557e2db98743719b 13844 ros-one-nodelet_1.11.0-1-gf840a28-2024.10.11.13.52_amd64.buildinfo
+ 228fca9dc821434de9e4a8478d82ed5cd9eb63ad34e418fb2c4a83edc61b519b 148932 ros-one-nodelet_1.11.0-1-gf840a28-2024.10.11.13.52_amd64.deb
+Files:
+ 4c136d3f81999a663f4efe61b06b867d 1849236 debug optional ros-one-nodelet-dbgsym_1.11.0-1-gf840a28-2024.10.11.13.52_amd64.ddeb
+ d23a71e6ccb1b343d789ab0f4c0c4dca 13844 misc optional ros-one-nodelet_1.11.0-1-gf840a28-2024.10.11.13.52_amd64.buildinfo
+ c4be06e1dd66e342920ccd995ca5b831 148932 misc optional ros-one-nodelet_1.11.0-1-gf840a28-2024.10.11.13.52_amd64.deb

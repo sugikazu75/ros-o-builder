@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-simple-controller-manager
+Binary: ros-one-moveit-simple-controller-manager
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-2024.10.11.18.17
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-simple-controller-manager - A generic, simple controller manager plugin for MoveIt.
+Changes:
+ ros-one-moveit-simple-controller-manager (1.1.16-2024.10.11.18.17) jammy; urgency=high
+Checksums-Sha1:
+ b9aa1670a3c7fd025d304a0d43966fdf891aa65c 2074762 ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-2024.10.11.18.17_amd64.ddeb
+ 5b7008b47ab49cca99129f2a79306bcb0f014fdb 22682 ros-one-moveit-simple-controller-manager_1.1.16-2024.10.11.18.17_amd64.buildinfo
+ c0e24591c510f532d357da13994f1e82ce7bbef0 165974 ros-one-moveit-simple-controller-manager_1.1.16-2024.10.11.18.17_amd64.deb
+Checksums-Sha256:
+ 47ea0371a9bc496258e85ac0b19f402904c9bb39fc5df0bd4da387d1b5e1aaea 2074762 ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-2024.10.11.18.17_amd64.ddeb
+ b3003ca16fc6450105b7626b0a348e2306d73c1a21f216512a6b70ec354c0bb2 22682 ros-one-moveit-simple-controller-manager_1.1.16-2024.10.11.18.17_amd64.buildinfo
+ 7b3bf0b84996fe6a04f6cdf23b3c47a4919a5c80e4514621c6bbf2f28f8fba4b 165974 ros-one-moveit-simple-controller-manager_1.1.16-2024.10.11.18.17_amd64.deb
+Files:
+ 167d17b049e3afe342ae2623d1af3e6f 2074762 debug optional ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-2024.10.11.18.17_amd64.ddeb
+ 2640cef093ffe473947b6260ef5e46c8 22682 misc optional ros-one-moveit-simple-controller-manager_1.1.16-2024.10.11.18.17_amd64.buildinfo
+ adf5961df1e38ac53d5a1c0f0dc7b933 165974 misc optional ros-one-moveit-simple-controller-manager_1.1.16-2024.10.11.18.17_amd64.deb

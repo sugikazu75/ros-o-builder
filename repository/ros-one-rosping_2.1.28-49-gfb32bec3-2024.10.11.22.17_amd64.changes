@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-rosping
+Binary: ros-one-rosping
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.11.22.17
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-rosping - rosping is the tool to send ICMP ECHO_REQUEST to network hosts wh
+Changes:
+ ros-one-rosping (2.1.28-49-gfb32bec3-2024.10.11.22.17) jammy; urgency=high
+Checksums-Sha1:
+ f0ea41653c43ba78deffbbbe175b17fe5035fef4 741718 ros-one-rosping-dbgsym_2.1.28-49-gfb32bec3-2024.10.11.22.17_amd64.ddeb
+ 6a0095e1a6d0b6d701e3eee3ef4055fb0b1f2c5e 13431 ros-one-rosping_2.1.28-49-gfb32bec3-2024.10.11.22.17_amd64.buildinfo
+ 2bdb9b1ff59d7e47640f5b1683de43c5b0127d74 64560 ros-one-rosping_2.1.28-49-gfb32bec3-2024.10.11.22.17_amd64.deb
+Checksums-Sha256:
+ 95d68a332d40ebe2762da6ded43c16db250177d825d33356f39f9f5f62109c7e 741718 ros-one-rosping-dbgsym_2.1.28-49-gfb32bec3-2024.10.11.22.17_amd64.ddeb
+ 6647c014c55b8274f1158946dc5edc939cea60626a16f60d3b8969fef8a47c67 13431 ros-one-rosping_2.1.28-49-gfb32bec3-2024.10.11.22.17_amd64.buildinfo
+ 1919a921c003cabb83dd9228e4f661f6ffad9e768fbd653f3d1869cdbabec89c 64560 ros-one-rosping_2.1.28-49-gfb32bec3-2024.10.11.22.17_amd64.deb
+Files:
+ 5cd0511b9b168482d7da90cb465e2c95 741718 debug optional ros-one-rosping-dbgsym_2.1.28-49-gfb32bec3-2024.10.11.22.17_amd64.ddeb
+ 49b5167380a42d34d90b211ab9e6c603 13431 misc optional ros-one-rosping_2.1.28-49-gfb32bec3-2024.10.11.22.17_amd64.buildinfo
+ 95acc9a9ea7ad9bfa103eb7d59eca6c2 64560 misc optional ros-one-rosping_2.1.28-49-gfb32bec3-2024.10.11.22.17_amd64.deb

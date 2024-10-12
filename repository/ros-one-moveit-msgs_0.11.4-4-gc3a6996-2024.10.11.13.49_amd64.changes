@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 18 Nov 2022 00:00:00 -0000
+Source: ros-one-moveit-msgs
+Binary: ros-one-moveit-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.11.4-4-gc3a6996-2024.10.11.13.49
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Coleman <dave@dav.ee>
+Changed-By: Dave Coleman <dave@dav.ee>
+Description:
+ ros-one-moveit-msgs - Messages, services and actions used by MoveIt
+Changes:
+ ros-one-moveit-msgs (0.11.4-4-gc3a6996-2024.10.11.13.49) jammy; urgency=high
+ .
+   * Add more MoveItErrorCodes to match all OMPL codes (#147 <https://github.com/ros-planning/moveit_msgs/issues/147>)
+   * Contributors: AndyZe
+Checksums-Sha1:
+ c98ec313c10a039560282356879f331f3d6e9378 10204 ros-one-moveit-msgs_0.11.4-4-gc3a6996-2024.10.11.13.49_amd64.buildinfo
+ 1fab04bdad54398e58eacea1d17166159e1104b5 688640 ros-one-moveit-msgs_0.11.4-4-gc3a6996-2024.10.11.13.49_amd64.deb
+Checksums-Sha256:
+ 880ca6bd1927df453e8d291b9a267bded1b1690700ea1065a858b9d311f62336 10204 ros-one-moveit-msgs_0.11.4-4-gc3a6996-2024.10.11.13.49_amd64.buildinfo
+ bc2275b4cd937c5eec4f81fc198ef5a3c8e42622ee40db2132361c929a4f9a56 688640 ros-one-moveit-msgs_0.11.4-4-gc3a6996-2024.10.11.13.49_amd64.deb
+Files:
+ a424ada88f730a8d2f22f2272498ed63 10204 misc optional ros-one-moveit-msgs_0.11.4-4-gc3a6996-2024.10.11.13.49_amd64.buildinfo
+ 1bbb50d67e54f974b08ead2edafbbc3c 688640 misc optional ros-one-moveit-msgs_0.11.4-4-gc3a6996-2024.10.11.13.49_amd64.deb

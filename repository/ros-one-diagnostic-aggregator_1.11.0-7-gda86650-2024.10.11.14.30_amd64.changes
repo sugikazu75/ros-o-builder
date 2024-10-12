@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-diagnostic-aggregator
+Binary: ros-one-diagnostic-aggregator
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.11.0-7-gda86650-2024.10.11.14.30
+Distribution: jammy
+Urgency: high
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Changed-By: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Description:
+ ros-one-diagnostic-aggregator - diagnostic_aggregator
+Changes:
+ ros-one-diagnostic-aggregator (1.11.0-7-gda86650-2024.10.11.14.30) jammy; urgency=high
+ .
+   * Use DiagnosticLevel enum instead of hardcoded integers (#208 <https://github.com/ros/diagnostics/issues/208>)
+     Spellcheck fixes
+   * Add install command for demo in CMakeLists
+   * Contributors: Amilcar Lucas, gemignani
+Checksums-Sha1:
+ cd4fa784e866377fcc9b396a79d9a0230a4a9a07 3661186 ros-one-diagnostic-aggregator-dbgsym_1.11.0-7-gda86650-2024.10.11.14.30_amd64.ddeb
+ ef17ec8b7d7753dd311f50c92dcc9f94f300f367 15006 ros-one-diagnostic-aggregator_1.11.0-7-gda86650-2024.10.11.14.30_amd64.buildinfo
+ 83032302da56fa2925e02a052b270140b222ba43 270026 ros-one-diagnostic-aggregator_1.11.0-7-gda86650-2024.10.11.14.30_amd64.deb
+Checksums-Sha256:
+ 8dca2d26d884306c4dd4d0b87cda03486b133a9e3d70473ce2f9cf9abe6fff19 3661186 ros-one-diagnostic-aggregator-dbgsym_1.11.0-7-gda86650-2024.10.11.14.30_amd64.ddeb
+ d6c88d3f95cebd6e38c6d8ce84d4798f0c7b839bcbff6bd20e175c5eda05ae4f 15006 ros-one-diagnostic-aggregator_1.11.0-7-gda86650-2024.10.11.14.30_amd64.buildinfo
+ c84c17c5744a192cd6da6c7013eb6b30bb4da858aebf251042ec3da46cf70f22 270026 ros-one-diagnostic-aggregator_1.11.0-7-gda86650-2024.10.11.14.30_amd64.deb
+Files:
+ 84984fc5e25f704abc5f8b02faad65d0 3661186 debug optional ros-one-diagnostic-aggregator-dbgsym_1.11.0-7-gda86650-2024.10.11.14.30_amd64.ddeb
+ 34b4f983ead3c42c809b34de5cc4c508 15006 misc optional ros-one-diagnostic-aggregator_1.11.0-7-gda86650-2024.10.11.14.30_amd64.buildinfo
+ bf71e0b601aa97dc54552df985c1f834 270026 misc optional ros-one-diagnostic-aggregator_1.11.0-7-gda86650-2024.10.11.14.30_amd64.deb

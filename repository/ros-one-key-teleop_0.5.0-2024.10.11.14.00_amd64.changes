@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 04 May 2023 00:00:00 -0000
+Source: ros-one-key-teleop
+Binary: ros-one-key-teleop
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.0-2024.10.11.14.00
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-key-teleop - A text-based interface to send a robot movement commands
+Changes:
+ ros-one-key-teleop (0.5.0-2024.10.11.14.00) jammy; urgency=high
+Checksums-Sha1:
+ c59e99fb3ae580ff5cc24f04b0f4ae5f41985b9e 8121 ros-one-key-teleop_0.5.0-2024.10.11.14.00_amd64.buildinfo
+ 8712322282458f13e730958b22b1633126a22e30 7052 ros-one-key-teleop_0.5.0-2024.10.11.14.00_amd64.deb
+Checksums-Sha256:
+ fdabff98e4db3f09f46e1011903cfdf013a7a6d5a5db6b30adefb57151789f7e 8121 ros-one-key-teleop_0.5.0-2024.10.11.14.00_amd64.buildinfo
+ 16f9b432c69d92f660d451d67875b783da02704505364a8dd0e8d54f6f2a4e93 7052 ros-one-key-teleop_0.5.0-2024.10.11.14.00_amd64.deb
+Files:
+ 8b1426fd0b6ec4057fe8acdb1986fe1f 8121 misc optional ros-one-key-teleop_0.5.0-2024.10.11.14.00_amd64.buildinfo
+ 56d63e837a5bde97d81fa557132ad65c 7052 misc optional ros-one-key-teleop_0.5.0-2024.10.11.14.00_amd64.deb

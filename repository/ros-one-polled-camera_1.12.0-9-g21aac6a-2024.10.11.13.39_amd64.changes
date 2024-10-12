@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 03 Apr 2020 00:00:00 -0000
+Source: ros-one-polled-camera
+Binary: ros-one-polled-camera
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.12.0-9-g21aac6a-2024.10.11.13.39
+Distribution: jammy
+Urgency: high
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Changed-By: Jack O'Quin <jack.oquin@gmail.com>
+Description:
+ ros-one-polled-camera - polled_camera contains a service and C++ helper classes for imple
+Changes:
+ ros-one-polled-camera (1.12.0-9-g21aac6a-2024.10.11.13.39) jammy; urgency=high
+ .
+   * Noetic release image_common (#155 <https://github.com/ros-perception/image_common/issues/155>)
+   * Contributors: Alejandro Hernández Cordero
+Checksums-Sha1:
+ 9139adbbca95d6e2653b310f2e28a21b67c27b2c 575180 ros-one-polled-camera-dbgsym_1.12.0-9-g21aac6a-2024.10.11.13.39_amd64.ddeb
+ 4ff7499d94643ddb23f41059ed141d08800713a7 13902 ros-one-polled-camera_1.12.0-9-g21aac6a-2024.10.11.13.39_amd64.buildinfo
+ 57791956eea44d7c9e0a2af723fb277403109ce9 54494 ros-one-polled-camera_1.12.0-9-g21aac6a-2024.10.11.13.39_amd64.deb
+Checksums-Sha256:
+ 08f5a939d8f91c52354ddbf59a4134c207941a443e4cc14719d5de6d5a6e8be1 575180 ros-one-polled-camera-dbgsym_1.12.0-9-g21aac6a-2024.10.11.13.39_amd64.ddeb
+ 525c716e7ebb36c51678ae64ca8f6e090979f0fb89322dbc960ad7869082eada 13902 ros-one-polled-camera_1.12.0-9-g21aac6a-2024.10.11.13.39_amd64.buildinfo
+ 263d33a85b449d6aa1f1c97749414a16112d4cf505084e3fe7931ff155004dbd 54494 ros-one-polled-camera_1.12.0-9-g21aac6a-2024.10.11.13.39_amd64.deb
+Files:
+ 922f76f73246feb8bd5d09cefd8e9048 575180 debug optional ros-one-polled-camera-dbgsym_1.12.0-9-g21aac6a-2024.10.11.13.39_amd64.ddeb
+ 47a84d954ffe44e95add40ff344d233d 13902 misc optional ros-one-polled-camera_1.12.0-9-g21aac6a-2024.10.11.13.39_amd64.buildinfo
+ 507e3d2bab86ebc34ffa936d2864bb75 54494 misc optional ros-one-polled-camera_1.12.0-9-g21aac6a-2024.10.11.13.39_amd64.deb

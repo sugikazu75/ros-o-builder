@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 12 Aug 2024 00:00:00 -0000
+Source: ros-one-random-numbers
+Binary: ros-one-random-numbers
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.3.3-2024.10.11.11.23
+Distribution: jammy
+Urgency: high
+Maintainer: Steven! Ragnarök <stevenragnarok@osrfoundation.org>
+Changed-By: Steven! Ragnarök <stevenragnarok@osrfoundation.org>
+Description:
+ ros-one-random-numbers - This library contains wrappers for generating floating point valu
+Changes:
+ ros-one-random-numbers (0.3.3-2024.10.11.11.23) jammy; urgency=high
+ .
+   * Windows shared library support (#27 <https://github.com/ros-planning/random_numbers/issues/27>/#23 <https://github.com/ros-planning/random_numbers/pull/23>)
+   * Bump required cmake version (#19 <https://github.com/ros-planning/random_numbers/issues/19>)
+   * Fix shared library install path (#13 <https://github.com/ros-planning/random_numbers/issues/13>)
+   * Contributors: Michael Görner, Robert Haschke, Sean Yen [MSFT], Silvio Traversaro
+Checksums-Sha1:
+ f1bc71e25ddd0b9744096d5d3c2862936db0e34f 169322 ros-one-random-numbers-dbgsym_0.3.3-2024.10.11.11.23_amd64.ddeb
+ 46cdde7998f156890709d00f444bc29cd2ab6480 15351 ros-one-random-numbers_0.3.3-2024.10.11.11.23_amd64.buildinfo
+ cd5865e586180c4e92fa94962640a16676f9c413 26096 ros-one-random-numbers_0.3.3-2024.10.11.11.23_amd64.deb
+Checksums-Sha256:
+ 58b4b5666d93d44cdc4ae06a682b5f4b634d2187914bedf18ea4cf248c62112f 169322 ros-one-random-numbers-dbgsym_0.3.3-2024.10.11.11.23_amd64.ddeb
+ 35a7ddbf22341af4b0d557eece5a508466f8b79cc821109a4c667cce71c97b11 15351 ros-one-random-numbers_0.3.3-2024.10.11.11.23_amd64.buildinfo
+ 397314770e16420c88493d95f4de3663131a3032ea74d07fae5f95be346a3362 26096 ros-one-random-numbers_0.3.3-2024.10.11.11.23_amd64.deb
+Files:
+ 51b9f845b68d3a6a973943017cfd8d86 169322 debug optional ros-one-random-numbers-dbgsym_0.3.3-2024.10.11.11.23_amd64.ddeb
+ 870b88ad70501829072d19217caaa1e1 15351 misc optional ros-one-random-numbers_0.3.3-2024.10.11.11.23_amd64.buildinfo
+ 2a069de9176a92cf57c2895ac8e18ed6 26096 misc optional ros-one-random-numbers_0.3.3-2024.10.11.11.23_amd64.deb

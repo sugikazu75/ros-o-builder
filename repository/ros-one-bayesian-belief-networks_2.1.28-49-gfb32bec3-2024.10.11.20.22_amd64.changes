@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-bayesian-belief-networks
+Binary: ros-one-bayesian-belief-networks
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.11.20.22
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-bayesian-belief-networks - The bayesian_belief_networks package form https://github.com/eBay
+Changes:
+ ros-one-bayesian-belief-networks (2.1.28-49-gfb32bec3-2024.10.11.20.22) jammy; urgency=high
+Checksums-Sha1:
+ fed1ef3d6e415a5a2a315da265e0cc4329ac6739 12539 ros-one-bayesian-belief-networks_2.1.28-49-gfb32bec3-2024.10.11.20.22_amd64.buildinfo
+ ad00703cd7a250d6f492e481fc2747c34aacad21 92532 ros-one-bayesian-belief-networks_2.1.28-49-gfb32bec3-2024.10.11.20.22_amd64.deb
+Checksums-Sha256:
+ 0018c9842234382ef88495e8252b566b6fcf1b99b9c4e86cee516182f271a581 12539 ros-one-bayesian-belief-networks_2.1.28-49-gfb32bec3-2024.10.11.20.22_amd64.buildinfo
+ bae5827d40a9a9f79a60e8949b45c7197fa4269ac1bbd65d57f9de5320d46df4 92532 ros-one-bayesian-belief-networks_2.1.28-49-gfb32bec3-2024.10.11.20.22_amd64.deb
+Files:
+ cc32db8583b00274de531522cc240f27 12539 misc optional ros-one-bayesian-belief-networks_2.1.28-49-gfb32bec3-2024.10.11.20.22_amd64.buildinfo
+ bf4d29b01111e75c6be6d0738771acb6 92532 misc optional ros-one-bayesian-belief-networks_2.1.28-49-gfb32bec3-2024.10.11.20.22_amd64.deb

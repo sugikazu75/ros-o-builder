@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-one-test-catkin-virtualenv-inherited
+Binary: ros-one-test-catkin-virtualenv-inherited
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.13.0-2024.10.11.13.41
+Distribution: jammy
+Urgency: high
+Maintainer: Paul Bovbel <pbovbel@locusrobotics.com>
+Changed-By: Paul Bovbel <pbovbel@locusrobotics.com>
+Description:
+ ros-one-test-catkin-virtualenv-inherited - Test to make sure a package inherits it's dependency's dependenci
+Changes:
+ ros-one-test-catkin-virtualenv-inherited (0.13.0-2024.10.11.13.41) jammy; urgency=high
+Checksums-Sha1:
+ 47c4ae3f92c07b6f8881c9aeabbd668dd3cd89f7 816544 ros-one-test-catkin-virtualenv-inherited-dbgsym_0.13.0-2024.10.11.13.41_amd64.ddeb
+ 65737f3733f1b83d3b97644fa424f9f235ea6eb1 10899 ros-one-test-catkin-virtualenv-inherited_0.13.0-2024.10.11.13.41_amd64.buildinfo
+ 482acd91ed90b9d2ee3c670ad23deb58703b081d 3139998 ros-one-test-catkin-virtualenv-inherited_0.13.0-2024.10.11.13.41_amd64.deb
+Checksums-Sha256:
+ b954cae33aac51b8e31518552113cb3f7d63b18562b77a9bc13d89907f745684 816544 ros-one-test-catkin-virtualenv-inherited-dbgsym_0.13.0-2024.10.11.13.41_amd64.ddeb
+ 2af9a365a3124f91fdb413dcd23869c57c588eec7c4b50a42648c753195557c7 10899 ros-one-test-catkin-virtualenv-inherited_0.13.0-2024.10.11.13.41_amd64.buildinfo
+ 8ce0fdd806d67795b0fba48bfd66d65efb1d801310c0fb81c12de138ee141f20 3139998 ros-one-test-catkin-virtualenv-inherited_0.13.0-2024.10.11.13.41_amd64.deb
+Files:
+ 27bd25b6a054759d6e12046c97c5475a 816544 debug optional ros-one-test-catkin-virtualenv-inherited-dbgsym_0.13.0-2024.10.11.13.41_amd64.ddeb
+ b1e65fa8f7b98aa20e465c9cf1736d29 10899 misc optional ros-one-test-catkin-virtualenv-inherited_0.13.0-2024.10.11.13.41_amd64.buildinfo
+ 899beb7733abe209f42f539e9b53d464 3139998 misc optional ros-one-test-catkin-virtualenv-inherited_0.13.0-2024.10.11.13.41_amd64.deb

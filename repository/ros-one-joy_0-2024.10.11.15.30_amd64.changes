@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Jun 2021 00:00:00 -0000
+Source: ros-one-joy
+Binary: ros-one-joy
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.11.15.30
+Distribution: jammy
+Urgency: high
+Maintainer: Jonathan Bohren <jbo@jhu.edu>
+Changed-By: Jonathan Bohren <jbo@jhu.edu>
+Description:
+ ros-one-joy - ROS driver for a generic Linux joystick.
+Changes:
+ ros-one-joy (0-2024.10.11.15.30) jammy; urgency=high
+Checksums-Sha1:
+ 531f0c02a1c061d3d32f56a7eb3fb779508c90f2 665502 ros-one-joy-dbgsym_0-2024.10.11.15.30_amd64.ddeb
+ d1cb59ea9cb47fac4fa1bfae51e7dcc5e82b2ed2 12859 ros-one-joy_0-2024.10.11.15.30_amd64.buildinfo
+ 2c5f16a1bc36eb57c4c96a39918164ca170cae44 59642 ros-one-joy_0-2024.10.11.15.30_amd64.deb
+Checksums-Sha256:
+ bd6a97089d6702e42d503427e4ff6e998cf44d3f0f473b0d1dc76c20aa81cd7c 665502 ros-one-joy-dbgsym_0-2024.10.11.15.30_amd64.ddeb
+ 3462264984be12b189badcc5159c9bcd302139310f7ab03cb62c5c35cb9e1cf2 12859 ros-one-joy_0-2024.10.11.15.30_amd64.buildinfo
+ 513bd9852341988e8a54152cc062ada3cf40a52b9866b349b899d84966bf7519 59642 ros-one-joy_0-2024.10.11.15.30_amd64.deb
+Files:
+ 07be3b62d3749e12d158d9b6441e9e27 665502 debug optional ros-one-joy-dbgsym_0-2024.10.11.15.30_amd64.ddeb
+ 3b747b1c57ebd44bc96db32d16ca836b 12859 misc optional ros-one-joy_0-2024.10.11.15.30_amd64.buildinfo
+ ace8f1b1bd0d87437c26f3640da0244f 59642 misc optional ros-one-joy_0-2024.10.11.15.30_amd64.deb

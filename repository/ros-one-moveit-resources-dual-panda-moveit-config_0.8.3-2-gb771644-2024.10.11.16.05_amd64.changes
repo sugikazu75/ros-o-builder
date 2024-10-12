@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Fri, 10 Nov 2023 00:00:00 -0000
+Source: ros-one-moveit-resources-dual-panda-moveit-config
+Binary: ros-one-moveit-resources-dual-panda-moveit-config
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.8.3-2-gb771644-2024.10.11.16.05
+Distribution: jammy
+Urgency: high
+Maintainer: Cristian C. Beltran-Hernandez <cristianbehe@gmail.com>
+Changed-By: Cristian C. Beltran-Hernandez <cristianbehe@gmail.com>
+Description:
+ ros-one-moveit-resources-dual-panda-moveit-config - An automatically generated package with all the configuration and
+Changes:
+ ros-one-moveit-resources-dual-panda-moveit-config (0.8.3-2-gb771644-2024.10.11.16.05) jammy; urgency=high
+ .
+   * Add ResolveConstraintFrames to all planning pipelines
+   * Disable dependencies to avoid circular dependencies (#149 <https://github.com/ros-planning/moveit_resources/issues/149>)
+   * Add dual_panda_moveit_config (#133 <https://github.com/ros-planning/moveit_resources/issues/133>)
+   * Contributors: Robert Haschke, Cristian Beltran
+Checksums-Sha1:
+ 6d4e06ff9f8486bfc4e3aa83ae4028c598888ad4 8323 ros-one-moveit-resources-dual-panda-moveit-config_0.8.3-2-gb771644-2024.10.11.16.05_amd64.buildinfo
+ f1379b920fc79ab3ae5211ab5369f4e63ca30107 18670 ros-one-moveit-resources-dual-panda-moveit-config_0.8.3-2-gb771644-2024.10.11.16.05_amd64.deb
+Checksums-Sha256:
+ 88c64658c1d606b5a0fe341e4b1ed4a644816627ad8e6a297decd15d524b92d6 8323 ros-one-moveit-resources-dual-panda-moveit-config_0.8.3-2-gb771644-2024.10.11.16.05_amd64.buildinfo
+ 93e360f6977330c41067c8dc7a5949bd1354de6b4eb2588112f70173f38f0e98 18670 ros-one-moveit-resources-dual-panda-moveit-config_0.8.3-2-gb771644-2024.10.11.16.05_amd64.deb
+Files:
+ 23f7c9d1c97e9c0806b9144b4b72bf5f 8323 misc optional ros-one-moveit-resources-dual-panda-moveit-config_0.8.3-2-gb771644-2024.10.11.16.05_amd64.buildinfo
+ 9b01dc3a3faded101918acba40490548 18670 misc optional ros-one-moveit-resources-dual-panda-moveit-config_0.8.3-2-gb771644-2024.10.11.16.05_amd64.deb

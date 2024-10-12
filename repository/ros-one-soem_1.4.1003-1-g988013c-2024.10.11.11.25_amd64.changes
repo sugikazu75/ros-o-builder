@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 03 Aug 2020 00:00:00 -0000
+Source: ros-one-soem
+Binary: ros-one-soem
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.4.1003-1-g988013c-2024.10.11.11.25
+Distribution: jammy
+Urgency: high
+Maintainer: Matthias Gruhler <matthias.gruhler@gmail.com>
+Changed-By: Matthias Gruhler <matthias.gruhler@gmail.com>
+Description:
+ ros-one-soem - ROS wrapper for the Simple Open EtherCAT Master SOEM.
+Changes:
+ ros-one-soem (1.4.1003-1-g988013c-2024.10.11.11.25) jammy; urgency=high
+ .
+   * fixes #40 <https://github.com/mgruhler/soem/issues/40>: export include directories properly
+   * Contributors: Matthias Gruhler
+Checksums-Sha1:
+ 1d17b697fe015ba7783a3e67b9481fefe558fd38 347830 ros-one-soem-dbgsym_1.4.1003-1-g988013c-2024.10.11.11.25_amd64.ddeb
+ bda0431bfd544c88dcacd1c339e2517826be75c6 8540 ros-one-soem_1.4.1003-1-g988013c-2024.10.11.11.25_amd64.buildinfo
+ 4df85587867d6ba01c8e0788b38ae1c3d856ff55 113846 ros-one-soem_1.4.1003-1-g988013c-2024.10.11.11.25_amd64.deb
+Checksums-Sha256:
+ c66493e232d03b11fbd192b9d82398b07cff94042138491125ffb231c9bc8cbb 347830 ros-one-soem-dbgsym_1.4.1003-1-g988013c-2024.10.11.11.25_amd64.ddeb
+ 5822a77790760b1595b685cc2c7fe0a7700a00305984cc6d49b7baf83adaa02e 8540 ros-one-soem_1.4.1003-1-g988013c-2024.10.11.11.25_amd64.buildinfo
+ 92ebfbf39e7a9c21f0bce97c746de97dfa1975c81531ae201f624ad48b02548f 113846 ros-one-soem_1.4.1003-1-g988013c-2024.10.11.11.25_amd64.deb
+Files:
+ 05240dfe6dbf0106201652a8c8b77989 347830 debug optional ros-one-soem-dbgsym_1.4.1003-1-g988013c-2024.10.11.11.25_amd64.ddeb
+ a750941b000e52ec09da50a8b76d7f0c 8540 misc optional ros-one-soem_1.4.1003-1-g988013c-2024.10.11.11.25_amd64.buildinfo
+ d85198f85d2eaa139589aafd1277fab5 113846 misc optional ros-one-soem_1.4.1003-1-g988013c-2024.10.11.11.25_amd64.deb

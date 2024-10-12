@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 15 Feb 2023 00:00:00 -0000
+Source: ros-one-rosgraph
+Binary: ros-one-rosgraph
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.15.14-40-g164a2ac73-2024.10.11.12.48
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rosgraph - rosgraph contains the rosgraph command-line tool, which prints in
+Changes:
+ ros-one-rosgraph (1.15.14-40-g164a2ac73-2024.10.11.12.48) jammy; urgency=high
+ .
+   * Fix determining supported kernel version for HTTP 1.1 (#2202 <https://github.com/ros/ros_comm/issues/2202>)
+   * Contributors: Martin Pecka
+Checksums-Sha1:
+ 0a7d1cbeb1e53503fa0c4da406ea2a46c2fe2fac 8178 ros-one-rosgraph_1.15.14-40-g164a2ac73-2024.10.11.12.48_amd64.buildinfo
+ 62694abf27960128a88acba74fd524845fca4c38 51972 ros-one-rosgraph_1.15.14-40-g164a2ac73-2024.10.11.12.48_amd64.deb
+Checksums-Sha256:
+ 7c1b8c8377778fb7aa5e85776afb227027958c93f86b0dfab339148d0c47527d 8178 ros-one-rosgraph_1.15.14-40-g164a2ac73-2024.10.11.12.48_amd64.buildinfo
+ 24af32fc7192cac016756b5c458aeec56f403a9f03fe878ab41980ce859e0465 51972 ros-one-rosgraph_1.15.14-40-g164a2ac73-2024.10.11.12.48_amd64.deb
+Files:
+ bbbc16eeb22ec142e2c73835d38464b4 8178 misc optional ros-one-rosgraph_1.15.14-40-g164a2ac73-2024.10.11.12.48_amd64.buildinfo
+ 0b7dc7e0697e8520c6d681710b251e3d 51972 misc optional ros-one-rosgraph_1.15.14-40-g164a2ac73-2024.10.11.12.48_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 15 Feb 2023 00:00:00 -0000
+Source: ros-one-message-filters
+Binary: ros-one-message-filters
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.15.14-40-g164a2ac73-2024.10.11.13.04
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-message-filters - A set of message filters which take in messages and may output th
+Changes:
+ ros-one-message-filters (1.15.14-40-g164a2ac73-2024.10.11.13.04) jammy; urgency=high
+Checksums-Sha1:
+ 26f5445072687e15b37f7d4e0cb6eeb87e9d18f4 42268 ros-one-message-filters-dbgsym_1.15.14-40-g164a2ac73-2024.10.11.13.04_amd64.ddeb
+ 7fa8370d0ee2107fceea8ff19fcfb794f0df3957 13398 ros-one-message-filters_1.15.14-40-g164a2ac73-2024.10.11.13.04_amd64.buildinfo
+ 14342706485c4cff1079166c0496a22622cf7dfb 35924 ros-one-message-filters_1.15.14-40-g164a2ac73-2024.10.11.13.04_amd64.deb
+Checksums-Sha256:
+ 68b2181a89b8e96f395cc3d0ff4e5f17c241ea3737d439c3f55a9725516d1c44 42268 ros-one-message-filters-dbgsym_1.15.14-40-g164a2ac73-2024.10.11.13.04_amd64.ddeb
+ 4848aeabfc355b6ffb5c23051f388db878baaf3ff0c5198c00f0dda8f36d2942 13398 ros-one-message-filters_1.15.14-40-g164a2ac73-2024.10.11.13.04_amd64.buildinfo
+ 4b67cc7de629d495857710a54c9bb64917ed2f87039384efb43b79d17f9ffcb9 35924 ros-one-message-filters_1.15.14-40-g164a2ac73-2024.10.11.13.04_amd64.deb
+Files:
+ 3cc3dc2c8e7f870d6905a36f8c6978c2 42268 debug optional ros-one-message-filters-dbgsym_1.15.14-40-g164a2ac73-2024.10.11.13.04_amd64.ddeb
+ d6f50cf32bca222ae2de23a96e811db0 13398 misc optional ros-one-message-filters_1.15.14-40-g164a2ac73-2024.10.11.13.04_amd64.buildinfo
+ cf6bf5e660e8679f5e13090b1ce45f87 35924 misc optional ros-one-message-filters_1.15.14-40-g164a2ac73-2024.10.11.13.04_amd64.deb

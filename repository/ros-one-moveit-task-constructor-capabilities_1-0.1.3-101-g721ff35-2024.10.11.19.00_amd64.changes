@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 06 Mar 2023 00:00:00 -0000
+Source: ros-one-moveit-task-constructor-capabilities
+Binary: ros-one-moveit-task-constructor-capabilities
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1-0.1.3-101-g721ff35-2024.10.11.19.00
+Distribution: jammy
+Urgency: high
+Maintainer: Michael v4hn Goerner <me@v4hn.de>
+Changed-By: Michael v4hn Goerner <me@v4hn.de>
+Description:
+ ros-one-moveit-task-constructor-capabilities - MoveGroupCapabilites to interact with MoveIt
+Changes:
+ ros-one-moveit-task-constructor-capabilities (1-0.1.3-101-g721ff35-2024.10.11.19.00) jammy; urgency=high
+Checksums-Sha1:
+ 5a2cddbca5f30dfcd63db950abeb85bdf2c97c0b 3290486 ros-one-moveit-task-constructor-capabilities-dbgsym_1-0.1.3-101-g721ff35-2024.10.11.19.00_amd64.ddeb
+ fdf5e5f7634c3f95fbe3f19bdb0c7b63a6eb8a88 27212 ros-one-moveit-task-constructor-capabilities_1-0.1.3-101-g721ff35-2024.10.11.19.00_amd64.buildinfo
+ 544ab45ae9a9a5488df30825b39516b417eff3aa 116380 ros-one-moveit-task-constructor-capabilities_1-0.1.3-101-g721ff35-2024.10.11.19.00_amd64.deb
+Checksums-Sha256:
+ e86b1cff600e92312772e617d555a626a02664053ab19309cb4a3bd2620e5f56 3290486 ros-one-moveit-task-constructor-capabilities-dbgsym_1-0.1.3-101-g721ff35-2024.10.11.19.00_amd64.ddeb
+ 0fc820b7330c7bedf5fece0230c1c48d13fd7b4db65fb6c41939fe4505a1c013 27212 ros-one-moveit-task-constructor-capabilities_1-0.1.3-101-g721ff35-2024.10.11.19.00_amd64.buildinfo
+ ba58e52c68bd548027d67e75a235318b9e4352fdf045637d62b284ad596edb0e 116380 ros-one-moveit-task-constructor-capabilities_1-0.1.3-101-g721ff35-2024.10.11.19.00_amd64.deb
+Files:
+ 8091d011b064a04d660526d303f2d245 3290486 debug optional ros-one-moveit-task-constructor-capabilities-dbgsym_1-0.1.3-101-g721ff35-2024.10.11.19.00_amd64.ddeb
+ f1a6768eec9475eaabbc57631b119a44 27212 misc optional ros-one-moveit-task-constructor-capabilities_1-0.1.3-101-g721ff35-2024.10.11.19.00_amd64.buildinfo
+ ed6fce40e5c7c951bb792a39b8d88b6b 116380 misc optional ros-one-moveit-task-constructor-capabilities_1-0.1.3-101-g721ff35-2024.10.11.19.00_amd64.deb

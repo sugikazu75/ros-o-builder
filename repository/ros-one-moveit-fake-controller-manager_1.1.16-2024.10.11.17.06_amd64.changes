@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-fake-controller-manager
+Binary: ros-one-moveit-fake-controller-manager
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-2024.10.11.17.06
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Görner <me@v4hn.de>
+Changed-By: Michael Görner <me@v4hn.de>
+Description:
+ ros-one-moveit-fake-controller-manager - A fake controller manager plugin for MoveIt.
+Changes:
+ ros-one-moveit-fake-controller-manager (1.1.16-2024.10.11.17.06) jammy; urgency=high
+Checksums-Sha1:
+ 93a7e53186576169cade7070fa641d878cd7c6cb 1896172 ros-one-moveit-fake-controller-manager-dbgsym_1.1.16-2024.10.11.17.06_amd64.ddeb
+ 26be2d9af0688eb38320aa19ee5c5cd0901a8be9 24004 ros-one-moveit-fake-controller-manager_1.1.16-2024.10.11.17.06_amd64.buildinfo
+ e9de5cc4c29a2595b3a68f02283894f6f586949c 60230 ros-one-moveit-fake-controller-manager_1.1.16-2024.10.11.17.06_amd64.deb
+Checksums-Sha256:
+ cff1d3cb5934498704e319e1da902b3d40b7bdd9a020065932ed58ba19f66af4 1896172 ros-one-moveit-fake-controller-manager-dbgsym_1.1.16-2024.10.11.17.06_amd64.ddeb
+ 1528c25245bd0236c05486d1136755074d32f49ac19da2a2dcbac6582ad5b941 24004 ros-one-moveit-fake-controller-manager_1.1.16-2024.10.11.17.06_amd64.buildinfo
+ ea8b9bcaaf9f6acdcdd8b6fa5d8b4c83479030ca3001223fa20be819bcb09f09 60230 ros-one-moveit-fake-controller-manager_1.1.16-2024.10.11.17.06_amd64.deb
+Files:
+ 52a8bad93431078751d039a56653ea19 1896172 debug optional ros-one-moveit-fake-controller-manager-dbgsym_1.1.16-2024.10.11.17.06_amd64.ddeb
+ 1f2c38dcaf29a19573e3409de2c6f8f5 24004 misc optional ros-one-moveit-fake-controller-manager_1.1.16-2024.10.11.17.06_amd64.buildinfo
+ 45f5128efa054dc0fb01b9195d9eb1cb 60230 misc optional ros-one-moveit-fake-controller-manager_1.1.16-2024.10.11.17.06_amd64.deb

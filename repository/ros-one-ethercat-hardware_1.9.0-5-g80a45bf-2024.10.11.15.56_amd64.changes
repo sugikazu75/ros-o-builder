@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 03 Mar 2021 00:00:00 -0000
+Source: ros-one-ethercat-hardware
+Binary: ros-one-ethercat-hardware
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.9.0-5-g80a45bf-2024.10.11.15.56
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-ethercat-hardware - Package for creating a hardware interface to the robot using the
+Changes:
+ ros-one-ethercat-hardware (1.9.0-5-g80a45bf-2024.10.11.15.56) jammy; urgency=high
+Checksums-Sha1:
+ 02440a28a56c1ad8e36be8784320995de94c3033 9913022 ros-one-ethercat-hardware-dbgsym_1.9.0-5-g80a45bf-2024.10.11.15.56_amd64.ddeb
+ 4e8bec04979daa4d7e2a094e720b885e8d5d7c94 15287 ros-one-ethercat-hardware_1.9.0-5-g80a45bf-2024.10.11.15.56_amd64.buildinfo
+ fe855f4b5fd7aab6cfc759ab320311034bfceb91 470456 ros-one-ethercat-hardware_1.9.0-5-g80a45bf-2024.10.11.15.56_amd64.deb
+Checksums-Sha256:
+ 8dc75360f4fc6ff53bcbd41aa379d1e46997bdb82417c034670fd2560bd7362e 9913022 ros-one-ethercat-hardware-dbgsym_1.9.0-5-g80a45bf-2024.10.11.15.56_amd64.ddeb
+ 620f565325d6d336bac3f96980e7e1ec09a63d04b8eeda69eee47c680c9fcaeb 15287 ros-one-ethercat-hardware_1.9.0-5-g80a45bf-2024.10.11.15.56_amd64.buildinfo
+ c8eb85aa63b4a4b928cf3576b5c4918680dd74053bd6110b25208ce650dd70f9 470456 ros-one-ethercat-hardware_1.9.0-5-g80a45bf-2024.10.11.15.56_amd64.deb
+Files:
+ d44d63df3efd3ebb8b62368eed73d8c2 9913022 debug optional ros-one-ethercat-hardware-dbgsym_1.9.0-5-g80a45bf-2024.10.11.15.56_amd64.ddeb
+ 157a483ff57d2a78f1b8a604e7495792 15287 misc optional ros-one-ethercat-hardware_1.9.0-5-g80a45bf-2024.10.11.15.56_amd64.buildinfo
+ 33e03546e3d4fd7f555f1b22da301069 470456 misc optional ros-one-ethercat-hardware_1.9.0-5-g80a45bf-2024.10.11.15.56_amd64.deb

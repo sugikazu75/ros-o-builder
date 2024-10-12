@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-diagnostic-updater
+Binary: ros-one-diagnostic-updater
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.11.0-7-gda86650-2024.10.11.14.34
+Distribution: jammy
+Urgency: high
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Changed-By: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Description:
+ ros-one-diagnostic-updater - diagnostic_updater contains tools for easily updating diagnostics
+Changes:
+ ros-one-diagnostic-updater (1.11.0-7-gda86650-2024.10.11.14.34) jammy; urgency=high
+ .
+   * Use DiagnosticLevel enum instead of hardcoded integers (#208 <https://github.com/ros/diagnostics/issues/208>)
+     Spellcheck fixes
+   * Contributors: Amilcar Lucas
+Checksums-Sha1:
+ b5d7de372eb51a6676eae0493fb3fd38b8d3a2e9 328066 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2024.10.11.14.34_amd64.ddeb
+ ae92a4873f77489e6326e3ab7f17328c583d3f73 13454 ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.11.14.34_amd64.buildinfo
+ 10928bccd9aaabc008362b81cf5dc686051c319e 53918 ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.11.14.34_amd64.deb
+Checksums-Sha256:
+ 122721166d99d9ba3825c0dc356ec11220c34322c97ce3a3e306625bdba841c7 328066 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2024.10.11.14.34_amd64.ddeb
+ c789903ce168d1c95245dabb07de1174c7428683a34178100e45687db1d51e17 13454 ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.11.14.34_amd64.buildinfo
+ 9a4594857c1bb5188aa13464555386b44f8908a00459a7dd79e6b4036b138f2e 53918 ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.11.14.34_amd64.deb
+Files:
+ ae6105bf4c1cdef73f9979dbd8660160 328066 debug optional ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2024.10.11.14.34_amd64.ddeb
+ bd082b989ccf65e46cfdf95a12efd000 13454 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.11.14.34_amd64.buildinfo
+ 76e1d45ac6c7d0e47f536075b33b8f93 53918 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.11.14.34_amd64.deb

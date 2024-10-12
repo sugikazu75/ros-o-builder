@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 05 May 2021 00:00:00 -0000
+Source: ros-one-trac-ik-kinematics-plugin
+Binary: ros-one-trac-ik-kinematics-plugin
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.11.18.48
+Distribution: jammy
+Urgency: high
+Maintainer: TRACLabs Robotics <robotics@traclabs.com>
+Changed-By: TRACLabs Robotics <robotics@traclabs.com>
+Description:
+ ros-one-trac-ik-kinematics-plugin - A MoveIt! Kinematics plugin using TRAC-IK
+Changes:
+ ros-one-trac-ik-kinematics-plugin (0-2024.10.11.18.48) jammy; urgency=high
+ .
+   * removed bad depends
+   * propagated nlopt deps to sat packages
+   * Contributors: Stephen Hart
+Checksums-Sha1:
+ 7efda771c38b3247e1d9ecca9b14c19bab0ecb31 600744 ros-one-trac-ik-kinematics-plugin-dbgsym_0-2024.10.11.18.48_amd64.ddeb
+ f947964947508d35acdb0b60f217b5991ddd73c5 25761 ros-one-trac-ik-kinematics-plugin_0-2024.10.11.18.48_amd64.buildinfo
+ d027f69f87d48b21aebdc1a10f820065640185b0 41632 ros-one-trac-ik-kinematics-plugin_0-2024.10.11.18.48_amd64.deb
+Checksums-Sha256:
+ 5bb9bc1d16d58926a56f2040cf60e8a16350f59e208b32632330d70971038168 600744 ros-one-trac-ik-kinematics-plugin-dbgsym_0-2024.10.11.18.48_amd64.ddeb
+ debd7999016eaeed5dc7269642c9a42e0513a7a0fa10134f5d536739988744ef 25761 ros-one-trac-ik-kinematics-plugin_0-2024.10.11.18.48_amd64.buildinfo
+ c100cc75866f04c05e24aeb8b6bb11c1f5125c2e74967143a48d97192898cb3a 41632 ros-one-trac-ik-kinematics-plugin_0-2024.10.11.18.48_amd64.deb
+Files:
+ c9d91291fa2da45430d355a3fd73ee35 600744 debug optional ros-one-trac-ik-kinematics-plugin-dbgsym_0-2024.10.11.18.48_amd64.ddeb
+ ab47e149ce1d6ad84ebee65e7ef09580 25761 misc optional ros-one-trac-ik-kinematics-plugin_0-2024.10.11.18.48_amd64.buildinfo
+ a2878038c3135db6018eec6a734097f4 41632 misc optional ros-one-trac-ik-kinematics-plugin_0-2024.10.11.18.48_amd64.deb

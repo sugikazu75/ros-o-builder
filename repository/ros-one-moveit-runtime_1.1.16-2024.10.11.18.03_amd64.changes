@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-runtime
+Binary: ros-one-moveit-runtime
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-2024.10.11.18.03
+Distribution: jammy
+Urgency: high
+Maintainer: Isaac I. Y. Saito <gm130s@gmail.com>
+Changed-By: Isaac I. Y. Saito <gm130s@gmail.com>
+Description:
+ ros-one-moveit-runtime - moveit_runtime meta package contains MoveIt packages that are ess
+Changes:
+ ros-one-moveit-runtime (1.1.16-2024.10.11.18.03) jammy; urgency=high
+Checksums-Sha1:
+ 40c7f8e42770047ff6dbdd54ad08d9476f2fedef 8145 ros-one-moveit-runtime_1.1.16-2024.10.11.18.03_amd64.buildinfo
+ ce95a69e2536bf43d88da3a192288d0243f551af 2566 ros-one-moveit-runtime_1.1.16-2024.10.11.18.03_amd64.deb
+Checksums-Sha256:
+ 6ac005a2b178c1b369e54da8f5cdb376e6dd45d9ccf568d1961644237e082eae 8145 ros-one-moveit-runtime_1.1.16-2024.10.11.18.03_amd64.buildinfo
+ d07eb743a88b99c2a1273249983c2899ac3b41dc593f19f848f820fc8f965497 2566 ros-one-moveit-runtime_1.1.16-2024.10.11.18.03_amd64.deb
+Files:
+ 38f4bf0a37abe407ee38f735f7687604 8145 misc optional ros-one-moveit-runtime_1.1.16-2024.10.11.18.03_amd64.buildinfo
+ 0f13c8e4f56fe36e98c4248139e4033d 2566 misc optional ros-one-moveit-runtime_1.1.16-2024.10.11.18.03_amd64.deb

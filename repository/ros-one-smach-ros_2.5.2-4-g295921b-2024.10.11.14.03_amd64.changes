@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 13 Jun 2023 00:00:00 -0000
+Source: ros-one-smach-ros
+Binary: ros-one-smach-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.5.2-4-g295921b-2024.10.11.14.03
+Distribution: jammy
+Urgency: high
+Maintainer: Isaac I. Y. Saito <gm130s@gmail.com>
+Changed-By: Isaac I. Y. Saito <gm130s@gmail.com>
+Description:
+ ros-one-smach-ros - The smach_ros package contains extensions for the SMACH library t
+Changes:
+ ros-one-smach-ros (2.5.2-4-g295921b-2024.10.11.14.03) jammy; urgency=high
+ .
+   * Fix is_running behaviour in case of exception in the state #50 <https://github.com/ros/executive_smach/issues/50>
+   * Executing an empty Concurrence container hangs forever #51 <https://github.com/ros/executive_smach/issues/51>
+Checksums-Sha1:
+ 425668241aba61d4834d53978b1b3a73b8ecd46b 12914 ros-one-smach-ros_2.5.2-4-g295921b-2024.10.11.14.03_amd64.buildinfo
+ e3acff6b2ff38fa6c8514bf07ab6d6b4eab7094c 31336 ros-one-smach-ros_2.5.2-4-g295921b-2024.10.11.14.03_amd64.deb
+Checksums-Sha256:
+ 9f7f9adb174ea6832bd9dc19cd18d0d87270230c8404c165da0a6cd4b4cccc7b 12914 ros-one-smach-ros_2.5.2-4-g295921b-2024.10.11.14.03_amd64.buildinfo
+ 9efe503fbcdfb40d3e625c674f894d30aebecb8bb316c951afb0385d0ab14f38 31336 ros-one-smach-ros_2.5.2-4-g295921b-2024.10.11.14.03_amd64.deb
+Files:
+ f91caecc2a4cd2a63a5e84b082e47ad3 12914 misc optional ros-one-smach-ros_2.5.2-4-g295921b-2024.10.11.14.03_amd64.buildinfo
+ 88de46ef58e582b96732764b75496b1c 31336 misc optional ros-one-smach-ros_2.5.2-4-g295921b-2024.10.11.14.03_amd64.deb

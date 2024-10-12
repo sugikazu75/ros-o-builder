@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 27 Sep 2023 00:00:00 -0000
+Source: ros-one-rosbridge-msgs
+Binary: ros-one-rosbridge-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.11.17-2024.10.11.14.19
+Distribution: jammy
+Urgency: high
+Maintainer: Hans-Joachim Krauch <achim@intermodalics.eu>
+Changed-By: Hans-Joachim Krauch <achim@intermodalics.eu>
+Description:
+ ros-one-rosbridge-msgs - Package containing message files
+Changes:
+ ros-one-rosbridge-msgs (0.11.17-2024.10.11.14.19) jammy; urgency=high
+Checksums-Sha1:
+ b667a162358c051bcd5175dc956b18972a16e631 9726 ros-one-rosbridge-msgs_0.11.17-2024.10.11.14.19_amd64.buildinfo
+ f1a058b9f004936ec80fbe000d574c561b0d73a7 16424 ros-one-rosbridge-msgs_0.11.17-2024.10.11.14.19_amd64.deb
+Checksums-Sha256:
+ a893cabc51237c0fe41ab99b8659dae57087062a86b22d58b685068a7fa6641e 9726 ros-one-rosbridge-msgs_0.11.17-2024.10.11.14.19_amd64.buildinfo
+ 0f88152e39fd284edb9c405c8a465f7c4cc73d66d3d21b20b17ac98b42fb8423 16424 ros-one-rosbridge-msgs_0.11.17-2024.10.11.14.19_amd64.deb
+Files:
+ 07f9702290278cd7a7996e786345992e 9726 misc optional ros-one-rosbridge-msgs_0.11.17-2024.10.11.14.19_amd64.buildinfo
+ 3b077eed4af557ab350cd2da0b776dea 16424 misc optional ros-one-rosbridge-msgs_0.11.17-2024.10.11.14.19_amd64.deb

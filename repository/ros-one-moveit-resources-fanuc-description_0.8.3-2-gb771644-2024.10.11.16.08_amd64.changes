@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 10 Nov 2023 00:00:00 -0000
+Source: ros-one-moveit-resources-fanuc-description
+Binary: ros-one-moveit-resources-fanuc-description
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.8.3-2-gb771644-2024.10.11.16.08
+Distribution: jammy
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-one-moveit-resources-fanuc-description - Fanuc Resources used for MoveIt! testing
+Changes:
+ ros-one-moveit-resources-fanuc-description (0.8.3-2-gb771644-2024.10.11.16.08) jammy; urgency=high
+Checksums-Sha1:
+ be3145556f2e9277f3edf6144b4e8531f6341154 8291 ros-one-moveit-resources-fanuc-description_0.8.3-2-gb771644-2024.10.11.16.08_amd64.buildinfo
+ 305ee189de5994918193d61f68cbb3016e118a3d 127862 ros-one-moveit-resources-fanuc-description_0.8.3-2-gb771644-2024.10.11.16.08_amd64.deb
+Checksums-Sha256:
+ 0316c19303200e5f9b5e7a3a788b6474258015c051454b558798a8734d3f7bea 8291 ros-one-moveit-resources-fanuc-description_0.8.3-2-gb771644-2024.10.11.16.08_amd64.buildinfo
+ 41d89619b6965a6577e6f5cb792d10f91665593667d0a50075995f7e03945637 127862 ros-one-moveit-resources-fanuc-description_0.8.3-2-gb771644-2024.10.11.16.08_amd64.deb
+Files:
+ 89a671c8bf69cf4c8bdca127216d0d4a 8291 misc optional ros-one-moveit-resources-fanuc-description_0.8.3-2-gb771644-2024.10.11.16.08_amd64.buildinfo
+ 45c25d3cf2a195991a8f10271151c89c 127862 misc optional ros-one-moveit-resources-fanuc-description_0.8.3-2-gb771644-2024.10.11.16.08_amd64.deb
