@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Mon, 29 Jul 2024 00:00:00 -0000
+Source: ros-one-cartesian-interface
+Binary: ros-one-cartesian-interface
+Architecture: amd64
+Version: 0-2024.10.11.21.54
+Distribution: sid
+Urgency: high
+Maintainer: Felix Exner <mauch@fzi.de>
+Changed-By: Felix Exner <mauch@fzi.de>
+Description:
+ ros-one-cartesian-interface - Defines a hardware interface to send Cartesian commands to a robo
+Changes:
+ ros-one-cartesian-interface (0-2024.10.11.21.54) sid; urgency=high
+Checksums-Sha1:
+ e931609da0d5e0a2ed9392dd51f526d21d67f422 10595 ros-one-cartesian-interface_0-2024.10.11.21.54_amd64.buildinfo
+ 4d5497026ba8ddf5d137fc9ff3fc279e25d1afd4 7488 ros-one-cartesian-interface_0-2024.10.11.21.54_amd64.deb
+Checksums-Sha256:
+ 71ca27d07e57fa7baa9f4b50ee3c7d4e544905561d4efbc221a35c5abcf9542b 10595 ros-one-cartesian-interface_0-2024.10.11.21.54_amd64.buildinfo
+ 6e5852b0b8ddb3f4885bdd870a3c32f459610c5a1c93affa635ae22cc2a9c310 7488 ros-one-cartesian-interface_0-2024.10.11.21.54_amd64.deb
+Files:
+ 277a1cf5577126bb9a685eec7b077c43 10595 misc optional ros-one-cartesian-interface_0-2024.10.11.21.54_amd64.buildinfo
+ 821505078b4c8dd675bf3c41b6a724b8 7488 misc optional ros-one-cartesian-interface_0-2024.10.11.21.54_amd64.deb

@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Wed, 15 Feb 2023 00:00:00 -0000
+Source: ros-one-rosout
+Binary: ros-one-rosout ros-one-rosout-dbgsym
+Architecture: amd64
+Version: 1.15.14-40-g164a2ac73-2024.10.11.16.01
+Distribution: sid
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rosout - System-wide logging mechanism for messages sent to the /rosout to
+Changes:
+ ros-one-rosout (1.15.14-40-g164a2ac73-2024.10.11.16.01) sid; urgency=high
+Checksums-Sha1:
+ 73c2f5c9e12e6d1460fac8b3ba1ab237d0c37c02 367508 ros-one-rosout-dbgsym_1.15.14-40-g164a2ac73-2024.10.11.16.01_amd64.deb
+ 04cab2b158aef3886fa00ec27ac036f67835b9aa 9892 ros-one-rosout_1.15.14-40-g164a2ac73-2024.10.11.16.01_amd64.buildinfo
+ 12c924f0dcacfe8362349a5ed9cdab3d2f790f13 34696 ros-one-rosout_1.15.14-40-g164a2ac73-2024.10.11.16.01_amd64.deb
+Checksums-Sha256:
+ 4a802448149352bb13200ef9e3dd4e5317daa8737dc1654d65fe333ed978ec11 367508 ros-one-rosout-dbgsym_1.15.14-40-g164a2ac73-2024.10.11.16.01_amd64.deb
+ a1e1e8033cfd42d71e32e08569c3b61be4adb2913bc5b1e6c384c57549ffcb6e 9892 ros-one-rosout_1.15.14-40-g164a2ac73-2024.10.11.16.01_amd64.buildinfo
+ d5f5429d9dec9d07348d6595caf92da6b56faf8d4f3021dc5f569766ffb128bb 34696 ros-one-rosout_1.15.14-40-g164a2ac73-2024.10.11.16.01_amd64.deb
+Files:
+ e1f4d9c54be1ff93bbf0ddffabea90d3 367508 debug optional ros-one-rosout-dbgsym_1.15.14-40-g164a2ac73-2024.10.11.16.01_amd64.deb
+ 01327b389f6f5e54c117fdbae1349a6a 9892 misc optional ros-one-rosout_1.15.14-40-g164a2ac73-2024.10.11.16.01_amd64.buildinfo
+ a844c6d678cf4b4c4e50e226ab3a1290 34696 misc optional ros-one-rosout_1.15.14-40-g164a2ac73-2024.10.11.16.01_amd64.deb

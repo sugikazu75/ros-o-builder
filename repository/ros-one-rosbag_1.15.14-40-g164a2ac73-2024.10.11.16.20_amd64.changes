@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Wed, 15 Feb 2023 00:00:00 -0000
+Source: ros-one-rosbag
+Binary: ros-one-rosbag ros-one-rosbag-dbgsym
+Architecture: amd64
+Version: 1.15.14-40-g164a2ac73-2024.10.11.16.20
+Distribution: sid
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rosbag - This is a set of tools for recording from and playing back to ROS
+Changes:
+ ros-one-rosbag (1.15.14-40-g164a2ac73-2024.10.11.16.20) sid; urgency=high
+ .
+   * add missing repeat_latched initialization (#2314 <https://github.com/ros/ros_comm/issues/2314>)
+   * Contributors: Robin Vanhove
+Checksums-Sha1:
+ c25fd5cd181a27d4ae8b08540c8b0fb8c34aea0d 5330800 ros-one-rosbag-dbgsym_1.15.14-40-g164a2ac73-2024.10.11.16.20_amd64.deb
+ bcadc6b4ad5b19312d48dfc15f3d911d32bd20f1 13679 ros-one-rosbag_1.15.14-40-g164a2ac73-2024.10.11.16.20_amd64.buildinfo
+ 9c7151a2318a6dd688abe0caff45b786e3eda080 456116 ros-one-rosbag_1.15.14-40-g164a2ac73-2024.10.11.16.20_amd64.deb
+Checksums-Sha256:
+ 2e80189404ba49dedc847f53caa05ce9e32dfe39de350a6d675a2a0a4cb25334 5330800 ros-one-rosbag-dbgsym_1.15.14-40-g164a2ac73-2024.10.11.16.20_amd64.deb
+ 926fd4eceeca0997ea8709ec49cac2ab3a9ff83c476769ec69ca09adcd853fd4 13679 ros-one-rosbag_1.15.14-40-g164a2ac73-2024.10.11.16.20_amd64.buildinfo
+ c31185d9c59006e257c951b246aa7031c9f2618853159776581c4c0dc4198fc6 456116 ros-one-rosbag_1.15.14-40-g164a2ac73-2024.10.11.16.20_amd64.deb
+Files:
+ 224f7d7da65d57a3deeeea792bda4402 5330800 debug optional ros-one-rosbag-dbgsym_1.15.14-40-g164a2ac73-2024.10.11.16.20_amd64.deb
+ f6c5a96caa6c875c589690148450ee3d 13679 misc optional ros-one-rosbag_1.15.14-40-g164a2ac73-2024.10.11.16.20_amd64.buildinfo
+ 9f75d8e1ed1befa35eb18ee00096eaa3 456116 misc optional ros-one-rosbag_1.15.14-40-g164a2ac73-2024.10.11.16.20_amd64.deb

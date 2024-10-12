@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Fri, 05 Mar 2021 00:00:00 -0000
+Source: ros-one-fetch-ros
+Binary: ros-one-fetch-ros
+Architecture: amd64
+Version: 0.9.1-4-gd3edd9b-2024.10.11.22.23
+Distribution: sid
+Urgency: high
+Maintainer: Sarah Elliott <selliott@fetchrobotics.com>
+Changed-By: Sarah Elliott <selliott@fetchrobotics.com>
+Description:
+ ros-one-fetch-ros - Fetch ROS, packages for working with Fetch and Freight
+Changes:
+ ros-one-fetch-ros (0.9.1-4-gd3edd9b-2024.10.11.22.23) sid; urgency=high
+Checksums-Sha1:
+ 4268efa7ad44e4480b519e26afbeb73c899df964 6982 ros-one-fetch-ros_0.9.1-4-gd3edd9b-2024.10.11.22.23_amd64.buildinfo
+ f0d845af21adc739fda288545734c1e2564bb4bb 2896 ros-one-fetch-ros_0.9.1-4-gd3edd9b-2024.10.11.22.23_amd64.deb
+Checksums-Sha256:
+ 6a65d3282e634fcf782ee52b3f432efdb7a9a8a96c9f9c2b81bb4c089ea7703b 6982 ros-one-fetch-ros_0.9.1-4-gd3edd9b-2024.10.11.22.23_amd64.buildinfo
+ a30bf13603f0eeb10c5a1aba80dd0fb80efe1e7b995b7049677a0cc8e6f1293a 2896 ros-one-fetch-ros_0.9.1-4-gd3edd9b-2024.10.11.22.23_amd64.deb
+Files:
+ a1b8122e1b0c785ed3db9516214a19b6 6982 misc optional ros-one-fetch-ros_0.9.1-4-gd3edd9b-2024.10.11.22.23_amd64.buildinfo
+ 7cf01175c1b2d5a49074af999ea435df 2896 misc optional ros-one-fetch-ros_0.9.1-4-gd3edd9b-2024.10.11.22.23_amd64.deb

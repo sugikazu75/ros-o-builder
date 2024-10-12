@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Mon, 29 Jul 2024 00:00:00 -0000
+Source: ros-one-cartesian-trajectory-controller
+Binary: ros-one-cartesian-trajectory-controller ros-one-cartesian-trajectory-controller-dbgsym
+Architecture: amd64
+Version: 0-2024.10.11.22.03
+Distribution: sid
+Urgency: high
+Maintainer: Stefan Scherzinger <scherzin@fzi.de>
+Changed-By: Stefan Scherzinger <scherzin@fzi.de>
+Description:
+ ros-one-cartesian-trajectory-controller - A Cartesian trajectory controller with multiple hardware interfac
+Changes:
+ ros-one-cartesian-trajectory-controller (0-2024.10.11.22.03) sid; urgency=high
+ .
+   * Move ik_solver header files to cartesian_trajectory_controller (#19 <https://github.com/UniversalRobots/Universal_Robots_ROS_controllers_cartesian/issues/19>)
+   * Contributors: Felix Exner (fexner)
+Checksums-Sha1:
+ 7bd0f02ece4a3ee55f5e2b0171379164fe01aa7c 3007008 ros-one-cartesian-trajectory-controller-dbgsym_0-2024.10.11.22.03_amd64.deb
+ 549b61ec69768f43ffce532d711c9ec09e3d04dd 24073 ros-one-cartesian-trajectory-controller_0-2024.10.11.22.03_amd64.buildinfo
+ 50c5e37c51646ab9b5caef694ceae9a9b6566caf 186600 ros-one-cartesian-trajectory-controller_0-2024.10.11.22.03_amd64.deb
+Checksums-Sha256:
+ 152fdcccd3e1579ad0777b2de419db97fc4deac214436bdec60d5fe5e06b5c84 3007008 ros-one-cartesian-trajectory-controller-dbgsym_0-2024.10.11.22.03_amd64.deb
+ 58078dc6f4e30f6f175bcd47eac82058a90db13839a92baf0714cadc90f5c543 24073 ros-one-cartesian-trajectory-controller_0-2024.10.11.22.03_amd64.buildinfo
+ 6216bba57658ec35522643aaa861288140eeabdf0de38d0ad826a24e6c9715c2 186600 ros-one-cartesian-trajectory-controller_0-2024.10.11.22.03_amd64.deb
+Files:
+ 4108393a4dd7ab08694f717d5a882ec5 3007008 debug optional ros-one-cartesian-trajectory-controller-dbgsym_0-2024.10.11.22.03_amd64.deb
+ edd1d90a281ef71b44b9ade767b26a1a 24073 misc optional ros-one-cartesian-trajectory-controller_0-2024.10.11.22.03_amd64.buildinfo
+ 89a5aeb346732c6c13a0de0e914308a5 186600 misc optional ros-one-cartesian-trajectory-controller_0-2024.10.11.22.03_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 02 Oct 2023 00:00:00 -0000
+Source: ros-one-rqt-logger-level
+Binary: ros-one-rqt-logger-level
+Architecture: amd64
+Version: 0.4.12-2024.10.11.17.59
+Distribution: sid
+Urgency: high
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Changed-By: Dirk Thomas <dthomas@osrfoundation.org>
+Description:
+ ros-one-rqt-logger-level - rqt_logger_level provides a GUI plugin for configuring the logger
+Changes:
+ ros-one-rqt-logger-level (0.4.12-2024.10.11.17.59) sid; urgency=high
+ .
+   * added LICENSE
+   * Import setup from setuptools instead of distutils.core
+   * Add xml-model
+Checksums-Sha1:
+ 75b049e5358ba2ba960362d51f43a47bba6f3866 6980 ros-one-rqt-logger-level_0.4.12-2024.10.11.17.59_amd64.buildinfo
+ 79045abf61b70b738187cc3dcae247fcbb1d941b 15768 ros-one-rqt-logger-level_0.4.12-2024.10.11.17.59_amd64.deb
+Checksums-Sha256:
+ 9d0d7fc1d98c7d226221efd8dd8a84b4b48664e87625cca481d94d92aff55d34 6980 ros-one-rqt-logger-level_0.4.12-2024.10.11.17.59_amd64.buildinfo
+ e41eb61c118e14b3b4d59bda82c0f4b2f9e6f2e6f92d0f8a39708bf8eb5f3f1c 15768 ros-one-rqt-logger-level_0.4.12-2024.10.11.17.59_amd64.deb
+Files:
+ c5d2f91607b7b4cbcc50b66e74ae269d 6980 misc optional ros-one-rqt-logger-level_0.4.12-2024.10.11.17.59_amd64.buildinfo
+ 3dab829467e7c296ccf906f636c29a93 15768 misc optional ros-one-rqt-logger-level_0.4.12-2024.10.11.17.59_amd64.deb

@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-diagnostics
+Binary: ros-one-diagnostics
+Architecture: amd64
+Version: 1.11.0-7-gda86650-2024.10.11.17.56
+Distribution: sid
+Urgency: high
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Changed-By: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Description:
+ ros-one-diagnostics - diagnostics
+Changes:
+ ros-one-diagnostics (1.11.0-7-gda86650-2024.10.11.17.56) sid; urgency=high
+Checksums-Sha1:
+ 29da54d7b8a7f6fce417c7d59054ee70ed033019 6996 ros-one-diagnostics_1.11.0-7-gda86650-2024.10.11.17.56_amd64.buildinfo
+ af0e81e446e80f1bb3c94b3aad7d17ecd8c09fce 2960 ros-one-diagnostics_1.11.0-7-gda86650-2024.10.11.17.56_amd64.deb
+Checksums-Sha256:
+ 368f991e1335902fabf5760b90b0466bc0418ced473e012089168356b0ec2893 6996 ros-one-diagnostics_1.11.0-7-gda86650-2024.10.11.17.56_amd64.buildinfo
+ b3ac0d7c90126314cede62e5b60f355723294e13e62c8dd8e6c02c39549d48a7 2960 ros-one-diagnostics_1.11.0-7-gda86650-2024.10.11.17.56_amd64.deb
+Files:
+ 7a15a2b03dba02bc6df8fd0be0e8f1e5 6996 misc optional ros-one-diagnostics_1.11.0-7-gda86650-2024.10.11.17.56_amd64.buildinfo
+ c5d933fe413f20f8b4865d219bfe5c06 2960 misc optional ros-one-diagnostics_1.11.0-7-gda86650-2024.10.11.17.56_amd64.deb

@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Fri, 27 Oct 2023 00:00:00 -0000
+Source: ros-one-controller-manager-tests
+Binary: ros-one-controller-manager-tests
+Architecture: amd64
+Version: 0.20.0-2024.10.11.17.58
+Distribution: sid
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-controller-manager-tests - Tests for the controller manager.
+Changes:
+ ros-one-controller-manager-tests (0.20.0-2024.10.11.17.58) sid; urgency=high
+Checksums-Sha1:
+ 7afd5e8ba480bae7f498a9a0d54c56072acc6a0c 14233 ros-one-controller-manager-tests_0.20.0-2024.10.11.17.58_amd64.buildinfo
+ b82b3322d966f1b71976d5eba927131755d9818a 15068 ros-one-controller-manager-tests_0.20.0-2024.10.11.17.58_amd64.deb
+Checksums-Sha256:
+ 6b03b260002334a6b6422dfe28deaecea814ec49ca36923fc4805a61ca6efab9 14233 ros-one-controller-manager-tests_0.20.0-2024.10.11.17.58_amd64.buildinfo
+ 294412d0369b1352313fa7e069416f2477cbcca48cd2c91c2b742eb7b4dcf773 15068 ros-one-controller-manager-tests_0.20.0-2024.10.11.17.58_amd64.deb
+Files:
+ c6937189c82a1d8dfe59c669b58a4b90 14233 misc optional ros-one-controller-manager-tests_0.20.0-2024.10.11.17.58_amd64.buildinfo
+ a01af9c5d838e720dd10670bbb6b5c0a 15068 misc optional ros-one-controller-manager-tests_0.20.0-2024.10.11.17.58_amd64.deb

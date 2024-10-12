@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 21 Jul 2021 00:00:00 -0000
+Source: ros-one-rosunit
+Binary: ros-one-rosunit
+Architecture: amd64
+Version: 1.15.8-3-g136e18e9-2024.10.11.15.22
+Distribution: sid
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-rosunit - Unit-testing package for ROS.
+Changes:
+ ros-one-rosunit (1.15.8-3-g136e18e9-2024.10.11.15.22) sid; urgency=high
+ .
+   * Gracefully handle missing time attribute in testcase XML element (#283 <https://github.com/ros/ros/issues/283>)
+   * Fix spelling (#277 <https://github.com/ros/ros/issues/277>)
+   * Update maintainers (#272 <https://github.com/ros/ros/issues/272>)
+   * Contributors: Jacob Perron, Romain Reignier, freddii
+Checksums-Sha1:
+ d6164fff67e1dbe8381d4f06dc061dab87ed006c 6983 ros-one-rosunit_1.15.8-3-g136e18e9-2024.10.11.15.22_amd64.buildinfo
+ a9cb9fb20332d838ce3d5f35c949ff1ad1694fb6 61716 ros-one-rosunit_1.15.8-3-g136e18e9-2024.10.11.15.22_amd64.deb
+Checksums-Sha256:
+ 9b2d905dcba93f8f24be18c32564f2dad7950670e5b3b737bfcb598f6e8c2d0c 6983 ros-one-rosunit_1.15.8-3-g136e18e9-2024.10.11.15.22_amd64.buildinfo
+ 646f7f10e6df2b080ad9daf8b24935b22143164027fbf58c30c4b750aece70d9 61716 ros-one-rosunit_1.15.8-3-g136e18e9-2024.10.11.15.22_amd64.deb
+Files:
+ 6e25190a51a75ef0765ed073ab575904 6983 misc optional ros-one-rosunit_1.15.8-3-g136e18e9-2024.10.11.15.22_amd64.buildinfo
+ d027b80c3305c5704e3f9098383febeb 61716 misc optional ros-one-rosunit_1.15.8-3-g136e18e9-2024.10.11.15.22_amd64.deb

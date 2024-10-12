@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-pr2-controllers
+Binary: ros-one-pr2-controllers
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2024.10.11.20.20
+Distribution: sid
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-controllers - Contains the controllers that run in realtime on the PR2 and supp
+Changes:
+ ros-one-pr2-controllers (1.10.18-3-g8e8dfa0-2024.10.11.20.20) sid; urgency=high
+Checksums-Sha1:
+ defb0c85edbe71632ca37e2279e19329ad807791 7020 ros-one-pr2-controllers_1.10.18-3-g8e8dfa0-2024.10.11.20.20_amd64.buildinfo
+ 8fc0484d3ad918d4400583d6175bfdca5531e018 2612 ros-one-pr2-controllers_1.10.18-3-g8e8dfa0-2024.10.11.20.20_amd64.deb
+Checksums-Sha256:
+ 8d102a16b8da41764a4e3b30a0452ab54b0cd02d2b5c0ecdcce8fdd7b90f8727 7020 ros-one-pr2-controllers_1.10.18-3-g8e8dfa0-2024.10.11.20.20_amd64.buildinfo
+ 322749e00dfdf090c386c3ef5b73d07b01a94a91c8f869e6481ca0717952a97d 2612 ros-one-pr2-controllers_1.10.18-3-g8e8dfa0-2024.10.11.20.20_amd64.deb
+Files:
+ 4d360692dcc534c26e69cab62d632da4 7020 misc optional ros-one-pr2-controllers_1.10.18-3-g8e8dfa0-2024.10.11.20.20_amd64.buildinfo
+ a946a0e65d3ba55ceb16c285035bf635 2612 misc optional ros-one-pr2-controllers_1.10.18-3-g8e8dfa0-2024.10.11.20.20_amd64.deb

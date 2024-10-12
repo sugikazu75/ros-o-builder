@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-chaplus-ros
+Binary: ros-one-chaplus-ros
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.11.23.53
+Distribution: sid
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-chaplus-ros - The ROS package for chaplus service
+Changes:
+ ros-one-chaplus-ros (2.1.28-49-gfb32bec3-2024.10.11.23.53) sid; urgency=high
+Checksums-Sha1:
+ 6cca056b790f4e59cff92ac232cca5e1a85cc713 7007 ros-one-chaplus-ros_2.1.28-49-gfb32bec3-2024.10.11.23.53_amd64.buildinfo
+ 54194fbc604e09d8dd4750fe0e26f1b6019d378e 10488 ros-one-chaplus-ros_2.1.28-49-gfb32bec3-2024.10.11.23.53_amd64.deb
+Checksums-Sha256:
+ 597a9b8d55b829140cf0d324f8ea39f249706a76aa4791e319fee1f351fc6a26 7007 ros-one-chaplus-ros_2.1.28-49-gfb32bec3-2024.10.11.23.53_amd64.buildinfo
+ a8e6327cc5cc18ad78a13757dd6e509890a5d895751f07c2508b1a3f26d78e00 10488 ros-one-chaplus-ros_2.1.28-49-gfb32bec3-2024.10.11.23.53_amd64.deb
+Files:
+ f10d13ba8b0004beccd474b76da15e23 7007 misc optional ros-one-chaplus-ros_2.1.28-49-gfb32bec3-2024.10.11.23.53_amd64.buildinfo
+ 2266a03836ae735507ae88f7c648bc07 10488 misc optional ros-one-chaplus-ros_2.1.28-49-gfb32bec3-2024.10.11.23.53_amd64.deb

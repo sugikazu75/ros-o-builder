@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 09 Jan 2024 00:00:00 -0000
+Source: ros-one-nodelet-topic-tools
+Binary: ros-one-nodelet-topic-tools
+Architecture: amd64
+Version: 1.11.0-1-gf840a28-2024.10.11.17.12
+Distribution: sid
+Urgency: high
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Changed-By: Geoffrey Biggs <geoff@openrobotics.org>
+Description:
+ ros-one-nodelet-topic-tools - This package contains common nodelet tools such as a mux, demux a
+Changes:
+ ros-one-nodelet-topic-tools (1.11.0-1-gf840a28-2024.10.11.17.12) sid; urgency=high
+ .
+   * Update package maintainers (#114 <https://github.com/ros/nodelet_core/issues/114>)
+   * Reduce boost dependency scope (#118 <https://github.com/ros/nodelet_core/issues/118>)
+   * Switch to new boost/bind/bind.hpp (#117 <https://github.com/ros/nodelet_core/issues/117>)
+   * Contributors: Geoffrey Biggs, Jochen Sprickerhof, Stephan
+Checksums-Sha1:
+ 8001c8ac679ff7664ae4bff8469083bd18b89009 13256 ros-one-nodelet-topic-tools_1.11.0-1-gf840a28-2024.10.11.17.12_amd64.buildinfo
+ 0ac30c8f891425d63dc8dc6e155cfe943cd53d1d 17344 ros-one-nodelet-topic-tools_1.11.0-1-gf840a28-2024.10.11.17.12_amd64.deb
+Checksums-Sha256:
+ 82f0b86827a7336b6924f5045ff7c168ef58ad6ce384656cc92aac4d5885d659 13256 ros-one-nodelet-topic-tools_1.11.0-1-gf840a28-2024.10.11.17.12_amd64.buildinfo
+ fa90d834529596fb8591f6f660d26028f2d86b00cbb2ae678694134451e8ff6c 17344 ros-one-nodelet-topic-tools_1.11.0-1-gf840a28-2024.10.11.17.12_amd64.deb
+Files:
+ 9be2c9d88e01e9a307bd8792a6a0282b 13256 misc optional ros-one-nodelet-topic-tools_1.11.0-1-gf840a28-2024.10.11.17.12_amd64.buildinfo
+ 3aa239e07851e9d4cd5f3d13c436af55 17344 misc optional ros-one-nodelet-topic-tools_1.11.0-1-gf840a28-2024.10.11.17.12_amd64.deb

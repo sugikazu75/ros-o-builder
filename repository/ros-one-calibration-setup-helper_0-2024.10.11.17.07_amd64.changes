@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-calibration-setup-helper
+Binary: ros-one-calibration-setup-helper
+Architecture: amd64
+Version: 0-2024.10.11.17.07
+Distribution: sid
+Urgency: high
+Maintainer: Kei Okada <kei.okada@gmail.com>
+Changed-By: Kei Okada <kei.okada@gmail.com>
+Description:
+ ros-one-calibration-setup-helper - This package contains a script to generate calibration launch and
+Changes:
+ ros-one-calibration-setup-helper (0-2024.10.11.17.07) sid; urgency=high
+Checksums-Sha1:
+ 1b83b718acf76d9f55a5cc4b770a0638fb478f78 7000 ros-one-calibration-setup-helper_0-2024.10.11.17.07_amd64.buildinfo
+ e7dfac3d04c64891204a83a06a6e7a9ecab9ea2d 11572 ros-one-calibration-setup-helper_0-2024.10.11.17.07_amd64.deb
+Checksums-Sha256:
+ 24d1e945b65fc997ac2f05898238c1c5390389c0108594fc6ab001de37a7db00 7000 ros-one-calibration-setup-helper_0-2024.10.11.17.07_amd64.buildinfo
+ 50360ddb312f43275bae62879fef2f7d0ee8761d9d5e56710019569434a48bec 11572 ros-one-calibration-setup-helper_0-2024.10.11.17.07_amd64.deb
+Files:
+ b0e1e4a860a82ad0be6324f6f0aa749d 7000 misc optional ros-one-calibration-setup-helper_0-2024.10.11.17.07_amd64.buildinfo
+ 6efea3840100f6bcce24e13238cb1d40 11572 misc optional ros-one-calibration-setup-helper_0-2024.10.11.17.07_amd64.deb

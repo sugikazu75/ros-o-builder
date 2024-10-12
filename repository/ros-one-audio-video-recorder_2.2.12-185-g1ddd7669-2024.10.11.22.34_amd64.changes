@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Tue, 07 Jun 2022 00:00:00 -0000
+Source: ros-one-audio-video-recorder
+Binary: ros-one-audio-video-recorder ros-one-audio-video-recorder-dbgsym
+Architecture: amd64
+Version: 2.2.12-185-g1ddd7669-2024.10.11.22.34
+Distribution: sid
+Urgency: high
+Maintainer: Shingo Kitagawa <shingogo.5511@gmail.com>
+Changed-By: Shingo Kitagawa <shingogo.5511@gmail.com>
+Description:
+ ros-one-audio-video-recorder - ROS package for recording image and audio synchronously
+Changes:
+ ros-one-audio-video-recorder (2.2.12-185-g1ddd7669-2024.10.11.22.34) sid; urgency=high
+ .
+   * add audio_video_recorder (#1672 <https://github.com/jsk-ros-pkg/jsk_common/issues/1672>)
+   * Contributors: Shingo Kitagawa
+Checksums-Sha1:
+ d44dafef867f01b35c8ef78934a5b6c421cff02f 588744 ros-one-audio-video-recorder-dbgsym_2.2.12-185-g1ddd7669-2024.10.11.22.34_amd64.deb
+ 5cac337dbe62e154f4cdd541b5fd578cc2532e87 13622 ros-one-audio-video-recorder_2.2.12-185-g1ddd7669-2024.10.11.22.34_amd64.buildinfo
+ 8c70c9cb9b882f4e1ce9472652c55e034c850f39 48896 ros-one-audio-video-recorder_2.2.12-185-g1ddd7669-2024.10.11.22.34_amd64.deb
+Checksums-Sha256:
+ b792c3f0289cd3414fcc203914d0f108a3752b0630af691532507082bd8a9000 588744 ros-one-audio-video-recorder-dbgsym_2.2.12-185-g1ddd7669-2024.10.11.22.34_amd64.deb
+ 9b1280262b1de69d4c6745212b9af77367be8caaed4047674fd55cc46c70281b 13622 ros-one-audio-video-recorder_2.2.12-185-g1ddd7669-2024.10.11.22.34_amd64.buildinfo
+ 7363bab5dcb7537b75b7bc6402243c2ff028444341087494a03f9c167cc8b4bc 48896 ros-one-audio-video-recorder_2.2.12-185-g1ddd7669-2024.10.11.22.34_amd64.deb
+Files:
+ ca631e837bd31c1f3954c0b82e59c380 588744 debug optional ros-one-audio-video-recorder-dbgsym_2.2.12-185-g1ddd7669-2024.10.11.22.34_amd64.deb
+ 65304f6f30c35004c9ae0633c173b6f6 13622 misc optional ros-one-audio-video-recorder_2.2.12-185-g1ddd7669-2024.10.11.22.34_amd64.buildinfo
+ f3db8b3af65c600fd7192c32a5889d34 48896 misc optional ros-one-audio-video-recorder_2.2.12-185-g1ddd7669-2024.10.11.22.34_amd64.deb

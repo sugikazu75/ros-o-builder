@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 15 Jun 2023 00:00:00 -0000
+Source: ros-one-cpp-common
+Binary: ros-one-cpp-common ros-one-cpp-common-dbgsym
+Architecture: amd64
+Version: 0.7.3-2024.10.11.14.23
+Distribution: sid
+Urgency: high
+Maintainer: Martin Pecka <peckama2@fel.cvut.cz>
+Changed-By: Martin Pecka <peckama2@fel.cvut.cz>
+Description:
+ ros-one-cpp-common - cpp_common contains C++ code for doing things that are not necess
+Changes:
+ ros-one-cpp-common (0.7.3-2024.10.11.14.23) sid; urgency=high
+ .
+   * Changed maintainer to Martin Pecka
+   * Contributors: Martin Pecka
+Checksums-Sha1:
+ 8859d36b527a7f3c8af09b20f70f1e50106051d6 142596 ros-one-cpp-common-dbgsym_0.7.3-2024.10.11.14.23_amd64.deb
+ 5e3c63e5d3c665714a9a802f84b268ad931412e4 8014 ros-one-cpp-common_0.7.3-2024.10.11.14.23_amd64.buildinfo
+ 540f9017ffdc119191779250bb8d3432fae85335 22332 ros-one-cpp-common_0.7.3-2024.10.11.14.23_amd64.deb
+Checksums-Sha256:
+ 16ec12ef6d23a37fec1ed827c2d52eb8c3eca58a42d54f34a427a4232181c430 142596 ros-one-cpp-common-dbgsym_0.7.3-2024.10.11.14.23_amd64.deb
+ 1432fc863aa9425ff44eb4f82dbe097d8bf956f22d8ae4e14ca4b0f0d994b798 8014 ros-one-cpp-common_0.7.3-2024.10.11.14.23_amd64.buildinfo
+ fbd9fc3ecf39dbbe7de63400a2292d7bf8b9ccbf9d37470c919d7e2ebb980ece 22332 ros-one-cpp-common_0.7.3-2024.10.11.14.23_amd64.deb
+Files:
+ 6f71c51bc30c192335e602353503a05e 142596 debug optional ros-one-cpp-common-dbgsym_0.7.3-2024.10.11.14.23_amd64.deb
+ 51ccfbe1f13baef762f9f503cbefd9f7 8014 misc optional ros-one-cpp-common_0.7.3-2024.10.11.14.23_amd64.buildinfo
+ 0e234cfbc8539e42a44fec98fa92cc1d 22332 misc optional ros-one-cpp-common_0.7.3-2024.10.11.14.23_amd64.deb

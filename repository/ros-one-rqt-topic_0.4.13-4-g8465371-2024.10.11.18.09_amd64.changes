@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 18 Nov 2021 00:00:00 -0000
+Source: ros-one-rqt-topic
+Binary: ros-one-rqt-topic
+Architecture: amd64
+Version: 0.4.13-4-g8465371-2024.10.11.18.09
+Distribution: sid
+Urgency: high
+Maintainer: Dorian Scholz <scholz@sim.tu-darmstadt.de>
+Changed-By: Dorian Scholz <scholz@sim.tu-darmstadt.de>
+Description:
+ ros-one-rqt-topic - rqt_topic provides a GUI plugin for displaying debug information
+Changes:
+ ros-one-rqt-topic (0.4.13-4-g8465371-2024.10.11.18.09) sid; urgency=high
+ .
+   * fix python3 install (#36 <https://github.com/ros-visualization/rqt_topic/issues/36>)
+   * Update Open Robotics Maintainer (#27 <https://github.com/ros-visualization/rqt_topic/issues/27>)
+   * fix shebang line for python3 (#18 <https://github.com/ros-visualization/rqt_topic/issues/18>)
+   * Contributors: Mabel Zhang, Mikael Arguedas, Scott K Logan
+Checksums-Sha1:
+ 993c51fb9c2d38ad7ac620cdb6e306e5a57a22f8 6989 ros-one-rqt-topic_0.4.13-4-g8465371-2024.10.11.18.09_amd64.buildinfo
+ 5a93a3ebe530419da0c5c56a49f9e32f0958ac42 24644 ros-one-rqt-topic_0.4.13-4-g8465371-2024.10.11.18.09_amd64.deb
+Checksums-Sha256:
+ 9f57f637ccc377067c61fb53f5efa20d7a1c1fbb3caa34e1ec0f432ca3b6e5be 6989 ros-one-rqt-topic_0.4.13-4-g8465371-2024.10.11.18.09_amd64.buildinfo
+ 58cf77b00b1ea6accc567d7d03f64bc523ad632e8b13e04122a2f782d3f65f2f 24644 ros-one-rqt-topic_0.4.13-4-g8465371-2024.10.11.18.09_amd64.deb
+Files:
+ 71d4412df1216714fa8b73d50d5ef29d 6989 misc optional ros-one-rqt-topic_0.4.13-4-g8465371-2024.10.11.18.09_amd64.buildinfo
+ 80c8830507c5f5b16875e14aaa6ab8bc 24644 misc optional ros-one-rqt-topic_0.4.13-4-g8465371-2024.10.11.18.09_amd64.deb

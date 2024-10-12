@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Wed, 15 Feb 2023 00:00:00 -0000
+Source: ros-one-ros-comm
+Binary: ros-one-ros-comm
+Architecture: amd64
+Version: 1.15.14-40-g164a2ac73-2024.10.11.15.42
+Distribution: sid
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-ros-comm - ROS communications-related packages, including core client librar
+Changes:
+ ros-one-ros-comm (1.15.14-40-g164a2ac73-2024.10.11.15.42) sid; urgency=high
+Checksums-Sha1:
+ 2f117947d8ced904f7a6aed2be40c9efc08cf414 6997 ros-one-ros-comm_1.15.14-40-g164a2ac73-2024.10.11.15.42_amd64.buildinfo
+ ab02a5367b1a6dfedc3a11b186d661d6a90966ba 3784 ros-one-ros-comm_1.15.14-40-g164a2ac73-2024.10.11.15.42_amd64.deb
+Checksums-Sha256:
+ 9eb7b323d67f52904047a03800fc97ab25c18f721620950ef6969d3ec7039255 6997 ros-one-ros-comm_1.15.14-40-g164a2ac73-2024.10.11.15.42_amd64.buildinfo
+ 39675efa6c7e1d821cdfb9fcc8590ae15617d8f61c37a8e9857f3c02de924617 3784 ros-one-ros-comm_1.15.14-40-g164a2ac73-2024.10.11.15.42_amd64.deb
+Files:
+ 2f5d097f58a2e27679e9e3a8e57ae1d4 6997 misc optional ros-one-ros-comm_1.15.14-40-g164a2ac73-2024.10.11.15.42_amd64.buildinfo
+ e7bf4822ab508474b4efb9edfc68b35e 3784 misc optional ros-one-ros-comm_1.15.14-40-g164a2ac73-2024.10.11.15.42_amd64.deb

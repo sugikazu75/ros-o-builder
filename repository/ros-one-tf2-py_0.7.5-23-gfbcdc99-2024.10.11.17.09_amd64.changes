@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Fri, 13 Oct 2023 00:00:00 -0000
+Source: ros-one-tf2-py
+Binary: ros-one-tf2-py ros-one-tf2-py-dbgsym
+Architecture: amd64
+Version: 0.7.5-23-gfbcdc99-2024.10.11.17.09
+Distribution: sid
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2-py - The tf2_py package
+Changes:
+ ros-one-tf2-py (0.7.5-23-gfbcdc99-2024.10.11.17.09) sid; urgency=high
+ .
+   * Fix(tf2_py) potential memory leak (#544 <https://github.com/ros/geometry2/issues/544>)
+   * Contributors: Matthijs van der Burgh
+Checksums-Sha1:
+ ef1373dc6cb84bc421a55308fce01e3270797df8 211912 ros-one-tf2-py-dbgsym_0.7.5-23-gfbcdc99-2024.10.11.17.09_amd64.deb
+ 672a5a6749566f8d7739826b6bb3092403a81c25 11302 ros-one-tf2-py_0.7.5-23-gfbcdc99-2024.10.11.17.09_amd64.buildinfo
+ 91ac1a8c929f4d3b709e072d598aadbca87ce7fb 31364 ros-one-tf2-py_0.7.5-23-gfbcdc99-2024.10.11.17.09_amd64.deb
+Checksums-Sha256:
+ b1941b8555b122ad85b096680d0482b7528ddb6b4ecb7d5a5be249584b77ac37 211912 ros-one-tf2-py-dbgsym_0.7.5-23-gfbcdc99-2024.10.11.17.09_amd64.deb
+ 6275f7428bfdc053b110ca59b8070c8996752fce448d72fb7ef3d5aced4b63c8 11302 ros-one-tf2-py_0.7.5-23-gfbcdc99-2024.10.11.17.09_amd64.buildinfo
+ a2ae1c5f585e1def56572ac7917f299d31df4a28fe7c825d5df8f179b6302310 31364 ros-one-tf2-py_0.7.5-23-gfbcdc99-2024.10.11.17.09_amd64.deb
+Files:
+ 6651763758ab73d82bdb802aa6fddc1c 211912 debug optional ros-one-tf2-py-dbgsym_0.7.5-23-gfbcdc99-2024.10.11.17.09_amd64.deb
+ 38bc44112f3dc8c1b1582c3e48fadb8e 11302 misc optional ros-one-tf2-py_0.7.5-23-gfbcdc99-2024.10.11.17.09_amd64.buildinfo
+ e093d993243ac966e1dde2e8ec542bab 31364 misc optional ros-one-tf2-py_0.7.5-23-gfbcdc99-2024.10.11.17.09_amd64.deb

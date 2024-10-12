@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-plugins
+Binary: ros-one-moveit-plugins
+Architecture: amd64
+Version: 1.1.16-2024.10.11.19.28
+Distribution: sid
+Urgency: high
+Maintainer: Michael Görner <me@v4hn.de>
+Changed-By: Michael Görner <me@v4hn.de>
+Description:
+ ros-one-moveit-plugins - Metapackage for MoveIt plugins.
+Changes:
+ ros-one-moveit-plugins (1.1.16-2024.10.11.19.28) sid; urgency=high
+Checksums-Sha1:
+ 7ece9bae2bf59740fa9489276ad1ae988deb497e 6967 ros-one-moveit-plugins_1.1.16-2024.10.11.19.28_amd64.buildinfo
+ 34c643fb7ca213a54d04d7076e18fa36adb5fdc4 3304 ros-one-moveit-plugins_1.1.16-2024.10.11.19.28_amd64.deb
+Checksums-Sha256:
+ f5aabbaf1f923a82f7dee77ef6eed9282990abcc668e3aeb5d12a44b4845678b 6967 ros-one-moveit-plugins_1.1.16-2024.10.11.19.28_amd64.buildinfo
+ 98ecde54f1c2c3cfd898bb7d37067f6f690dfa5cc5d649bec527a24f20ae9266 3304 ros-one-moveit-plugins_1.1.16-2024.10.11.19.28_amd64.deb
+Files:
+ c7756f18ac603fc6714f2c2a079a3ff3 6967 misc optional ros-one-moveit-plugins_1.1.16-2024.10.11.19.28_amd64.buildinfo
+ a1fa17cde2c21268922a630564135f36 3304 misc optional ros-one-moveit-plugins_1.1.16-2024.10.11.19.28_amd64.deb

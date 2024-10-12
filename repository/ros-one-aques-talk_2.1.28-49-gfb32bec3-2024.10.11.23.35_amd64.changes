@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-aques-talk
+Binary: ros-one-aques-talk
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.11.23.35
+Distribution: sid
+Urgency: high
+Maintainer: Kei Okada <kei.okada@gmail.com>
+Changed-By: Kei Okada <kei.okada@gmail.com>
+Description:
+ ros-one-aques-talk - ROS interface aques_talk demo program
+Changes:
+ ros-one-aques-talk (2.1.28-49-gfb32bec3-2024.10.11.23.35) sid; urgency=high
+Checksums-Sha1:
+ b906d4de163307c7c7089c789f6f241bffcd0e9d 11373 ros-one-aques-talk_2.1.28-49-gfb32bec3-2024.10.11.23.35_amd64.buildinfo
+ 01faed91b6f797b7534a7d12f6ec2be699bd2b51 9020 ros-one-aques-talk_2.1.28-49-gfb32bec3-2024.10.11.23.35_amd64.deb
+Checksums-Sha256:
+ 58479264733a1c580b0e2e9362f5a76488f78dc890f35c4cbdecd8911538c8de 11373 ros-one-aques-talk_2.1.28-49-gfb32bec3-2024.10.11.23.35_amd64.buildinfo
+ f32ae155b7a69e3dd26d0b35656d2c750f24b3a2d79c52413fc3587316aac148 9020 ros-one-aques-talk_2.1.28-49-gfb32bec3-2024.10.11.23.35_amd64.deb
+Files:
+ 9e81198d86802f5c352d3ed564e2842e 11373 misc optional ros-one-aques-talk_2.1.28-49-gfb32bec3-2024.10.11.23.35_amd64.buildinfo
+ 0187467c4b96b1f393d7885dac75bebb 9020 misc optional ros-one-aques-talk_2.1.28-49-gfb32bec3-2024.10.11.23.35_amd64.deb

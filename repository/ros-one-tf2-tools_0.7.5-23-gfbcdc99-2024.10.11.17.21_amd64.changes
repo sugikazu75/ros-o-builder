@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Fri, 13 Oct 2023 00:00:00 -0000
+Source: ros-one-tf2-tools
+Binary: ros-one-tf2-tools
+Architecture: amd64
+Version: 0.7.5-23-gfbcdc99-2024.10.11.17.21
+Distribution: sid
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2-tools - tf2_tools
+Changes:
+ ros-one-tf2-tools (0.7.5-23-gfbcdc99-2024.10.11.17.21) sid; urgency=high
+Checksums-Sha1:
+ 3e0c96babb46093ac151d3fcfec447f8fb86b232 11851 ros-one-tf2-tools_0.7.5-23-gfbcdc99-2024.10.11.17.21_amd64.buildinfo
+ 6513ae2cf131e787f1e8d6616d3e07a00fffc847 11480 ros-one-tf2-tools_0.7.5-23-gfbcdc99-2024.10.11.17.21_amd64.deb
+Checksums-Sha256:
+ 5e45dc3484dec0803ae3fc8792d9a26a34ab16226010ef281b74324210eefa44 11851 ros-one-tf2-tools_0.7.5-23-gfbcdc99-2024.10.11.17.21_amd64.buildinfo
+ 7970ae2a2daee074538d0639845d5684c36d2c20e6e03cf3a2d53d6562ac0bb0 11480 ros-one-tf2-tools_0.7.5-23-gfbcdc99-2024.10.11.17.21_amd64.deb
+Files:
+ 1834555961057a2a7eabe92a30f6a1fe 11851 misc optional ros-one-tf2-tools_0.7.5-23-gfbcdc99-2024.10.11.17.21_amd64.buildinfo
+ e443aba07829b3649ef4dd5a83a1f755 11480 misc optional ros-one-tf2-tools_0.7.5-23-gfbcdc99-2024.10.11.17.21_amd64.deb

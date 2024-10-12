@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-mini-maxwell
+Binary: ros-one-mini-maxwell
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.12.00.59
+Distribution: sid
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-mini-maxwell - mini_maxwell
+Changes:
+ ros-one-mini-maxwell (2.1.28-49-gfb32bec3-2024.10.12.00.59) sid; urgency=high
+Checksums-Sha1:
+ 4a63030fa03e7963e0ecdae35ba158e5392bfbc2 13291 ros-one-mini-maxwell_2.1.28-49-gfb32bec3-2024.10.12.00.59_amd64.buildinfo
+ 7e296050aeb66301166a5f8a487e7eed676dcb57 27724 ros-one-mini-maxwell_2.1.28-49-gfb32bec3-2024.10.12.00.59_amd64.deb
+Checksums-Sha256:
+ 9d01ad4c5e5ca6f00a0cdafe8cb586e618faa6c35f203972a7e75c7a92984beb 13291 ros-one-mini-maxwell_2.1.28-49-gfb32bec3-2024.10.12.00.59_amd64.buildinfo
+ dc9b78092d3034a3dc7b654dc4855a1e453a674e3d4095e27bbd399755da37bb 27724 ros-one-mini-maxwell_2.1.28-49-gfb32bec3-2024.10.12.00.59_amd64.deb
+Files:
+ 6234a6af9d1f831f1eae953a34c7fdff 13291 misc optional ros-one-mini-maxwell_2.1.28-49-gfb32bec3-2024.10.12.00.59_amd64.buildinfo
+ 4c7856e77ac75d64c3635b954dad6e0a 27724 misc optional ros-one-mini-maxwell_2.1.28-49-gfb32bec3-2024.10.12.00.59_amd64.deb

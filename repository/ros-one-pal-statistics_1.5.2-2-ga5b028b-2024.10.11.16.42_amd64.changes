@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Thu, 16 May 2024 00:00:00 -0000
+Source: ros-one-pal-statistics
+Binary: ros-one-pal-statistics ros-one-pal-statistics-dbgsym
+Architecture: amd64
+Version: 1.5.2-2-ga5b028b-2024.10.11.16.42
+Distribution: sid
+Urgency: high
+Maintainer: victor <victor.lopez@pal-robotics.com>
+Changed-By: victor <victor.lopez@pal-robotics.com>
+Description:
+ ros-one-pal-statistics - The pal_statistics package
+Changes:
+ ros-one-pal-statistics (1.5.2-2-ga5b028b-2024.10.11.16.42) sid; urgency=high
+ .
+   * do not rely on extension for std::vector<bool>
+     The standard does not define std::swap() for the bit proxy objects,
+     but defines a static method instead. This broke with clang++ 14.0.6 over
+     here.
+     See here for more details:
+     https://stackoverflow.com/a/58660208/21260084
+   * Contributors: v4hn
+Checksums-Sha1:
+ 9a715daaf74ceb26f6eb9ee27a6f6d24dc3579f7 1839808 ros-one-pal-statistics-dbgsym_1.5.2-2-ga5b028b-2024.10.11.16.42_amd64.deb
+ 8765980db52294d98658a199d21d594761aab531 19308 ros-one-pal-statistics_1.5.2-2-ga5b028b-2024.10.11.16.42_amd64.buildinfo
+ ae47964aadef05d9ac205c182895b0348f543db4 122960 ros-one-pal-statistics_1.5.2-2-ga5b028b-2024.10.11.16.42_amd64.deb
+Checksums-Sha256:
+ ec33b91684a69fc5079c83e763099db9e08982dd3130049ff772336a1e8698c1 1839808 ros-one-pal-statistics-dbgsym_1.5.2-2-ga5b028b-2024.10.11.16.42_amd64.deb
+ fbe90b031261857347bd55b968f4d2b37cb0713dbf2acd6bed14694d2b195ee4 19308 ros-one-pal-statistics_1.5.2-2-ga5b028b-2024.10.11.16.42_amd64.buildinfo
+ d096689f78f65d9c6953b419e86ed9527c6164a632a32986b919bad18b6eb7ab 122960 ros-one-pal-statistics_1.5.2-2-ga5b028b-2024.10.11.16.42_amd64.deb
+Files:
+ 7e9ca08bf1fdeeea48a13e2fa3630439 1839808 debug optional ros-one-pal-statistics-dbgsym_1.5.2-2-ga5b028b-2024.10.11.16.42_amd64.deb
+ fcba3e5968f5856f6f24de4397fa5b0f 19308 misc optional ros-one-pal-statistics_1.5.2-2-ga5b028b-2024.10.11.16.42_amd64.buildinfo
+ baee7c619546b7d3f2b9d1d5425bd43a 122960 misc optional ros-one-pal-statistics_1.5.2-2-ga5b028b-2024.10.11.16.42_amd64.deb

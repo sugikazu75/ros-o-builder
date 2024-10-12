@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-opt-camera
+Binary: ros-one-opt-camera ros-one-opt-camera-dbgsym
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.12.01.12
+Distribution: sid
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-opt-camera - opt_camera
+Changes:
+ ros-one-opt-camera (2.1.28-49-gfb32bec3-2024.10.12.01.12) sid; urgency=high
+Checksums-Sha1:
+ ba66f18ea6c0dd74a5e11c0fa59d92cc5f298be0 1255808 ros-one-opt-camera-dbgsym_2.1.28-49-gfb32bec3-2024.10.12.01.12_amd64.deb
+ 43352c216682af4b490488a47955281f00176d15 29481 ros-one-opt-camera_2.1.28-49-gfb32bec3-2024.10.12.01.12_amd64.buildinfo
+ adc4b8d35f1bed9656b27aaedac47d94637c5e7f 109884 ros-one-opt-camera_2.1.28-49-gfb32bec3-2024.10.12.01.12_amd64.deb
+Checksums-Sha256:
+ 4ca91f6d3246e2484c523ae56898de218a7e7051982c2c95a190b9e5226d5079 1255808 ros-one-opt-camera-dbgsym_2.1.28-49-gfb32bec3-2024.10.12.01.12_amd64.deb
+ a340b7412db1a3a5e7d13ad71b9e5bc699f132ac012b1c779dd677feae80f16f 29481 ros-one-opt-camera_2.1.28-49-gfb32bec3-2024.10.12.01.12_amd64.buildinfo
+ 49aeefa3c60bab8208a97217bc558e49968d6dc025ef23b960972a7bc87ba682 109884 ros-one-opt-camera_2.1.28-49-gfb32bec3-2024.10.12.01.12_amd64.deb
+Files:
+ c167443722af12278c014e2483efc2c8 1255808 debug optional ros-one-opt-camera-dbgsym_2.1.28-49-gfb32bec3-2024.10.12.01.12_amd64.deb
+ d307fc1bd92d646287eb3a72cf73685f 29481 misc optional ros-one-opt-camera_2.1.28-49-gfb32bec3-2024.10.12.01.12_amd64.buildinfo
+ 4557e5bff31c79c38e8e714654f7074c 109884 misc optional ros-one-opt-camera_2.1.28-49-gfb32bec3-2024.10.12.01.12_amd64.deb

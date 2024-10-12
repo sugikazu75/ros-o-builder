@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Fri, 25 Mar 2022 00:00:00 -0000
+Source: ros-one-rqt-gui-py
+Binary: ros-one-rqt-gui-py
+Architecture: amd64
+Version: 0.5.2-8-gb606144-2024.10.11.17.37
+Distribution: sid
+Urgency: high
+Maintainer: Dharini Dutia <dharini@openrobotics.org>
+Changed-By: Dharini Dutia <dharini@openrobotics.org>
+Description:
+ ros-one-rqt-gui-py - rqt_gui_py enables GUI plugins to use the Python client library f
+Changes:
+ ros-one-rqt-gui-py (0.5.2-8-gb606144-2024.10.11.17.37) sid; urgency=high
+ .
+   * Update maintainers (#233 <https://github.com/ros-visualization/rqt/issues/233>) (#237 <https://github.com/ros-visualization/rqt/issues/237>)
+   * Contributors: Michael Jeronimo
+Checksums-Sha1:
+ dbf580500c2d11b1f65a3b516c1eb6d4801b943d 15393 ros-one-rqt-gui-py_0.5.2-8-gb606144-2024.10.11.17.37_amd64.buildinfo
+ 60bc141326963c6c09eebac9ff656325dc63548d 10864 ros-one-rqt-gui-py_0.5.2-8-gb606144-2024.10.11.17.37_amd64.deb
+Checksums-Sha256:
+ d465f6ec0364fb1cef4123d5d918f51fae424dd69c521d0b65f7211e3eb87928 15393 ros-one-rqt-gui-py_0.5.2-8-gb606144-2024.10.11.17.37_amd64.buildinfo
+ cd59fdf45b6634b8457abefec3da812fb9a1e4778705cc038263f1695db1521e 10864 ros-one-rqt-gui-py_0.5.2-8-gb606144-2024.10.11.17.37_amd64.deb
+Files:
+ e7a9637999b8ad50d3e4a79cd4ea0e48 15393 misc optional ros-one-rqt-gui-py_0.5.2-8-gb606144-2024.10.11.17.37_amd64.buildinfo
+ 468f8ab31e3ee3fde8e85964e1e08a18 10864 misc optional ros-one-rqt-gui-py_0.5.2-8-gb606144-2024.10.11.17.37_amd64.deb

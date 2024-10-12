@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-slic
+Binary: ros-one-slic
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.12.01.58
+Distribution: sid
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-slic - SLIC-Superpizel ROS Wrapper This file contains the class elements
+Changes:
+ ros-one-slic (2.1.28-49-gfb32bec3-2024.10.12.01.58) sid; urgency=high
+Checksums-Sha1:
+ 9f04441460f5fd1014895a25003ae9050dc1c32d 17308 ros-one-slic_2.1.28-49-gfb32bec3-2024.10.12.01.58_amd64.buildinfo
+ b8d523227871f86890afd6a4b1ecb10f2a7d09ea 3132 ros-one-slic_2.1.28-49-gfb32bec3-2024.10.12.01.58_amd64.deb
+Checksums-Sha256:
+ 5aec9852fd818377581af3fa4d2f6e6967b9b464a578b4718f1038c93edf1262 17308 ros-one-slic_2.1.28-49-gfb32bec3-2024.10.12.01.58_amd64.buildinfo
+ b1f20ad7fa0bac6a12cf10789f1e86a32fb1f767d0770ccb28879e60e41e7591 3132 ros-one-slic_2.1.28-49-gfb32bec3-2024.10.12.01.58_amd64.deb
+Files:
+ fdfb197720088d01712ce9f18db3f88c 17308 misc optional ros-one-slic_2.1.28-49-gfb32bec3-2024.10.12.01.58_amd64.buildinfo
+ 73b05a4338afba54cbedce01fb329062 3132 misc optional ros-one-slic_2.1.28-49-gfb32bec3-2024.10.12.01.58_amd64.deb

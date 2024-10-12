@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Tue, 23 Mar 2021 00:00:00 -0000
+Source: ros-one-wge100-driver
+Binary: ros-one-wge100-driver
+Architecture: amd64
+Version: 1.8.5-4-g9768e2e-2024.10.11.21.44
+Distribution: sid
+Urgency: high
+Maintainer: Austin Hendrix <ahendrix@willowgarage.com>
+Changed-By: Austin Hendrix <ahendrix@willowgarage.com>
+Description:
+ ros-one-wge100-driver - This stack contains the ROS driver and firmware for the WGE100 ca
+Changes:
+ ros-one-wge100-driver (1.8.5-4-g9768e2e-2024.10.11.21.44) sid; urgency=high
+Checksums-Sha1:
+ 84672625e2544f8c9abcb187732af3961d9907c0 7002 ros-one-wge100-driver_1.8.5-4-g9768e2e-2024.10.11.21.44_amd64.buildinfo
+ f3ecde27a38c48d73455656cc5e5c4ff965e98f2 2620 ros-one-wge100-driver_1.8.5-4-g9768e2e-2024.10.11.21.44_amd64.deb
+Checksums-Sha256:
+ 3c9c58ed6c92bbc1da26098e53aaeb772d4b1d4b61f1eb28f1ca8f5a3fd32eab 7002 ros-one-wge100-driver_1.8.5-4-g9768e2e-2024.10.11.21.44_amd64.buildinfo
+ edc21ea503b1c3494e538f2878d32da395bd2c018043556f345a613697bacd95 2620 ros-one-wge100-driver_1.8.5-4-g9768e2e-2024.10.11.21.44_amd64.deb
+Files:
+ f45aa0771481f5b4d42f2afb26583fcf 7002 misc optional ros-one-wge100-driver_1.8.5-4-g9768e2e-2024.10.11.21.44_amd64.buildinfo
+ 6dcf9388f06264a92f185e8aa3d4a374 2620 misc optional ros-one-wge100-driver_1.8.5-4-g9768e2e-2024.10.11.21.44_amd64.deb

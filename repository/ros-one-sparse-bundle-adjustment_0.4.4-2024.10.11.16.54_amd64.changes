@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Sat, 28 Mar 2020 00:00:00 -0000
+Source: ros-one-sparse-bundle-adjustment
+Binary: ros-one-sparse-bundle-adjustment ros-one-sparse-bundle-adjustment-dbgsym
+Architecture: amd64
+Version: 0.4.4-2024.10.11.16.54
+Distribution: sid
+Urgency: high
+Maintainer: Michael Ferguson <mfergs7@gmail.com>
+Changed-By: Michael Ferguson <mfergs7@gmail.com>
+Description:
+ ros-one-sparse-bundle-adjustment - ROS wrapper for the sparse bundle adjustment (sba) library (neede
+Changes:
+ ros-one-sparse-bundle-adjustment (0.4.4-2024.10.11.16.54) sid; urgency=high
+ .
+   * fix unitialized variable causing crashes (#10 <https://github.com/ros-perception/sparse_bundle_adjustment/issues/10>)
+   * Contributors: Michael Ferguson
+Checksums-Sha1:
+ badb51c1155c90edf87de63d873ae83702952cf9 9976148 ros-one-sparse-bundle-adjustment-dbgsym_0.4.4-2024.10.11.16.54_amd64.deb
+ 69420147917b92ff724556c5df5bda90fe09036a 10670 ros-one-sparse-bundle-adjustment_0.4.4-2024.10.11.16.54_amd64.buildinfo
+ ddee02733a100f616646756794b5f69fe1162f16 144960 ros-one-sparse-bundle-adjustment_0.4.4-2024.10.11.16.54_amd64.deb
+Checksums-Sha256:
+ c364f8ff775592783f999fb7745eaa88c212f0ba4f3414a7f0f38964b529142b 9976148 ros-one-sparse-bundle-adjustment-dbgsym_0.4.4-2024.10.11.16.54_amd64.deb
+ 75523e0fc62d917c3770e54e965433b42c2c9ae980c4633dc30fcfca7c298e09 10670 ros-one-sparse-bundle-adjustment_0.4.4-2024.10.11.16.54_amd64.buildinfo
+ 73ee051703604b901cbac16e3b7d09b99a4243be3714ffc8976a44547e6f425c 144960 ros-one-sparse-bundle-adjustment_0.4.4-2024.10.11.16.54_amd64.deb
+Files:
+ fa2012589931a156a03a0ddfea9881c9 9976148 debug optional ros-one-sparse-bundle-adjustment-dbgsym_0.4.4-2024.10.11.16.54_amd64.deb
+ 44e709be485370784291ce34fe598973 10670 misc optional ros-one-sparse-bundle-adjustment_0.4.4-2024.10.11.16.54_amd64.buildinfo
+ 853571fbfe126f6958c40ba27a1a6472 144960 misc optional ros-one-sparse-bundle-adjustment_0.4.4-2024.10.11.16.54_amd64.deb

@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Wed, 05 May 2021 00:00:00 -0000
+Source: ros-one-trac-ik-python
+Binary: ros-one-trac-ik-python ros-one-trac-ik-python-dbgsym
+Architecture: amd64
+Version: 0-2024.10.11.22.17
+Distribution: sid
+Urgency: high
+Maintainer: Sam Pfeiffer <Sammy.Pfeiffer@student.uts.edu.au>
+Changed-By: Sam Pfeiffer <Sammy.Pfeiffer@student.uts.edu.au>
+Description:
+ ros-one-trac-ik-python - The trac_ik_python package contains a python wrapper using SWIG f
+Changes:
+ ros-one-trac-ik-python (0-2024.10.11.22.17) sid; urgency=high
+ .
+   * propagated nlopt deps to sat packages
+   * Contributors: Stephen Hart
+Checksums-Sha1:
+ 0fbf2be4b14d87bb74c4c14830be5cea5ff05e4e 1216320 ros-one-trac-ik-python-dbgsym_0-2024.10.11.22.17_amd64.deb
+ 22959ddd390ec05e870ab022df35ae3c4539d2de 22635 ros-one-trac-ik-python_0-2024.10.11.22.17_amd64.buildinfo
+ 23807402da57d8016b9f8a8f9d6842fc38810994 110148 ros-one-trac-ik-python_0-2024.10.11.22.17_amd64.deb
+Checksums-Sha256:
+ 012734c1f7bd9731e89e951b7549ae80344540de445b6cc38d75e40f86d702b7 1216320 ros-one-trac-ik-python-dbgsym_0-2024.10.11.22.17_amd64.deb
+ 43bbc3a5cf633533372c4b5f112f88a53141d62ec0cdd99e8184d336770058b1 22635 ros-one-trac-ik-python_0-2024.10.11.22.17_amd64.buildinfo
+ cbd2ca21a380d25d38dfdb4dcb9f3b8474b6d321fd582e507d91732f2b534bf8 110148 ros-one-trac-ik-python_0-2024.10.11.22.17_amd64.deb
+Files:
+ 3a78f066bc543bfbc85ba8df67edca64 1216320 debug optional ros-one-trac-ik-python-dbgsym_0-2024.10.11.22.17_amd64.deb
+ d6d1959bef3bdebcdbfec2c2105c761d 22635 misc optional ros-one-trac-ik-python_0-2024.10.11.22.17_amd64.buildinfo
+ 2b9edbd9e8ded489364fbc8836f57002 110148 misc optional ros-one-trac-ik-python_0-2024.10.11.22.17_amd64.deb

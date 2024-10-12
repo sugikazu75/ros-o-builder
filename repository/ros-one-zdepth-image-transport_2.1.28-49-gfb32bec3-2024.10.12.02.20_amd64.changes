@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-zdepth-image-transport
+Binary: ros-one-zdepth-image-transport
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.12.02.20
+Distribution: sid
+Urgency: high
+Maintainer: Shingo Kitagawa <shingogo.5511@gmail.com>
+Changed-By: Shingo Kitagawa <shingogo.5511@gmail.com>
+Description:
+ ros-one-zdepth-image-transport - The zdepth_image_transport package
+Changes:
+ ros-one-zdepth-image-transport (2.1.28-49-gfb32bec3-2024.10.12.02.20) sid; urgency=high
+Checksums-Sha1:
+ 200270870eada2d2521e192d5a3c5a1774632ba1 12067 ros-one-zdepth-image-transport_2.1.28-49-gfb32bec3-2024.10.12.02.20_amd64.buildinfo
+ f3ac4dcd2d02c03eb38dfe9ee594b7a6c5c461e6 18828 ros-one-zdepth-image-transport_2.1.28-49-gfb32bec3-2024.10.12.02.20_amd64.deb
+Checksums-Sha256:
+ 9f48daf8261d42dd9a9f9df056fc729069dc4e0f06c5fe76473f26107a51e690 12067 ros-one-zdepth-image-transport_2.1.28-49-gfb32bec3-2024.10.12.02.20_amd64.buildinfo
+ c769be9b1de2a43deb54a530ba5202db0c44de74de2a1f815be4e61a6d07313b 18828 ros-one-zdepth-image-transport_2.1.28-49-gfb32bec3-2024.10.12.02.20_amd64.deb
+Files:
+ 16b3a983c016f5852807584344dd787a 12067 misc optional ros-one-zdepth-image-transport_2.1.28-49-gfb32bec3-2024.10.12.02.20_amd64.buildinfo
+ 58601131b392a654375fa40063785cf3 18828 misc optional ros-one-zdepth-image-transport_2.1.28-49-gfb32bec3-2024.10.12.02.20_amd64.deb

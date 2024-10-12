@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-diagnostic-updater
+Binary: ros-one-diagnostic-updater ros-one-diagnostic-updater-dbgsym
+Architecture: amd64
+Version: 1.11.0-7-gda86650-2024.10.11.17.51
+Distribution: sid
+Urgency: high
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Changed-By: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Description:
+ ros-one-diagnostic-updater - diagnostic_updater contains tools for easily updating diagnostics
+Changes:
+ ros-one-diagnostic-updater (1.11.0-7-gda86650-2024.10.11.17.51) sid; urgency=high
+ .
+   * Use DiagnosticLevel enum instead of hardcoded integers (#208 <https://github.com/ros/diagnostics/issues/208>)
+     Spellcheck fixes
+   * Contributors: Amilcar Lucas
+Checksums-Sha1:
+ c3462c367d53436790947691a0641a0646775af8 341224 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2024.10.11.17.51_amd64.deb
+ 44e57b481fe32cb418ef9758a9548a7845ec064a 11896 ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.11.17.51_amd64.buildinfo
+ aac3e0798d40f29c8b133546dafaa727bb135a8f 59412 ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.11.17.51_amd64.deb
+Checksums-Sha256:
+ fd57b808e35b99b65a3b58cabb5ffadd354e3d2266842fa319038e8022b783ba 341224 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2024.10.11.17.51_amd64.deb
+ 153eaf87408cd49b0aae00b238cfc24bc893f31c5ab30757a1aa0c92a9e7a0b5 11896 ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.11.17.51_amd64.buildinfo
+ b7eb14da36b06f8543b8fd7521b423d70282d5014d4a609db32d73637438458e 59412 ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.11.17.51_amd64.deb
+Files:
+ 025101406397b688859e9ebdc39eae90 341224 debug optional ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2024.10.11.17.51_amd64.deb
+ 8430b1aac064a53bf9938c6eb0caf4e6 11896 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.11.17.51_amd64.buildinfo
+ 2a53c8a0a873a1600ed90b34b424e4f6 59412 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.11.17.51_amd64.deb

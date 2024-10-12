@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Tue, 13 Aug 2024 00:00:00 -0000
+Source: ros-one-audio-common
+Binary: ros-one-audio-common
+Architecture: amd64
+Version: 0.3.18-2024.10.11.16.59
+Distribution: sid
+Urgency: high
+Maintainer: Austin Hendrix <namniart@gmail.com>
+Changed-By: Austin Hendrix <namniart@gmail.com>
+Description:
+ ros-one-audio-common - Common code for working with audio in ROS
+Changes:
+ ros-one-audio-common (0.3.18-2024.10.11.16.59) sid; urgency=high
+Checksums-Sha1:
+ cb81fa898f9101d5173c6b7aea4f38538e10a464 6957 ros-one-audio-common_0.3.18-2024.10.11.16.59_amd64.buildinfo
+ 797473d435785519b7e92d58459b0435835a3bb0 2972 ros-one-audio-common_0.3.18-2024.10.11.16.59_amd64.deb
+Checksums-Sha256:
+ 6599b6a7da0f2e1d15760ba825a0bca1380724da076ecd5dba40497f24258038 6957 ros-one-audio-common_0.3.18-2024.10.11.16.59_amd64.buildinfo
+ 671e8fb38d6370e0592c59c855204de5fe59453724e51a54970c1ce29c955bbe 2972 ros-one-audio-common_0.3.18-2024.10.11.16.59_amd64.deb
+Files:
+ 6839432228949aa7d7265e496dd8d959 6957 misc optional ros-one-audio-common_0.3.18-2024.10.11.16.59_amd64.buildinfo
+ 1b35aec5b2a4cbcf0af9b35fbee4db06 2972 misc optional ros-one-audio-common_0.3.18-2024.10.11.16.59_amd64.deb

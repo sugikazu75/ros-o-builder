@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Wed, 15 Feb 2023 00:00:00 -0000
+Source: ros-one-roscpp
+Binary: ros-one-roscpp ros-one-roscpp-dbgsym
+Architecture: amd64
+Version: 1.15.14-40-g164a2ac73-2024.10.11.15.58
+Distribution: sid
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-roscpp - roscpp is a C++ implementation of ROS.
+Changes:
+ ros-one-roscpp (1.15.14-40-g164a2ac73-2024.10.11.15.58) sid; urgency=high
+Checksums-Sha1:
+ 6c297e1666e06f441bb7e87657b1e6574daae4b2 12507796 ros-one-roscpp-dbgsym_1.15.14-40-g164a2ac73-2024.10.11.15.58_amd64.deb
+ 154364d3967c139e40cdf1fcadec1532ff1d8008 9899 ros-one-roscpp_1.15.14-40-g164a2ac73-2024.10.11.15.58_amd64.buildinfo
+ afb51217ef5630b3fb4c314c74ad4aa1b2442acb 528172 ros-one-roscpp_1.15.14-40-g164a2ac73-2024.10.11.15.58_amd64.deb
+Checksums-Sha256:
+ 4d6b7d0badab9724bcb7a128b6c0632082442c6ec3714314b20f66e6e4c97800 12507796 ros-one-roscpp-dbgsym_1.15.14-40-g164a2ac73-2024.10.11.15.58_amd64.deb
+ ff286fb3b54be1a3a4adf3798abb91ff5f756162b57d49ef5cad5b26ac57c249 9899 ros-one-roscpp_1.15.14-40-g164a2ac73-2024.10.11.15.58_amd64.buildinfo
+ f0805112432acbfae7b0835a06543391a4416c15150058a717bd08b734be29a8 528172 ros-one-roscpp_1.15.14-40-g164a2ac73-2024.10.11.15.58_amd64.deb
+Files:
+ 1a50c467720bd7a91bcae0b092e097b9 12507796 debug optional ros-one-roscpp-dbgsym_1.15.14-40-g164a2ac73-2024.10.11.15.58_amd64.deb
+ 79313dcf8522ee867d7629af544d0282 9899 misc optional ros-one-roscpp_1.15.14-40-g164a2ac73-2024.10.11.15.58_amd64.buildinfo
+ 024ba44ab8098a8595e03d06db193547 528172 misc optional ros-one-roscpp_1.15.14-40-g164a2ac73-2024.10.11.15.58_amd64.deb

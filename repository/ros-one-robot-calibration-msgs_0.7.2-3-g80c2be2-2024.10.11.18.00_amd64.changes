@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Fri, 23 Dec 2022 00:00:00 -0000
+Source: ros-one-robot-calibration-msgs
+Binary: ros-one-robot-calibration-msgs
+Architecture: amd64
+Version: 0.7.2-3-g80c2be2-2024.10.11.18.00
+Distribution: sid
+Urgency: high
+Maintainer: Michael Ferguson <mike@vanadiumlabs.com>
+Changed-By: Michael Ferguson <mike@vanadiumlabs.com>
+Description:
+ ros-one-robot-calibration-msgs - Messages for calibrating a robot
+Changes:
+ ros-one-robot-calibration-msgs (0.7.2-3-g80c2be2-2024.10.11.18.00) sid; urgency=high
+Checksums-Sha1:
+ 3b4401690911a5bb39bba7d2415b1a7a54d7c309 8688 ros-one-robot-calibration-msgs_0.7.2-3-g80c2be2-2024.10.11.18.00_amd64.buildinfo
+ 178231a5a32c781e9178aa930b49618dc8ebcabf 65812 ros-one-robot-calibration-msgs_0.7.2-3-g80c2be2-2024.10.11.18.00_amd64.deb
+Checksums-Sha256:
+ 8127165c91759efb44f031bd7140741a516b078b7b81596d621da145b0676216 8688 ros-one-robot-calibration-msgs_0.7.2-3-g80c2be2-2024.10.11.18.00_amd64.buildinfo
+ fe197903b3057c5e19d36924a223334cf83d096eb6e32a8e37222864764a427e 65812 ros-one-robot-calibration-msgs_0.7.2-3-g80c2be2-2024.10.11.18.00_amd64.deb
+Files:
+ dbe42144235c5d0b9524dd1173fa51fa 8688 misc optional ros-one-robot-calibration-msgs_0.7.2-3-g80c2be2-2024.10.11.18.00_amd64.buildinfo
+ f3aa474292ec106f5af0ff7c3d08dffc 65812 misc optional ros-one-robot-calibration-msgs_0.7.2-3-g80c2be2-2024.10.11.18.00_amd64.deb

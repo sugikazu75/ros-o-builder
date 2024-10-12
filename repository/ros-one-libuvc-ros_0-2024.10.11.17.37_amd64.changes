@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Sat, 20 Feb 2021 00:00:00 -0000
+Source: ros-one-libuvc-ros
+Binary: ros-one-libuvc-ros
+Architecture: amd64
+Version: 0-2024.10.11.17.37
+Distribution: sid
+Urgency: high
+Maintainer: Ken Tossell <ken@tossell.net>
+Changed-By: Ken Tossell <ken@tossell.net>
+Description:
+ ros-one-libuvc-ros - libuvc_ros metapackage
+Changes:
+ ros-one-libuvc-ros (0-2024.10.11.17.37) sid; urgency=high
+Checksums-Sha1:
+ 7ccf0dd0c1493f338e0273b7574f24460c8b9308 6927 ros-one-libuvc-ros_0-2024.10.11.17.37_amd64.buildinfo
+ 04fa7e46b0ab63895c07f5b0eb57cd652398e9c9 2732 ros-one-libuvc-ros_0-2024.10.11.17.37_amd64.deb
+Checksums-Sha256:
+ 0bdf5724dbacc4e62ac283c81078d31857f0229d633e58cb14a83ca64c83cb28 6927 ros-one-libuvc-ros_0-2024.10.11.17.37_amd64.buildinfo
+ f9ef24cb8979b85ebcf1c368438bd61f6013fba570e0d2bf83eeeafc92663e53 2732 ros-one-libuvc-ros_0-2024.10.11.17.37_amd64.deb
+Files:
+ 1ab306ccf0fa01c05c4d74b802c42bf3 6927 misc optional ros-one-libuvc-ros_0-2024.10.11.17.37_amd64.buildinfo
+ 419a5f3d6ce343374b738ba4816e0764 2732 misc optional ros-one-libuvc-ros_0-2024.10.11.17.37_amd64.deb

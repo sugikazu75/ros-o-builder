@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Tue, 13 Feb 2018 00:00:00 -0000
+Source: ros-one-pr2-mechanism-msgs
+Binary: ros-one-pr2-mechanism-msgs
+Architecture: amd64
+Version: 1.8.2-2-g992b461-2024.10.11.16.42
+Distribution: sid
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-mechanism-msgs - This package defines services that are used to communicate with t
+Changes:
+ ros-one-pr2-mechanism-msgs (1.8.2-2-g992b461-2024.10.11.16.42) sid; urgency=high
+ .
+   * change maintainer to ROS orphaned package maintainer
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 9394da1e5872632f5ce58311130deb3e87ecda71 8566 ros-one-pr2-mechanism-msgs_1.8.2-2-g992b461-2024.10.11.16.42_amd64.buildinfo
+ a7d922cd784126c4f2597c1d1d95338a0973f6df 79604 ros-one-pr2-mechanism-msgs_1.8.2-2-g992b461-2024.10.11.16.42_amd64.deb
+Checksums-Sha256:
+ b17d73156cfc73dd8937582c17e76d22b80828fffe06d9625a5720d77b6423bb 8566 ros-one-pr2-mechanism-msgs_1.8.2-2-g992b461-2024.10.11.16.42_amd64.buildinfo
+ bc22eda0485722357b039311defafac5e9334a47d4534376f63dd64e8c2eae74 79604 ros-one-pr2-mechanism-msgs_1.8.2-2-g992b461-2024.10.11.16.42_amd64.deb
+Files:
+ 838edfd3e80836d6b9c16c2fa030347a 8566 misc optional ros-one-pr2-mechanism-msgs_1.8.2-2-g992b461-2024.10.11.16.42_amd64.buildinfo
+ 9fea94670d75061e96be8ddca3227013 79604 misc optional ros-one-pr2-mechanism-msgs_1.8.2-2-g992b461-2024.10.11.16.42_amd64.deb

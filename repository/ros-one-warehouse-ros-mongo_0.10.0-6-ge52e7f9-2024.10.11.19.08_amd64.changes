@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 09 Oct 2020 00:00:00 -0000
+Source: ros-one-warehouse-ros-mongo
+Binary: ros-one-warehouse-ros-mongo ros-one-warehouse-ros-mongo-dbgsym
+Architecture: amd64
+Version: 0.10.0-6-ge52e7f9-2024.10.11.19.08
+Distribution: sid
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-one-warehouse-ros-mongo - warehouse_ros for MongoDB
+Changes:
+ ros-one-warehouse-ros-mongo (0.10.0-6-ge52e7f9-2024.10.11.19.08) sid; urgency=high
+ .
+   * clang-format-10
+   * Python3 compatibility layer for roslaunch in CMake (#35 <https://github.com/ros-planning/warehouse_ros_mongo/issues/35>)
+   * Contributors: Robert Haschke, Tyler Weaver
+Checksums-Sha1:
+ 3e4c84531544779982e3c7bf49da648cb01ea400 931796 ros-one-warehouse-ros-mongo-dbgsym_0.10.0-6-ge52e7f9-2024.10.11.19.08_amd64.deb
+ 77bc85d984ab58ec05f9264bec5a44caa2eaae85 22014 ros-one-warehouse-ros-mongo_0.10.0-6-ge52e7f9-2024.10.11.19.08_amd64.buildinfo
+ a46eb5600add780d0d856cf429ca5c8f34a7b125 67224 ros-one-warehouse-ros-mongo_0.10.0-6-ge52e7f9-2024.10.11.19.08_amd64.deb
+Checksums-Sha256:
+ 814a2830e9cd3fc44178d8e0775d303c2792bc528047b3f8d221e7d7382c495a 931796 ros-one-warehouse-ros-mongo-dbgsym_0.10.0-6-ge52e7f9-2024.10.11.19.08_amd64.deb
+ 7da1c017d74b6f9eb5e5b425c20f7234fc7ff7e4f92b1569fdee30b158f9ad99 22014 ros-one-warehouse-ros-mongo_0.10.0-6-ge52e7f9-2024.10.11.19.08_amd64.buildinfo
+ 88c5c91d22219a39484850f0e8c707bce5605cdf4c86d5b665112b1b3ba76d9d 67224 ros-one-warehouse-ros-mongo_0.10.0-6-ge52e7f9-2024.10.11.19.08_amd64.deb
+Files:
+ 39c02085f043d8041b9b47adbc90b6f9 931796 debug optional ros-one-warehouse-ros-mongo-dbgsym_0.10.0-6-ge52e7f9-2024.10.11.19.08_amd64.deb
+ 13755c1e079f850cd8679a4c51d5f7b5 22014 misc optional ros-one-warehouse-ros-mongo_0.10.0-6-ge52e7f9-2024.10.11.19.08_amd64.buildinfo
+ 0e089c58fde7812bf3f2eb03aaf0670b 67224 misc optional ros-one-warehouse-ros-mongo_0.10.0-6-ge52e7f9-2024.10.11.19.08_amd64.deb

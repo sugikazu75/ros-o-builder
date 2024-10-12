@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Thu, 13 Sep 2018 00:00:00 -0000
+Source: ros-one-openni-description
+Binary: ros-one-openni-description
+Architecture: amd64
+Version: 0-2024.10.11.20.12
+Distribution: sid
+Urgency: high
+Maintainer: Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>
+Changed-By: Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>
+Description:
+ ros-one-openni-description - Model files of OpenNI device.
+Changes:
+ ros-one-openni-description (0-2024.10.11.20.12) sid; urgency=high
+ .
+   * Remove a test_depend on pkg that are not guaranteed to be available in newer distro. #70 <https://github.com/ros-drivers/openni_camera/issues/70>
+   * Contributors: Isaac I.Y. Saito
+Checksums-Sha1:
+ de1092226142fa39e230549069bd74efe2730388 11453 ros-one-openni-description_0-2024.10.11.20.12_amd64.buildinfo
+ 5fc6d0a394ce171b33b1c22d5b511047d7977717 1680224 ros-one-openni-description_0-2024.10.11.20.12_amd64.deb
+Checksums-Sha256:
+ 3371e36ec7a32462ba62ee93d8c183dc85cb0b928cc0ee217a92d9ed4f0a2360 11453 ros-one-openni-description_0-2024.10.11.20.12_amd64.buildinfo
+ 4aee0f7953c0bb64e759fe3748e2bdf512c8cb78a52643999a70c3ad6fea405d 1680224 ros-one-openni-description_0-2024.10.11.20.12_amd64.deb
+Files:
+ 02f7d142f9b236ec202f5d3d47c6b688 11453 misc optional ros-one-openni-description_0-2024.10.11.20.12_amd64.buildinfo
+ 98572bf470c302c17877397e249ce119 1680224 misc optional ros-one-openni-description_0-2024.10.11.20.12_amd64.deb

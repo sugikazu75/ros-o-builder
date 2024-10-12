@@ -1,0 +1,6 @@
+[31m[1mCould not resolve rosdep key 'bfl'[0m
+[31m[1mTry to resolve the problem with rosdep and then continue.[0m
+ROS Distro index file associate with commit 'b6f3950d07b5ebd059d008ecedf9ce0a7652036c'[0m
+New ROS Distro index url: 'https://raw.githubusercontent.com/ros/rosdistro/b6f3950d07b5ebd059d008ecedf9ce0a7652036c/index-v4.yaml'[0m
+[1m[32m==> [0m[0mGenerating debs for [36mdebian:sid[0m for package(s) ['robot_pose_ekf'][0m[0m
+[31m[1merror: (25, 'Inappropriate ioctl for device')[0m

@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2024-10-11 15:40 ./
+drwxr-xr-x root/root         0 2024-10-11 15:40 ./opt/
+drwxr-xr-x root/root         0 2024-10-11 15:40 ./opt/ros/
+drwxr-xr-x root/root         0 2024-10-11 15:40 ./opt/ros/one/
+drwxr-xr-x root/root         0 2024-10-11 15:40 ./opt/ros/one/share/
+drwxr-xr-x root/root         0 2024-10-11 15:40 ./opt/ros/one/share/qt_gui_core/
+-rw-r--r-- root/root      1175 2024-10-11 15:36 ./opt/ros/one/share/qt_gui_core/package.xml
+drwxr-xr-x root/root         0 2024-10-11 15:40 ./usr/
+drwxr-xr-x root/root         0 2024-10-11 15:40 ./usr/share/
+drwxr-xr-x root/root         0 2024-10-11 15:40 ./usr/share/doc/
+drwxr-xr-x root/root         0 2024-10-11 15:40 ./usr/share/doc/ros-one-qt-gui-core/
+-rw-r--r-- root/root       205 2024-10-11 15:40 ./usr/share/doc/ros-one-qt-gui-core/changelog.Debian.gz
+-rw-r--r-- root/root       411 2024-10-11 15:40 ./usr/share/doc/ros-one-qt-gui-core/copyright

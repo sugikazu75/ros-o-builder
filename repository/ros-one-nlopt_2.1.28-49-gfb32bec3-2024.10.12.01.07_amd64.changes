@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-nlopt
+Binary: ros-one-nlopt ros-one-nlopt-dbgsym
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.12.01.07
+Distribution: sid
+Urgency: high
+Maintainer: Noda Shintaro <s-noda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Noda Shintaro <s-noda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-nlopt - nlopt
+Changes:
+ ros-one-nlopt (2.1.28-49-gfb32bec3-2024.10.12.01.07) sid; urgency=high
+Checksums-Sha1:
+ d387071115ef2e052307d3256387ec3943ab82da 16556 ros-one-nlopt-dbgsym_2.1.28-49-gfb32bec3-2024.10.12.01.07_amd64.deb
+ 8cb211500ea32bb32b94c3a1502272a7c505213f 10101 ros-one-nlopt_2.1.28-49-gfb32bec3-2024.10.12.01.07_amd64.buildinfo
+ f9c55ef05d45d7eadac14e381546ada7b0c2dc81 154184 ros-one-nlopt_2.1.28-49-gfb32bec3-2024.10.12.01.07_amd64.deb
+Checksums-Sha256:
+ a8f678d3c10156fb62f91e6ed83aa77eee216ceb4f21d82cba4e26029579cab6 16556 ros-one-nlopt-dbgsym_2.1.28-49-gfb32bec3-2024.10.12.01.07_amd64.deb
+ 765a6c47b7ae08635f82f18cb25aeb3086d1f73b485ab0f15c23b7251da0f1e8 10101 ros-one-nlopt_2.1.28-49-gfb32bec3-2024.10.12.01.07_amd64.buildinfo
+ 8a9d1e2190f485ba0ecb0b7e48096aa1c398a4a688fd2e563fe59b3b9cef54af 154184 ros-one-nlopt_2.1.28-49-gfb32bec3-2024.10.12.01.07_amd64.deb
+Files:
+ 3ca077eeb6962eb742e9aabe0e2e1881 16556 debug optional ros-one-nlopt-dbgsym_2.1.28-49-gfb32bec3-2024.10.12.01.07_amd64.deb
+ 6294fea2169d920c23db71fde834479f 10101 misc optional ros-one-nlopt_2.1.28-49-gfb32bec3-2024.10.12.01.07_amd64.buildinfo
+ d0b7e5fe8cb16d59f4594b4cf23da5dc 154184 misc optional ros-one-nlopt_2.1.28-49-gfb32bec3-2024.10.12.01.07_amd64.deb

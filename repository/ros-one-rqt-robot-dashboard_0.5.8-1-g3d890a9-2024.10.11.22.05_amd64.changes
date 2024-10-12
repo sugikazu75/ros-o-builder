@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 14 May 2020 00:00:00 -0000
+Source: ros-one-rqt-robot-dashboard
+Binary: ros-one-rqt-robot-dashboard
+Architecture: amd64
+Version: 0.5.8-1-g3d890a9-2024.10.11.22.05
+Distribution: sid
+Urgency: high
+Maintainer: Aaron Blasdel <ablasdel@gmail.com>
+Changed-By: Aaron Blasdel <ablasdel@gmail.com>
+Description:
+ ros-one-rqt-robot-dashboard - rqt_robot_dashboard provides an infrastructure for building robot
+Changes:
+ ros-one-rqt-robot-dashboard (0.5.8-1-g3d890a9-2024.10.11.22.05) sid; urgency=high
+ .
+   * Use setuptools instead of distutils #4 <https://github.com/ros-visualization/rqt_robot_dashboard/issues/4>
+   * Use package.xml format 3
+   * Bump CMake version to avoid CMP0048 warning
+   * Contributors: Shane Loretz, ahcorde
+Checksums-Sha1:
+ add8458a75fe964e722ad86730a4a95c5a642796 7041 ros-one-rqt-robot-dashboard_0.5.8-1-g3d890a9-2024.10.11.22.05_amd64.buildinfo
+ 7d1facc4fdfa5f3e746ca03d0921efac9eca12c5 1553640 ros-one-rqt-robot-dashboard_0.5.8-1-g3d890a9-2024.10.11.22.05_amd64.deb
+Checksums-Sha256:
+ e335291eea5f8c903d47a57d0d45bade2e48f030cbe40f5d614be191ea447dd2 7041 ros-one-rqt-robot-dashboard_0.5.8-1-g3d890a9-2024.10.11.22.05_amd64.buildinfo
+ 163734af2324867f21735d45e692e12947e8a8cc2a30f17f26806b32828c5817 1553640 ros-one-rqt-robot-dashboard_0.5.8-1-g3d890a9-2024.10.11.22.05_amd64.deb
+Files:
+ eb8915ff684aaaf9e0a05c00c899a98f 7041 misc optional ros-one-rqt-robot-dashboard_0.5.8-1-g3d890a9-2024.10.11.22.05_amd64.buildinfo
+ 7cefbf0470e7bf23c6c6c87482f96a59 1553640 misc optional ros-one-rqt-robot-dashboard_0.5.8-1-g3d890a9-2024.10.11.22.05_amd64.deb

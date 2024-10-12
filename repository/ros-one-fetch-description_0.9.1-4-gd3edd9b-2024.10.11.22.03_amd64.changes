@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Fri, 05 Mar 2021 00:00:00 -0000
+Source: ros-one-fetch-description
+Binary: ros-one-fetch-description
+Architecture: amd64
+Version: 0.9.1-4-gd3edd9b-2024.10.11.22.03
+Distribution: sid
+Urgency: high
+Maintainer: Eric Relson <erelson@fetchrobotics.com>
+Changed-By: Eric Relson <erelson@fetchrobotics.com>
+Description:
+ ros-one-fetch-description - URDF for Fetch Robot.
+Changes:
+ ros-one-fetch-description (0.9.1-4-gd3edd9b-2024.10.11.22.03) sid; urgency=high
+Checksums-Sha1:
+ 883295ed4d3061c293eda1a22d2eb91be444237a 7031 ros-one-fetch-description_0.9.1-4-gd3edd9b-2024.10.11.22.03_amd64.buildinfo
+ 44c81b5538e97d5f57d018f7c535f90af1987f2b 4727012 ros-one-fetch-description_0.9.1-4-gd3edd9b-2024.10.11.22.03_amd64.deb
+Checksums-Sha256:
+ 88434394b3944439437e0a9c5db8225ebfdafbb1a6774963f1bac125b1bca9b4 7031 ros-one-fetch-description_0.9.1-4-gd3edd9b-2024.10.11.22.03_amd64.buildinfo
+ 2a6e21b46e4820a21242e2f54db3000908a7197606ca71a415e805dc25181bc5 4727012 ros-one-fetch-description_0.9.1-4-gd3edd9b-2024.10.11.22.03_amd64.deb
+Files:
+ 53c421ae8ddc2061282b57eb70b73ce7 7031 misc optional ros-one-fetch-description_0.9.1-4-gd3edd9b-2024.10.11.22.03_amd64.buildinfo
+ a84f4957cf235de45e344f4b457fcfa4 4727012 misc optional ros-one-fetch-description_0.9.1-4-gd3edd9b-2024.10.11.22.03_amd64.deb

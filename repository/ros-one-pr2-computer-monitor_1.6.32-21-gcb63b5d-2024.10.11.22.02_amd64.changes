@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 26 May 2021 00:00:00 -0000
+Source: ros-one-pr2-computer-monitor
+Binary: ros-one-pr2-computer-monitor ros-one-pr2-computer-monitor-dbgsym
+Architecture: amd64
+Version: 1.6.32-21-gcb63b5d-2024.10.11.22.02
+Distribution: sid
+Urgency: high
+Maintainer: Dave Feil-Seifer <dave@cse.unr.edu>
+Changed-By: Dave Feil-Seifer <dave@cse.unr.edu>
+Description:
+ ros-one-pr2-computer-monitor - Monitors the computer's processor and hard drives of the PR2 and
+Changes:
+ ros-one-pr2-computer-monitor (1.6.32-21-gcb63b5d-2024.10.11.22.02) sid; urgency=high
+ .
+   * Merge pull request #268 <https://github.com/pr2/pr2_robot/issues/268> from k-okada/fix_for_noetic
+   * run 2to3 -w -fexcept .
+   * run 2to3 -w -fprint .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ aa68e3e9cc1e3cab5ab6289256264152ca0f839e 199472 ros-one-pr2-computer-monitor-dbgsym_1.6.32-21-gcb63b5d-2024.10.11.22.02_amd64.deb
+ 962869c8465a6e27f2ea80521500a3f45263551e 10150 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2024.10.11.22.02_amd64.buildinfo
+ e47530df5fa79724f69c8d17cf351b044a88ec05 32716 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2024.10.11.22.02_amd64.deb
+Checksums-Sha256:
+ 96f3f852fba4d103892d1c9094c587ce904a9199df7f12f84ccb10601cd1095e 199472 ros-one-pr2-computer-monitor-dbgsym_1.6.32-21-gcb63b5d-2024.10.11.22.02_amd64.deb
+ 81945cf1dc69b8de031ed361cb7a05882116e4ab3470aa6c211c553a2108cd5d 10150 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2024.10.11.22.02_amd64.buildinfo
+ bc185fb9564a1761cdd1c31010ffc68cd2f93c2a4a08465765e9eaf3a727d367 32716 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2024.10.11.22.02_amd64.deb
+Files:
+ 96662730fbdacd28d7dcead4c3e07c1b 199472 debug optional ros-one-pr2-computer-monitor-dbgsym_1.6.32-21-gcb63b5d-2024.10.11.22.02_amd64.deb
+ 2add3bec6b10222252659490ffebec7a 10150 misc optional ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2024.10.11.22.02_amd64.buildinfo
+ c6022f80428da1d53dabf3a58c183273 32716 misc optional ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2024.10.11.22.02_amd64.deb

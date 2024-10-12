@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sun, 05 Apr 2020 00:00:00 -0000
+Source: ros-one-urdf-geometry-parser
+Binary: ros-one-urdf-geometry-parser ros-one-urdf-geometry-parser-dbgsym
+Architecture: amd64
+Version: 0.1.0-6-g1d7317a-2024.10.11.17.20
+Distribution: sid
+Urgency: high
+Maintainer: Vincent Rousseau <vincent.rousseau@irstea.fr>
+Changed-By: Vincent Rousseau <vincent.rousseau@irstea.fr>
+Description:
+ ros-one-urdf-geometry-parser - Extract geometry value of a vehicle from urdf.
+Changes:
+ ros-one-urdf-geometry-parser (0.1.0-6-g1d7317a-2024.10.11.17.20) sid; urgency=high
+ .
+   * Remove tf2 dependency
+   * Add license
+   * Bump CMake version to avoid CMP0048 warning
+   * Cleanup CMakeLists.txt and package.xml
+   * Contributors: Bence Magyar, Matt Reynolds, Vincent Rousseau
+Checksums-Sha1:
+ 14047a3a3173323933ee25823bf024ed338bde5f 267984 ros-one-urdf-geometry-parser-dbgsym_0.1.0-6-g1d7317a-2024.10.11.17.20_amd64.deb
+ 7c652f818c8466bb400a8c0bc354eb937e6ccee3 13569 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.10.11.17.20_amd64.buildinfo
+ 872de828388c2811af10a54019ef5186d6404305 20296 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.10.11.17.20_amd64.deb
+Checksums-Sha256:
+ a4631704bb138185dd425f6b305b6a3cb60fe8e7398ab536ab9152e0c687136e 267984 ros-one-urdf-geometry-parser-dbgsym_0.1.0-6-g1d7317a-2024.10.11.17.20_amd64.deb
+ 227a52c3dee96f04a21d1bf4b4a34ec168218c854f9ef8c15088c70524b23ce3 13569 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.10.11.17.20_amd64.buildinfo
+ 772de28b6862651d712c9c035cad84d358eabeca19c601fd7aec65dbe93faef0 20296 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.10.11.17.20_amd64.deb
+Files:
+ 8259ee55bfe7dd24fd5f4456479b9f25 267984 debug optional ros-one-urdf-geometry-parser-dbgsym_0.1.0-6-g1d7317a-2024.10.11.17.20_amd64.deb
+ 13203b8dcc152013ce3362c72a83363d 13569 misc optional ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.10.11.17.20_amd64.buildinfo
+ c099b2171911dda2d958889b4f21d350 20296 misc optional ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.10.11.17.20_amd64.deb

@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Wed, 31 Jan 2024 00:00:00 -0000
+Source: ros-one-axis-description
+Binary: ros-one-axis-description
+Architecture: amd64
+Version: 0.5.4-1-g340c307-2024.10.11.17.48
+Distribution: sid
+Urgency: high
+Maintainer: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>
+Changed-By: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>
+Description:
+ ros-one-axis-description - Description package with URDF files for common Axis fixed and PTZ
+Changes:
+ ros-one-axis-description (0.5.4-1-g340c307-2024.10.11.17.48) sid; urgency=high
+Checksums-Sha1:
+ 009d4120ec9e3c2d639f0ea2fe7d48faa1a4e6d5 7023 ros-one-axis-description_0.5.4-1-g340c307-2024.10.11.17.48_amd64.buildinfo
+ faa34a2d2b3db1613038544b197838ff9dea9904 111708 ros-one-axis-description_0.5.4-1-g340c307-2024.10.11.17.48_amd64.deb
+Checksums-Sha256:
+ 14322a18523a07afee15ee68e097cc6591b286cec2e46f298dde21299fd42c1f 7023 ros-one-axis-description_0.5.4-1-g340c307-2024.10.11.17.48_amd64.buildinfo
+ 84a3a6d65c78c28b173a2bc960df7bb09f6150e379954afd0478e287dbbb3b89 111708 ros-one-axis-description_0.5.4-1-g340c307-2024.10.11.17.48_amd64.deb
+Files:
+ 5b1259d21905c447e6cc6d6aa0708ed6 7023 misc optional ros-one-axis-description_0.5.4-1-g340c307-2024.10.11.17.48_amd64.buildinfo
+ 1a024c4d008a6427d7cdc62a9fe2f9a0 111708 misc optional ros-one-axis-description_0.5.4-1-g340c307-2024.10.11.17.48_amd64.deb

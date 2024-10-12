@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 03 Mar 2020 00:00:00 -0000
+Source: ros-one-gencpp
+Binary: ros-one-gencpp
+Architecture: amd64
+Version: 0.6.5-2-g3fd0253-2024.10.11.14.41
+Distribution: sid
+Urgency: high
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Changed-By: Dirk Thomas <dthomas@osrfoundation.org>
+Description:
+ ros-one-gencpp - C++ ROS message and service generators.
+Changes:
+ ros-one-gencpp (0.6.5-2-g3fd0253-2024.10.11.14.41) sid; urgency=high
+ .
+   * add operator== & operator!= to message generation (#41 <https://github.com/ros/gencpp/issues/41>)
+Checksums-Sha1:
+ d6f462460ca0510673bd24dd9b2f5206fce44e0d 7026 ros-one-gencpp_0.6.5-2-g3fd0253-2024.10.11.14.41_amd64.buildinfo
+ 4fff55593a81df8fcba7e842baf309db4a7a5b21 17072 ros-one-gencpp_0.6.5-2-g3fd0253-2024.10.11.14.41_amd64.deb
+Checksums-Sha256:
+ 795779d1cc466db4a2d24fefbba0f3c77975701484a90520f355ea89ee43f9d1 7026 ros-one-gencpp_0.6.5-2-g3fd0253-2024.10.11.14.41_amd64.buildinfo
+ cdedcb2154d9d8fc10dade2294cd74c98c080d9aa8d202a1cdbb8c1599191062 17072 ros-one-gencpp_0.6.5-2-g3fd0253-2024.10.11.14.41_amd64.deb
+Files:
+ 4d39095c95006b7d0a4edaade2c9b1c4 7026 misc optional ros-one-gencpp_0.6.5-2-g3fd0253-2024.10.11.14.41_amd64.buildinfo
+ 3d08f7f807dcb57d5f39cebcb36895dd 17072 misc optional ros-one-gencpp_0.6.5-2-g3fd0253-2024.10.11.14.41_amd64.deb

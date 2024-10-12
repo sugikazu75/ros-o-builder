@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Mon, 12 Oct 2020 00:00:00 -0000
+Source: ros-one-wiimote
+Binary: ros-one-wiimote ros-one-wiimote-dbgsym
+Architecture: amd64
+Version: 0-2024.10.11.19.08
+Distribution: sid
+Urgency: high
+Maintainer: Jonathan Bohren <jbo@jhu.edu>
+Changed-By: Jonathan Bohren <jbo@jhu.edu>
+Description:
+ ros-one-wiimote - The wiimote package allows ROS nodes to communicate with a Ninten
+Changes:
+ ros-one-wiimote (0-2024.10.11.19.08) sid; urgency=high
+Checksums-Sha1:
+ 75546282224b0b4144aa3f5a3e7408be9b25bae4 609992 ros-one-wiimote-dbgsym_0-2024.10.11.19.08_amd64.deb
+ 74892805728d81925c4409a47deeeb8b420e4688 11319 ros-one-wiimote_0-2024.10.11.19.08_amd64.buildinfo
+ 62791d8ae1699e22c54ae5b7e6eb6a044485d447 110724 ros-one-wiimote_0-2024.10.11.19.08_amd64.deb
+Checksums-Sha256:
+ ec302a0b6082ea8e3e40b27b70cb117ecadf00a70b4409b0542539dcfde22070 609992 ros-one-wiimote-dbgsym_0-2024.10.11.19.08_amd64.deb
+ 2cd708b1d72d688ff662290d71e070b273bbc9d8ab74efb0b170aa4d7fb83cd4 11319 ros-one-wiimote_0-2024.10.11.19.08_amd64.buildinfo
+ dd490f2fd0fe44095edee79bb0bf4644542cd6e5381cf592d81115679190def3 110724 ros-one-wiimote_0-2024.10.11.19.08_amd64.deb
+Files:
+ b220afc7fe7d501cf1982af71394a407 609992 debug optional ros-one-wiimote-dbgsym_0-2024.10.11.19.08_amd64.deb
+ 8c952225f3ff989c8cad7d1dce84aa2e 11319 misc optional ros-one-wiimote_0-2024.10.11.19.08_amd64.buildinfo
+ 24a067ce5d77b6bacfd05869e41a9d73 110724 misc optional ros-one-wiimote_0-2024.10.11.19.08_amd64.deb

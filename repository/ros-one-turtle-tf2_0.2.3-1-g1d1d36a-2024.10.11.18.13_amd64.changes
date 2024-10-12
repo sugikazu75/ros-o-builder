@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Thu, 02 Apr 2020 00:00:00 -0000
+Source: ros-one-turtle-tf2
+Binary: ros-one-turtle-tf2 ros-one-turtle-tf2-dbgsym
+Architecture: amd64
+Version: 0.2.3-1-g1d1d36a-2024.10.11.18.13
+Distribution: sid
+Urgency: high
+Maintainer: Denis Štogl <denis.stogl@mailbox.org>
+Changed-By: Denis Štogl <denis.stogl@mailbox.org>
+Description:
+ ros-one-turtle-tf2 - turtle_tf2 demonstrates how to write a tf2 broadcaster and listen
+Changes:
+ ros-one-turtle-tf2 (0.2.3-1-g1d1d36a-2024.10.11.18.13) sid; urgency=high
+ .
+   * Bump CMake version to avoid CMP0048 warning (#29 <https://github.com/ros/geometry_tutorials//issues/29>)
+   * Unify tf2 frame broadcasters (#27 <https://github.com/ros/geometry_tutorials//issues/27>)
+   * Merge pull request #26 <https://github.com/ros/geometry_tutorials//issues/26> from jwhendy/tutorial-node-name-fix
+   * updated node names in all tf and tf2 nodes/.py files to match filenames for simplicity
+   * Merge pull request #24 <https://github.com/ros/geometry_tutorials//issues/24> from vincentrou/message_filter_tutorial
+   * Merge pull request #23 <https://github.com/ros/geometry_tutorials//issues/23> from vincentrou/fix_frame_name
+   * [turtle_tf2] Do not use pointer for MessageFilter
+   * [turtle_tf2] Add message filter tutorial
+   * [turtle_tf2] Fix frame name
+   * Contributors: Alejandro Hernández Cordero, John Henderson, John Hendy, Tully Foote, Vincent Rousseau
+Checksums-Sha1:
+ 71a5edf2900e8dcd560586327e475f6b1d175d03 677300 ros-one-turtle-tf2-dbgsym_0.2.3-1-g1d1d36a-2024.10.11.18.13_amd64.deb
+ 766e7435c3647c18abf1de7a83738fe9edd816dd 15189 ros-one-turtle-tf2_0.2.3-1-g1d1d36a-2024.10.11.18.13_amd64.buildinfo
+ 2907cc0a36bf0f458fef9ffe7c35a88f3699b690 49104 ros-one-turtle-tf2_0.2.3-1-g1d1d36a-2024.10.11.18.13_amd64.deb
+Checksums-Sha256:
+ 4563030d1afc5df0b4f8bc8577e01e3d21c962e2d4c527a62af49d5a13851a87 677300 ros-one-turtle-tf2-dbgsym_0.2.3-1-g1d1d36a-2024.10.11.18.13_amd64.deb
+ 6d0c047d978e2ce57fd549b14c6ab07c2551eb43e6a3f483488a66670ac2d00c 15189 ros-one-turtle-tf2_0.2.3-1-g1d1d36a-2024.10.11.18.13_amd64.buildinfo
+ d25c45caa1935be76ea7fba7b87918f2d57e8343b64eb907e4ac786e832092e6 49104 ros-one-turtle-tf2_0.2.3-1-g1d1d36a-2024.10.11.18.13_amd64.deb
+Files:
+ decfe34212edf6058a4fab42fc33f181 677300 debug optional ros-one-turtle-tf2-dbgsym_0.2.3-1-g1d1d36a-2024.10.11.18.13_amd64.deb
+ a6576b635c0dc6e0f791c77b47de444c 15189 misc optional ros-one-turtle-tf2_0.2.3-1-g1d1d36a-2024.10.11.18.13_amd64.buildinfo
+ b84b7c3b6ddd9bd805b6a95269410480 49104 misc optional ros-one-turtle-tf2_0.2.3-1-g1d1d36a-2024.10.11.18.13_amd64.deb
