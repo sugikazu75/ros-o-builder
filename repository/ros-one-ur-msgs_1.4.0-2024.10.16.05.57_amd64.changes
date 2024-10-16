@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Wed, 18 Sep 2024 00:00:00 -0000
+Source: ros-one-ur-msgs
+Binary: ros-one-ur-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.4.0-2024.10.16.05.57
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur-msgs - Message and service definitions for interacting with Universal Ro
+Changes:
+ ros-one-ur-msgs (1.4.0-2024.10.16.05.57) jammy; urgency=high
+ .
+   * Added service to get robot software version. (#24 <https://github.com/ros-industrial/ur_msgs/issues/24>)
+   * ci: bump checkout and cache (#22 <https://github.com/ros-industrial/ur_msgs/issues/22>)
+   * Document pin mapping in SetIO service (#16 <https://github.com/ros-industrial/ur_msgs/issues/16>)
+   * Contributors: Felix Exner, G.A. vd. Hoorn, URJala
+Checksums-Sha1:
+ a6f1b8b02606f8139e8f7df0be81ba6cd67b3048 9764 ros-one-ur-msgs_1.4.0-2024.10.16.05.57_amd64.buildinfo
+ e6d458068cc977c155bb4dc25830ea0c650a379e 63972 ros-one-ur-msgs_1.4.0-2024.10.16.05.57_amd64.deb
+Checksums-Sha256:
+ 37ebad2b28639b63d03df9f9f5384b581cf12f4ec6eba6d858ca9e966ff4dcbe 9764 ros-one-ur-msgs_1.4.0-2024.10.16.05.57_amd64.buildinfo
+ e430c12f3b31670f7f1b0fe7572c3ead3e5312a33e5ba445b9a6c0117acde7ab 63972 ros-one-ur-msgs_1.4.0-2024.10.16.05.57_amd64.deb
+Files:
+ a36e51784be8a6a8bbddba16f29e5b7b 9764 misc optional ros-one-ur-msgs_1.4.0-2024.10.16.05.57_amd64.buildinfo
+ 629a2e493ea72e30bb0450aea489ca20 63972 misc optional ros-one-ur-msgs_1.4.0-2024.10.16.05.57_amd64.deb

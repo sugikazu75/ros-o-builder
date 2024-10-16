@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 29 Jul 2024 00:00:00 -0000
+Source: ros-one-cartesian-trajectory-controller
+Binary: ros-one-cartesian-trajectory-controller
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.16.11.21
+Distribution: jammy
+Urgency: high
+Maintainer: Stefan Scherzinger <scherzin@fzi.de>
+Changed-By: Stefan Scherzinger <scherzin@fzi.de>
+Description:
+ ros-one-cartesian-trajectory-controller - A Cartesian trajectory controller with multiple hardware interfac
+Changes:
+ ros-one-cartesian-trajectory-controller (0-2024.10.16.11.21) jammy; urgency=high
+ .
+   * Move ik_solver header files to cartesian_trajectory_controller (#19 <https://github.com/UniversalRobots/Universal_Robots_ROS_controllers_cartesian/issues/19>)
+   * Contributors: Felix Exner (fexner)
+Checksums-Sha1:
+ 822a481d595a761ac288615807dc825f4862d384 2834110 ros-one-cartesian-trajectory-controller-dbgsym_0-2024.10.16.11.21_amd64.ddeb
+ 7856df6c1771111f3c6cd14e8d83eb2ddc5bc8d9 22955 ros-one-cartesian-trajectory-controller_0-2024.10.16.11.21_amd64.buildinfo
+ ca52975d4b77e042bc1a9af51fd233ad646eceb4 188294 ros-one-cartesian-trajectory-controller_0-2024.10.16.11.21_amd64.deb
+Checksums-Sha256:
+ 2942a333ae5c53059b248ea6db312185061c3de4d6383e67cf212b848a55ad02 2834110 ros-one-cartesian-trajectory-controller-dbgsym_0-2024.10.16.11.21_amd64.ddeb
+ ef720f0fee9cd21e84433125b68f0a281df1a7929c9f7d07577993e5fd320140 22955 ros-one-cartesian-trajectory-controller_0-2024.10.16.11.21_amd64.buildinfo
+ 254dbe1a4e757bc890be241a9a5d178bf6851b82fad3d7b76802d70bbf0add58 188294 ros-one-cartesian-trajectory-controller_0-2024.10.16.11.21_amd64.deb
+Files:
+ 1a86425bb173ee333c352efe76ce3e64 2834110 debug optional ros-one-cartesian-trajectory-controller-dbgsym_0-2024.10.16.11.21_amd64.ddeb
+ cd8bd6577b65ab8066b048c49144e3f8 22955 misc optional ros-one-cartesian-trajectory-controller_0-2024.10.16.11.21_amd64.buildinfo
+ f06846bf8b61c32545bb24bbc787e3ef 188294 misc optional ros-one-cartesian-trajectory-controller_0-2024.10.16.11.21_amd64.deb

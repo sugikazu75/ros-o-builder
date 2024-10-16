@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 15 Jun 2023 00:00:00 -0000
+Source: ros-one-roscpp-core
+Binary: ros-one-roscpp-core
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.3-3-gcae00b4-2024.10.16.03.33
+Distribution: jammy
+Urgency: high
+Maintainer: Martin Pecka <peckama2@fel.cvut.cz>
+Changed-By: Martin Pecka <peckama2@fel.cvut.cz>
+Description:
+ ros-one-roscpp-core - Underlying data libraries for roscpp messages.
+Changes:
+ ros-one-roscpp-core (0.7.3-3-gcae00b4-2024.10.16.03.33) jammy; urgency=high
+ .
+   * Changed maintainer to Martin Pecka
+   * Contributors: Martin Pecka
+Checksums-Sha1:
+ 10d10c4c5ff7aaf1f076aeecafe3d9ae3794dea5 8170 ros-one-roscpp-core_0.7.3-3-gcae00b4-2024.10.16.03.33_amd64.buildinfo
+ 51979f894e76be3f96cc50f7e35783916be99d75 1696 ros-one-roscpp-core_0.7.3-3-gcae00b4-2024.10.16.03.33_amd64.deb
+Checksums-Sha256:
+ 0cd307a0c58fc79d351bfc20be4e6dfee6b4b4386b6c9b7235bc0c2378aa0147 8170 ros-one-roscpp-core_0.7.3-3-gcae00b4-2024.10.16.03.33_amd64.buildinfo
+ 887b0ede8a95bf07670d2616a739c59f16753e5397c31b2e1bdf9157abcf1b8c 1696 ros-one-roscpp-core_0.7.3-3-gcae00b4-2024.10.16.03.33_amd64.deb
+Files:
+ ab13a1493c3f24ba848c040037199545 8170 misc optional ros-one-roscpp-core_0.7.3-3-gcae00b4-2024.10.16.03.33_amd64.buildinfo
+ d666a68dc8ee8ae1a39ee760737f0166 1696 misc optional ros-one-roscpp-core_0.7.3-3-gcae00b4-2024.10.16.03.33_amd64.deb

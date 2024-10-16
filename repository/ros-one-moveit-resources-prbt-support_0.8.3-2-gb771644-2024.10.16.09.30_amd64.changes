@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 10 Nov 2023 00:00:00 -0000
+Source: ros-one-moveit-resources-prbt-support
+Binary: ros-one-moveit-resources-prbt-support
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.8.3-2-gb771644-2024.10.16.09.30
+Distribution: jammy
+Urgency: high
+Maintainer: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Changed-By: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Description:
+ ros-one-moveit-resources-prbt-support - Mechanical, kinematic and visual description of the Pilz light we
+Changes:
+ ros-one-moveit-resources-prbt-support (0.8.3-2-gb771644-2024.10.16.09.30) jammy; urgency=high
+Checksums-Sha1:
+ 353d742fd076459117e30ac3af277a663aec61f6 8266 ros-one-moveit-resources-prbt-support_0.8.3-2-gb771644-2024.10.16.09.30_amd64.buildinfo
+ 5e603dc1b6080670cc170bb86934bfcc1208d28e 788084 ros-one-moveit-resources-prbt-support_0.8.3-2-gb771644-2024.10.16.09.30_amd64.deb
+Checksums-Sha256:
+ 81ca281edfea92259e3f9ef16938c450167e8c9b7eb543fc9991af19c2d22699 8266 ros-one-moveit-resources-prbt-support_0.8.3-2-gb771644-2024.10.16.09.30_amd64.buildinfo
+ cb8fcf5712799a465d8f703c1f4da495e827199c30f626f9af01e360842232be 788084 ros-one-moveit-resources-prbt-support_0.8.3-2-gb771644-2024.10.16.09.30_amd64.deb
+Files:
+ 99c324c910a27a56aaf6bbc8b8ba3859 8266 misc optional ros-one-moveit-resources-prbt-support_0.8.3-2-gb771644-2024.10.16.09.30_amd64.buildinfo
+ 7ac795b00e7fb61b8d4445eea19167c9 788084 misc optional ros-one-moveit-resources-prbt-support_0.8.3-2-gb771644-2024.10.16.09.30_amd64.deb

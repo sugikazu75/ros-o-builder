@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Mon, 18 Jan 2021 00:00:00 -0000
+Source: ros-one-ddynamic-reconfigure
+Binary: ros-one-ddynamic-reconfigure
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.4.1-2-gd3e4c9f-2024.10.16.06.19
+Distribution: jammy
+Urgency: high
+Maintainer: Hilario Tome <hilario.tome@pal-robotics.com>
+Changed-By: Hilario Tome <hilario.tome@pal-robotics.com>
+Description:
+ ros-one-ddynamic-reconfigure - The ddynamic_reconfigure package
+Changes:
+ ros-one-ddynamic-reconfigure (0.4.1-2-gd3e4c9f-2024.10.16.06.19) jammy; urgency=high
+ .
+   * Merge branch 'atomic-fix' into 'erbium-devel'
+     Fix missing atomic header
+     See merge request control/ddynamic_reconfigure!19
+   * Fix missing atomic header
+   * Update README about c++11 requirements
+   * Contributors: Adria Roig, Victor Lopez, victor
+Checksums-Sha1:
+ de1d680b1995bb816ca41dba2519ef75b33abfbf 932086 ros-one-ddynamic-reconfigure-dbgsym_0.4.1-2-gd3e4c9f-2024.10.16.06.19_amd64.ddeb
+ 89fa15f624ed0fc7c78692ab4ba31a2e09a84d54 15480 ros-one-ddynamic-reconfigure_0.4.1-2-gd3e4c9f-2024.10.16.06.19_amd64.buildinfo
+ 7c0cdb29b03dd42c6459e8ab5f3d38a91ebd8ee6 69314 ros-one-ddynamic-reconfigure_0.4.1-2-gd3e4c9f-2024.10.16.06.19_amd64.deb
+Checksums-Sha256:
+ d4435a0b15c3499ea75042c2e3291d137bdb36a151e6f164ecea97310f3a2cfe 932086 ros-one-ddynamic-reconfigure-dbgsym_0.4.1-2-gd3e4c9f-2024.10.16.06.19_amd64.ddeb
+ 27e1d68cc1621f82e7a60bed9af62b8e87de397ee933068e19f549e73050015f 15480 ros-one-ddynamic-reconfigure_0.4.1-2-gd3e4c9f-2024.10.16.06.19_amd64.buildinfo
+ f6fc67b7d7219d7d4ed568cf01d2a1901a57e6ca416a332c6dd1cfd1abe3c5b8 69314 ros-one-ddynamic-reconfigure_0.4.1-2-gd3e4c9f-2024.10.16.06.19_amd64.deb
+Files:
+ 86d1370a4fb2e64eccb1309bed763dd9 932086 debug optional ros-one-ddynamic-reconfigure-dbgsym_0.4.1-2-gd3e4c9f-2024.10.16.06.19_amd64.ddeb
+ d6bd9ec0fb81092531ceb3a4a942933f 15480 misc optional ros-one-ddynamic-reconfigure_0.4.1-2-gd3e4c9f-2024.10.16.06.19_amd64.buildinfo
+ 9bf0a52048a8a35d4b3c93d450c34bf7 69314 misc optional ros-one-ddynamic-reconfigure_0.4.1-2-gd3e4c9f-2024.10.16.06.19_amd64.deb

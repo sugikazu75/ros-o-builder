@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-assimp-devel
+Binary: ros-one-assimp-devel
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.16.13.01
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-assimp-devel - assimp library
+Changes:
+ ros-one-assimp-devel (2.1.28-49-gfb32bec3-2024.10.16.13.01) jammy; urgency=high
+Checksums-Sha1:
+ 4f0249d7a2d0c14a4823ca309a1cbe9be37be671 19191496 ros-one-assimp-devel-dbgsym_2.1.28-49-gfb32bec3-2024.10.16.13.01_amd64.ddeb
+ 805976ec79b28a0679a104f0872b6b0316066a27 17040 ros-one-assimp-devel_2.1.28-49-gfb32bec3-2024.10.16.13.01_amd64.buildinfo
+ 882281fead18dd59f8945930fdcb087c80222de1 1589808 ros-one-assimp-devel_2.1.28-49-gfb32bec3-2024.10.16.13.01_amd64.deb
+Checksums-Sha256:
+ d333481ed88c5bb6db5ca4db345e1ba9e307a191c71075e824627795cd1e9d2f 19191496 ros-one-assimp-devel-dbgsym_2.1.28-49-gfb32bec3-2024.10.16.13.01_amd64.ddeb
+ c4a5acef8351dcc5b339a067e507be8ae1c83ec0eb3baf78902bf495075cc6ba 17040 ros-one-assimp-devel_2.1.28-49-gfb32bec3-2024.10.16.13.01_amd64.buildinfo
+ 7410d50020c4b3b1992c3df2fbb898c6e0a0a9dd10f8fd1e6bbbae668386e618 1589808 ros-one-assimp-devel_2.1.28-49-gfb32bec3-2024.10.16.13.01_amd64.deb
+Files:
+ 23ff8624e4bf5534666e2fe6b3f544da 19191496 debug optional ros-one-assimp-devel-dbgsym_2.1.28-49-gfb32bec3-2024.10.16.13.01_amd64.ddeb
+ 7e7f06942d6b0e25e016bcbfd444b62a 17040 misc optional ros-one-assimp-devel_2.1.28-49-gfb32bec3-2024.10.16.13.01_amd64.buildinfo
+ ae032ba0ecd668f1f6b6023d1b991767 1589808 misc optional ros-one-assimp-devel_2.1.28-49-gfb32bec3-2024.10.16.13.01_amd64.deb

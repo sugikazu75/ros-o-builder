@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 15 Jun 2021 00:00:00 -0000
+Source: ros-one-speed-scaling-interface
+Binary: ros-one-speed-scaling-interface
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.16.10.24
+Distribution: jammy
+Urgency: high
+Maintainer: Felix Exner <exner@fzi.de>
+Changed-By: Felix Exner <exner@fzi.de>
+Description:
+ ros-one-speed-scaling-interface - Hardware interface reading a scalar value from robot hardware.
+Changes:
+ ros-one-speed-scaling-interface (0-2024.10.16.10.24) jammy; urgency=high
+Checksums-Sha1:
+ f2dd64397f8b38197f2c976b6d3818677d0d1d92 10974 ros-one-speed-scaling-interface_0-2024.10.16.10.24_amd64.buildinfo
+ 134d6f89828dffce57bc42c7a9d75e8a3072ce7a 5592 ros-one-speed-scaling-interface_0-2024.10.16.10.24_amd64.deb
+Checksums-Sha256:
+ 948b09805ac88a8317de59f804a945b309acf7b95ba4f8a4c8e7f9c62d75662e 10974 ros-one-speed-scaling-interface_0-2024.10.16.10.24_amd64.buildinfo
+ 50a753b20008612cff145ce49536f94def842c92bf61661a15b8670bb6f17e2a 5592 ros-one-speed-scaling-interface_0-2024.10.16.10.24_amd64.deb
+Files:
+ f230b54cedc41b0d4acb1c9ec8249ba5 10974 misc optional ros-one-speed-scaling-interface_0-2024.10.16.10.24_amd64.buildinfo
+ aeba1d50a8a89a3f8cc0dcd649138f9f 5592 misc optional ros-one-speed-scaling-interface_0-2024.10.16.10.24_amd64.deb

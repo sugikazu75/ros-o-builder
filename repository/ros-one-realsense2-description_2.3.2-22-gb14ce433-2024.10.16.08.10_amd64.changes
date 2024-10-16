@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 15 Nov 2021 00:00:00 -0000
+Source: ros-one-realsense2-description
+Binary: ros-one-realsense2-description
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.3.2-22-gb14ce433-2024.10.16.08.10
+Distribution: jammy
+Urgency: high
+Maintainer: Doron Hirshberg <doron.hirshberg@intel.com>
+Changed-By: Doron Hirshberg <doron.hirshberg@intel.com>
+Description:
+ ros-one-realsense2-description - RealSense Camera description package for Intel 3D D400 cameras
+Changes:
+ ros-one-realsense2-description (2.3.2-22-gb14ce433-2024.10.16.08.10) jammy; urgency=high
+ .
+   * Add D455 description
+   * Add missing aluminum material to d415 model.
+   * Contributors: Gilad Bretter, doronhi
+Checksums-Sha1:
+ 2d031de30b9814d7280e3505e4acd18433eed90d 8245 ros-one-realsense2-description_2.3.2-22-gb14ce433-2024.10.16.08.10_amd64.buildinfo
+ 4b75e6c167739a88d794c2657869b96e3abb8a6f 11053580 ros-one-realsense2-description_2.3.2-22-gb14ce433-2024.10.16.08.10_amd64.deb
+Checksums-Sha256:
+ 4d2709a39955cc48ab070d64228d8487e26701e4886f6bdbb3f8832907ebb4e7 8245 ros-one-realsense2-description_2.3.2-22-gb14ce433-2024.10.16.08.10_amd64.buildinfo
+ 5e844057115207bb1c4676ac5a8521c3326341f164f9c8eba3ee63b8d2dbd2f3 11053580 ros-one-realsense2-description_2.3.2-22-gb14ce433-2024.10.16.08.10_amd64.deb
+Files:
+ 50f3b1e78d5b1e3e8d25ee914ef81a51 8245 misc optional ros-one-realsense2-description_2.3.2-22-gb14ce433-2024.10.16.08.10_amd64.buildinfo
+ 6979a799f1cecc15575f66d644d9edc5 11053580 misc optional ros-one-realsense2-description_2.3.2-22-gb14ce433-2024.10.16.08.10_amd64.deb

@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-pr2-arm-kinematics
+Binary: ros-one-pr2-arm-kinematics
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.0.11-4-gffb1be8-2024.10.16.11.18
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-arm-kinematics - This package provides a kinematics implementation for the PR2 rob
+Changes:
+ ros-one-pr2-arm-kinematics (1.0.11-4-gffb1be8-2024.10.16.11.18) jammy; urgency=high
+ .
+   * Merge pull request #13 <https://github.com/PR2/pr2_kinematics/issues/13> from k-okada/fix_plugin
+   * fix kinematics_plugin settings
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 4c7bf1cd00b632173e517c629f18fc576e6af9e0 2933482 ros-one-pr2-arm-kinematics-dbgsym_1.0.11-4-gffb1be8-2024.10.16.11.18_amd64.ddeb
+ 31baa4011914314af5e30d6cac5cea0d18ff4eba 25994 ros-one-pr2-arm-kinematics_1.0.11-4-gffb1be8-2024.10.16.11.18_amd64.buildinfo
+ f94e3b27d8eb99e2272111e62adf86400c7395c4 119004 ros-one-pr2-arm-kinematics_1.0.11-4-gffb1be8-2024.10.16.11.18_amd64.deb
+Checksums-Sha256:
+ da9771e1f8b9aa1e16c47b5df62a06d2cbc5cdf89ff803b077c327ac64155e75 2933482 ros-one-pr2-arm-kinematics-dbgsym_1.0.11-4-gffb1be8-2024.10.16.11.18_amd64.ddeb
+ 4f45482d9e7a9178f92fe0e5d07d9456ca1f9931de978f91b0c0b549cd397d99 25994 ros-one-pr2-arm-kinematics_1.0.11-4-gffb1be8-2024.10.16.11.18_amd64.buildinfo
+ 58ecadf5be954f55ce47a1d10dd97e9db2e6ad2587d25f4ef57a2ba6b7454fd2 119004 ros-one-pr2-arm-kinematics_1.0.11-4-gffb1be8-2024.10.16.11.18_amd64.deb
+Files:
+ 5215b1f0f4fba4492689aad3c8a33424 2933482 debug optional ros-one-pr2-arm-kinematics-dbgsym_1.0.11-4-gffb1be8-2024.10.16.11.18_amd64.ddeb
+ 33a8129aaf9fb88c7bdb88cc11bdc32b 25994 misc optional ros-one-pr2-arm-kinematics_1.0.11-4-gffb1be8-2024.10.16.11.18_amd64.buildinfo
+ 99ae19edad79f988b0b1a90e67113a65 119004 misc optional ros-one-pr2-arm-kinematics_1.0.11-4-gffb1be8-2024.10.16.11.18_amd64.deb

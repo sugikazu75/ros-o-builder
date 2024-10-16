@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-diagnostic-updater
+Binary: ros-one-diagnostic-updater
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.11.0-7-gda86650-2024.10.16.06.58
+Distribution: jammy
+Urgency: high
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Changed-By: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Description:
+ ros-one-diagnostic-updater - diagnostic_updater contains tools for easily updating diagnostics
+Changes:
+ ros-one-diagnostic-updater (1.11.0-7-gda86650-2024.10.16.06.58) jammy; urgency=high
+ .
+   * Use DiagnosticLevel enum instead of hardcoded integers (#208 <https://github.com/ros/diagnostics/issues/208>)
+     Spellcheck fixes
+   * Contributors: Amilcar Lucas
+Checksums-Sha1:
+ 165a436bb92275110d95df51ce233f4135438d41 328058 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2024.10.16.06.58_amd64.ddeb
+ 346003cfcda2eb29979c8b7abe02cecdcd10ff46 13474 ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.16.06.58_amd64.buildinfo
+ 3fc6ba620974505b0fb6c59758767ca72f010e36 53926 ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.16.06.58_amd64.deb
+Checksums-Sha256:
+ 43066814b910ded21ad8f85ceb8adbafc707690227283cc58cc6309b25050097 328058 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2024.10.16.06.58_amd64.ddeb
+ 27dcff8af14ed3e5a393467581eac8393cbd1c801ffbd18b58df2e3732ae6532 13474 ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.16.06.58_amd64.buildinfo
+ ab88fe3122c19abd60a74ac2775b3ff8ebb175c1034432ab406c3851eb53b395 53926 ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.16.06.58_amd64.deb
+Files:
+ 3006eff7d2ff6311ea28ba838aad5b20 328058 debug optional ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2024.10.16.06.58_amd64.ddeb
+ 5bfe9fb710ab2c2b6f61b561816b77d4 13474 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.16.06.58_amd64.buildinfo
+ 2d2d7a690e3053c10d389d726e54b5c8 53926 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2024.10.16.06.58_amd64.deb

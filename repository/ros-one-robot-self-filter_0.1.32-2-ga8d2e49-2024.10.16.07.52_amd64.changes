@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Fri, 07 Aug 2020 00:00:00 -0000
+Source: ros-one-robot-self-filter
+Binary: ros-one-robot-self-filter
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.32-2-ga8d2e49-2024.10.16.07.52
+Distribution: jammy
+Urgency: high
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Changed-By: Devon Ash <dash@clearpathrobotics.com>
+Description:
+ ros-one-robot-self-filter - Filters the robot's body out of point clouds.
+Changes:
+ ros-one-robot-self-filter (0.1.32-2-ga8d2e49-2024.10.16.07.52) jammy; urgency=high
+ .
+   * PCL > 1.10 uses c++ 14
+   * find_package(Boost signals) no longer required for noetic, use find_package(Boost)
+   * remove indigo/lunar from .travis.yml
+   * add noetic and fix .travs.yml
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ fe97ae0816d01bc195e12e9d1c3c2028b86c59e1 3659886 ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2024.10.16.07.52_amd64.ddeb
+ 1942dd45559b0e2b85e160b00fe1c9053506c9f9 38964 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2024.10.16.07.52_amd64.buildinfo
+ 755373076b2b6cac569a5ea321ae894c0d54412e 188546 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2024.10.16.07.52_amd64.deb
+Checksums-Sha256:
+ 0195986fd52a31706963359343d4ec8d913ef0536190b9d89ed4cdd527e76911 3659886 ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2024.10.16.07.52_amd64.ddeb
+ 63a93228ae15a21e03c9584a1dfbfe21cd93773e745586f90a0f744fac81c9e6 38964 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2024.10.16.07.52_amd64.buildinfo
+ ee2b83721d16e6c3a170f40767ad46e99366f934fe06aa4946398358ad610678 188546 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2024.10.16.07.52_amd64.deb
+Files:
+ 2b520feaf097a4e3874ebebc1ebdf2db 3659886 debug optional ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2024.10.16.07.52_amd64.ddeb
+ 45d4cb59502f65e5e1ee9b5326009d46 38964 misc optional ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2024.10.16.07.52_amd64.buildinfo
+ bfcbc1925ff159562c9425058b2825da 188546 misc optional ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2024.10.16.07.52_amd64.deb

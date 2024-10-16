@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 13 May 2020 00:00:00 -0000
+Source: ros-one-rviz-python-tutorial
+Binary: ros-one-rviz-python-tutorial
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.16.10.11
+Distribution: jammy
+Urgency: high
+Maintainer: Mabel Zhang <mabel@openrobotics.org>
+Changed-By: Mabel Zhang <mabel@openrobotics.org>
+Description:
+ ros-one-rviz-python-tutorial - Tutorials showing how to call into rviz internals from python scr
+Changes:
+ ros-one-rviz-python-tutorial (0-2024.10.16.10.11) jammy; urgency=high
+Checksums-Sha1:
+ 2c2da7a98c8b344a3d8f4b9b33cd32307b920191 28737 ros-one-rviz-python-tutorial_0-2024.10.16.10.11_amd64.buildinfo
+ 63ba1d436cd1c0288d67739bbebb56d2c4b57d0e 8390 ros-one-rviz-python-tutorial_0-2024.10.16.10.11_amd64.deb
+Checksums-Sha256:
+ 839f22ebde04087e023649975240bc5996cee5635d739bc109d5cff4760e0163 28737 ros-one-rviz-python-tutorial_0-2024.10.16.10.11_amd64.buildinfo
+ 75c3e3ef53f99eefd608633213eff43abd99ddc225577097d95a60c7fb55f51a 8390 ros-one-rviz-python-tutorial_0-2024.10.16.10.11_amd64.deb
+Files:
+ dc9631409060bbdd7b0d744bcff09f93 28737 misc optional ros-one-rviz-python-tutorial_0-2024.10.16.10.11_amd64.buildinfo
+ ef49ce46de0c6b59308ff54f2f1d270f 8390 misc optional ros-one-rviz-python-tutorial_0-2024.10.16.10.11_amd64.deb

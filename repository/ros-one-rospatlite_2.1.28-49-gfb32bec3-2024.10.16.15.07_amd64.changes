@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-rospatlite
+Binary: ros-one-rospatlite
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.16.15.07
+Distribution: jammy
+Urgency: high
+Maintainer: Takuya Nakaoka <nakaokat@gmail.com>
+Changed-By: Takuya Nakaoka <nakaokat@gmail.com>
+Description:
+ ros-one-rospatlite - rospatlite
+Changes:
+ ros-one-rospatlite (2.1.28-49-gfb32bec3-2024.10.16.15.07) jammy; urgency=high
+Checksums-Sha1:
+ c2ddbf2fc487462f22c6b4720b00ebce10cc701f 12273 ros-one-rospatlite_2.1.28-49-gfb32bec3-2024.10.16.15.07_amd64.buildinfo
+ da83aaa66eac0d79b2dfcffd88439af23ead21b8 7866 ros-one-rospatlite_2.1.28-49-gfb32bec3-2024.10.16.15.07_amd64.deb
+Checksums-Sha256:
+ ae58c2e84431846cbad586651bb970f6a1c1b6d9fa63cd8fb09bf81354167711 12273 ros-one-rospatlite_2.1.28-49-gfb32bec3-2024.10.16.15.07_amd64.buildinfo
+ 8b074f8b2a7ea9a0ad54ccd6387f70c5d0bfccad0dd8cd678b561dda5842cf76 7866 ros-one-rospatlite_2.1.28-49-gfb32bec3-2024.10.16.15.07_amd64.deb
+Files:
+ 30bf339336d6c9e996ad16682fb8d493 12273 misc optional ros-one-rospatlite_2.1.28-49-gfb32bec3-2024.10.16.15.07_amd64.buildinfo
+ c1e271472d0eeddfefa7c1ed3fd6e649 7866 misc optional ros-one-rospatlite_2.1.28-49-gfb32bec3-2024.10.16.15.07_amd64.deb

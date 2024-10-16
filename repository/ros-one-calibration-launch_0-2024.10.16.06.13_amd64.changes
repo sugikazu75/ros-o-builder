@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-calibration-launch
+Binary: ros-one-calibration-launch
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.16.06.13
+Distribution: jammy
+Urgency: high
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Changed-By: David Feil-Seifer <david.feilseifer@gmail.com>
+Description:
+ ros-one-calibration-launch - This package contains a collection of launch files that can be he
+Changes:
+ ros-one-calibration-launch (0-2024.10.16.06.13) jammy; urgency=high
+ .
+   * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+     Noetic devel
+   * fixed python3 compatibility issues
+   * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ 5a464de07df5ed7d60d20bf96839f99c53112da8 8148 ros-one-calibration-launch_0-2024.10.16.06.13_amd64.buildinfo
+ 46ccda9efb6350e2aea8a1db7713f99ed7ef8cb5 21648 ros-one-calibration-launch_0-2024.10.16.06.13_amd64.deb
+Checksums-Sha256:
+ 68a480e89485b51b963ff5c031086db3c78b09dd8a8f37721d1bb42f990cc7b3 8148 ros-one-calibration-launch_0-2024.10.16.06.13_amd64.buildinfo
+ d3046d457af868c2c971723ce28b3e8d6350784d4ebee0106a6aaceed4a7aced 21648 ros-one-calibration-launch_0-2024.10.16.06.13_amd64.deb
+Files:
+ b0bc74ec8fd1e9381d0a6e1126cdb48b 8148 misc optional ros-one-calibration-launch_0-2024.10.16.06.13_amd64.buildinfo
+ 69091a97ef5a6837d0aa01343ece85e4 21648 misc optional ros-one-calibration-launch_0-2024.10.16.06.13_amd64.deb

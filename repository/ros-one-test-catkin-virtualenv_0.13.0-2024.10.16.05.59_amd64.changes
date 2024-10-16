@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-one-test-catkin-virtualenv
+Binary: ros-one-test-catkin-virtualenv
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.13.0-2024.10.16.05.59
+Distribution: jammy
+Urgency: high
+Maintainer: Paul Bovbel <pbovbel@locusrobotics.com>
+Changed-By: Paul Bovbel <pbovbel@locusrobotics.com>
+Description:
+ ros-one-test-catkin-virtualenv - Basic catkin_virtualenv test.
+Changes:
+ ros-one-test-catkin-virtualenv (0.13.0-2024.10.16.05.59) jammy; urgency=high
+Checksums-Sha1:
+ 365a1578fca3fb207718651d1035beff8cdc6b1e 816264 ros-one-test-catkin-virtualenv-dbgsym_0.13.0-2024.10.16.05.59_amd64.ddeb
+ c90a90e9363c982c4ac03353d16a90f0935c6cbd 10747 ros-one-test-catkin-virtualenv_0.13.0-2024.10.16.05.59_amd64.buildinfo
+ dac99c387e7197b6a75f65c37ef94aa56ede5696 3081658 ros-one-test-catkin-virtualenv_0.13.0-2024.10.16.05.59_amd64.deb
+Checksums-Sha256:
+ 25d8ab4bd43d07770280598f2a6eb20b9fd39cd9eb02ca4e744fd48a67090329 816264 ros-one-test-catkin-virtualenv-dbgsym_0.13.0-2024.10.16.05.59_amd64.ddeb
+ 044bcaa56a676172f040167a03043869435c5bcf3a5a5bf7c9a65cfdf2dc1529 10747 ros-one-test-catkin-virtualenv_0.13.0-2024.10.16.05.59_amd64.buildinfo
+ 6e9399d3a32b5a767984f12b2d665c4953956de1fa66cd182328d6ffc16e1e8b 3081658 ros-one-test-catkin-virtualenv_0.13.0-2024.10.16.05.59_amd64.deb
+Files:
+ a29a512fe0a2e7d492504e1c0a5ef21e 816264 debug optional ros-one-test-catkin-virtualenv-dbgsym_0.13.0-2024.10.16.05.59_amd64.ddeb
+ 115d2d1bef053ba53d2fecc07f84ed57 10747 misc optional ros-one-test-catkin-virtualenv_0.13.0-2024.10.16.05.59_amd64.buildinfo
+ 6bcdcbedc1403672bdbaa4256a6cfd2b 3081658 misc optional ros-one-test-catkin-virtualenv_0.13.0-2024.10.16.05.59_amd64.deb

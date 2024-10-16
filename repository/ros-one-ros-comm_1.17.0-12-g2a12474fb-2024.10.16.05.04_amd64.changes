@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 13 Sep 2024 00:00:00 -0000
+Source: ros-one-ros-comm
+Binary: ros-one-ros-comm
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.17.0-12-g2a12474fb-2024.10.16.05.04
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-ros-comm - ROS communications-related packages, including core client librar
+Changes:
+ ros-one-ros-comm (1.17.0-12-g2a12474fb-2024.10.16.05.04) jammy; urgency=high
+Checksums-Sha1:
+ b8c732a83f1ec83f66ff13673d88cb4fb4e1b224 8171 ros-one-ros-comm_1.17.0-12-g2a12474fb-2024.10.16.05.04_amd64.buildinfo
+ 14750fe9695e8b5a5d08ab10545ce6685b389250 3272 ros-one-ros-comm_1.17.0-12-g2a12474fb-2024.10.16.05.04_amd64.deb
+Checksums-Sha256:
+ 113bdb5eec19df48f12c21cf1e2483439854b6d1eac65e366e34c96e53f94fc0 8171 ros-one-ros-comm_1.17.0-12-g2a12474fb-2024.10.16.05.04_amd64.buildinfo
+ 0cc94631a7a984174a5f734c00f3e10213228d9ef297056c045fc0aaa6c051db 3272 ros-one-ros-comm_1.17.0-12-g2a12474fb-2024.10.16.05.04_amd64.deb
+Files:
+ 1ddf038aafd41e658e1e9bf2a345e4c5 8171 misc optional ros-one-ros-comm_1.17.0-12-g2a12474fb-2024.10.16.05.04_amd64.buildinfo
+ c67b79f019842c253dbc5cb240d8683d 3272 misc optional ros-one-ros-comm_1.17.0-12-g2a12474fb-2024.10.16.05.04_amd64.deb

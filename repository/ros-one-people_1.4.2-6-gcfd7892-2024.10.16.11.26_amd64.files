@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2024-10-16 11:26 ./
+drwxr-xr-x root/root         0 2024-10-16 11:26 ./opt/
+drwxr-xr-x root/root         0 2024-10-16 11:26 ./opt/ros/
+drwxr-xr-x root/root         0 2024-10-16 11:26 ./opt/ros/one/
+drwxr-xr-x root/root         0 2024-10-16 11:26 ./opt/ros/one/share/
+drwxr-xr-x root/root         0 2024-10-16 11:26 ./opt/ros/one/share/people/
+-rw-r--r-- root/root       769 2024-10-16 11:15 ./opt/ros/one/share/people/package.xml
+drwxr-xr-x root/root         0 2024-10-16 11:26 ./usr/
+drwxr-xr-x root/root         0 2024-10-16 11:26 ./usr/share/
+drwxr-xr-x root/root         0 2024-10-16 11:26 ./usr/share/doc/
+drwxr-xr-x root/root         0 2024-10-16 11:26 ./usr/share/doc/ros-one-people/
+-rw-r--r-- root/root       353 2024-10-16 11:26 ./usr/share/doc/ros-one-people/changelog.Debian.gz
+-rw-r--r-- root/root       275 2024-10-16 11:26 ./usr/share/doc/ros-one-people/copyright

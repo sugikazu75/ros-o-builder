@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-planning
+Binary: ros-one-moveit-ros-planning
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-2024.10.16.09.39
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-planning - Planning components of MoveIt that use ROS
+Changes:
+ ros-one-moveit-ros-planning (1.1.16-2024.10.16.09.39) jammy; urgency=high
+ .
+   * Allow links to be ignored in PSM updates (#3645 <https://github.com/ros-planning/moveit/issues/3645>)
+   * Contributors: Davide Torielli
+Checksums-Sha1:
+ 7e20c85e6dbdfe4ac51115c396d6de76fb05b9a0 52740662 ros-one-moveit-ros-planning-dbgsym_1.1.16-2024.10.16.09.39_amd64.ddeb
+ 2bd7c796201a8b9681f862ee23768bc4aa8e51ac 23877 ros-one-moveit-ros-planning_1.1.16-2024.10.16.09.39_amd64.buildinfo
+ 8dade0ca4964b9b54e8876e880b00c659f9f45cf 886546 ros-one-moveit-ros-planning_1.1.16-2024.10.16.09.39_amd64.deb
+Checksums-Sha256:
+ 93474ed78e9367add3f313fc96427c8514c7334fb7e707be2616fcda0cb88084 52740662 ros-one-moveit-ros-planning-dbgsym_1.1.16-2024.10.16.09.39_amd64.ddeb
+ 286c4cc8ee428f9339e3b718c42ba2651a6da0d83ddb965a9b1edaa73831a460 23877 ros-one-moveit-ros-planning_1.1.16-2024.10.16.09.39_amd64.buildinfo
+ 59d15fc77625378987b4141c8a2348a307d1b6bf0b6948fd779d5119738e557c 886546 ros-one-moveit-ros-planning_1.1.16-2024.10.16.09.39_amd64.deb
+Files:
+ 59a1390a20d7de83d8dde05888e6e1c2 52740662 debug optional ros-one-moveit-ros-planning-dbgsym_1.1.16-2024.10.16.09.39_amd64.ddeb
+ b3ef9b04797c9b07f64a48e7e75bc397 23877 misc optional ros-one-moveit-ros-planning_1.1.16-2024.10.16.09.39_amd64.buildinfo
+ e794d88094367d3265801578216af964 886546 misc optional ros-one-moveit-ros-planning_1.1.16-2024.10.16.09.39_amd64.deb

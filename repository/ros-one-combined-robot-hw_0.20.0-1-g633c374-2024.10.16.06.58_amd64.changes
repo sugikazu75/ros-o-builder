@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 27 Oct 2023 00:00:00 -0000
+Source: ros-one-combined-robot-hw
+Binary: ros-one-combined-robot-hw
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.20.0-1-g633c374-2024.10.16.06.58
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-combined-robot-hw - Combined Robot HW class.
+Changes:
+ ros-one-combined-robot-hw (0.20.0-1-g633c374-2024.10.16.06.58) jammy; urgency=high
+Checksums-Sha1:
+ d10a7297c04685d3d416db954bb0770c50a377a3 913198 ros-one-combined-robot-hw-dbgsym_0.20.0-1-g633c374-2024.10.16.06.58_amd64.ddeb
+ 0227c227e738e0d6903aa565a8b349cfc6aeff32 13797 ros-one-combined-robot-hw_0.20.0-1-g633c374-2024.10.16.06.58_amd64.buildinfo
+ 81d18b3a30c845059db794804992c711ec223b8a 73970 ros-one-combined-robot-hw_0.20.0-1-g633c374-2024.10.16.06.58_amd64.deb
+Checksums-Sha256:
+ 28a63ca98276eaced07ecbe3c77d8756ac7bc0f0678240061875adec39ee8de3 913198 ros-one-combined-robot-hw-dbgsym_0.20.0-1-g633c374-2024.10.16.06.58_amd64.ddeb
+ e9da42d0928fb2263c5a61dac17c4ff4dc23c4e38841515acd07af321a6e2ab2 13797 ros-one-combined-robot-hw_0.20.0-1-g633c374-2024.10.16.06.58_amd64.buildinfo
+ 8e5a9cfb590ef6f7fdc035234f1887f7f82bf93aef1419cd0a0cfc30cc521e58 73970 ros-one-combined-robot-hw_0.20.0-1-g633c374-2024.10.16.06.58_amd64.deb
+Files:
+ 4768822889e3c7a2d762ca4a15f34e49 913198 debug optional ros-one-combined-robot-hw-dbgsym_0.20.0-1-g633c374-2024.10.16.06.58_amd64.ddeb
+ cdaaed2e03011792397fd7f3907f3ba8 13797 misc optional ros-one-combined-robot-hw_0.20.0-1-g633c374-2024.10.16.06.58_amd64.buildinfo
+ 8129d640db408e3aa042e8c42fa2f578 73970 misc optional ros-one-combined-robot-hw_0.20.0-1-g633c374-2024.10.16.06.58_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 30 Jan 2023 00:00:00 -0000
+Source: ros-one-image-transport-plugins
+Binary: ros-one-image-transport-plugins
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.15.0-9-gcae592c-2024.10.16.06.21
+Distribution: jammy
+Urgency: high
+Maintainer: Kenji Brameld <kenjibrameld@gmail.com>
+Changed-By: Kenji Brameld <kenjibrameld@gmail.com>
+Description:
+ ros-one-image-transport-plugins - A set of plugins for publishing and subscribing to sensor_msgs/Im
+Changes:
+ ros-one-image-transport-plugins (1.15.0-9-gcae592c-2024.10.16.06.21) jammy; urgency=high
+ .
+   * Update maintainer in ros1 branches (#132 <https://github.com/ros-perception/image_transport_plugins/issues/132>)
+   * Contributors: Kenji Brameld, ijnek
+Checksums-Sha1:
+ 530eb7bc84e769a7deeb6df22a569597719f0ce8 8234 ros-one-image-transport-plugins_1.15.0-9-gcae592c-2024.10.16.06.21_amd64.buildinfo
+ 41eeaf4ffc4b20b6c92219f374baac07567e912d 2960 ros-one-image-transport-plugins_1.15.0-9-gcae592c-2024.10.16.06.21_amd64.deb
+Checksums-Sha256:
+ 4d677742bcab83333d9409b2091898534af7eaf1ed9f2466d125ef5e701e9647 8234 ros-one-image-transport-plugins_1.15.0-9-gcae592c-2024.10.16.06.21_amd64.buildinfo
+ 1b92874f222ce97a5660ded26810e286ba149f79ad0d987ed7008595af15d02e 2960 ros-one-image-transport-plugins_1.15.0-9-gcae592c-2024.10.16.06.21_amd64.deb
+Files:
+ bce23cc6521a3e6f9ab9c008fa23b170 8234 misc optional ros-one-image-transport-plugins_1.15.0-9-gcae592c-2024.10.16.06.21_amd64.buildinfo
+ ddad98e425a97563a2f672a7a3d2dbad 2960 misc optional ros-one-image-transport-plugins_1.15.0-9-gcae592c-2024.10.16.06.21_amd64.deb

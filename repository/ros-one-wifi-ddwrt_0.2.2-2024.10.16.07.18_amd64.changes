@@ -1,0 +1,39 @@
+Format: 1.8
+Date: Sat, 15 May 2021 00:00:00 -0000
+Source: ros-one-wifi-ddwrt
+Binary: ros-one-wifi-ddwrt
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.2.2-2024.10.16.07.18
+Distribution: jammy
+Urgency: high
+Maintainer: Austin Hendrix <ahendrix@willowgarage.com>
+Changed-By: Austin Hendrix <ahendrix@willowgarage.com>
+Description:
+ ros-one-wifi-ddwrt - Access to the DD-WRT wifi
+Changes:
+ ros-one-wifi-ddwrt (0.2.2-2024.10.16.07.18) jammy; urgency=high
+ .
+   * 0.2.1
+   * update changelogs
+   * Merge pull request #15 <https://github.com/ros-drivers/wifi_ddwrt/issues/15> from k-okada/add_travis
+     add travsi CI
+   * update CHANGELOG.rst
+   * Merge pull request #14 <https://github.com/ros-drivers/wifi_ddwrt/issues/14> from PR2-prime/noetic-devel
+   * add travsi CI
+   * updated for focal/noetic/python3 compatibility
+   * Merge pull request #7 <https://github.com/ros-drivers/wifi_ddwrt/issues/7> from furushchev/fix-typo
+     [wifi_ddwrt] fix typo
+   * [wifi_ddwrt] fix typo
+   * Update README.md
+   * Create README. Fixes #1 <https://github.com/ros-drivers/wifi_ddwrt/issues/1>
+   * Contributors: Austin, Dave Feil-Seifer, Kei Okada, Yuki Furuta
+Checksums-Sha1:
+ 12058a5395ae2d7099b8ec6a7caa3d643142b68e 9727 ros-one-wifi-ddwrt_0.2.2-2024.10.16.07.18_amd64.buildinfo
+ 5d15a60b0a3308ddc10073cb119cc7b7a6ac6a2f 26402 ros-one-wifi-ddwrt_0.2.2-2024.10.16.07.18_amd64.deb
+Checksums-Sha256:
+ 05a45715afae2e114a0d58702b450b05478312cfe211733bb7495c86bf8acfe1 9727 ros-one-wifi-ddwrt_0.2.2-2024.10.16.07.18_amd64.buildinfo
+ 718404488d9966c42ff3f5b569408ed72f7983df3bc744dabe06579cb137b279 26402 ros-one-wifi-ddwrt_0.2.2-2024.10.16.07.18_amd64.deb
+Files:
+ b2943b7e5a702ef02a36ed19d2307a00 9727 misc optional ros-one-wifi-ddwrt_0.2.2-2024.10.16.07.18_amd64.buildinfo
+ 1f6ed5cdcffff50a4915049553b4a569 26402 misc optional ros-one-wifi-ddwrt_0.2.2-2024.10.16.07.18_amd64.deb

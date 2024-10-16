@@ -1,0 +1,42 @@
+Format: 1.8
+Date: Tue, 20 Sep 2022 00:00:00 -0000
+Source: ros-one-mongodb-store
+Binary: ros-one-mongodb-store
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.16.07.07
+Distribution: jammy
+Urgency: high
+Maintainer: Nick Hawes <nickh@robots.ox.ac.uk>
+Changed-By: Nick Hawes <nickh@robots.ox.ac.uk>
+Description:
+ ros-one-mongodb-store - A package to support MongoDB-based storage and analysis for data
+Changes:
+ ros-one-mongodb-store (0-2024.10.16.07.07) jammy; urgency=high
+ .
+   * Avoid deadlock on server shutdown (#279 <https://github.com/strands-project/mongodb_store/issues/279>)
+   * Fix Python 3 bugs in mongodb_store (#272 <https://github.com/strands-project/mongodb_store/issues/272>, #274 <https://github.com/strands-project/mongodb_store/issues/274>, #275 <https://github.com/strands-project/mongodb_store/issues/275>)
+   * handling of host binding (#270 <https://github.com/strands-project/mongodb_store/issues/270>)
+   * update package.xml to format=3 (#269 <https://github.com/strands-project/mongodb_store/issues/269>)
+   * fix connection_string arg default value (#266 <https://github.com/strands-project/mongodb_store/issues/266>)
+   * fixed bug in where the replicator node did not recognize the db_host (#261 <https://github.com/strands-project/mongodb_store/issues/261>)
+   * Added .launch to the roslaunch command that was written in the readme file (#262 <https://github.com/strands-project/mongodb_store/issues/262>)
+   * fixed a formatting issue
+   * fixed bug in where the replicator node did not recognize the db_host
+   * remembering namespace in rosparam
+   * Provide options to prevent unnecessary nodes launching
+   * added ability for message store to use a full connection string
+   * Removed --smallfiles arg no longer supported by MongoDB (#257 <https://github.com/strands-project/mongodb_store/issues/257>)
+   * Contributors: Adrian Dole, Gal Gorjup, Kei Okada, Marc Hanheide, Nick Hawes, Shingo Kitagawa, Vittoria Santoro
+Checksums-Sha1:
+ 1f3feff5d618d0c8987d5f0959c84976505c709e 1209416 ros-one-mongodb-store-dbgsym_0-2024.10.16.07.07_amd64.ddeb
+ 2b490fcf01be0141ef4a143271b821a94de04219 13757 ros-one-mongodb-store_0-2024.10.16.07.07_amd64.buildinfo
+ d37a2a77931ba8dce5c397a378d8ba2ae214033e 128936 ros-one-mongodb-store_0-2024.10.16.07.07_amd64.deb
+Checksums-Sha256:
+ c2793a4d0acdb782dd58a7fb6d9b7766ed3e94b5134de4f9a3d25c6a1f9d9f6e 1209416 ros-one-mongodb-store-dbgsym_0-2024.10.16.07.07_amd64.ddeb
+ 47925365baeafff011385c96e74b4b02744ed334b878067dca6fe27613335dec 13757 ros-one-mongodb-store_0-2024.10.16.07.07_amd64.buildinfo
+ 3885742a0dc56e3fa0ab8b456eccd3e56975b96f5121c8d1d6dd1387eb428072 128936 ros-one-mongodb-store_0-2024.10.16.07.07_amd64.deb
+Files:
+ 7875e182ac3b94db2e82379309569d7f 1209416 debug optional ros-one-mongodb-store-dbgsym_0-2024.10.16.07.07_amd64.ddeb
+ 3afeff4b1a86fdb13aa97d606dbbec59 13757 misc optional ros-one-mongodb-store_0-2024.10.16.07.07_amd64.buildinfo
+ a53f5e4ee130653168b2d221834cd820 128936 misc optional ros-one-mongodb-store_0-2024.10.16.07.07_amd64.deb

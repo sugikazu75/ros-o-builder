@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-nfc-ros
+Binary: ros-one-nfc-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.16.14.32
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-nfc-ros - The nfc_ros package
+Changes:
+ ros-one-nfc-ros (2.1.28-49-gfb32bec3-2024.10.16.14.32) jammy; urgency=high
+Checksums-Sha1:
+ d83eebb30e80a66743e9a8c010e6e930c85279da 506114 ros-one-nfc-ros-dbgsym_2.1.28-49-gfb32bec3-2024.10.16.14.32_amd64.ddeb
+ 94b5cde37e87bd24eb9ee1f8e3de990d2d04b792 11058 ros-one-nfc-ros_2.1.28-49-gfb32bec3-2024.10.16.14.32_amd64.buildinfo
+ 201da342956b3f51a4bb89fcddea68fcec5b21cf 2971368 ros-one-nfc-ros_2.1.28-49-gfb32bec3-2024.10.16.14.32_amd64.deb
+Checksums-Sha256:
+ c43f9926a80c07948a88743de6f2f8e955de9c81ad5c06c19b7bc3a003126ded 506114 ros-one-nfc-ros-dbgsym_2.1.28-49-gfb32bec3-2024.10.16.14.32_amd64.ddeb
+ 31b3c4139d6adff8fc23abc73486417c14c3dfcea821175a4ce313db8e40c506 11058 ros-one-nfc-ros_2.1.28-49-gfb32bec3-2024.10.16.14.32_amd64.buildinfo
+ 6288326acdcea28e2110dc41e2efc5d0b986d7eaa70c6d15034904cc23782125 2971368 ros-one-nfc-ros_2.1.28-49-gfb32bec3-2024.10.16.14.32_amd64.deb
+Files:
+ 53b27016d97ee07b979cc0964ff52f2c 506114 debug optional ros-one-nfc-ros-dbgsym_2.1.28-49-gfb32bec3-2024.10.16.14.32_amd64.ddeb
+ a864dafa02eb3af5ad338f86a3847a87 11058 misc optional ros-one-nfc-ros_2.1.28-49-gfb32bec3-2024.10.16.14.32_amd64.buildinfo
+ 3bbb5e13531a4fa2a0ff9c068ade0af8 2971368 misc optional ros-one-nfc-ros_2.1.28-49-gfb32bec3-2024.10.16.14.32_amd64.deb

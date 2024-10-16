@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 18 Jul 2024 00:00:00 -0000
+Source: ros-one-ros-industrial-cmake-boilerplate
+Binary: ros-one-ros-industrial-cmake-boilerplate
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.6.2-2024.10.16.03.34
+Distribution: jammy
+Urgency: high
+Maintainer: Levi Armstrong <levi.armstrong@gmail.com>
+Changed-By: Levi Armstrong <levi.armstrong@gmail.com>
+Description:
+ ros-one-ros-industrial-cmake-boilerplate - Contains boilerplate cmake script, macros and utils
+Changes:
+ ros-one-ros-industrial-cmake-boilerplate (0.6.2-2024.10.16.03.34) jammy; urgency=high
+ .
+   * Fix issue where executables were being added to package libraries cmake variable
+   * Contributors: Levi Armstrong
+Checksums-Sha1:
+ 86e27071df51fbc63dde47275c21ab9f786842cc 7027 ros-one-ros-industrial-cmake-boilerplate_0.6.2-2024.10.16.03.34_amd64.buildinfo
+ 4e92e6b1f912251c72297ee68ab0b6c5bbd5a7c9 24544 ros-one-ros-industrial-cmake-boilerplate_0.6.2-2024.10.16.03.34_amd64.deb
+Checksums-Sha256:
+ b30d1150a68d60e4c390f2e7dd05fe5cffb0d814eea57752fc08a7f0fd3cb2db 7027 ros-one-ros-industrial-cmake-boilerplate_0.6.2-2024.10.16.03.34_amd64.buildinfo
+ 444b3c0ce6fd1d58dd51552b1218eedc02d3f48474249ed1ead6f88327251a7d 24544 ros-one-ros-industrial-cmake-boilerplate_0.6.2-2024.10.16.03.34_amd64.deb
+Files:
+ f4e415a4de5129e4a937cbe6a8853049 7027 misc optional ros-one-ros-industrial-cmake-boilerplate_0.6.2-2024.10.16.03.34_amd64.buildinfo
+ f7c585b3d4385cf2975f21d672c05683 24544 misc optional ros-one-ros-industrial-cmake-boilerplate_0.6.2-2024.10.16.03.34_amd64.deb

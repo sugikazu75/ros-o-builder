@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 19 Jan 2023 00:00:00 -0000
+Source: ros-one-pcl-conversions
+Binary: ros-one-pcl-conversions
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.7.4-12-g5f72467-2024.10.16.07.15
+Distribution: jammy
+Urgency: high
+Maintainer: Paul Bovbel <paul@bovbel.com>
+Changed-By: Paul Bovbel <paul@bovbel.com>
+Description:
+ ros-one-pcl-conversions - Provides conversions from PCL data types and ROS message types
+Changes:
+ ros-one-pcl-conversions (1.7.4-12-g5f72467-2024.10.16.07.15) jammy; urgency=high
+Checksums-Sha1:
+ 1fc1389e576bea5a1e7e08374966c8aa6714ec87 30996 ros-one-pcl-conversions_1.7.4-12-g5f72467-2024.10.16.07.15_amd64.buildinfo
+ 851eb30468b099b1b1a8b12305026a6646d91d2c 12070 ros-one-pcl-conversions_1.7.4-12-g5f72467-2024.10.16.07.15_amd64.deb
+Checksums-Sha256:
+ c1df2dc9d6fc5f7359e76cf7e676be87cb6856c182e0adb286e618d121263ddb 30996 ros-one-pcl-conversions_1.7.4-12-g5f72467-2024.10.16.07.15_amd64.buildinfo
+ cc0833621df6486a468e4af699f9cc1a3d415ed6642ab9b1998490496f760f75 12070 ros-one-pcl-conversions_1.7.4-12-g5f72467-2024.10.16.07.15_amd64.deb
+Files:
+ d5a134aed8daef2356fbc0665da1d5b7 30996 misc optional ros-one-pcl-conversions_1.7.4-12-g5f72467-2024.10.16.07.15_amd64.buildinfo
+ 79ca0320879ac872f426f01583382662 12070 misc optional ros-one-pcl-conversions_1.7.4-12-g5f72467-2024.10.16.07.15_amd64.deb

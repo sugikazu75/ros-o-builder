@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Thu, 13 Sep 2018 00:00:00 -0000
+Source: ros-one-openni-camera
+Binary: ros-one-openni-camera
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.16.09.10
+Distribution: jammy
+Urgency: high
+Maintainer: Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>
+Changed-By: Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>
+Description:
+ ros-one-openni-camera - A ROS driver for OpenNI depth (+ RGB) cameras.
+Changes:
+ ros-one-openni-camera (0-2024.10.16.09.10) jammy; urgency=high
+ .
+   * [improve] Python 3 conformity #67 <https://github.com/ros-drivers/openni_camera/issues/67>
+   * Contributors: Isaac I.Y. Saito, cclauss
+Checksums-Sha1:
+ 8565e73ce7f5c82162982a548b84f78ec527702d 3040840 ros-one-openni-camera-dbgsym_0-2024.10.16.09.10_amd64.ddeb
+ 691fa23905aeb776158a308b5d453bf7088ecff5 21168 ros-one-openni-camera_0-2024.10.16.09.10_amd64.buildinfo
+ 09fc7e8774d346a4e9d121126ba536442eb8e648 193944 ros-one-openni-camera_0-2024.10.16.09.10_amd64.deb
+Checksums-Sha256:
+ e20e6aedfc18a86fd60fe29937250e837c4991fff9a0b6686261270e4855cd67 3040840 ros-one-openni-camera-dbgsym_0-2024.10.16.09.10_amd64.ddeb
+ 86d5b8351d2f46beed49884569596b395ff043c387d3e0fdebf57700f892473e 21168 ros-one-openni-camera_0-2024.10.16.09.10_amd64.buildinfo
+ b0225899fae7ed90bf337c353508e9d661bbb4ee2116ef3f87623fb3f4396757 193944 ros-one-openni-camera_0-2024.10.16.09.10_amd64.deb
+Files:
+ 981888ddd0ba5ad8fce66687b2d4ecf3 3040840 debug optional ros-one-openni-camera-dbgsym_0-2024.10.16.09.10_amd64.ddeb
+ e25333c70f81948b92d6f25d8efa701d 21168 misc optional ros-one-openni-camera_0-2024.10.16.09.10_amd64.buildinfo
+ b31992a4f175c6b1786e773ca728b1cc 193944 misc optional ros-one-openni-camera_0-2024.10.16.09.10_amd64.deb

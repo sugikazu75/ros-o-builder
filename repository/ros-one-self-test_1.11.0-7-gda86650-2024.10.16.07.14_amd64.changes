@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-self-test
+Binary: ros-one-self-test
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.11.0-7-gda86650-2024.10.16.07.14
+Distribution: jammy
+Urgency: high
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Changed-By: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Description:
+ ros-one-self-test - self_test
+Changes:
+ ros-one-self-test (1.11.0-7-gda86650-2024.10.16.07.14) jammy; urgency=high
+Checksums-Sha1:
+ 137de48b980201561956d808045186c4e4a3eebf 1961844 ros-one-self-test-dbgsym_1.11.0-7-gda86650-2024.10.16.07.14_amd64.ddeb
+ 0b9e1ba6c68f9da4fcb538c81a58b90655639ee2 13467 ros-one-self-test_1.11.0-7-gda86650-2024.10.16.07.14_amd64.buildinfo
+ 29548ec5525c74f3c32bf539183238f7d5c43e08 168312 ros-one-self-test_1.11.0-7-gda86650-2024.10.16.07.14_amd64.deb
+Checksums-Sha256:
+ 75454673479512513700d94b47247452225abdebcab9f3817892dc6df05b801d 1961844 ros-one-self-test-dbgsym_1.11.0-7-gda86650-2024.10.16.07.14_amd64.ddeb
+ 143e39ade7e756d75fcdc449798ce957cf6675027b646a02dd5a8d099cbadce5 13467 ros-one-self-test_1.11.0-7-gda86650-2024.10.16.07.14_amd64.buildinfo
+ 5b46f28db9b1fa8f5f695399d10eb988195ec682edbe1d407e933584078c3842 168312 ros-one-self-test_1.11.0-7-gda86650-2024.10.16.07.14_amd64.deb
+Files:
+ 8b6cb8e06f41a9825f2842ce574e8a6d 1961844 debug optional ros-one-self-test-dbgsym_1.11.0-7-gda86650-2024.10.16.07.14_amd64.ddeb
+ 9e9ec29f3cf3198e3c7f14a3cf416d61 13467 misc optional ros-one-self-test_1.11.0-7-gda86650-2024.10.16.07.14_amd64.buildinfo
+ fdd409b660bda63279a2861ae21927a4 168312 misc optional ros-one-self-test_1.11.0-7-gda86650-2024.10.16.07.14_amd64.deb

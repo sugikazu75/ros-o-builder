@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sat, 20 Feb 2021 00:00:00 -0000
+Source: ros-one-libuvc-ros
+Binary: ros-one-libuvc-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.16.06.43
+Distribution: jammy
+Urgency: high
+Maintainer: Ken Tossell <ken@tossell.net>
+Changed-By: Ken Tossell <ken@tossell.net>
+Description:
+ ros-one-libuvc-ros - libuvc_ros metapackage
+Changes:
+ ros-one-libuvc-ros (0-2024.10.16.06.43) jammy; urgency=high
+Checksums-Sha1:
+ a399c2530beed7622fbb12680d3849ced5f9a5c5 8105 ros-one-libuvc-ros_0-2024.10.16.06.43_amd64.buildinfo
+ e4077b7df8e6fcfccec81975de19f04c4bd299d0 2318 ros-one-libuvc-ros_0-2024.10.16.06.43_amd64.deb
+Checksums-Sha256:
+ 7aabe77f80b05d13d594a6807169ff3866aff2ba1a2dfe42593e0880a39f19f6 8105 ros-one-libuvc-ros_0-2024.10.16.06.43_amd64.buildinfo
+ 0d3e170f427c76b08cdce4f97967fb0051a0881ddf588684ad7b1ca7bb29a6ca 2318 ros-one-libuvc-ros_0-2024.10.16.06.43_amd64.deb
+Files:
+ afb63805b43eb6dcde9163d53bddb147 8105 misc optional ros-one-libuvc-ros_0-2024.10.16.06.43_amd64.buildinfo
+ 4a715ae7dde8bf4525fd3d1006d71962 2318 misc optional ros-one-libuvc-ros_0-2024.10.16.06.43_amd64.deb

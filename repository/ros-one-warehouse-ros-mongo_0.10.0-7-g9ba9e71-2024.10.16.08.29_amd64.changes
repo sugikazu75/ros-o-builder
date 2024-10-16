@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 09 Oct 2020 00:00:00 -0000
+Source: ros-one-warehouse-ros-mongo
+Binary: ros-one-warehouse-ros-mongo
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.10.0-7-g9ba9e71-2024.10.16.08.29
+Distribution: jammy
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-one-warehouse-ros-mongo - warehouse_ros for MongoDB
+Changes:
+ ros-one-warehouse-ros-mongo (0.10.0-7-g9ba9e71-2024.10.16.08.29) jammy; urgency=high
+ .
+   * clang-format-10
+   * Python3 compatibility layer for roslaunch in CMake (#35 <https://github.com/ros-planning/warehouse_ros_mongo/issues/35>)
+   * Contributors: Robert Haschke, Tyler Weaver
+Checksums-Sha1:
+ 63926ba042d1bafa8fecece75f82add70a5b3a9e 737848 ros-one-warehouse-ros-mongo-dbgsym_0.10.0-7-g9ba9e71-2024.10.16.08.29_amd64.ddeb
+ 81ec9d5ed69573681cde07b331e35d2ab95c251b 23368 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2024.10.16.08.29_amd64.buildinfo
+ 32c1cf426331ae7c7d20486f9984ee22f783bb31 58046 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2024.10.16.08.29_amd64.deb
+Checksums-Sha256:
+ 0836713441c783bff40e3785866447d137d2831c2e5c940be0ac50426591df91 737848 ros-one-warehouse-ros-mongo-dbgsym_0.10.0-7-g9ba9e71-2024.10.16.08.29_amd64.ddeb
+ a26edcbf9697a26f6c28aa4012a5a6919ef2e8cac8b092a0525d55c328e48745 23368 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2024.10.16.08.29_amd64.buildinfo
+ 80ba78b0eb6bd7cc77214aca861e472672cd40757149b0c63b5a317cee00a006 58046 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2024.10.16.08.29_amd64.deb
+Files:
+ aa736d4ecb7ce448a88001fefded9eb9 737848 debug optional ros-one-warehouse-ros-mongo-dbgsym_0.10.0-7-g9ba9e71-2024.10.16.08.29_amd64.ddeb
+ 4ca1b652ec4d2b78247b86c2e535ae72 23368 misc optional ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2024.10.16.08.29_amd64.buildinfo
+ 52a3435992983a02b453a5a38bd08348 58046 misc optional ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2024.10.16.08.29_amd64.deb

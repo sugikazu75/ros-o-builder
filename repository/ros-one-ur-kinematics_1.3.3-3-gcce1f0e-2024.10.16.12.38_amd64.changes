@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 08 Apr 2024 00:00:00 -0000
+Source: ros-one-ur-kinematics
+Binary: ros-one-ur-kinematics
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.3.3-3-gcce1f0e-2024.10.16.12.38
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur-kinematics - Provides forward and inverse kinematics for Universal Robots desi
+Changes:
+ ros-one-ur-kinematics (1.3.3-3-gcce1f0e-2024.10.16.12.38) jammy; urgency=high
+ .
+   * Changed include for Boost in ur_kinematics (#675 <https://github.com/ros-industrial/universal_robot/issues/675>)
+   * UR30 description and meshes (#674 <https://github.com/ros-industrial/universal_robot/issues/674>)
+   * Contributors: Vincenzo Di Pentima
+Checksums-Sha1:
+ 05ad1f05ff8e224f7253109d0634dab64a3a1ba0 1552244 ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2024.10.16.12.38_amd64.ddeb
+ 6470444802fbb5c5647bec62df3322173a5d0c82 26018 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.16.12.38_amd64.buildinfo
+ 6237d237b6996a553873ac4d4025e655f0e9c9a9 74716 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.16.12.38_amd64.deb
+Checksums-Sha256:
+ 3773c183b571f35a04045a8eb072542df9d0f8a16d731c03ef7452b6aa383f40 1552244 ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2024.10.16.12.38_amd64.ddeb
+ cd162cc1310ea9b97e7f01075eeb987c697c8ad88e177abf09f6a6f60b953bd4 26018 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.16.12.38_amd64.buildinfo
+ a2668c3c8f663b3884371ae9b4bf6a957d92a802a84cf4c8b57bcf682b94adc2 74716 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.16.12.38_amd64.deb
+Files:
+ c73a5dd50871d70dda583918595255ed 1552244 debug optional ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2024.10.16.12.38_amd64.ddeb
+ 5b3c081ed9956dbbc9334424d2269828 26018 misc optional ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.16.12.38_amd64.buildinfo
+ 21fb9b953bd1b6e9957722557eec71e6 74716 misc optional ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.16.12.38_amd64.deb

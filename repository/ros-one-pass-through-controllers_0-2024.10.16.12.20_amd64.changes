@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 15 Jun 2021 00:00:00 -0000
+Source: ros-one-pass-through-controllers
+Binary: ros-one-pass-through-controllers
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.16.12.20
+Distribution: jammy
+Urgency: high
+Maintainer: Stefan Scherzinger <scherzin@fzi.de>
+Changed-By: Stefan Scherzinger <scherzin@fzi.de>
+Description:
+ ros-one-pass-through-controllers - Trajectory controllers (joint-based and Cartesian) that forward t
+Changes:
+ ros-one-pass-through-controllers (0-2024.10.16.12.20) jammy; urgency=high
+ .
+   * Initial release
+   * Contributors: Felix Exner, Rune Søe-Knudsen, Stefan Scherzinger
+Checksums-Sha1:
+ a0ef776c7b068ada2d53ea6020f8497995d4b9c3 1812354 ros-one-pass-through-controllers-dbgsym_0-2024.10.16.12.20_amd64.ddeb
+ 31c5d9115ab7f7976065603f1537a11daf01f4e2 22957 ros-one-pass-through-controllers_0-2024.10.16.12.20_amd64.buildinfo
+ 0edb2e8c80e734234cfa46873a3a73b1f996738c 157088 ros-one-pass-through-controllers_0-2024.10.16.12.20_amd64.deb
+Checksums-Sha256:
+ 936216d6aebcb55faf8c591d81578b93463f24ba350c360ae3b7645cd9a1d55f 1812354 ros-one-pass-through-controllers-dbgsym_0-2024.10.16.12.20_amd64.ddeb
+ a07afaf4193e9742a80ad31907107ed78d11060cb6a401cd496baa6918032be8 22957 ros-one-pass-through-controllers_0-2024.10.16.12.20_amd64.buildinfo
+ 6d6cf62b925ab3358bb8df3f0ff5d0ac5024796ff021d6e886cd587fe55bccad 157088 ros-one-pass-through-controllers_0-2024.10.16.12.20_amd64.deb
+Files:
+ 25f3a09414d4c81e5681f57a9b97e097 1812354 debug optional ros-one-pass-through-controllers-dbgsym_0-2024.10.16.12.20_amd64.ddeb
+ 486fc44fcba54de38b199742c7c19787 22957 misc optional ros-one-pass-through-controllers_0-2024.10.16.12.20_amd64.buildinfo
+ e1e973ce49d9f49c0a7cb05f442e9270 157088 misc optional ros-one-pass-through-controllers_0-2024.10.16.12.20_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 15 Jun 2021 00:00:00 -0000
+Source: ros-one-speed-scaling-state-controller
+Binary: ros-one-speed-scaling-state-controller
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.16.10.26
+Distribution: jammy
+Urgency: high
+Maintainer: Felix Exner <exner@fzi.de>
+Changed-By: Felix Exner <exner@fzi.de>
+Description:
+ ros-one-speed-scaling-state-controller - ROS controller providing reading the state of speed scaling on th
+Changes:
+ ros-one-speed-scaling-state-controller (0-2024.10.16.10.26) jammy; urgency=high
+Checksums-Sha1:
+ f12aa6fd8fd7f0cd7e04f9b1665ceeed0182f2e2 521610 ros-one-speed-scaling-state-controller-dbgsym_0-2024.10.16.10.26_amd64.ddeb
+ b609ab780c98a32bce47cd8075ca443dcad51e8d 15087 ros-one-speed-scaling-state-controller_0-2024.10.16.10.26_amd64.buildinfo
+ f857e908e25dd8459c6aafc24e9fd0021ce20429 40698 ros-one-speed-scaling-state-controller_0-2024.10.16.10.26_amd64.deb
+Checksums-Sha256:
+ 56036dbdcf711ee2be58e961d54b130dec29456327ee086bc9f3f763aecdf6a9 521610 ros-one-speed-scaling-state-controller-dbgsym_0-2024.10.16.10.26_amd64.ddeb
+ 1b983fdea8551b001728ee907cf2520ee6976fb7025380eae1ebeda3c8f4a620 15087 ros-one-speed-scaling-state-controller_0-2024.10.16.10.26_amd64.buildinfo
+ 7fae3094e05ca70fc50817e9a500edccfe5a3cc6d02a90422f04547eaa59f8a2 40698 ros-one-speed-scaling-state-controller_0-2024.10.16.10.26_amd64.deb
+Files:
+ c1bdec666b71793d7608750ad056836c 521610 debug optional ros-one-speed-scaling-state-controller-dbgsym_0-2024.10.16.10.26_amd64.ddeb
+ 768794ee66b4fb36d20f74ee68c99a88 15087 misc optional ros-one-speed-scaling-state-controller_0-2024.10.16.10.26_amd64.buildinfo
+ e7723a2a71c7f6b3b5436f125974e078 40698 misc optional ros-one-speed-scaling-state-controller_0-2024.10.16.10.26_amd64.deb

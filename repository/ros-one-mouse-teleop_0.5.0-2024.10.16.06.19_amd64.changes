@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 04 May 2023 00:00:00 -0000
+Source: ros-one-mouse-teleop
+Binary: ros-one-mouse-teleop
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.0-2024.10.16.06.19
+Distribution: jammy
+Urgency: high
+Maintainer: Enrique Fernandez <enrique.fernandez.perdomo@gmail.com>
+Changed-By: Enrique Fernandez <enrique.fernandez.perdomo@gmail.com>
+Description:
+ ros-one-mouse-teleop - A mouse teleop tool for holonomic mobile robots.
+Changes:
+ ros-one-mouse-teleop (0.5.0-2024.10.16.06.19) jammy; urgency=high
+Checksums-Sha1:
+ f705b622749c43a1f9607a551673dd749e5ba8b6 8131 ros-one-mouse-teleop_0.5.0-2024.10.16.06.19_amd64.buildinfo
+ 05aafcfb3f55f6b703944eb4ad7de6fa57ae074d 7174 ros-one-mouse-teleop_0.5.0-2024.10.16.06.19_amd64.deb
+Checksums-Sha256:
+ afa53503ec83d77489ce71ec6e0aeea7831aa25db74e9f269d047a1df8cc749e 8131 ros-one-mouse-teleop_0.5.0-2024.10.16.06.19_amd64.buildinfo
+ 963c344a9df9f5e0db3b844c61bec650fcbd6157d99ae3ca4c1662403e29f1e8 7174 ros-one-mouse-teleop_0.5.0-2024.10.16.06.19_amd64.deb
+Files:
+ b7ce2bd92e04c38e67e4e020eadded05 8131 misc optional ros-one-mouse-teleop_0.5.0-2024.10.16.06.19_amd64.buildinfo
+ 60a73475bab2dcd4caa67d28b80f970c 7174 misc optional ros-one-mouse-teleop_0.5.0-2024.10.16.06.19_amd64.deb

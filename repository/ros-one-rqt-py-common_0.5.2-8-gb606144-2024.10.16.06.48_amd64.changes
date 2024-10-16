@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 25 Mar 2022 00:00:00 -0000
+Source: ros-one-rqt-py-common
+Binary: ros-one-rqt-py-common
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.2-8-gb606144-2024.10.16.06.48
+Distribution: jammy
+Urgency: high
+Maintainer: Dharini Dutia <dharini@openrobotics.org>
+Changed-By: Dharini Dutia <dharini@openrobotics.org>
+Description:
+ ros-one-rqt-py-common - rqt_py_common provides common functionality for rqt plugins writt
+Changes:
+ ros-one-rqt-py-common (0.5.2-8-gb606144-2024.10.16.06.48) jammy; urgency=high
+ .
+   * Update maintainers (#233 <https://github.com/ros-visualization/rqt/issues/233>) (#237 <https://github.com/ros-visualization/rqt/issues/237>)
+   * Contributors: Michael Jeronimo
+Checksums-Sha1:
+ 09c3f50dd9e9f21c6e8a11ae76313241ac8aca18 9542 ros-one-rqt-py-common_0.5.2-8-gb606144-2024.10.16.06.48_amd64.buildinfo
+ ec24e0eff0c158d7dbb61bd3ef5c7ecd566f7a4b 46964 ros-one-rqt-py-common_0.5.2-8-gb606144-2024.10.16.06.48_amd64.deb
+Checksums-Sha256:
+ 2a4602ef3ab454fb28cd47f5c45f44a780abf42b13520e8818da96a9f63baf2e 9542 ros-one-rqt-py-common_0.5.2-8-gb606144-2024.10.16.06.48_amd64.buildinfo
+ 29b6fa43d16a76446197adad4ffb3b0af14cc564cf5cf232bcaf34931455dbde 46964 ros-one-rqt-py-common_0.5.2-8-gb606144-2024.10.16.06.48_amd64.deb
+Files:
+ 193c1c47e43becde6d83b3ec0a4cf380 9542 misc optional ros-one-rqt-py-common_0.5.2-8-gb606144-2024.10.16.06.48_amd64.buildinfo
+ ac78c72bfc3b1df9c0e73a7b014b851a 46964 misc optional ros-one-rqt-py-common_0.5.2-8-gb606144-2024.10.16.06.48_amd64.deb

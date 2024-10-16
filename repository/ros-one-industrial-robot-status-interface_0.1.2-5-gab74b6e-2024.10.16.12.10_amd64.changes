@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 12 May 2019 00:00:00 -0000
+Source: ros-one-industrial-robot-status-interface
+Binary: ros-one-industrial-robot-status-interface
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.2-5-gab74b6e-2024.10.16.12.10
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-industrial-robot-status-interface - Exposes ROS-Industrial's RobotStatus info from hardware_interface
+Changes:
+ ros-one-industrial-robot-status-interface (0.1.2-5-gab74b6e-2024.10.16.12.10) jammy; urgency=high
+Checksums-Sha1:
+ da5df07095ebe252675975f25df1e63912698db3 11084 ros-one-industrial-robot-status-interface_0.1.2-5-gab74b6e-2024.10.16.12.10_amd64.buildinfo
+ 8f946fe25fb8c77be14b664311ac8b322653d71a 5826 ros-one-industrial-robot-status-interface_0.1.2-5-gab74b6e-2024.10.16.12.10_amd64.deb
+Checksums-Sha256:
+ 227146247214f8a3a434cb71d1c9a8049fc835d322d9d29d7a4b909a8f31e4c5 11084 ros-one-industrial-robot-status-interface_0.1.2-5-gab74b6e-2024.10.16.12.10_amd64.buildinfo
+ 8138acead41b45d34a280f919273873ba2c896946b6798d52486705753cd458c 5826 ros-one-industrial-robot-status-interface_0.1.2-5-gab74b6e-2024.10.16.12.10_amd64.deb
+Files:
+ 796b535f8aaa346247f6abcbdecaea6a 11084 misc optional ros-one-industrial-robot-status-interface_0.1.2-5-gab74b6e-2024.10.16.12.10_amd64.buildinfo
+ 3cdd3eea64804f2b1e4cfa99e469c193 5826 misc optional ros-one-industrial-robot-status-interface_0.1.2-5-gab74b6e-2024.10.16.12.10_amd64.deb

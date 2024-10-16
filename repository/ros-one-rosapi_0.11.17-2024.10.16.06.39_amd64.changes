@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 27 Sep 2023 00:00:00 -0000
+Source: ros-one-rosapi
+Binary: ros-one-rosapi
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.11.17-2024.10.16.06.39
+Distribution: jammy
+Urgency: high
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Changed-By: Russell Toris <rctoris@wpi.edu>
+Description:
+ ros-one-rosapi - Provides service calls for getting ros meta-information, like lis
+Changes:
+ ros-one-rosapi (0.11.17-2024.10.16.06.39) jammy; urgency=high
+ .
+   * fix: topic list crashes if no topics are available (#869 <https://github.com/RobotWebTools/rosbridge_suite/issues/869>)
+   * Contributors: SubaruArai
+Checksums-Sha1:
+ 743de9e835090a91b12770ecf3218f932fe448db 8533 ros-one-rosapi_0.11.17-2024.10.16.06.39_amd64.buildinfo
+ fb6cf8b024455dd81ac83855dc53d7605bf905f5 91174 ros-one-rosapi_0.11.17-2024.10.16.06.39_amd64.deb
+Checksums-Sha256:
+ 8da4e034d2beb82a2c0ddaf0b08147325341358ba41150ad714a029adbf1039c 8533 ros-one-rosapi_0.11.17-2024.10.16.06.39_amd64.buildinfo
+ 094d5929f03c0126b514796f85934a301a6a37f998acd3d606af57b3fcc39035 91174 ros-one-rosapi_0.11.17-2024.10.16.06.39_amd64.deb
+Files:
+ ffb83807da0fb69c0f535608333206c3 8533 misc optional ros-one-rosapi_0.11.17-2024.10.16.06.39_amd64.buildinfo
+ 4d17f88867bdc769538777291f2c8297 91174 misc optional ros-one-rosapi_0.11.17-2024.10.16.06.39_amd64.deb

@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Fri, 10 Nov 2023 00:00:00 -0000
+Source: ros-one-moveit-resources-prbt-ikfast-manipulator-plugin
+Binary: ros-one-moveit-resources-prbt-ikfast-manipulator-plugin
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.8.3-2-gb771644-2024.10.16.09.21
+Distribution: jammy
+Urgency: high
+Maintainer: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Changed-By: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Description:
+ ros-one-moveit-resources-prbt-ikfast-manipulator-plugin - The prbt_ikfast_manipulator_plugin package
+Changes:
+ ros-one-moveit-resources-prbt-ikfast-manipulator-plugin (0.8.3-2-gb771644-2024.10.16.09.21) jammy; urgency=high
+ .
+   * Do not enforce old C++ standard (#155 <https://github.com/ros-planning/moveit_resources/issues/155>)
+   * Declare conflict with old Pilz package (#153 <https://github.com/ros-planning/moveit_resources/issues/153>)
+   * Limit gcc/clang options to non-Windows builds (#112 <https://github.com/ros-planning/moveit_resources/issues/112>)
+   * Contributors: Michael Görner, Robert Haschke, Tobias Fischer
+Checksums-Sha1:
+ 5a2c32a9ad351b721e0828319546d301a3e4d1e7 2591016 ros-one-moveit-resources-prbt-ikfast-manipulator-plugin-dbgsym_0.8.3-2-gb771644-2024.10.16.09.21_amd64.ddeb
+ cdbbed27c9bdf32a54c66fe4fe1992fab145c55a 22981 ros-one-moveit-resources-prbt-ikfast-manipulator-plugin_0.8.3-2-gb771644-2024.10.16.09.21_amd64.buildinfo
+ a70923147c5559a8a01ea1743083ba2544262892 128914 ros-one-moveit-resources-prbt-ikfast-manipulator-plugin_0.8.3-2-gb771644-2024.10.16.09.21_amd64.deb
+Checksums-Sha256:
+ d02f14fef03e06ff5f189932b85ae99aa294f19d63419db8e4c3a841483d58b4 2591016 ros-one-moveit-resources-prbt-ikfast-manipulator-plugin-dbgsym_0.8.3-2-gb771644-2024.10.16.09.21_amd64.ddeb
+ 9d008a400964810dfd053073e79f6cfd7ccd140d84e2684190cd911d2bdfb9d3 22981 ros-one-moveit-resources-prbt-ikfast-manipulator-plugin_0.8.3-2-gb771644-2024.10.16.09.21_amd64.buildinfo
+ 6231140f08de86ba75d6cd15b18e120e556918a8e188eac3eaf34777fb799722 128914 ros-one-moveit-resources-prbt-ikfast-manipulator-plugin_0.8.3-2-gb771644-2024.10.16.09.21_amd64.deb
+Files:
+ 27b88670f539c7eca028a8d611283996 2591016 debug optional ros-one-moveit-resources-prbt-ikfast-manipulator-plugin-dbgsym_0.8.3-2-gb771644-2024.10.16.09.21_amd64.ddeb
+ cdb18e26b69c49fa66d732a3fc002ed6 22981 misc optional ros-one-moveit-resources-prbt-ikfast-manipulator-plugin_0.8.3-2-gb771644-2024.10.16.09.21_amd64.buildinfo
+ 57f27c11681aa3f9fb5e84d276d49503 128914 misc optional ros-one-moveit-resources-prbt-ikfast-manipulator-plugin_0.8.3-2-gb771644-2024.10.16.09.21_amd64.deb

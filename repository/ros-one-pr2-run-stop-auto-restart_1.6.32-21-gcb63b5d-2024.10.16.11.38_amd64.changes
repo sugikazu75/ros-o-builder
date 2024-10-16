@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 26 May 2021 00:00:00 -0000
+Source: ros-one-pr2-run-stop-auto-restart
+Binary: ros-one-pr2-run-stop-auto-restart
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.6.32-21-gcb63b5d-2024.10.16.11.38
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Feil-Seifer <dave@cse.unr.edu>
+Changed-By: Dave Feil-Seifer <dave@cse.unr.edu>
+Description:
+ ros-one-pr2-run-stop-auto-restart - This package provides a node that monitors the state of the run s
+Changes:
+ ros-one-pr2-run-stop-auto-restart (1.6.32-21-gcb63b5d-2024.10.16.11.38) jammy; urgency=high
+Checksums-Sha1:
+ 3a68e2aa53819df0a30132df6fd2647ba610af05 322088 ros-one-pr2-run-stop-auto-restart-dbgsym_1.6.32-21-gcb63b5d-2024.10.16.11.38_amd64.ddeb
+ 5261b8e9b5667d483d43557f4653db5cd1d79fb0 13160 ros-one-pr2-run-stop-auto-restart_1.6.32-21-gcb63b5d-2024.10.16.11.38_amd64.buildinfo
+ 5a4d45cd9fdf15d0a11f8c6d2d2a8d42d7354a86 28072 ros-one-pr2-run-stop-auto-restart_1.6.32-21-gcb63b5d-2024.10.16.11.38_amd64.deb
+Checksums-Sha256:
+ a3512f4f5f818a9053d0af9fc95e18fb346499fa735e9f71b45871090c7cec3b 322088 ros-one-pr2-run-stop-auto-restart-dbgsym_1.6.32-21-gcb63b5d-2024.10.16.11.38_amd64.ddeb
+ 3bdf87f1601fe3eda99bc150918e088a056fa0d7a2b03824f4a166108d5842bc 13160 ros-one-pr2-run-stop-auto-restart_1.6.32-21-gcb63b5d-2024.10.16.11.38_amd64.buildinfo
+ 41485b433cc4f6bc81b83aa1eda07df7cfb5b75ea0cb39e322ab5486cd1a366f 28072 ros-one-pr2-run-stop-auto-restart_1.6.32-21-gcb63b5d-2024.10.16.11.38_amd64.deb
+Files:
+ 4ad107b5b5103dcd482cf015203b19e0 322088 debug optional ros-one-pr2-run-stop-auto-restart-dbgsym_1.6.32-21-gcb63b5d-2024.10.16.11.38_amd64.ddeb
+ 48629a13aee3210ca5cedaf863150187 13160 misc optional ros-one-pr2-run-stop-auto-restart_1.6.32-21-gcb63b5d-2024.10.16.11.38_amd64.buildinfo
+ e389bc2852727a594a5472a3d057daf2 28072 misc optional ros-one-pr2-run-stop-auto-restart_1.6.32-21-gcb63b5d-2024.10.16.11.38_amd64.deb

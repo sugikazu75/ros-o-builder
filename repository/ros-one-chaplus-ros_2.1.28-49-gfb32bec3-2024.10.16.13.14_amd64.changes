@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-chaplus-ros
+Binary: ros-one-chaplus-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.16.13.14
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-chaplus-ros - The ROS package for chaplus service
+Changes:
+ ros-one-chaplus-ros (2.1.28-49-gfb32bec3-2024.10.16.13.14) jammy; urgency=high
+Checksums-Sha1:
+ 6d47ce8e3f14787560414265f1d9a69740a5943d 8182 ros-one-chaplus-ros_2.1.28-49-gfb32bec3-2024.10.16.13.14_amd64.buildinfo
+ 0108de5636453efbb9d61ce120d15080436e6654 9958 ros-one-chaplus-ros_2.1.28-49-gfb32bec3-2024.10.16.13.14_amd64.deb
+Checksums-Sha256:
+ 437bae058d1541515276c3a825100b4de05e33d03f9daf4b4dafd44456039928 8182 ros-one-chaplus-ros_2.1.28-49-gfb32bec3-2024.10.16.13.14_amd64.buildinfo
+ 1237ead45fa7ea4e2b92a0eba0734c63ce4c42444c9239fff788005ae39d8bde 9958 ros-one-chaplus-ros_2.1.28-49-gfb32bec3-2024.10.16.13.14_amd64.deb
+Files:
+ 1659c39a83ba15d9a622fddaa1460b16 8182 misc optional ros-one-chaplus-ros_2.1.28-49-gfb32bec3-2024.10.16.13.14_amd64.buildinfo
+ eef15074e62da9bda961b9599836b488 9958 misc optional ros-one-chaplus-ros_2.1.28-49-gfb32bec3-2024.10.16.13.14_amd64.deb

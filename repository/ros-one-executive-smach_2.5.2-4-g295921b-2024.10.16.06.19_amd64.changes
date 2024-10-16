@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 13 Jun 2023 00:00:00 -0000
+Source: ros-one-executive-smach
+Binary: ros-one-executive-smach
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.5.2-4-g295921b-2024.10.16.06.19
+Distribution: jammy
+Urgency: high
+Maintainer: Isaac I. Y. Saito <gm130s@gmail.com>
+Changed-By: Isaac I. Y. Saito <gm130s@gmail.com>
+Description:
+ ros-one-executive-smach - This metapackage depends on the SMACH library and ROS SMACH integ
+Changes:
+ ros-one-executive-smach (2.5.2-4-g295921b-2024.10.16.06.19) jammy; urgency=high
+Checksums-Sha1:
+ b27a589247a54f8f22662f5f6dcd98be03f395c1 8190 ros-one-executive-smach_2.5.2-4-g295921b-2024.10.16.06.19_amd64.buildinfo
+ e56c826514e4267bc1a7e788c4279c48c478fa8d 2410 ros-one-executive-smach_2.5.2-4-g295921b-2024.10.16.06.19_amd64.deb
+Checksums-Sha256:
+ 4f2f6c59010e2285d67071908b6ae77694b6ca942df907f8d3f8d931f7c242cd 8190 ros-one-executive-smach_2.5.2-4-g295921b-2024.10.16.06.19_amd64.buildinfo
+ f1fd9926b9480f149e6a3365a4b112b8dcabc2413e7d561ce3e8064d2d254fe0 2410 ros-one-executive-smach_2.5.2-4-g295921b-2024.10.16.06.19_amd64.deb
+Files:
+ e6baa7c1e2f82ba1b9557142a37a852d 8190 misc optional ros-one-executive-smach_2.5.2-4-g295921b-2024.10.16.06.19_amd64.buildinfo
+ 786257a22036051c7944b9a61902a987 2410 misc optional ros-one-executive-smach_2.5.2-4-g295921b-2024.10.16.06.19_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 11 Jan 2021 00:00:00 -0000
+Source: ros-one-trajectory-msgs
+Binary: ros-one-trajectory-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.13.1-2024.10.16.05.15
+Distribution: jammy
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-trajectory-msgs - This package defines messages for defining robot trajectories.
+Changes:
+ ros-one-trajectory-msgs (1.13.1-2024.10.16.05.15) jammy; urgency=high
+ .
+   * Update package maintainers (#168 <https://github.com/ros/common_msgs/issues/168>)
+   * Contributors: Michel Hidalgo
+Checksums-Sha1:
+ 720f654cb57c8f51c50e213ce96224aadbbf5f7b 9808 ros-one-trajectory-msgs_1.13.1-2024.10.16.05.15_amd64.buildinfo
+ b8dda21167d7e2de8fa78862aa90ad43f9eb3fa8 29692 ros-one-trajectory-msgs_1.13.1-2024.10.16.05.15_amd64.deb
+Checksums-Sha256:
+ 9705d933743ccbbf316b6187103b141fb8be06369a263ed36a6ee300df08179c 9808 ros-one-trajectory-msgs_1.13.1-2024.10.16.05.15_amd64.buildinfo
+ 1fe37cff78132f5ddee5af1259001f9fca823b81db21747940a7c279272dba9c 29692 ros-one-trajectory-msgs_1.13.1-2024.10.16.05.15_amd64.deb
+Files:
+ 1332e3133be96e0b762146aff9789199 9808 misc optional ros-one-trajectory-msgs_1.13.1-2024.10.16.05.15_amd64.buildinfo
+ 4c2432b65b775f36526e5434d56b9122 29692 misc optional ros-one-trajectory-msgs_1.13.1-2024.10.16.05.15_amd64.deb

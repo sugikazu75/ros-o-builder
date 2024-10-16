@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 02 Nov 2020 00:00:00 -0000
+Source: ros-one-move-base-msgs
+Binary: ros-one-move-base-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.14.1-2024.10.16.05.56
+Distribution: jammy
+Urgency: high
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Changed-By: David V. Lu!! <davidvlu@gmail.com>
+Description:
+ ros-one-move-base-msgs - Holds the action description and relevant messages for the move_b
+Changes:
+ ros-one-move-base-msgs (1.14.1-2024.10.16.05.56) jammy; urgency=high
+ .
+   * Merge pull request #19 <https://github.com/ros-planning/navigation_msgs/issues/19> from ros-planning/recovery_behavior_msg
+     Recovery behavior msg
+   * Contributors: David V. Lu, David V. Lu!!, Peter Mitrano
+Checksums-Sha1:
+ 32e032fd59b7b10773e7f76a8a248f40403fb837 9856 ros-one-move-base-msgs_1.14.1-2024.10.16.05.56_amd64.buildinfo
+ ca670a6ecc1c1fcc155820d872a673f7dab8f0dd 33640 ros-one-move-base-msgs_1.14.1-2024.10.16.05.56_amd64.deb
+Checksums-Sha256:
+ 9c746ae77b6d745e7bc42e119ebfcbc42d7acea67421f95576e1297032438807 9856 ros-one-move-base-msgs_1.14.1-2024.10.16.05.56_amd64.buildinfo
+ 2860ce38ae74a349623ed364082eb7a60c267f83767f4dff30ed36cad10e7258 33640 ros-one-move-base-msgs_1.14.1-2024.10.16.05.56_amd64.deb
+Files:
+ 464e566338d71fd7335027d1e9415ad0 9856 misc optional ros-one-move-base-msgs_1.14.1-2024.10.16.05.56_amd64.buildinfo
+ b67f32df461adce7ef17113c23deac98 33640 misc optional ros-one-move-base-msgs_1.14.1-2024.10.16.05.56_amd64.deb

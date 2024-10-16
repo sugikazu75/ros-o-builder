@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-google-chat-ros
+Binary: ros-one-google-chat-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.16.13.41
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-google-chat-ros - Use Google Chat API clients via ROS
+Changes:
+ ros-one-google-chat-ros (2.1.28-49-gfb32bec3-2024.10.16.13.41) jammy; urgency=high
+Checksums-Sha1:
+ 3ba1263e0e41e6bfeb075b2a2f0ec1c832ff1802 516066 ros-one-google-chat-ros-dbgsym_2.1.28-49-gfb32bec3-2024.10.16.13.41_amd64.ddeb
+ e016abf42ec7e9fd2524629205a607acf7929502 12194 ros-one-google-chat-ros_2.1.28-49-gfb32bec3-2024.10.16.13.41_amd64.buildinfo
+ e5122db811ee2d9373fc4175c4f1e1de012c9456 11743692 ros-one-google-chat-ros_2.1.28-49-gfb32bec3-2024.10.16.13.41_amd64.deb
+Checksums-Sha256:
+ 5d143d7350a96907baf6d62418f8b363193482bbb64313a267d634c446363b41 516066 ros-one-google-chat-ros-dbgsym_2.1.28-49-gfb32bec3-2024.10.16.13.41_amd64.ddeb
+ 94a5dc6a5f4de51a40bc390a79007b15dc65f40b8277fdf885d3b47fd47cb7ac 12194 ros-one-google-chat-ros_2.1.28-49-gfb32bec3-2024.10.16.13.41_amd64.buildinfo
+ eda3fd251b2be62436eac160f4de502865d5138708b2d2fccb0e7cac56dae8dc 11743692 ros-one-google-chat-ros_2.1.28-49-gfb32bec3-2024.10.16.13.41_amd64.deb
+Files:
+ 89d23bc42d509f038fc2cf4f371c970a 516066 debug optional ros-one-google-chat-ros-dbgsym_2.1.28-49-gfb32bec3-2024.10.16.13.41_amd64.ddeb
+ d09111f94d1dcc09e27c7edd36d43f33 12194 misc optional ros-one-google-chat-ros_2.1.28-49-gfb32bec3-2024.10.16.13.41_amd64.buildinfo
+ 77a562f32169a87775a56096b415954f 11743692 misc optional ros-one-google-chat-ros_2.1.28-49-gfb32bec3-2024.10.16.13.41_amd64.deb

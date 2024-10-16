@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-pgm-learner
+Binary: ros-one-pgm-learner
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.16.14.49
+Distribution: jammy
+Urgency: high
+Maintainer: Yuki Furuta <furushchev@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Yuki Furuta <furushchev@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-pgm-learner - Parameter/Structure Estimation and Inference for Bayesian Belief
+Changes:
+ ros-one-pgm-learner (2.1.28-49-gfb32bec3-2024.10.16.14.49) jammy; urgency=high
+Checksums-Sha1:
+ 7ff1ac0e985b29a96ebea3c3cec5be32635cb531 12281 ros-one-pgm-learner_2.1.28-49-gfb32bec3-2024.10.16.14.49_amd64.buildinfo
+ 322c2f5f9f32464533cfad4c8b3932e76b3a0398 60150 ros-one-pgm-learner_2.1.28-49-gfb32bec3-2024.10.16.14.49_amd64.deb
+Checksums-Sha256:
+ 59a9ba013b2f6fbdab1856abd85459397119249b838f5c5b03ba04884bbd462d 12281 ros-one-pgm-learner_2.1.28-49-gfb32bec3-2024.10.16.14.49_amd64.buildinfo
+ 74a7cc1f99708c40a79c062eb7dba0281621a5e4127283346de588dc5f53538e 60150 ros-one-pgm-learner_2.1.28-49-gfb32bec3-2024.10.16.14.49_amd64.deb
+Files:
+ c60512acdcc95964087485d722021256 12281 misc optional ros-one-pgm-learner_2.1.28-49-gfb32bec3-2024.10.16.14.49_amd64.buildinfo
+ b711d035b8b55698c048667f69af6afa 60150 misc optional ros-one-pgm-learner_2.1.28-49-gfb32bec3-2024.10.16.14.49_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 07 Sep 2022 00:00:00 -0000
+Source: ros-one-pr2-dashboard-aggregator
+Binary: ros-one-pr2-dashboard-aggregator
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.13.1-2024.10.16.06.22
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-dashboard-aggregator - A simple script that aggregates all of the topics that a &quot;pr
+Changes:
+ ros-one-pr2-dashboard-aggregator (1.13.1-2024.10.16.06.22) jammy; urgency=high
+ .
+   * fix typo pr2_etherCAT -> pr2_ethercat (#288 <https://github.com/PR2/pr2_common/issues/288>)
+   * Contributors: Shingo Kitagawa
+Checksums-Sha1:
+ 65329b47d525f207e6b309a2a19c5fee49b706a1 8195 ros-one-pr2-dashboard-aggregator_1.13.1-2024.10.16.06.22_amd64.buildinfo
+ 402e97113ae487c9d1bd700a0ca3d91ee66d2cc8 6620 ros-one-pr2-dashboard-aggregator_1.13.1-2024.10.16.06.22_amd64.deb
+Checksums-Sha256:
+ 0d62ee8de5ee769f5e41e7f3f7bb3c71f3b63a0cca57a3279083bf9e813ae630 8195 ros-one-pr2-dashboard-aggregator_1.13.1-2024.10.16.06.22_amd64.buildinfo
+ ca23abeb5672b164335bf760978b510390837bacee6a72dd8af0f1a96736f0bf 6620 ros-one-pr2-dashboard-aggregator_1.13.1-2024.10.16.06.22_amd64.deb
+Files:
+ 1580655aad9ae3da6df84e24ee58f1a6 8195 misc optional ros-one-pr2-dashboard-aggregator_1.13.1-2024.10.16.06.22_amd64.buildinfo
+ b42f54815c76a0caf2acd0021279123a 6620 misc optional ros-one-pr2-dashboard-aggregator_1.13.1-2024.10.16.06.22_amd64.deb

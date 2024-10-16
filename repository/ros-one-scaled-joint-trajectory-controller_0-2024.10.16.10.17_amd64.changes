@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 15 Jun 2021 00:00:00 -0000
+Source: ros-one-scaled-joint-trajectory-controller
+Binary: ros-one-scaled-joint-trajectory-controller
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.16.10.17
+Distribution: jammy
+Urgency: high
+Maintainer: Felix Exner <exner@fzi.de>
+Changed-By: Felix Exner <exner@fzi.de>
+Description:
+ ros-one-scaled-joint-trajectory-controller - Provides controllers that use the speed scaling interface.
+Changes:
+ ros-one-scaled-joint-trajectory-controller (0-2024.10.16.10.17) jammy; urgency=high
+ .
+   * Require same CMake version in all packages
+   * Contributors: Felix Exner
+Checksums-Sha1:
+ 812a297b47eedada4af8f4dabdf18fd193eb89e9 2203022 ros-one-scaled-joint-trajectory-controller-dbgsym_0-2024.10.16.10.17_amd64.ddeb
+ 2447e649e7d33689725247b1d4e14f3477a734ec 22252 ros-one-scaled-joint-trajectory-controller_0-2024.10.16.10.17_amd64.buildinfo
+ 9bbd15e24538d8d80824fb335e8188ee42b8f892 176926 ros-one-scaled-joint-trajectory-controller_0-2024.10.16.10.17_amd64.deb
+Checksums-Sha256:
+ c9ae0e566195aca250b197ba07ab82c453637ade27f741b5d68593a1c912a09a 2203022 ros-one-scaled-joint-trajectory-controller-dbgsym_0-2024.10.16.10.17_amd64.ddeb
+ 101a0abfb2fd92e396d8833cf500ec757a63531c894212fbc863bbdcb91d2b96 22252 ros-one-scaled-joint-trajectory-controller_0-2024.10.16.10.17_amd64.buildinfo
+ a454bc7fcd817503d16be39ce72f39d71846b9d26ae882b50471e47ca8b5c8d2 176926 ros-one-scaled-joint-trajectory-controller_0-2024.10.16.10.17_amd64.deb
+Files:
+ 743e6043d40109bb75dd5e91f19bba9b 2203022 debug optional ros-one-scaled-joint-trajectory-controller-dbgsym_0-2024.10.16.10.17_amd64.ddeb
+ 3c6c71c3d0e15ad920f3059bb0bbec97 22252 misc optional ros-one-scaled-joint-trajectory-controller_0-2024.10.16.10.17_amd64.buildinfo
+ a2cf285ed5e97fea935885f58d27b63d 176926 misc optional ros-one-scaled-joint-trajectory-controller_0-2024.10.16.10.17_amd64.deb

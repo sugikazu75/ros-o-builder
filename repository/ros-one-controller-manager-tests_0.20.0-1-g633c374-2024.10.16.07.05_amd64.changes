@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 27 Oct 2023 00:00:00 -0000
+Source: ros-one-controller-manager-tests
+Binary: ros-one-controller-manager-tests
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.20.0-1-g633c374-2024.10.16.07.05
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-controller-manager-tests - Tests for the controller manager.
+Changes:
+ ros-one-controller-manager-tests (0.20.0-1-g633c374-2024.10.16.07.05) jammy; urgency=high
+Checksums-Sha1:
+ 93b002256a09919c98cd8f08c1ad85b2648f40d0 15334 ros-one-controller-manager-tests_0.20.0-1-g633c374-2024.10.16.07.05_amd64.buildinfo
+ 1ade4e749eaa5bc7702f79dec34a5f1a17abf935 12452 ros-one-controller-manager-tests_0.20.0-1-g633c374-2024.10.16.07.05_amd64.deb
+Checksums-Sha256:
+ 516a3cddc861054a5e33e4fd57538c0cb62f1679b9e0b32efbcddd19d41f52ac 15334 ros-one-controller-manager-tests_0.20.0-1-g633c374-2024.10.16.07.05_amd64.buildinfo
+ 40a8accf111ee74271ef95242a35f3654b3a8d7ea575e0973dd9ef512a3573ec 12452 ros-one-controller-manager-tests_0.20.0-1-g633c374-2024.10.16.07.05_amd64.deb
+Files:
+ da17a40cd0b257d76d5cff6b1b37b724 15334 misc optional ros-one-controller-manager-tests_0.20.0-1-g633c374-2024.10.16.07.05_amd64.buildinfo
+ 3e7cb3c79b04ff1a31bf2b9213ecfedb 12452 misc optional ros-one-controller-manager-tests_0.20.0-1-g633c374-2024.10.16.07.05_amd64.deb

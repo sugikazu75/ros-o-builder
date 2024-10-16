@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 20 Apr 2021 00:00:00 -0000
+Source: ros-one-boost-sml
+Binary: ros-one-boost-sml
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.2-6-gaaddc80-2024.10.16.05.58
+Distribution: jammy
+Urgency: high
+Maintainer: Tyler Weaver <tyler@picknik.ai>
+Changed-By: Tyler Weaver <tyler@picknik.ai>
+Description:
+ ros-one-boost-sml - State machine library with ros logging
+Changes:
+ ros-one-boost-sml (0.1.2-6-gaaddc80-2024.10.16.05.58) jammy; urgency=high
+ .
+   * Add GitHub actions (#7 <https://github.com/PickNikRobotics/boost_sml/issues/7>)
+   * Fix Debian Buster build
+   * Contributors: Tyler Weaver
+Checksums-Sha1:
+ 9fa1dec23c19fdaba1cf5fc86166ccb8f4d409c4 1128034 ros-one-boost-sml-dbgsym_0.1.2-6-gaaddc80-2024.10.16.05.58_amd64.ddeb
+ 49a7f24b2c2e446d7c6c655f0ed9af3be5262187 17032 ros-one-boost-sml_0.1.2-6-gaaddc80-2024.10.16.05.58_amd64.buildinfo
+ 68b350628bbf237f8e467d4d7dfe9d667ddf971c 80176 ros-one-boost-sml_0.1.2-6-gaaddc80-2024.10.16.05.58_amd64.deb
+Checksums-Sha256:
+ 7afde11ede92c22120e7ddce88af20f27d21f98e6a8c59df173136d78f3fba33 1128034 ros-one-boost-sml-dbgsym_0.1.2-6-gaaddc80-2024.10.16.05.58_amd64.ddeb
+ 47a516743547ef705223b72bce4cc7ab33e88db416ab117e40ba7abaeb929abf 17032 ros-one-boost-sml_0.1.2-6-gaaddc80-2024.10.16.05.58_amd64.buildinfo
+ 0d7c2e500c9c8df5b1276a8e8b432a1f6aaeacf985a7412db0704e70595d5677 80176 ros-one-boost-sml_0.1.2-6-gaaddc80-2024.10.16.05.58_amd64.deb
+Files:
+ 72b278bd9cc7f919c20b2c71e45269ab 1128034 debug optional ros-one-boost-sml-dbgsym_0.1.2-6-gaaddc80-2024.10.16.05.58_amd64.ddeb
+ 89b390f266bb125304411fe86b5bc198 17032 misc optional ros-one-boost-sml_0.1.2-6-gaaddc80-2024.10.16.05.58_amd64.buildinfo
+ 574c685bc184fff9e332256c8abbfce7 80176 misc optional ros-one-boost-sml_0.1.2-6-gaaddc80-2024.10.16.05.58_amd64.deb

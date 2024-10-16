@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 22 Jun 2022 00:00:00 -0000
+Source: ros-one-pr2-controller-manager
+Binary: ros-one-pr2-controller-manager
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.8.21-7-g3b10e3e-2024.10.16.08.07
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-controller-manager - The controller manager (CM) package provides the infrastructure t
+Changes:
+ ros-one-pr2-controller-manager (1.8.21-7-g3b10e3e-2024.10.16.08.07) jammy; urgency=high
+ .
+   * set catkin_add_gtest within CATKIN_ENABLE_TESTING (#346 <https://github.com/pr2/pr2_mechanism/issues/346>)
+     fix with CATKIN_ENABLE_TESTING=OFF
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 7101aebde8a78bad891379fe9c0494a2fa36b318 2914716 ros-one-pr2-controller-manager-dbgsym_1.8.21-7-g3b10e3e-2024.10.16.08.07_amd64.ddeb
+ 08772d084a8426528fc87cea479118231fc69208 16534 ros-one-pr2-controller-manager_1.8.21-7-g3b10e3e-2024.10.16.08.07_amd64.buildinfo
+ 8da2db28457aa7cb897c108805a1e70af346b1dd 167380 ros-one-pr2-controller-manager_1.8.21-7-g3b10e3e-2024.10.16.08.07_amd64.deb
+Checksums-Sha256:
+ 215fab01630865a8a96f79ba2aa210f940341812280fbc4276ea4802da4a8892 2914716 ros-one-pr2-controller-manager-dbgsym_1.8.21-7-g3b10e3e-2024.10.16.08.07_amd64.ddeb
+ 2f3d952dff81dde34dab564bc3c98e3646dc320e525e7598b2a6f7105f004ee2 16534 ros-one-pr2-controller-manager_1.8.21-7-g3b10e3e-2024.10.16.08.07_amd64.buildinfo
+ 4ad108b4e9d51115aed81a90ccb5542c8fa7ecbd7e251d0d28111d38d655796c 167380 ros-one-pr2-controller-manager_1.8.21-7-g3b10e3e-2024.10.16.08.07_amd64.deb
+Files:
+ 6282ec845baaf77dd246e0dbb3b333c4 2914716 debug optional ros-one-pr2-controller-manager-dbgsym_1.8.21-7-g3b10e3e-2024.10.16.08.07_amd64.ddeb
+ 4174bc4b81e92eda55f3b19284b42ef4 16534 misc optional ros-one-pr2-controller-manager_1.8.21-7-g3b10e3e-2024.10.16.08.07_amd64.buildinfo
+ 1afc1c3bbbc9dd333098029ce53ae653 167380 misc optional ros-one-pr2-controller-manager_1.8.21-7-g3b10e3e-2024.10.16.08.07_amd64.deb

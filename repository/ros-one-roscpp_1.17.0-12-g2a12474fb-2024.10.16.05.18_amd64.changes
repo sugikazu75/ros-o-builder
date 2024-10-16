@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Fri, 13 Sep 2024 00:00:00 -0000
+Source: ros-one-roscpp
+Binary: ros-one-roscpp
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.17.0-12-g2a12474fb-2024.10.16.05.18
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-roscpp - roscpp is a C++ implementation of ROS.
+Changes:
+ ros-one-roscpp (1.17.0-12-g2a12474fb-2024.10.16.05.18) jammy; urgency=high
+ .
+   * Make build compatible with boost 1.73 (#2348 <https://github.com/ros/ros_comm/issues/2348>)
+   * Added init_options::NoSimTime which disables subscribing to /clock (#2342 <https://github.com/ros/ros_comm/issues/2342>)
+   * Fix crash during shutdown when explicitly calling ros::start but not ros::shutdown (#2355 <https://github.com/ros/ros_comm/issues/2355>)
+   * Contributors: David Gossow, Martin Pecka, Robert Haschke
+Checksums-Sha1:
+ 835278cb9c2e909df03895033d7213a80c48e3b8 9146228 ros-one-roscpp-dbgsym_1.17.0-12-g2a12474fb-2024.10.16.05.18_amd64.ddeb
+ 17414c7831e532ab93a98045842b2b25daf1431e 11303 ros-one-roscpp_1.17.0-12-g2a12474fb-2024.10.16.05.18_amd64.buildinfo
+ ea0e7207621a37522482f77057bc12822e7f6bf7 438126 ros-one-roscpp_1.17.0-12-g2a12474fb-2024.10.16.05.18_amd64.deb
+Checksums-Sha256:
+ 18a29cb4860e8c85364ac8b84264e1ee3b9e0309c76192e4ecc974f24fb3beea 9146228 ros-one-roscpp-dbgsym_1.17.0-12-g2a12474fb-2024.10.16.05.18_amd64.ddeb
+ a41707cd57a2530844aeb409c6650781fb283f6813797d0e655ccc60756c2c57 11303 ros-one-roscpp_1.17.0-12-g2a12474fb-2024.10.16.05.18_amd64.buildinfo
+ 018cb03eb95682bc7b9851e73f00155d40cf517d5b403562e879531eba58cdcd 438126 ros-one-roscpp_1.17.0-12-g2a12474fb-2024.10.16.05.18_amd64.deb
+Files:
+ 2e1d68163d1d4ac55c21dcb0a9c7fd97 9146228 debug optional ros-one-roscpp-dbgsym_1.17.0-12-g2a12474fb-2024.10.16.05.18_amd64.ddeb
+ b6cb69820598cec9206e3258fcfcacd0 11303 misc optional ros-one-roscpp_1.17.0-12-g2a12474fb-2024.10.16.05.18_amd64.buildinfo
+ 30ae85e69478a5444fbc111f592e1d49 438126 misc optional ros-one-roscpp_1.17.0-12-g2a12474fb-2024.10.16.05.18_amd64.deb

@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-robot-mechanism-controllers
+Binary: ros-one-robot-mechanism-controllers
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2024.10.16.09.48
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-robot-mechanism-controllers - Generic Mechanism Controller Library
+Changes:
+ ros-one-robot-mechanism-controllers (1.10.18-3-g8e8dfa0-2024.10.16.09.48) jammy; urgency=high
+ .
+   * Fix for noetic, 2to3 -w -f print (#401 <https://github.com/PR2/pr2_controllers/issues/401>)
+   * use install(PROGRAMS scripts/effort.py posture.py instaed of install(FILES (#398 <https://github.com/PR2/pr2_controllers/issues/398>)
+   * add effort values in joint_trajectory_action_controller/state (#397 <https://github.com/PR2/pr2_controllers/issues/397>)
+   * do not find deprecated boost signals package, it was not used either (#395 <https://github.com/PR2/pr2_controllers/issues/395>)
+   * add missing / to constraints parameter,  This never worked before...
+   * Contributors: Kei Okada, Michael Görner, Shingo Kitagawa
+Checksums-Sha1:
+ 93b7cd7468c471be35db8ee35745a19ad6f3bd27 9145930 ros-one-robot-mechanism-controllers-dbgsym_1.10.18-3-g8e8dfa0-2024.10.16.09.48_amd64.ddeb
+ 5dbeb972aebe3db857c3b5edf98d542bf226b980 21063 ros-one-robot-mechanism-controllers_1.10.18-3-g8e8dfa0-2024.10.16.09.48_amd64.buildinfo
+ 301d93062064e789c22ef43200e14bae714a76ca 352788 ros-one-robot-mechanism-controllers_1.10.18-3-g8e8dfa0-2024.10.16.09.48_amd64.deb
+Checksums-Sha256:
+ f0ba0a19149caf871633bc70262b0911b16f7d1fdf72b35e3a835206e3cb26c5 9145930 ros-one-robot-mechanism-controllers-dbgsym_1.10.18-3-g8e8dfa0-2024.10.16.09.48_amd64.ddeb
+ b73ee890aec90b0c24ed2d823a4dbbb8b6e038728306f22d865fd6340c1b6b8f 21063 ros-one-robot-mechanism-controllers_1.10.18-3-g8e8dfa0-2024.10.16.09.48_amd64.buildinfo
+ 633adacc1ae1b939369fd010c3f85f3f699729dc1c9822ac88e6be45f1e01333 352788 ros-one-robot-mechanism-controllers_1.10.18-3-g8e8dfa0-2024.10.16.09.48_amd64.deb
+Files:
+ 9462e392a08f2ab6fabbc1ba6668c3e8 9145930 debug optional ros-one-robot-mechanism-controllers-dbgsym_1.10.18-3-g8e8dfa0-2024.10.16.09.48_amd64.ddeb
+ 8cd1f83633af2ca80a7cee3a85b5d6ac 21063 misc optional ros-one-robot-mechanism-controllers_1.10.18-3-g8e8dfa0-2024.10.16.09.48_amd64.buildinfo
+ 99e14470cd06b7a1508b9d3b4586870f 352788 misc optional ros-one-robot-mechanism-controllers_1.10.18-3-g8e8dfa0-2024.10.16.09.48_amd64.deb

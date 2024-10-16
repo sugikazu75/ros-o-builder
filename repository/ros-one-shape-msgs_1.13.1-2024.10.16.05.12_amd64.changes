@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 11 Jan 2021 00:00:00 -0000
+Source: ros-one-shape-msgs
+Binary: ros-one-shape-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.13.1-2024.10.16.05.12
+Distribution: jammy
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-shape-msgs - This package contains messages for defining shapes, such as simpl
+Changes:
+ ros-one-shape-msgs (1.13.1-2024.10.16.05.12) jammy; urgency=high
+ .
+   * Update package maintainers (#168 <https://github.com/ros/common_msgs/issues/168>)
+   * Contributors: Michel Hidalgo
+Checksums-Sha1:
+ 2abe331460a2330f2a6fa69e16ad3c88c2bb4ad3 9783 ros-one-shape-msgs_1.13.1-2024.10.16.05.12_amd64.buildinfo
+ 64016943c081961c3585ad70a9ed08c1c06e4968 24068 ros-one-shape-msgs_1.13.1-2024.10.16.05.12_amd64.deb
+Checksums-Sha256:
+ c827412bd585666bc0719748403954574c708d5e82f49134a091d6bbf87a2fc6 9783 ros-one-shape-msgs_1.13.1-2024.10.16.05.12_amd64.buildinfo
+ c2e85f21af8aa1d77bdcc5928abba9b696a08568916ecc507bacaf573e6031ea 24068 ros-one-shape-msgs_1.13.1-2024.10.16.05.12_amd64.deb
+Files:
+ b111f695c9cdbebd116d18a4108afd01 9783 misc optional ros-one-shape-msgs_1.13.1-2024.10.16.05.12_amd64.buildinfo
+ 145d6222b966f989e57e61421431dae3 24068 misc optional ros-one-shape-msgs_1.13.1-2024.10.16.05.12_amd64.deb

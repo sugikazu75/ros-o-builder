@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-occupancy-map-monitor
+Binary: ros-one-moveit-ros-occupancy-map-monitor
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-2024.10.16.09.35
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-occupancy-map-monitor - Components of MoveIt connecting to occupancy map
+Changes:
+ ros-one-moveit-ros-occupancy-map-monitor (1.1.16-2024.10.16.09.35) jammy; urgency=high
+Checksums-Sha1:
+ 36f0e187149ea1d104eb98652ec34d001c5afdc5 2221576 ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-2024.10.16.09.35_amd64.ddeb
+ e75648a41cd1b7dbdd8a3f61e44ef7cdbe733e6c 22651 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-2024.10.16.09.35_amd64.buildinfo
+ 451ea5744c449b5f40ae3e28b42d0cf01a3c4818 134738 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-2024.10.16.09.35_amd64.deb
+Checksums-Sha256:
+ 0e554efc2e52b64a6b0f05aa77b51395e546a979fd4f46517b0a117870fe67a3 2221576 ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-2024.10.16.09.35_amd64.ddeb
+ d2ad578b5c2f8d40bb739c092c96ec949f8ac2e26fdfde99f6292ed9f9c45385 22651 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-2024.10.16.09.35_amd64.buildinfo
+ 0f0c2c91d2493f78000bd080f95d13ed2ff8ab34f471d8cf251aabfd67664fed 134738 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-2024.10.16.09.35_amd64.deb
+Files:
+ 53be8426c3848a5da472d43f0afd3e1c 2221576 debug optional ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-2024.10.16.09.35_amd64.ddeb
+ 360cdc24a49670a51ecf9b5b9682120b 22651 misc optional ros-one-moveit-ros-occupancy-map-monitor_1.1.16-2024.10.16.09.35_amd64.buildinfo
+ dac22108a9c04bb7f89268bea1f7a444 134738 misc optional ros-one-moveit-ros-occupancy-map-monitor_1.1.16-2024.10.16.09.35_amd64.deb

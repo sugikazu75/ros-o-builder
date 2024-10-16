@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Wed, 21 Apr 2021 00:00:00 -0000
+Source: ros-one-rqt-msg
+Binary: ros-one-rqt-msg
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.4.10-5-gcd226dd-2024.10.16.09.25
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rqt-msg - A Python GUI plugin for introspecting available ROS message types
+Changes:
+ ros-one-rqt-msg (0.4.10-5-gcd226dd-2024.10.16.09.25) jammy; urgency=high
+ .
+   * Merge pull request #12 <https://github.com/ros-visualization/rqt_msg/issues/12> from ros-visualization/sloretz-update-maintainer
+     Update maintainer in package.xml
+   * fix shebang line for python3 (#10 <https://github.com/ros-visualization/rqt_msg/issues/10>)
+   * Contributors: Michael Carroll, Mikael Arguedas, Shane Loretz
+Checksums-Sha1:
+ a15bde73b4abeed364e09d16fb0e9232746b2026 8157 ros-one-rqt-msg_0.4.10-5-gcd226dd-2024.10.16.09.25_amd64.buildinfo
+ 041637b5fec3219d9d682060f2e4b8d3f987db63 15428 ros-one-rqt-msg_0.4.10-5-gcd226dd-2024.10.16.09.25_amd64.deb
+Checksums-Sha256:
+ ae8027426a89fb670014fb1e088e9edf547d40c1d96da26d23063e18193e5bcb 8157 ros-one-rqt-msg_0.4.10-5-gcd226dd-2024.10.16.09.25_amd64.buildinfo
+ 32afb350f539455d19a5becba1d6fe8746b7f9a0a6e3d6dcc7625cb9820f857c 15428 ros-one-rqt-msg_0.4.10-5-gcd226dd-2024.10.16.09.25_amd64.deb
+Files:
+ 99302928b1a9644a7be8f53a084f4881 8157 misc optional ros-one-rqt-msg_0.4.10-5-gcd226dd-2024.10.16.09.25_amd64.buildinfo
+ c2ed60a2f412063bf29bfa28da61bcc9 15428 misc optional ros-one-rqt-msg_0.4.10-5-gcd226dd-2024.10.16.09.25_amd64.deb

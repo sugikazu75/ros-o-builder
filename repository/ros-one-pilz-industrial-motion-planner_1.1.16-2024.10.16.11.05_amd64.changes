@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-pilz-industrial-motion-planner
+Binary: ros-one-pilz-industrial-motion-planner
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-2024.10.16.11.05
+Distribution: jammy
+Urgency: high
+Maintainer: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Changed-By: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Description:
+ ros-one-pilz-industrial-motion-planner - MoveIt plugin to generate industrial trajectories PTP, LIN, CIRC
+Changes:
+ ros-one-pilz-industrial-motion-planner (1.1.16-2024.10.16.11.05) jammy; urgency=high
+Checksums-Sha1:
+ 0afeba8e2b8bee1ad76a15a3575f764aafc0d458 28758442 ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-2024.10.16.11.05_amd64.ddeb
+ 62cfc89e5ce89789fb2e984ddbb81b47ce9f6969 26872 ros-one-pilz-industrial-motion-planner_1.1.16-2024.10.16.11.05_amd64.buildinfo
+ 180130d282dcf0d71eed4dc4e3bab9895b88c5c1 397800 ros-one-pilz-industrial-motion-planner_1.1.16-2024.10.16.11.05_amd64.deb
+Checksums-Sha256:
+ abcd84822e0bdd45144171f1ee006077a063c4f8006badf01a9b5430a91d0a99 28758442 ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-2024.10.16.11.05_amd64.ddeb
+ c69cc2e5f455d8984e2b2b711a919bbfbc06269d3f794686e5f79bab3815ba33 26872 ros-one-pilz-industrial-motion-planner_1.1.16-2024.10.16.11.05_amd64.buildinfo
+ f539f9f7686c4185f98968de96de8ccf1b61d14457ce631d3e395c7315e297ef 397800 ros-one-pilz-industrial-motion-planner_1.1.16-2024.10.16.11.05_amd64.deb
+Files:
+ 4425eab68b63de0686c124690e78466b 28758442 debug optional ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-2024.10.16.11.05_amd64.ddeb
+ 6612f11a4871e5e9e875983a5a6a4673 26872 misc optional ros-one-pilz-industrial-motion-planner_1.1.16-2024.10.16.11.05_amd64.buildinfo
+ afb32fd693060d92aeec0d873b29cbd7 397800 misc optional ros-one-pilz-industrial-motion-planner_1.1.16-2024.10.16.11.05_amd64.deb

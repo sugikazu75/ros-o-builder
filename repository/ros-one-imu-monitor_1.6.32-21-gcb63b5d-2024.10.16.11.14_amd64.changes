@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 26 May 2021 00:00:00 -0000
+Source: ros-one-imu-monitor
+Binary: ros-one-imu-monitor
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.6.32-21-gcb63b5d-2024.10.16.11.14
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Feil-Seifer <dave@cse.unr.edu>
+Changed-By: Dave Feil-Seifer <dave@cse.unr.edu>
+Description:
+ ros-one-imu-monitor - This package contains a single node that monitors the drift of th
+Changes:
+ ros-one-imu-monitor (1.6.32-21-gcb63b5d-2024.10.16.11.14) jammy; urgency=high
+ .
+   * Merge pull request #268 <https://github.com/pr2/pr2_robot/issues/268> from k-okada/fix_for_noetic
+   * [imu_monitor] convert to package format 3
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 7b8385cb5342490b2e23a683186ca999ac9c9fec 8178 ros-one-imu-monitor_1.6.32-21-gcb63b5d-2024.10.16.11.14_amd64.buildinfo
+ d9f73906ea5d4537e0f294a4dbfbb7b720c3599b 6234 ros-one-imu-monitor_1.6.32-21-gcb63b5d-2024.10.16.11.14_amd64.deb
+Checksums-Sha256:
+ c57636b50caa8aa8df642d7b87d0c42c0c6442f5535aea49fe5376ace132fd59 8178 ros-one-imu-monitor_1.6.32-21-gcb63b5d-2024.10.16.11.14_amd64.buildinfo
+ bba65f62b725c0398a15707d27193eb0e68d251061880c54841d0d7b839d840b 6234 ros-one-imu-monitor_1.6.32-21-gcb63b5d-2024.10.16.11.14_amd64.deb
+Files:
+ 307cdbd1d15f8d8412b7d8d102e5b0d4 8178 misc optional ros-one-imu-monitor_1.6.32-21-gcb63b5d-2024.10.16.11.14_amd64.buildinfo
+ 750d538df636ca239c97a21acbfe5b24 6234 misc optional ros-one-imu-monitor_1.6.32-21-gcb63b5d-2024.10.16.11.14_amd64.deb

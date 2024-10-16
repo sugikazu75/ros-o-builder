@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-pilz-industrial-motion-planner-testutils
+Binary: ros-one-pilz-industrial-motion-planner-testutils
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-2024.10.16.11.02
+Distribution: jammy
+Urgency: high
+Maintainer: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Changed-By: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Description:
+ ros-one-pilz-industrial-motion-planner-testutils - Helper scripts and functionality to test industrial motion genera
+Changes:
+ ros-one-pilz-industrial-motion-planner-testutils (1.1.16-2024.10.16.11.02) jammy; urgency=high
+Checksums-Sha1:
+ e5797f6d8ca5f7ddc3d39f827ff1290cc1fbead6 4609368 ros-one-pilz-industrial-motion-planner-testutils-dbgsym_1.1.16-2024.10.16.11.02_amd64.ddeb
+ ff309ef4813676ff941c1eb4af64f398852a412a 22723 ros-one-pilz-industrial-motion-planner-testutils_1.1.16-2024.10.16.11.02_amd64.buildinfo
+ b282fae86ba0833343d747776c2e37048a2a0157 109170 ros-one-pilz-industrial-motion-planner-testutils_1.1.16-2024.10.16.11.02_amd64.deb
+Checksums-Sha256:
+ 4c282b975dbcfc0df75347ed1535b9919a35f361e782aedc45e5cf1d32eee958 4609368 ros-one-pilz-industrial-motion-planner-testutils-dbgsym_1.1.16-2024.10.16.11.02_amd64.ddeb
+ fd20dd4d6c1971031b4414741e1499393507db5fe7f21074bfdda745a6165c55 22723 ros-one-pilz-industrial-motion-planner-testutils_1.1.16-2024.10.16.11.02_amd64.buildinfo
+ 935f57c281ce382ecc5174628ce638585622750f8cd4aa19e3a87fdc23f03c5b 109170 ros-one-pilz-industrial-motion-planner-testutils_1.1.16-2024.10.16.11.02_amd64.deb
+Files:
+ 78bbef044a5c3140b62269a94e51a579 4609368 debug optional ros-one-pilz-industrial-motion-planner-testutils-dbgsym_1.1.16-2024.10.16.11.02_amd64.ddeb
+ 9d8f943a0351b075dacab489976b9f4c 22723 misc optional ros-one-pilz-industrial-motion-planner-testutils_1.1.16-2024.10.16.11.02_amd64.buildinfo
+ 8847039ee41ac8ba43b1628505df3f11 109170 misc optional ros-one-pilz-industrial-motion-planner-testutils_1.1.16-2024.10.16.11.02_amd64.deb
