@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit
+Binary: ros-one-moveit
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-1-g88b386581-2024.10.22.18.13
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Coleman <dave@picknik.ai>
+Changed-By: Dave Coleman <dave@picknik.ai>
+Description:
+ ros-one-moveit - Meta package that contains all essential package of MoveIt.
+Changes:
+ ros-one-moveit (1.1.16-1-g88b386581-2024.10.22.18.13) jammy; urgency=high
+Checksums-Sha1:
+ 02258f72c5a22906b4d9878947113c9ec858a68b 8157 ros-one-moveit_1.1.16-1-g88b386581-2024.10.22.18.13_amd64.buildinfo
+ dd30856e4acba558116d1c373e60d2d5644bab84 9690 ros-one-moveit_1.1.16-1-g88b386581-2024.10.22.18.13_amd64.deb
+Checksums-Sha256:
+ bc3d6d5687ebf2557f4e001a3e89d8550b752d11a06f13585067cf7b07283070 8157 ros-one-moveit_1.1.16-1-g88b386581-2024.10.22.18.13_amd64.buildinfo
+ 2b4ebcbe5d2d3ef4abd763fa72780f84882beb25718acbf469a27ca12ccbf2e7 9690 ros-one-moveit_1.1.16-1-g88b386581-2024.10.22.18.13_amd64.deb
+Files:
+ fde6385e560246ca4ef3618a74d8c387 8157 misc optional ros-one-moveit_1.1.16-1-g88b386581-2024.10.22.18.13_amd64.buildinfo
+ 9d2fdf27dfebdf550ff757997e9eae30 9690 misc optional ros-one-moveit_1.1.16-1-g88b386581-2024.10.22.18.13_amd64.deb

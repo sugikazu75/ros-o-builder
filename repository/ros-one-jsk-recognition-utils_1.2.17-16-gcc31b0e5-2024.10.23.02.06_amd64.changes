@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 14 Nov 2023 00:00:00 -0000
+Source: ros-one-jsk-recognition-utils
+Binary: ros-one-jsk-recognition-utils
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.2.17-16-gcc31b0e5-2024.10.23.02.06
+Distribution: jammy
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-recognition-utils - C++ library about sensor model, geometrical modeling and percepti
+Changes:
+ ros-one-jsk-recognition-utils (1.2.17-16-gcc31b0e5-2024.10.23.02.06) jammy; urgency=high
+ .
+   * https://github.com/jsk-ros-pkg/jsk_recognition/pull/2648 requires jsk_data package (#2805 <https://github.com/jsk-ros-pkg/jsk_recognition/issues/2805>)
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ fa4bc82cbd13206a334f93385d833ba8cfb14f36 19299376 ros-one-jsk-recognition-utils-dbgsym_1.2.17-16-gcc31b0e5-2024.10.23.02.06_amd64.ddeb
+ d9d82c0a79bacad68451f9320abeb88a4ea77815 48739 ros-one-jsk-recognition-utils_1.2.17-16-gcc31b0e5-2024.10.23.02.06_amd64.buildinfo
+ 525051b770c29aca20ce4a03f0caebfacc5db2c6 394992 ros-one-jsk-recognition-utils_1.2.17-16-gcc31b0e5-2024.10.23.02.06_amd64.deb
+Checksums-Sha256:
+ 8e4eee9e7d1e0e666e41b9084de2ca974c0c4b344f9d1a67820c2c1c170ad1a8 19299376 ros-one-jsk-recognition-utils-dbgsym_1.2.17-16-gcc31b0e5-2024.10.23.02.06_amd64.ddeb
+ 0018d50a47aef46450fc74492121cfaa53aca3d5125903512a16d5799016d683 48739 ros-one-jsk-recognition-utils_1.2.17-16-gcc31b0e5-2024.10.23.02.06_amd64.buildinfo
+ 2b8e141b8423ee83242de97472608892598d0641a8cde668f70beee4bcdac9d5 394992 ros-one-jsk-recognition-utils_1.2.17-16-gcc31b0e5-2024.10.23.02.06_amd64.deb
+Files:
+ 0d37f1ac641fa1f09a0411d2c2fb2b32 19299376 debug optional ros-one-jsk-recognition-utils-dbgsym_1.2.17-16-gcc31b0e5-2024.10.23.02.06_amd64.ddeb
+ fe9564370dfe192be344767139163bb8 48739 misc optional ros-one-jsk-recognition-utils_1.2.17-16-gcc31b0e5-2024.10.23.02.06_amd64.buildinfo
+ d0113ce6c305f9bb6f0f19f9ab16330a 394992 misc optional ros-one-jsk-recognition-utils_1.2.17-16-gcc31b0e5-2024.10.23.02.06_amd64.deb

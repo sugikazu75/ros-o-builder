@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 10 Mar 2017 00:00:00 -0000
+Source: ros-one-eigen-stl-containers
+Binary: ros-one-eigen-stl-containers
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.8-2-gd2a41f0-2024.10.22.13.31
+Distribution: jammy
+Urgency: high
+Maintainer: Chris Lalancette <clalancette@osrfoundation.org>
+Changed-By: Chris Lalancette <clalancette@osrfoundation.org>
+Description:
+ ros-one-eigen-stl-containers - This package provides a set of typedef's that allow using Eigen d
+Changes:
+ ros-one-eigen-stl-containers (0.1.8-2-gd2a41f0-2024.10.22.13.31) jammy; urgency=high
+ .
+   * Fix it up so we can correctly find Eigen everywhere.
+   * Contributors: Chris Lalancette, Kei Okada
+Checksums-Sha1:
+ 390eb07d040233ae0a3547f9c14387ff04075c82 8312 ros-one-eigen-stl-containers_0.1.8-2-gd2a41f0-2024.10.22.13.31_amd64.buildinfo
+ 425296d6cd0363d8e0de1a3a2c3e59af3df8d525 6990 ros-one-eigen-stl-containers_0.1.8-2-gd2a41f0-2024.10.22.13.31_amd64.deb
+Checksums-Sha256:
+ cb2472cfc32247837cb78d59c1a9f51cbde8d29f2d181efc0b28326d5f822c49 8312 ros-one-eigen-stl-containers_0.1.8-2-gd2a41f0-2024.10.22.13.31_amd64.buildinfo
+ 42a4371b14a89480a0eaf0e3c01e2bdbf5f42ac0afb62bb0712fa27fd45c3bb3 6990 ros-one-eigen-stl-containers_0.1.8-2-gd2a41f0-2024.10.22.13.31_amd64.deb
+Files:
+ 22ea33a30d4b8f6347a467b703c4acda 8312 misc optional ros-one-eigen-stl-containers_0.1.8-2-gd2a41f0-2024.10.22.13.31_amd64.buildinfo
+ 93f703efb0dc0cfeeb82b813b4f60fdc 6990 misc optional ros-one-eigen-stl-containers_0.1.8-2-gd2a41f0-2024.10.22.13.31_amd64.deb

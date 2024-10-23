@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Tue, 02 Jun 2020 00:00:00 -0000
+Source: ros-one-rqt-moveit
+Binary: ros-one-rqt-moveit
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.9-2024.10.22.17.44
+Distribution: jammy
+Urgency: high
+Maintainer: Isaac I.Y. Saito <iisaito@kinugarage.com>
+Changed-By: Isaac I.Y. Saito <iisaito@kinugarage.com>
+Description:
+ ros-one-rqt-moveit - An rqt-based tool that assists monitoring tasks for MoveIt! motio
+Changes:
+ ros-one-rqt-moveit (0.5.9-2024.10.22.17.44) jammy; urgency=high
+ .
+   * use catkin_install_python instead of install
+Checksums-Sha1:
+ e41bc471299bfbee8624d1022d618ab68ff07f48 8124 ros-one-rqt-moveit_0.5.9-2024.10.22.17.44_amd64.buildinfo
+ 3d29c407f0eb2029b2139f56159135ef3588e9e5 17032 ros-one-rqt-moveit_0.5.9-2024.10.22.17.44_amd64.deb
+Checksums-Sha256:
+ 6b7711e20fdf259687c447ddd38f18825b39a16b6cd1c67fec8d25991283b76c 8124 ros-one-rqt-moveit_0.5.9-2024.10.22.17.44_amd64.buildinfo
+ 410b2e023b9bf97eb675758b1947c54698a4272b04f770b0c4dc99505e2ffe08 17032 ros-one-rqt-moveit_0.5.9-2024.10.22.17.44_amd64.deb
+Files:
+ bed9ca6f4fd8a6170b73de240793b259 8124 misc optional ros-one-rqt-moveit_0.5.9-2024.10.22.17.44_amd64.buildinfo
+ 47cf2b45426eac40da77c74d66914b1e 17032 misc optional ros-one-rqt-moveit_0.5.9-2024.10.22.17.44_amd64.deb

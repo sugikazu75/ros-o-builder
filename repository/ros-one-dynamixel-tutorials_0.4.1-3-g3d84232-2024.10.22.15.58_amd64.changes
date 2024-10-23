@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 19 Jan 2017 00:00:00 -0000
+Source: ros-one-dynamixel-tutorials
+Binary: ros-one-dynamixel-tutorials
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.4.1-3-g3d84232-2024.10.22.15.58
+Distribution: jammy
+Urgency: high
+Maintainer: Antons Rebguns <arebgun@gmail.com>
+Changed-By: Antons Rebguns <arebgun@gmail.com>
+Description:
+ ros-one-dynamixel-tutorials - Example configuration and launch file for dynamixel_motor stack.
+Changes:
+ ros-one-dynamixel-tutorials (0.4.1-3-g3d84232-2024.10.22.15.58) jammy; urgency=high
+Checksums-Sha1:
+ d9762755d5fe3bd2749ffaa08bff71a797540dcf 8210 ros-one-dynamixel-tutorials_0.4.1-3-g3d84232-2024.10.22.15.58_amd64.buildinfo
+ 90d4619903bd80da7c6569bafef59552f5b4218a 5356 ros-one-dynamixel-tutorials_0.4.1-3-g3d84232-2024.10.22.15.58_amd64.deb
+Checksums-Sha256:
+ b8682c4259a93996a30f83257f0fc831d1c5d370071e4f4547e64e70cdf6b6f1 8210 ros-one-dynamixel-tutorials_0.4.1-3-g3d84232-2024.10.22.15.58_amd64.buildinfo
+ a2de63d8776f8434df68e03fb0704cf508fc667e63e0a5a324a771d0e8bbb101 5356 ros-one-dynamixel-tutorials_0.4.1-3-g3d84232-2024.10.22.15.58_amd64.deb
+Files:
+ c5afafbe676a5cf90b46e7a655d907f5 8210 misc optional ros-one-dynamixel-tutorials_0.4.1-3-g3d84232-2024.10.22.15.58_amd64.buildinfo
+ 024a42acb87c6b5f4fd86e3f1193a897 5356 misc optional ros-one-dynamixel-tutorials_0.4.1-3-g3d84232-2024.10.22.15.58_amd64.deb

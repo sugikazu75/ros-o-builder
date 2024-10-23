@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-servo
+Binary: ros-one-moveit-servo
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-1-g88b386581-2024.10.22.20.25
+Distribution: jammy
+Urgency: high
+Maintainer: Blake Anderson <blakeanderson@utexas.edu>
+Changed-By: Blake Anderson <blakeanderson@utexas.edu>
+Description:
+ ros-one-moveit-servo - Provides real-time manipulator Cartesian and joint servoing.
+Changes:
+ ros-one-moveit-servo (1.1.16-1-g88b386581-2024.10.22.20.25) jammy; urgency=high
+Checksums-Sha1:
+ 7f07982d0d2a11acfccc868de7ca466b60c5509f 16494730 ros-one-moveit-servo-dbgsym_1.1.16-1-g88b386581-2024.10.22.20.25_amd64.ddeb
+ 3924051283ab50828a57b537157fe2131b6d389f 27090 ros-one-moveit-servo_1.1.16-1-g88b386581-2024.10.22.20.25_amd64.buildinfo
+ f161f98e9eca3f7a84d309fa961c183bc262ef5a 245754 ros-one-moveit-servo_1.1.16-1-g88b386581-2024.10.22.20.25_amd64.deb
+Checksums-Sha256:
+ 7964bf9fa7cff0c6ad532bfaa9aec7d5d9ede605a1ce1cef2f06290dd86740cf 16494730 ros-one-moveit-servo-dbgsym_1.1.16-1-g88b386581-2024.10.22.20.25_amd64.ddeb
+ b78ee1eb47a1b73d98f7a16b9e688dc86f573b208481f80fab4ff5022d48eca1 27090 ros-one-moveit-servo_1.1.16-1-g88b386581-2024.10.22.20.25_amd64.buildinfo
+ 7b0a2aff1d958187d3c5adb66dc476413adc00193bb25dca6308f1a35ffe9436 245754 ros-one-moveit-servo_1.1.16-1-g88b386581-2024.10.22.20.25_amd64.deb
+Files:
+ 238792ba0c6761e1c5c0690cdb555016 16494730 debug optional ros-one-moveit-servo-dbgsym_1.1.16-1-g88b386581-2024.10.22.20.25_amd64.ddeb
+ 94830c21c4a7ffa23c97b3bf5a832a3e 27090 misc optional ros-one-moveit-servo_1.1.16-1-g88b386581-2024.10.22.20.25_amd64.buildinfo
+ 40d83e36387d0dbad80b5ec2febcb3cb 245754 misc optional ros-one-moveit-servo_1.1.16-1-g88b386581-2024.10.22.20.25_amd64.deb

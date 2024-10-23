@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 09 Oct 2020 00:00:00 -0000
+Source: ros-one-warehouse-ros-mongo
+Binary: ros-one-warehouse-ros-mongo
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.10.0-7-g9ba9e71-2024.10.22.18.04
+Distribution: jammy
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-one-warehouse-ros-mongo - warehouse_ros for MongoDB
+Changes:
+ ros-one-warehouse-ros-mongo (0.10.0-7-g9ba9e71-2024.10.22.18.04) jammy; urgency=high
+ .
+   * clang-format-10
+   * Python3 compatibility layer for roslaunch in CMake (#35 <https://github.com/ros-planning/warehouse_ros_mongo/issues/35>)
+   * Contributors: Robert Haschke, Tyler Weaver
+Checksums-Sha1:
+ 7d4a24d0dbf1b3162e9e090e5dbc9b2223eab281 737852 ros-one-warehouse-ros-mongo-dbgsym_0.10.0-7-g9ba9e71-2024.10.22.18.04_amd64.ddeb
+ 730f091c44c497b7dee5252f923e624ca4d4e367 23368 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2024.10.22.18.04_amd64.buildinfo
+ da3996f1e58fc94fbacf81cd54f227144b9b6658 58052 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2024.10.22.18.04_amd64.deb
+Checksums-Sha256:
+ 1925ee7e2eee4d112b61c376ebafcbe2fac080613886939cfa1a5083f42bbe82 737852 ros-one-warehouse-ros-mongo-dbgsym_0.10.0-7-g9ba9e71-2024.10.22.18.04_amd64.ddeb
+ 3826793df5ec4c9951c6f1105e9629527b687951e335b8fbf4242a14043473ce 23368 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2024.10.22.18.04_amd64.buildinfo
+ c3a045bc50fe78a24e05740cf66d2ee13b01474f23cfeaa53dfa8c9e028e7ecb 58052 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2024.10.22.18.04_amd64.deb
+Files:
+ 4cd890f7d16eb3beb669cb60bda7e89d 737852 debug optional ros-one-warehouse-ros-mongo-dbgsym_0.10.0-7-g9ba9e71-2024.10.22.18.04_amd64.ddeb
+ fe1b5691a34cff71457c8d47bc76ee62 23368 misc optional ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2024.10.22.18.04_amd64.buildinfo
+ b98578af17d17d2cf1c746f6a060d596 58052 misc optional ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2024.10.22.18.04_amd64.deb

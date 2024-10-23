@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sun, 05 Apr 2020 00:00:00 -0000
+Source: ros-one-urdf-geometry-parser
+Binary: ros-one-urdf-geometry-parser
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.0-6-g1d7317a-2024.10.22.16.12
+Distribution: jammy
+Urgency: high
+Maintainer: Vincent Rousseau <vincent.rousseau@irstea.fr>
+Changed-By: Vincent Rousseau <vincent.rousseau@irstea.fr>
+Description:
+ ros-one-urdf-geometry-parser - Extract geometry value of a vehicle from urdf.
+Changes:
+ ros-one-urdf-geometry-parser (0.1.0-6-g1d7317a-2024.10.22.16.12) jammy; urgency=high
+ .
+   * Remove tf2 dependency
+   * Add license
+   * Bump CMake version to avoid CMP0048 warning
+   * Cleanup CMakeLists.txt and package.xml
+   * Contributors: Bence Magyar, Matt Reynolds, Vincent Rousseau
+Checksums-Sha1:
+ 4916340150d5fa862ff8e04228832c5d5dced6c7 289022 ros-one-urdf-geometry-parser-dbgsym_0.1.0-6-g1d7317a-2024.10.22.16.12_amd64.ddeb
+ 5e36552ef09304fd55ed2a9d7e5cca1297e14041 14169 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.10.22.16.12_amd64.buildinfo
+ 5417fc8d62ba0f3207ccea1b85f26ecab51fbdf5 22434 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.10.22.16.12_amd64.deb
+Checksums-Sha256:
+ 75082e6730cf0bb8f0b1781e1cb5ef90979a0365897cd34373d9a5190ce2f934 289022 ros-one-urdf-geometry-parser-dbgsym_0.1.0-6-g1d7317a-2024.10.22.16.12_amd64.ddeb
+ 1c95d7c3c801ff5ce201f40b9ff93767948fa5b48ac9db78bb98a60547b527f9 14169 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.10.22.16.12_amd64.buildinfo
+ 513568d180920cf4e44a9b215f00d64a4afdd5b783bb8078978b03251b2ddd47 22434 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.10.22.16.12_amd64.deb
+Files:
+ 7433bb32decdf78eec1dd30bc805afbb 289022 debug optional ros-one-urdf-geometry-parser-dbgsym_0.1.0-6-g1d7317a-2024.10.22.16.12_amd64.ddeb
+ d94496feef038e6b800fee94b1e9778e 14169 misc optional ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.10.22.16.12_amd64.buildinfo
+ ae37fc765db08e6ae47e7ec561220856 22434 misc optional ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2024.10.22.16.12_amd64.deb

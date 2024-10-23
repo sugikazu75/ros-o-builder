@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 11 Jan 2021 00:00:00 -0000
+Source: ros-one-nav-msgs
+Binary: ros-one-nav-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.13.1-2024.10.22.14.41
+Distribution: jammy
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-nav-msgs - nav_msgs defines the common messages used to interact with the na
+Changes:
+ ros-one-nav-msgs (1.13.1-2024.10.22.14.41) jammy; urgency=high
+ .
+   * Update package maintainers (#168 <https://github.com/ros/common_msgs/issues/168>)
+   * Add LoadMap service (#164 <https://github.com/ros/common_msgs/issues/164>)
+   * Contributors: David V. Lu!!, Michel Hidalgo
+Checksums-Sha1:
+ 5ccb06213046803ff1eff05e8f6d7c8012d4d399 9826 ros-one-nav-msgs_1.13.1-2024.10.22.14.41_amd64.buildinfo
+ 07549b90fa5aa9a919a4ab6418db40f9421b5907 68650 ros-one-nav-msgs_1.13.1-2024.10.22.14.41_amd64.deb
+Checksums-Sha256:
+ 5f0f910f7edaa3cca11fd8619471f95c134fb78fa035d517d354131a7211f708 9826 ros-one-nav-msgs_1.13.1-2024.10.22.14.41_amd64.buildinfo
+ ac734418fd54a64b4154468958e57e5eca6f433eec541d707a833de2dad6c51b 68650 ros-one-nav-msgs_1.13.1-2024.10.22.14.41_amd64.deb
+Files:
+ 54292fb40bb282773b9eafbabda5ec3e 9826 misc optional ros-one-nav-msgs_1.13.1-2024.10.22.14.41_amd64.buildinfo
+ 8b1fbd9d3b6bf859a420c695fc7ce95b 68650 misc optional ros-one-nav-msgs_1.13.1-2024.10.22.14.41_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-chomp-motion-planner
+Binary: ros-one-chomp-motion-planner
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-1-g88b386581-2024.10.22.18.53
+Distribution: jammy
+Urgency: high
+Maintainer: Chittaranjan Srinivas Swaminathan <chitt@live.in>
+Changed-By: Chittaranjan Srinivas Swaminathan <chitt@live.in>
+Description:
+ ros-one-chomp-motion-planner - chomp_motion_planner
+Changes:
+ ros-one-chomp-motion-planner (1.1.16-1-g88b386581-2024.10.22.18.53) jammy; urgency=high
+Checksums-Sha1:
+ 3ff2b27af1d6463aca7cbd0506de636696e73be6 6659208 ros-one-chomp-motion-planner-dbgsym_1.1.16-1-g88b386581-2024.10.22.18.53_amd64.ddeb
+ 399716eedafcc76012db4bc2c2b1f69094d699f4 22647 ros-one-chomp-motion-planner_1.1.16-1-g88b386581-2024.10.22.18.53_amd64.buildinfo
+ e342ab99b64ebd47177257bab0ab206735e07788 107926 ros-one-chomp-motion-planner_1.1.16-1-g88b386581-2024.10.22.18.53_amd64.deb
+Checksums-Sha256:
+ eb9e4ffce07368a72431123d85e2e4b798fee72a2264c3ff62fb2c245ccad81d 6659208 ros-one-chomp-motion-planner-dbgsym_1.1.16-1-g88b386581-2024.10.22.18.53_amd64.ddeb
+ ba150695402b64641b0513bd69376208eb90fd3ee8f11912848e36487df9498d 22647 ros-one-chomp-motion-planner_1.1.16-1-g88b386581-2024.10.22.18.53_amd64.buildinfo
+ 5997d6ca45d183708c02d7310757eaf6218e6f24a89c87547ac6fed0515289d6 107926 ros-one-chomp-motion-planner_1.1.16-1-g88b386581-2024.10.22.18.53_amd64.deb
+Files:
+ 486e2427fd151ca7c44c55f270ff5c16 6659208 debug optional ros-one-chomp-motion-planner-dbgsym_1.1.16-1-g88b386581-2024.10.22.18.53_amd64.ddeb
+ 693359ae76518ef3b9ca9949fd476c60 22647 misc optional ros-one-chomp-motion-planner_1.1.16-1-g88b386581-2024.10.22.18.53_amd64.buildinfo
+ 25d9bb767acc7a4236f3347c58e8358f 107926 misc optional ros-one-chomp-motion-planner_1.1.16-1-g88b386581-2024.10.22.18.53_amd64.deb

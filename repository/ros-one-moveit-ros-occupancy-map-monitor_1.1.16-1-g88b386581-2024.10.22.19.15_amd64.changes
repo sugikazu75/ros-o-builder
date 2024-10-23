@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-occupancy-map-monitor
+Binary: ros-one-moveit-ros-occupancy-map-monitor
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-1-g88b386581-2024.10.22.19.15
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-occupancy-map-monitor - Components of MoveIt connecting to occupancy map
+Changes:
+ ros-one-moveit-ros-occupancy-map-monitor (1.1.16-1-g88b386581-2024.10.22.19.15) jammy; urgency=high
+Checksums-Sha1:
+ 1fe21b424bd96bfe1aaa3b5be3b632fbabae7371 2221582 ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-1-g88b386581-2024.10.22.19.15_amd64.ddeb
+ d94ef55a1cefe94887d1cffd4d0f92bc739fa87c 22755 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-1-g88b386581-2024.10.22.19.15_amd64.buildinfo
+ b3b458ef4fd308884e424e58c422e87d382ba2ae 134770 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-1-g88b386581-2024.10.22.19.15_amd64.deb
+Checksums-Sha256:
+ eb86e2e8a7aa40a985107be85a12b32182fff01d6410541b56beb07fa7c3feb7 2221582 ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-1-g88b386581-2024.10.22.19.15_amd64.ddeb
+ efd21b4ba9ddbd1184a2d163ef7243917270b28d599212c4e25cff0acd49f53e 22755 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-1-g88b386581-2024.10.22.19.15_amd64.buildinfo
+ 3133066e5f3d061f26e86e7f19c7aa2d40be2fa959638b4dcf1748de7bfa7e29 134770 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-1-g88b386581-2024.10.22.19.15_amd64.deb
+Files:
+ 77f97ac0078ecbaca153f7cfd3fd73e8 2221582 debug optional ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-1-g88b386581-2024.10.22.19.15_amd64.ddeb
+ b7945b6ec3c3405b5c0fee0f9df9a181 22755 misc optional ros-one-moveit-ros-occupancy-map-monitor_1.1.16-1-g88b386581-2024.10.22.19.15_amd64.buildinfo
+ 4db6a71f0f9edadd8c75c97d2b666aa2 134770 misc optional ros-one-moveit-ros-occupancy-map-monitor_1.1.16-1-g88b386581-2024.10.22.19.15_amd64.deb

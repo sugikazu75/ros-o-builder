@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Wed, 31 Jan 2024 00:00:00 -0000
+Source: ros-one-axis-camera
+Binary: ros-one-axis-camera
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.4-1-g340c307-2024.10.22.16.34
+Distribution: jammy
+Urgency: high
+Maintainer: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>
+Changed-By: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>
+Description:
+ ros-one-axis-camera - Python ROS drivers for accessing an Axis camera's MJPG stream.
+Changes:
+ ros-one-axis-camera (0.5.4-1-g340c307-2024.10.22.16.34) jammy; urgency=high
+ .
+   * Change default PS4 controller inputs (#84 <https://github.com/ros-drivers/axis_camera/issues/84>)
+     * Refactor the teleop controls to make enable buttons optional, change the defaults to use the right thumb stick for pan/tilt and right/left analog triggers for zoom in/out
+     * Fix comments in the PS4 controller configuration file, add an additional file with the alternative axis ordering (which is necessary for some controllers)
+     * Expose the teleop config file as a launch argument
+   * Contributors: Chris Iverach-Brereton
+Checksums-Sha1:
+ e2165c7d51172bd044b7941abb1eb13db08b621b 18129 ros-one-axis-camera_0.5.4-1-g340c307-2024.10.22.16.34_amd64.buildinfo
+ 5b4175cd05a0e60dab8d250f2e8c45ba6beacaf9 29970 ros-one-axis-camera_0.5.4-1-g340c307-2024.10.22.16.34_amd64.deb
+Checksums-Sha256:
+ 17eeb66d37bd4c29ad492d2ee1637b87abb8a338c643f465ce10f8bdf0f08984 18129 ros-one-axis-camera_0.5.4-1-g340c307-2024.10.22.16.34_amd64.buildinfo
+ aa732db78848f8641ecda23ffdb1cf50ac1aa54eb142a19ad6cb84ee0071b58d 29970 ros-one-axis-camera_0.5.4-1-g340c307-2024.10.22.16.34_amd64.deb
+Files:
+ 2f89fbea7f54b82474a9e5794d8116b3 18129 misc optional ros-one-axis-camera_0.5.4-1-g340c307-2024.10.22.16.34_amd64.buildinfo
+ ed57dc5c1ea84092f922d69221e5e3f6 29970 misc optional ros-one-axis-camera_0.5.4-1-g340c307-2024.10.22.16.34_amd64.deb

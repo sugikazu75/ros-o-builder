@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 11 Mar 2020 00:00:00 -0000
+Source: ros-one-control-msgs
+Binary: ros-one-control-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.5.2-6-g36e2e30-2024.10.22.15.33
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-control-msgs - control_msgs contains base messages and actions useful for contro
+Changes:
+ ros-one-control-msgs (1.5.2-6-g36e2e30-2024.10.22.15.33) jammy; urgency=high
+ .
+   * Bump CMake version to avoid CMP0048 (#40 <https://github.com/ros-controls/control_msgs/issues/40>)
+   * Contributors: Shane Loretz
+Checksums-Sha1:
+ 1c4cd231d872586275800861c5483483b61d959e 10013 ros-one-control-msgs_1.5.2-6-g36e2e30-2024.10.22.15.33_amd64.buildinfo
+ 664d7fe7faf75d00043c6f5cb0b79dfca88e7685 115666 ros-one-control-msgs_1.5.2-6-g36e2e30-2024.10.22.15.33_amd64.deb
+Checksums-Sha256:
+ 1b41fdb1f9b114a0017d6a2a484504913c13a3735bc652deab3869f939436551 10013 ros-one-control-msgs_1.5.2-6-g36e2e30-2024.10.22.15.33_amd64.buildinfo
+ 4ecc99c42c17fd1a9171b681612820c1ee23c9b75af4c919d81ab4d7dbf21c17 115666 ros-one-control-msgs_1.5.2-6-g36e2e30-2024.10.22.15.33_amd64.deb
+Files:
+ 6fcfe02cc7986cf33b31ebd30c3f838d 10013 misc optional ros-one-control-msgs_1.5.2-6-g36e2e30-2024.10.22.15.33_amd64.buildinfo
+ 434ade159635ab03d4e7347a7fcfd5f0 115666 misc optional ros-one-control-msgs_1.5.2-6-g36e2e30-2024.10.22.15.33_amd64.deb

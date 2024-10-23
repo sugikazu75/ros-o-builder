@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 25 Oct 2020 00:00:00 -0000
+Source: ros-one-criutils
+Binary: ros-one-criutils
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.4-2024.10.22.15.53
+Distribution: jammy
+Urgency: high
+Maintainer: Francisco Suarez-Ruiz <fsuarez6@gmail.com>
+Changed-By: Francisco Suarez-Ruiz <fsuarez6@gmail.com>
+Description:
+ ros-one-criutils - The criutils package
+Changes:
+ ros-one-criutils (0.1.4-2024.10.22.15.53) jammy; urgency=high
+ .
+   * Add support for ROS noetic and clean up
+   * Contributors: fsuarez6
+Checksums-Sha1:
+ 0fe20324cd7863f2ef4077157a1822ab49f1fe6a 8114 ros-one-criutils_0.1.4-2024.10.22.15.53_amd64.buildinfo
+ fd9b48da7b8c93e5533247c959c6299d766c7284 18762 ros-one-criutils_0.1.4-2024.10.22.15.53_amd64.deb
+Checksums-Sha256:
+ ae23684f4fb7d2c5b7a462e2a0e182f7d55b25b831b1e9deeac48b973527592b 8114 ros-one-criutils_0.1.4-2024.10.22.15.53_amd64.buildinfo
+ c65d5d030709d8812d447f6b1ae173dad77c92d70f8f6a052f077528289e166a 18762 ros-one-criutils_0.1.4-2024.10.22.15.53_amd64.deb
+Files:
+ cb35e20345d983162eb6413eeb74e467 8114 misc optional ros-one-criutils_0.1.4-2024.10.22.15.53_amd64.buildinfo
+ 154d72229054b29330063659e9dfa32b 18762 misc optional ros-one-criutils_0.1.4-2024.10.22.15.53_amd64.deb

@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 05 Apr 2022 00:00:00 -0000
+Source: ros-one-apriltag-ros
+Binary: ros-one-apriltag-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 3.2.1-23-g94b3b84-2024.10.22.16.34
+Distribution: jammy
+Urgency: high
+Maintainer: Danylo Malyuta <danylo.malyuta@gmail.com>
+Changed-By: Danylo Malyuta <danylo.malyuta@gmail.com>
+Description:
+ ros-one-apriltag-ros - A ROS wrapper of the AprilTag 3 visual fiducial detection algorit
+Changes:
+ ros-one-apriltag-ros (3.2.1-23-g94b3b84-2024.10.22.16.34) jammy; urgency=high
+ .
+   * Fixed propagation of apriltag and Eigen headers and libraries (#124 <https://github.com/AprilRobotics/apriltag_ros/issues/124>)
+   * Drop old C++11 as it breaks with new log4cxx.
+   * Contributors: Jochen Sprickerhof, Remo Diethelm, Wolfgang Merkt
+Checksums-Sha1:
+ a3791bfd6537e734627ad1ace5e7cdcf506356e0 2889756 ros-one-apriltag-ros-dbgsym_3.2.1-23-g94b3b84-2024.10.22.16.34_amd64.ddeb
+ 92ed290c54dba7ff28699513e665b5d7be9c7f71 32923 ros-one-apriltag-ros_3.2.1-23-g94b3b84-2024.10.22.16.34_amd64.buildinfo
+ a686837a73055eb2b055db7713c0c99fc386fec2 158178 ros-one-apriltag-ros_3.2.1-23-g94b3b84-2024.10.22.16.34_amd64.deb
+Checksums-Sha256:
+ 8a9af9dd75fdeb41ffd40cdc9fadc031cb0b7023322da0f27f339e8f1e1d6c16 2889756 ros-one-apriltag-ros-dbgsym_3.2.1-23-g94b3b84-2024.10.22.16.34_amd64.ddeb
+ d1476ab84378d49e23a2dc205a05b2e311d6ca081f498e6a03a60433671d86c4 32923 ros-one-apriltag-ros_3.2.1-23-g94b3b84-2024.10.22.16.34_amd64.buildinfo
+ 297341f3c427dae60680e4245a00598c3928d93bab168ce4e63371589a773564 158178 ros-one-apriltag-ros_3.2.1-23-g94b3b84-2024.10.22.16.34_amd64.deb
+Files:
+ 2c201018c74c0d765815517e72a227fa 2889756 debug optional ros-one-apriltag-ros-dbgsym_3.2.1-23-g94b3b84-2024.10.22.16.34_amd64.ddeb
+ d6307f0b4714c31973df16d583cf3f79 32923 misc optional ros-one-apriltag-ros_3.2.1-23-g94b3b84-2024.10.22.16.34_amd64.buildinfo
+ 3227eadb9eb5c2b656879e7cbf3dbe26 158178 misc optional ros-one-apriltag-ros_3.2.1-23-g94b3b84-2024.10.22.16.34_amd64.deb

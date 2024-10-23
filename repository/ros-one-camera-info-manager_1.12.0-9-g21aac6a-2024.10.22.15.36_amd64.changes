@@ -1,0 +1,38 @@
+Format: 1.8
+Date: Fri, 03 Apr 2020 00:00:00 -0000
+Source: ros-one-camera-info-manager
+Binary: ros-one-camera-info-manager
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.12.0-9-g21aac6a-2024.10.22.15.36
+Distribution: jammy
+Urgency: high
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Changed-By: Jack O'Quin <jack.oquin@gmail.com>
+Description:
+ ros-one-camera-info-manager - This package provides a C++ interface for camera calibration info
+Changes:
+ ros-one-camera-info-manager (1.12.0-9-g21aac6a-2024.10.22.15.36) jammy; urgency=high
+ .
+   * Noetic release image_common (#155 <https://github.com/ros-perception/image_common/issues/155>)
+     * noetic - Porting Python to Python3
+     Signed-off-by: ahcorde <mailto:ahcorde@gmail.com>
+     * Updated cmake_minimum_required to 3.0.2
+     Signed-off-by: ahcorde <mailto:ahcorde@gmail.com>
+     * changed diskutils.core for setuptools
+     Signed-off-by: ahcorde <mailto:ahcorde@gmail.com>
+     * ported to noetic image_transport tutorial
+     Signed-off-by: ahcorde <mailto:ahcorde@gmail.com>
+   * Contributors: Alejandro Hernández Cordero
+Checksums-Sha1:
+ c11fb405c0e6d05f46c473f8a13bd30280618fe9 416716 ros-one-camera-info-manager-dbgsym_1.12.0-9-g21aac6a-2024.10.22.15.36_amd64.ddeb
+ 7ded34228ecd670173f964ef8368b65f9693b822 20188 ros-one-camera-info-manager_1.12.0-9-g21aac6a-2024.10.22.15.36_amd64.buildinfo
+ ac7b0df28c47ce591d4ad20223cb84bd7ca8154f 46570 ros-one-camera-info-manager_1.12.0-9-g21aac6a-2024.10.22.15.36_amd64.deb
+Checksums-Sha256:
+ 8eecbd518d8a07e94bce1135c18ffff1aabbace27e32fa064f6cad808ed309fa 416716 ros-one-camera-info-manager-dbgsym_1.12.0-9-g21aac6a-2024.10.22.15.36_amd64.ddeb
+ 4feb46cd90a2f23732ed99c57fbeaa512c1ee2227b18f97a96e3ca211d9078f0 20188 ros-one-camera-info-manager_1.12.0-9-g21aac6a-2024.10.22.15.36_amd64.buildinfo
+ 20a0328af76e4e043c330c64f057e7ce74ecfd78504d09f433fec75bdeb67006 46570 ros-one-camera-info-manager_1.12.0-9-g21aac6a-2024.10.22.15.36_amd64.deb
+Files:
+ 9319ff2fa0d5c948ae0efbe12b8fed66 416716 debug optional ros-one-camera-info-manager-dbgsym_1.12.0-9-g21aac6a-2024.10.22.15.36_amd64.ddeb
+ 430b45c449b90ab14b6c7e32fbe6d734 20188 misc optional ros-one-camera-info-manager_1.12.0-9-g21aac6a-2024.10.22.15.36_amd64.buildinfo
+ f5117ecbc991ced04df2451094fed5f9 46570 misc optional ros-one-camera-info-manager_1.12.0-9-g21aac6a-2024.10.22.15.36_amd64.deb

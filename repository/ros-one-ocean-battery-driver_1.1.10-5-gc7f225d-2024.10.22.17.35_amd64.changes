@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Thu, 20 May 2021 00:00:00 -0000
+Source: ros-one-ocean-battery-driver
+Binary: ros-one-ocean-battery-driver
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.10-5-gc7f225d-2024.10.22.17.35
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-ocean-battery-driver - This is an interface to the Ocean Server Technology Intelligent B
+Changes:
+ ros-one-ocean-battery-driver (1.1.10-5-gc7f225d-2024.10.22.17.35) jammy; urgency=high
+ .
+   * fixes for boost dependencies
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ a4b945c267e0fcada77035c85f963a8d46634aa6 1260800 ros-one-ocean-battery-driver-dbgsym_1.1.10-5-gc7f225d-2024.10.22.17.35_amd64.ddeb
+ f5b9b7ccf2e43d71cf8c2b1f7485f854a0a85905 11788 ros-one-ocean-battery-driver_1.1.10-5-gc7f225d-2024.10.22.17.35_amd64.buildinfo
+ e58ef6568a82b506bb40c18efe537f0d13df3de6 92108 ros-one-ocean-battery-driver_1.1.10-5-gc7f225d-2024.10.22.17.35_amd64.deb
+Checksums-Sha256:
+ 26d15d898a5d0e4dfe3053c8e2178572fa6ef4ef11e4fff80c77caae60ec3dd6 1260800 ros-one-ocean-battery-driver-dbgsym_1.1.10-5-gc7f225d-2024.10.22.17.35_amd64.ddeb
+ 56aea4bf584f278ba0a2962d8b447f67ef94bf14b216009c2c826150806fb1e1 11788 ros-one-ocean-battery-driver_1.1.10-5-gc7f225d-2024.10.22.17.35_amd64.buildinfo
+ f1a86626260e6642376cfb34c4220d483c057759e64594f82e56f05ef9e1d5d8 92108 ros-one-ocean-battery-driver_1.1.10-5-gc7f225d-2024.10.22.17.35_amd64.deb
+Files:
+ 016b97d22df8dbb910fd43de15185282 1260800 debug optional ros-one-ocean-battery-driver-dbgsym_1.1.10-5-gc7f225d-2024.10.22.17.35_amd64.ddeb
+ 26d4bf45cecf5e3db4f76f3478f56cb6 11788 misc optional ros-one-ocean-battery-driver_1.1.10-5-gc7f225d-2024.10.22.17.35_amd64.buildinfo
+ e53566ec0a7a12707faba5f55d4f16f7 92108 misc optional ros-one-ocean-battery-driver_1.1.10-5-gc7f225d-2024.10.22.17.35_amd64.deb

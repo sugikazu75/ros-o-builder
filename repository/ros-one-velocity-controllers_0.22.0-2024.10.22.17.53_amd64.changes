@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 22 May 2024 00:00:00 -0000
+Source: ros-one-velocity-controllers
+Binary: ros-one-velocity-controllers
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.22.0-2024.10.22.17.53
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-velocity-controllers - velocity_controllers
+Changes:
+ ros-one-velocity-controllers (0.22.0-2024.10.22.17.53) jammy; urgency=high
+Checksums-Sha1:
+ 801f0793e47aaf0e9a9f9d5c5784f5be43fc25c8 1244720 ros-one-velocity-controllers-dbgsym_0.22.0-2024.10.22.17.53_amd64.ddeb
+ 289427152288feb6e37e9f39ef908bc364780eef 17245 ros-one-velocity-controllers_0.22.0-2024.10.22.17.53_amd64.buildinfo
+ 35468fa33db5777ee7d728b871dd823723b24ba3 63524 ros-one-velocity-controllers_0.22.0-2024.10.22.17.53_amd64.deb
+Checksums-Sha256:
+ 69f15fd3fff70053fe29ead4e27f324855f11cbc00108cca2258e50eb21e011e 1244720 ros-one-velocity-controllers-dbgsym_0.22.0-2024.10.22.17.53_amd64.ddeb
+ 2f09765a189db3d714540cd00198c5116207bdac2c097c93970b63d2d86bfe13 17245 ros-one-velocity-controllers_0.22.0-2024.10.22.17.53_amd64.buildinfo
+ 5677d9cfaf0a2858923b5d1f9124c4c548cebcfc9bb18b30135feaaa17c5ec7d 63524 ros-one-velocity-controllers_0.22.0-2024.10.22.17.53_amd64.deb
+Files:
+ fa24ed80811018ac18ff395e3ee86451 1244720 debug optional ros-one-velocity-controllers-dbgsym_0.22.0-2024.10.22.17.53_amd64.ddeb
+ c6ef02e453a24ccf549e8d65c6ceb707 17245 misc optional ros-one-velocity-controllers_0.22.0-2024.10.22.17.53_amd64.buildinfo
+ 246f4b80c67a20fdca7892064c3298bf 63524 misc optional ros-one-velocity-controllers_0.22.0-2024.10.22.17.53_amd64.deb

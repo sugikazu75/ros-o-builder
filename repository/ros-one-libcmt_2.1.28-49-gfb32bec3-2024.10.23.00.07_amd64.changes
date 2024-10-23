@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-libcmt
+Binary: ros-one-libcmt
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.23.00.07
+Distribution: jammy
+Urgency: high
+Maintainer: Yuto Inagaki <inagaki@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Yuto Inagaki <inagaki@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-libcmt - libCMT ROS Wrapper
+Changes:
+ ros-one-libcmt (2.1.28-49-gfb32bec3-2024.10.23.00.07) jammy; urgency=high
+Checksums-Sha1:
+ 45cea7bdd5e0061338c575c1fea7a9be250ba372 435932 ros-one-libcmt-dbgsym_2.1.28-49-gfb32bec3-2024.10.23.00.07_amd64.ddeb
+ ee3333f7f713edbfe16489b35d8b42d0bcc23e26 27632 ros-one-libcmt_2.1.28-49-gfb32bec3-2024.10.23.00.07_amd64.buildinfo
+ 032ce49764d5d11b6065eb9dcc98c927e4418317 28902 ros-one-libcmt_2.1.28-49-gfb32bec3-2024.10.23.00.07_amd64.deb
+Checksums-Sha256:
+ b1dbc968d3d4680e309c24cc57994981c9f90bf8a90abc671b6c1780f9796596 435932 ros-one-libcmt-dbgsym_2.1.28-49-gfb32bec3-2024.10.23.00.07_amd64.ddeb
+ 4b752d1722ec4440ac3abacbd23b69b531b4ff59aec4d00ba28ad12b10507a7c 27632 ros-one-libcmt_2.1.28-49-gfb32bec3-2024.10.23.00.07_amd64.buildinfo
+ df5fc90bd5aaba10666dfec94acac3387ea880c8b9901a06d2b4eb6305ba593e 28902 ros-one-libcmt_2.1.28-49-gfb32bec3-2024.10.23.00.07_amd64.deb
+Files:
+ 475856bcc183560cbe0ff349b9143802 435932 debug optional ros-one-libcmt-dbgsym_2.1.28-49-gfb32bec3-2024.10.23.00.07_amd64.ddeb
+ e992a43b6b742eefe5136e520c78e18c 27632 misc optional ros-one-libcmt_2.1.28-49-gfb32bec3-2024.10.23.00.07_amd64.buildinfo
+ 2168f968bda1ebba04a9a3ee8210abee 28902 misc optional ros-one-libcmt_2.1.28-49-gfb32bec3-2024.10.23.00.07_amd64.deb

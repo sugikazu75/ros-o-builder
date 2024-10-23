@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 06 Feb 2015 00:00:00 -0000
+Source: ros-one-ros-realtime
+Binary: ros-one-ros-realtime
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.0.25-10-g6ad6177-2024.10.22.15.36
+Distribution: jammy
+Urgency: high
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Changed-By: Devon Ash <dash@clearpathrobotics.com>
+Description:
+ ros-one-ros-realtime - The ros_realtime package
+Changes:
+ ros-one-ros-realtime (1.0.25-10-g6ad6177-2024.10.22.15.36) jammy; urgency=high
+Checksums-Sha1:
+ 44691c566c69037a7553f50dd79b9cb71c543e73 8183 ros-one-ros-realtime_1.0.25-10-g6ad6177-2024.10.22.15.36_amd64.buildinfo
+ 7f762d29424ceaaf06a344a2390236d652b77d7d 1712 ros-one-ros-realtime_1.0.25-10-g6ad6177-2024.10.22.15.36_amd64.deb
+Checksums-Sha256:
+ 6cd0e89222dfd5e8ddbcb22acf01eb8ea1ee6a691996daa87c453178526ce020 8183 ros-one-ros-realtime_1.0.25-10-g6ad6177-2024.10.22.15.36_amd64.buildinfo
+ 136c3b5e79333db7d544fa524e2d5d7a73501cc559ab16815390e3e8ea15b55b 1712 ros-one-ros-realtime_1.0.25-10-g6ad6177-2024.10.22.15.36_amd64.deb
+Files:
+ f3c2795da3615c3d9190e575caa2718e 8183 misc optional ros-one-ros-realtime_1.0.25-10-g6ad6177-2024.10.22.15.36_amd64.buildinfo
+ 4ff5a7a1c9e983eff38e624b3dae8b84 1712 misc optional ros-one-ros-realtime_1.0.25-10-g6ad6177-2024.10.22.15.36_amd64.deb

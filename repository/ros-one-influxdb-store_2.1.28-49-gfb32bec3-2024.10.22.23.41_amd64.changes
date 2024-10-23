@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-influxdb-store
+Binary: ros-one-influxdb-store
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.22.23.41
+Distribution: jammy
+Urgency: high
+Maintainer: Shingo Kitagawa <shingogo.5511@gmail.com>
+Changed-By: Shingo Kitagawa <shingogo.5511@gmail.com>
+Description:
+ ros-one-influxdb-store - The influxdb_store package
+Changes:
+ ros-one-influxdb-store (2.1.28-49-gfb32bec3-2024.10.22.23.41) jammy; urgency=high
+Checksums-Sha1:
+ 695d2d8d6ce94884b7fac4817ef4802b97a02d2c 8200 ros-one-influxdb-store_2.1.28-49-gfb32bec3-2024.10.22.23.41_amd64.buildinfo
+ 0df44f8d89903d4f2a91377a1eb4a30d8654c2c5 13364 ros-one-influxdb-store_2.1.28-49-gfb32bec3-2024.10.22.23.41_amd64.deb
+Checksums-Sha256:
+ 66348f3ed675c4f643dcd2a17ee544697684e1bf361ba73e737f50c1b91a9093 8200 ros-one-influxdb-store_2.1.28-49-gfb32bec3-2024.10.22.23.41_amd64.buildinfo
+ 5c61c3e2922e9286d305753c383fa1c2ffade5468322995dce075bce27935564 13364 ros-one-influxdb-store_2.1.28-49-gfb32bec3-2024.10.22.23.41_amd64.deb
+Files:
+ f4f2058cf569b2fd53576cc4c790e36b 8200 misc optional ros-one-influxdb-store_2.1.28-49-gfb32bec3-2024.10.22.23.41_amd64.buildinfo
+ a300467975936dc8d9659ae1866e919e 13364 misc optional ros-one-influxdb-store_2.1.28-49-gfb32bec3-2024.10.22.23.41_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-pr2-calibration-controllers
+Binary: ros-one-pr2-calibration-controllers
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2024.10.22.19.55
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-calibration-controllers - The pr2_calibration_controllers package contains the controllers
+Changes:
+ ros-one-pr2-calibration-controllers (1.10.18-3-g8e8dfa0-2024.10.22.19.55) jammy; urgency=high
+Checksums-Sha1:
+ 42a12c5fe420b20b9fb2297218c2fe2e9dab3916 2205864 ros-one-pr2-calibration-controllers-dbgsym_1.10.18-3-g8e8dfa0-2024.10.22.19.55_amd64.ddeb
+ 6d4be314b9ba4c0e5b8546f38a2f0535622cc564 21365 ros-one-pr2-calibration-controllers_1.10.18-3-g8e8dfa0-2024.10.22.19.55_amd64.buildinfo
+ 793fce0231405e9f8b78ff59879f150f44806259 68928 ros-one-pr2-calibration-controllers_1.10.18-3-g8e8dfa0-2024.10.22.19.55_amd64.deb
+Checksums-Sha256:
+ 67e2a7a826b5048acdf6fc8552f65792c6aa55675600ce731491e8829246ee1f 2205864 ros-one-pr2-calibration-controllers-dbgsym_1.10.18-3-g8e8dfa0-2024.10.22.19.55_amd64.ddeb
+ 6eb516f8713082fe0ac48b2b2bd3c17072f82b81609c65f31222131a624fba07 21365 ros-one-pr2-calibration-controllers_1.10.18-3-g8e8dfa0-2024.10.22.19.55_amd64.buildinfo
+ f53222350405cf8204b619aa1848bedf7af02508995342ccc3188d7987ecf996 68928 ros-one-pr2-calibration-controllers_1.10.18-3-g8e8dfa0-2024.10.22.19.55_amd64.deb
+Files:
+ 284a4a6a30aa485ca0ed88dfaf155f37 2205864 debug optional ros-one-pr2-calibration-controllers-dbgsym_1.10.18-3-g8e8dfa0-2024.10.22.19.55_amd64.ddeb
+ 7f0359d8f008d2396c767ab55e87bc6c 21365 misc optional ros-one-pr2-calibration-controllers_1.10.18-3-g8e8dfa0-2024.10.22.19.55_amd64.buildinfo
+ bb587bd885a443c9fea1ea94210ffb61 68928 misc optional ros-one-pr2-calibration-controllers_1.10.18-3-g8e8dfa0-2024.10.22.19.55_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-benchmarks
+Binary: ros-one-moveit-ros-benchmarks
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-1-g88b386581-2024.10.22.20.01
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Coleman <dave@picknik.ai>
+Changed-By: Dave Coleman <dave@picknik.ai>
+Description:
+ ros-one-moveit-ros-benchmarks - Enhanced tools for benchmarks in MoveIt
+Changes:
+ ros-one-moveit-ros-benchmarks (1.1.16-1-g88b386581-2024.10.22.20.01) jammy; urgency=high
+Checksums-Sha1:
+ 0c86ac4d7ae6b82ca5a4e07bb95c8eba31bb1c31 7893934 ros-one-moveit-ros-benchmarks-dbgsym_1.1.16-1-g88b386581-2024.10.22.20.01_amd64.ddeb
+ 29de89e2622ea61c0cceb53d87873d1e67e5f52e 25938 ros-one-moveit-ros-benchmarks_1.1.16-1-g88b386581-2024.10.22.20.01_amd64.buildinfo
+ 18cc5c0fcec3e97b5bd13a1d809bd172ee0f5a9d 227540 ros-one-moveit-ros-benchmarks_1.1.16-1-g88b386581-2024.10.22.20.01_amd64.deb
+Checksums-Sha256:
+ e2da9bfd26f9e85ed23ad8d3c014988d3ae35c4074a4db9cafb853c0e5907270 7893934 ros-one-moveit-ros-benchmarks-dbgsym_1.1.16-1-g88b386581-2024.10.22.20.01_amd64.ddeb
+ 999c05282046e13572f7be333aa775fe3f826d082cae841860525205d633943c 25938 ros-one-moveit-ros-benchmarks_1.1.16-1-g88b386581-2024.10.22.20.01_amd64.buildinfo
+ d2c45599c1d9979e34254132c14dd5890cf1e85f7f7b3f8bcfb772c92f7f44c0 227540 ros-one-moveit-ros-benchmarks_1.1.16-1-g88b386581-2024.10.22.20.01_amd64.deb
+Files:
+ 96c1b97c5dba9113cd5f46b760dd2817 7893934 debug optional ros-one-moveit-ros-benchmarks-dbgsym_1.1.16-1-g88b386581-2024.10.22.20.01_amd64.ddeb
+ 22b9760af876e65c017b765f04ee6cb4 25938 misc optional ros-one-moveit-ros-benchmarks_1.1.16-1-g88b386581-2024.10.22.20.01_amd64.buildinfo
+ c4daac9efe444f607f0c436855c3ee1f 227540 misc optional ros-one-moveit-ros-benchmarks_1.1.16-1-g88b386581-2024.10.22.20.01_amd64.deb

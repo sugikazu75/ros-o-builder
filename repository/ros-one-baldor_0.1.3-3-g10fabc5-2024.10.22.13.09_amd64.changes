@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 25 Oct 2020 00:00:00 -0000
+Source: ros-one-baldor
+Binary: ros-one-baldor
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.3-3-g10fabc5-2024.10.22.13.09
+Distribution: jammy
+Urgency: high
+Maintainer: Francisco Suarez-Ruiz <fsuarez6@gmail.com>
+Changed-By: Francisco Suarez-Ruiz <fsuarez6@gmail.com>
+Description:
+ ros-one-baldor - The baldor package
+Changes:
+ ros-one-baldor (0.1.3-3-g10fabc5-2024.10.22.13.09) jammy; urgency=high
+ .
+   * Add support for ROS noetic and clean up
+   * Contributors: fsuarez6
+Checksums-Sha1:
+ 8668177410a3a8c7b9355b66c19c6db884de89e5 8148 ros-one-baldor_0.1.3-3-g10fabc5-2024.10.22.13.09_amd64.buildinfo
+ 3f9dd02df3583e942b3679efe3187cf2e14c5a2f 19180 ros-one-baldor_0.1.3-3-g10fabc5-2024.10.22.13.09_amd64.deb
+Checksums-Sha256:
+ a7bcc69010fda6d7bce8a7828dc8e30886e6f6f174ded4b144b369bc18a51ad5 8148 ros-one-baldor_0.1.3-3-g10fabc5-2024.10.22.13.09_amd64.buildinfo
+ d2f2c29f554345d4653fa4b84c3653b873a0ac8e2b4326f5e47a1f1317bd366e 19180 ros-one-baldor_0.1.3-3-g10fabc5-2024.10.22.13.09_amd64.deb
+Files:
+ 6359fcf4dbb10a7c04577790191bcee0 8148 misc optional ros-one-baldor_0.1.3-3-g10fabc5-2024.10.22.13.09_amd64.buildinfo
+ 5109463922ccb304b43a02f2f01ce636 19180 misc optional ros-one-baldor_0.1.3-3-g10fabc5-2024.10.22.13.09_amd64.deb

@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Wed, 21 Oct 2020 00:00:00 -0000
+Source: ros-one-rqt-robot-steering
+Binary: ros-one-rqt-robot-steering
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.12-5-g3076940-2024.10.22.16.41
+Distribution: jammy
+Urgency: high
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Changed-By: Dirk Thomas <dthomas@osrfoundation.org>
+Description:
+ ros-one-rqt-robot-steering - rqt_robot_steering provides a GUI plugin for steering a robot usi
+Changes:
+ ros-one-rqt-robot-steering (0.5.12-5-g3076940-2024.10.22.16.41) jammy; urgency=high
+ .
+   * fix shebang line for Python 3 (#9 <https://github.com/ros-visualization/rqt_robot_steering/issues/9>)
+Checksums-Sha1:
+ 9a9a26dde068e6f79bf7bb5b353125fada78447b 8212 ros-one-rqt-robot-steering_0.5.12-5-g3076940-2024.10.22.16.41_amd64.buildinfo
+ bba8d4e40d7fb9e1ffc24908825a6b645a71f4ae 14358 ros-one-rqt-robot-steering_0.5.12-5-g3076940-2024.10.22.16.41_amd64.deb
+Checksums-Sha256:
+ ca895ca975a0e7af057e83df62ef52e09e0d120aea429753d8c3daa4d8084f18 8212 ros-one-rqt-robot-steering_0.5.12-5-g3076940-2024.10.22.16.41_amd64.buildinfo
+ 6bf960f01e217378f8c0ffd6890aff0bee09435a2eb1d841a6bb9af517a3547e 14358 ros-one-rqt-robot-steering_0.5.12-5-g3076940-2024.10.22.16.41_amd64.deb
+Files:
+ e50d837c7725e2ee5f96a687361965c0 8212 misc optional ros-one-rqt-robot-steering_0.5.12-5-g3076940-2024.10.22.16.41_amd64.buildinfo
+ 84bf8a8f65fccba6dff99dd8a984d531 14358 misc optional ros-one-rqt-robot-steering_0.5.12-5-g3076940-2024.10.22.16.41_amd64.deb

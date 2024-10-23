@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-jsk-3rdparty
+Binary: ros-one-jsk-3rdparty
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.22.23.45
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-3rdparty - Metapackage that contains commonly used 3rdparty toolset for jsk-
+Changes:
+ ros-one-jsk-3rdparty (2.1.28-49-gfb32bec3-2024.10.22.23.45) jammy; urgency=high
+Checksums-Sha1:
+ 5fd54ac942955a6d2ffde025168547ab2d0e09b9 8187 ros-one-jsk-3rdparty_2.1.28-49-gfb32bec3-2024.10.22.23.45_amd64.buildinfo
+ f5e3234b295502f3584f8b9b02907fd5aa30df48 4094 ros-one-jsk-3rdparty_2.1.28-49-gfb32bec3-2024.10.22.23.45_amd64.deb
+Checksums-Sha256:
+ 236fbdb8b3e64d38257b93b40f47514a99fbbce8eadad2d104785e89ac4447c3 8187 ros-one-jsk-3rdparty_2.1.28-49-gfb32bec3-2024.10.22.23.45_amd64.buildinfo
+ d0c9faad21244da51892a97ee454dacc2d45b79763436d548dbd5018ff6b2dbc 4094 ros-one-jsk-3rdparty_2.1.28-49-gfb32bec3-2024.10.22.23.45_amd64.deb
+Files:
+ 468cb4328408b920e08f645b6fbb31fa 8187 misc optional ros-one-jsk-3rdparty_2.1.28-49-gfb32bec3-2024.10.22.23.45_amd64.buildinfo
+ d6d5d5e6212c05d995bec1ebf7f8ff2c 4094 misc optional ros-one-jsk-3rdparty_2.1.28-49-gfb32bec3-2024.10.22.23.45_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-switchbot-ros
+Binary: ros-one-switchbot-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.23.01.23
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-switchbot-ros - use switchbot with ros
+Changes:
+ ros-one-switchbot-ros (2.1.28-49-gfb32bec3-2024.10.23.01.23) jammy; urgency=high
+Checksums-Sha1:
+ cc0bfc12c00e463f51ae1fd509ae1f7d614f282e 506120 ros-one-switchbot-ros-dbgsym_2.1.28-49-gfb32bec3-2024.10.23.01.23_amd64.ddeb
+ 92a98ebd21666e3150087e1431946c77f6c3acf4 14156 ros-one-switchbot-ros_2.1.28-49-gfb32bec3-2024.10.23.01.23_amd64.buildinfo
+ 1889530d6999245a087137e0150fd461b90aff69 2753668 ros-one-switchbot-ros_2.1.28-49-gfb32bec3-2024.10.23.01.23_amd64.deb
+Checksums-Sha256:
+ c7557ab6584e874751f50b5863755505ef25acd7093ace0c74e35ef0a0617d6d 506120 ros-one-switchbot-ros-dbgsym_2.1.28-49-gfb32bec3-2024.10.23.01.23_amd64.ddeb
+ f791ce24a3acde757a9b4f811208cb4ce8aa5ce09bf2b0779d0274c5552aa8df 14156 ros-one-switchbot-ros_2.1.28-49-gfb32bec3-2024.10.23.01.23_amd64.buildinfo
+ 7d024b92be7edb9e549abcbd5bfb64ed8627fe91983ba633f7da381c846ba528 2753668 ros-one-switchbot-ros_2.1.28-49-gfb32bec3-2024.10.23.01.23_amd64.deb
+Files:
+ 4ad094ac5ee8b73969210eb9a7e2b51b 506120 debug optional ros-one-switchbot-ros-dbgsym_2.1.28-49-gfb32bec3-2024.10.23.01.23_amd64.ddeb
+ ed03e6b29ccff39d3bf7e675d1e4d894 14156 misc optional ros-one-switchbot-ros_2.1.28-49-gfb32bec3-2024.10.23.01.23_amd64.buildinfo
+ 91bdfa78771e3d8aa943b58db1f66b22 2753668 misc optional ros-one-switchbot-ros_2.1.28-49-gfb32bec3-2024.10.23.01.23_amd64.deb

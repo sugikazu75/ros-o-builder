@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 19 Jan 2023 00:00:00 -0000
+Source: ros-one-perception-pcl
+Binary: ros-one-perception-pcl
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.7.4-12-g5f72467-2024.10.22.16.54
+Distribution: jammy
+Urgency: high
+Maintainer: Paul Bovbel <paul@bovbel.com>
+Changed-By: Paul Bovbel <paul@bovbel.com>
+Description:
+ ros-one-perception-pcl - PCL (Point Cloud Library) ROS interface stack.
+Changes:
+ ros-one-perception-pcl (1.7.4-12-g5f72467-2024.10.22.16.54) jammy; urgency=high
+Checksums-Sha1:
+ 1fe5a79b7b94753beff12319b99c25f5105315b2 8189 ros-one-perception-pcl_1.7.4-12-g5f72467-2024.10.22.16.54_amd64.buildinfo
+ 80f84d39c925677d2839a003e6903767350c4450 2918 ros-one-perception-pcl_1.7.4-12-g5f72467-2024.10.22.16.54_amd64.deb
+Checksums-Sha256:
+ ce1517679ec4a60fee63ce850cf0343199b38009b6dd7c20cebe1a91827cdf79 8189 ros-one-perception-pcl_1.7.4-12-g5f72467-2024.10.22.16.54_amd64.buildinfo
+ c7fb646381124cbbec04d82e7e05b18ca84bbb403725a7a3484d47de52f80bcc 2918 ros-one-perception-pcl_1.7.4-12-g5f72467-2024.10.22.16.54_amd64.deb
+Files:
+ d057fe8846dcad5c7daed8d223fb1ef5 8189 misc optional ros-one-perception-pcl_1.7.4-12-g5f72467-2024.10.22.16.54_amd64.buildinfo
+ 42e21693071bde07aa6c62431e871045 2918 misc optional ros-one-perception-pcl_1.7.4-12-g5f72467-2024.10.22.16.54_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 27 Oct 2023 00:00:00 -0000
+Source: ros-one-hardware-interface
+Binary: ros-one-hardware-interface
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.20.0-1-g633c374-2024.10.22.16.36
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-hardware-interface - Hardware Interface base class.
+Changes:
+ ros-one-hardware-interface (0.20.0-1-g633c374-2024.10.22.16.36) jammy; urgency=high
+ .
+   * Add JPVTPIDGains-like interface (#515 <https://github.com/ros-controls/ros_control/issues/515>)
+   * Contributors: Bence Magyar, Wolfgang Merkt
+Checksums-Sha1:
+ e566332c3e9615e50269019a5fb19215cd4ad572 10948 ros-one-hardware-interface_0.20.0-1-g633c374-2024.10.22.16.36_amd64.buildinfo
+ 8ac24cfdb1174d7f5c28dfe4ba2526f83996b8c0 25282 ros-one-hardware-interface_0.20.0-1-g633c374-2024.10.22.16.36_amd64.deb
+Checksums-Sha256:
+ 520a4caffa9bd8c1d817d3f243c09779869f2c73a0276916d26cd15cdf18b3de 10948 ros-one-hardware-interface_0.20.0-1-g633c374-2024.10.22.16.36_amd64.buildinfo
+ 1491e8447c429e3fd48dc189c7a3906eb9f9ec288622d631d2c5837b6204586b 25282 ros-one-hardware-interface_0.20.0-1-g633c374-2024.10.22.16.36_amd64.deb
+Files:
+ 8a6411297fcd2b59ca901622d6eddd9c 10948 misc optional ros-one-hardware-interface_0.20.0-1-g633c374-2024.10.22.16.36_amd64.buildinfo
+ 6d92e9b288ac58596bd54cd3922dd721 25282 misc optional ros-one-hardware-interface_0.20.0-1-g633c374-2024.10.22.16.36_amd64.deb

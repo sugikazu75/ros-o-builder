@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 29 Jul 2024 00:00:00 -0000
+Source: ros-one-cartesian-trajectory-controller
+Binary: ros-one-cartesian-trajectory-controller
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.7-1-gceffa65-2024.10.22.21.05
+Distribution: jammy
+Urgency: high
+Maintainer: Stefan Scherzinger <scherzin@fzi.de>
+Changed-By: Stefan Scherzinger <scherzin@fzi.de>
+Description:
+ ros-one-cartesian-trajectory-controller - A Cartesian trajectory controller with multiple hardware interfac
+Changes:
+ ros-one-cartesian-trajectory-controller (0.1.7-1-gceffa65-2024.10.22.21.05) jammy; urgency=high
+ .
+   * Move ik_solver header files to cartesian_trajectory_controller (#19 <https://github.com/UniversalRobots/Universal_Robots_ROS_controllers_cartesian/issues/19>)
+   * Contributors: Felix Exner (fexner)
+Checksums-Sha1:
+ 22000d80ae670546e9ea4d42efb867d011bd202c 2834130 ros-one-cartesian-trajectory-controller-dbgsym_0.1.7-1-gceffa65-2024.10.22.21.05_amd64.ddeb
+ 95bb99f284e009878efc966cec8852931aa6577c 23105 ros-one-cartesian-trajectory-controller_0.1.7-1-gceffa65-2024.10.22.21.05_amd64.buildinfo
+ bb7bf4feca6cdb212342f4ace1a53b02c66e2582 188310 ros-one-cartesian-trajectory-controller_0.1.7-1-gceffa65-2024.10.22.21.05_amd64.deb
+Checksums-Sha256:
+ 06604737955cfb077539dad27d485050e96c3e32b9df7cfa3da21773a5c9c185 2834130 ros-one-cartesian-trajectory-controller-dbgsym_0.1.7-1-gceffa65-2024.10.22.21.05_amd64.ddeb
+ 14ec697603b610482a7fe3e27c6921f37973eeb0bbf770b1224411600f36d05f 23105 ros-one-cartesian-trajectory-controller_0.1.7-1-gceffa65-2024.10.22.21.05_amd64.buildinfo
+ 08f166c891796498cfdff9d1de3f10d7599af70ae4c2e992fa0f13f1a8952197 188310 ros-one-cartesian-trajectory-controller_0.1.7-1-gceffa65-2024.10.22.21.05_amd64.deb
+Files:
+ abeb9121c261a563fdfbe9e235dd7d43 2834130 debug optional ros-one-cartesian-trajectory-controller-dbgsym_0.1.7-1-gceffa65-2024.10.22.21.05_amd64.ddeb
+ e5925b9a990b5985b6a369ed2c6934fa 23105 misc optional ros-one-cartesian-trajectory-controller_0.1.7-1-gceffa65-2024.10.22.21.05_amd64.buildinfo
+ 25fe95f398fa0be8d27b10b3f8503eeb 188310 misc optional ros-one-cartesian-trajectory-controller_0.1.7-1-gceffa65-2024.10.22.21.05_amd64.deb

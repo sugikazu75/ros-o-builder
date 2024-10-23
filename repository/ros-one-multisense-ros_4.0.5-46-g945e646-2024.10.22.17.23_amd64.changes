@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 03 Aug 2020 00:00:00 -0000
+Source: ros-one-multisense-ros
+Binary: ros-one-multisense-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 4.0.5-46-g945e646-2024.10.22.17.23
+Distribution: jammy
+Urgency: high
+Maintainer: Carnegie Robotics <support@carnegierobotics.com>
+Changed-By: Carnegie Robotics <support@carnegierobotics.com>
+Description:
+ ros-one-multisense-ros - multisense_ros
+Changes:
+ ros-one-multisense-ros (4.0.5-46-g945e646-2024.10.22.17.23) jammy; urgency=high
+ .
+   * Update for OpenCV 4.2, and updated launch file for ROS Noetic compatibility (#4 <https://github.com/QuentinTorg/multisense_ros/issues/4>)
+   * Contributors: Quentin Torgerson
+Checksums-Sha1:
+ 7f485eb5667e1b6753dfc7b4be390e78f2943fea 10388424 ros-one-multisense-ros-dbgsym_4.0.5-46-g945e646-2024.10.22.17.23_amd64.ddeb
+ 937fe92bb45ada629d0201731beedd3c650a590e 32593 ros-one-multisense-ros_4.0.5-46-g945e646-2024.10.22.17.23_amd64.buildinfo
+ acae52a6866898d47cfa1dfe58bdb59aa610ac88 767008 ros-one-multisense-ros_4.0.5-46-g945e646-2024.10.22.17.23_amd64.deb
+Checksums-Sha256:
+ 909cbdc7b01aab8a77d94abd9569673a31708add5c2428976cc72a4f0962fbac 10388424 ros-one-multisense-ros-dbgsym_4.0.5-46-g945e646-2024.10.22.17.23_amd64.ddeb
+ ee2d418166e5125990ec661205484a80ff5e0d8d2f9be20661cf93e40ffe2b9b 32593 ros-one-multisense-ros_4.0.5-46-g945e646-2024.10.22.17.23_amd64.buildinfo
+ fc863e3515b186c42f75b7b6028f2187d4b2f9289f22c8a8ceb6c6aa7026c05f 767008 ros-one-multisense-ros_4.0.5-46-g945e646-2024.10.22.17.23_amd64.deb
+Files:
+ f47a4465c2f7a3ce179f5f6485eab133 10388424 debug optional ros-one-multisense-ros-dbgsym_4.0.5-46-g945e646-2024.10.22.17.23_amd64.ddeb
+ 59423cad5b8981fa56160c19d2b62dad 32593 misc optional ros-one-multisense-ros_4.0.5-46-g945e646-2024.10.22.17.23_amd64.buildinfo
+ 67b7ea45e8b90aa58952039d296a2f83 767008 misc optional ros-one-multisense-ros_4.0.5-46-g945e646-2024.10.22.17.23_amd64.deb

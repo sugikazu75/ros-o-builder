@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-osqp
+Binary: ros-one-osqp
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.23.00.39
+Distribution: jammy
+Urgency: high
+Maintainer: Moju Zhao <chou@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Moju Zhao <chou@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-osqp - ROS wrapper for OSQP
+Changes:
+ ros-one-osqp (2.1.28-49-gfb32bec3-2024.10.23.00.39) jammy; urgency=high
+Checksums-Sha1:
+ 135bf4df3cb5f1dc08ef4ea0cf46a36f30d80db6 8147 ros-one-osqp_2.1.28-49-gfb32bec3-2024.10.23.00.39_amd64.buildinfo
+ 0dce9d0e4fd3f7d895b4c0870c8513bf8c493299 2334 ros-one-osqp_2.1.28-49-gfb32bec3-2024.10.23.00.39_amd64.deb
+Checksums-Sha256:
+ c872be9bcec538c1ac0fb21d584701b01548a49be5ec2428879463f9ba4e3a7a 8147 ros-one-osqp_2.1.28-49-gfb32bec3-2024.10.23.00.39_amd64.buildinfo
+ 2fdca883e42f02b2174435744b3a68ee3eeae31be9601b82606c2be985b0bc15 2334 ros-one-osqp_2.1.28-49-gfb32bec3-2024.10.23.00.39_amd64.deb
+Files:
+ 745b1c78347331bc0c349bbfaef1f300 8147 misc optional ros-one-osqp_2.1.28-49-gfb32bec3-2024.10.23.00.39_amd64.buildinfo
+ d2352aea2240757d9ffa727453f5922d 2334 misc optional ros-one-osqp_2.1.28-49-gfb32bec3-2024.10.23.00.39_amd64.deb

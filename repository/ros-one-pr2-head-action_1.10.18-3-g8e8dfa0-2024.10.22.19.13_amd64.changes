@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-pr2-head-action
+Binary: ros-one-pr2-head-action
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2024.10.22.19.13
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-head-action - The PR2 head action is a node that provides an action interface f
+Changes:
+ ros-one-pr2-head-action (1.10.18-3-g8e8dfa0-2024.10.22.19.13) jammy; urgency=high
+ .
+   * Fix for noetic (#401 <https://github.com/PR2/pr2_controllers/issues/401>)
+ .
+       * install liborocos for noetic
+       * conver to package 3
+ .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 2775a2f7346dd827197521547facfc792dafa93a 1176710 ros-one-pr2-head-action-dbgsym_1.10.18-3-g8e8dfa0-2024.10.22.19.13_amd64.ddeb
+ 9349b321961c054edc32df751f53b1d929026cff 19521 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2024.10.22.19.13_amd64.buildinfo
+ 1acc3a9054ef35ba10f9574c1b3f863580b9d900 94470 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2024.10.22.19.13_amd64.deb
+Checksums-Sha256:
+ f99c786a5577f01f7dc9d195068c84e1da9faad452372ab4005bbd6dd1885833 1176710 ros-one-pr2-head-action-dbgsym_1.10.18-3-g8e8dfa0-2024.10.22.19.13_amd64.ddeb
+ 7a45e74a01274d5d3ebc99bb585932a474ef7abfc70f3cd44cecf4094a70fad0 19521 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2024.10.22.19.13_amd64.buildinfo
+ d67134446db827ee6aacb557b2a0817a6cd50e81609954b9c1ae6a35ef675115 94470 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2024.10.22.19.13_amd64.deb
+Files:
+ 42756c6770624033926cd580e5ca7c43 1176710 debug optional ros-one-pr2-head-action-dbgsym_1.10.18-3-g8e8dfa0-2024.10.22.19.13_amd64.ddeb
+ 93462fc4f626d1139c3e2db4e0ee8f15 19521 misc optional ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2024.10.22.19.13_amd64.buildinfo
+ 5ae2ab2a77f0a75952e44533edb07884 94470 misc optional ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2024.10.22.19.13_amd64.deb

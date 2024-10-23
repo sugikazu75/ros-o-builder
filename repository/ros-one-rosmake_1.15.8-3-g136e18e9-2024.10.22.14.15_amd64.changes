@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 21 Jul 2021 00:00:00 -0000
+Source: ros-one-rosmake
+Binary: ros-one-rosmake
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.15.8-3-g136e18e9-2024.10.22.14.15
+Distribution: jammy
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-rosmake - rosmake is a ros dependency aware build tool which can be used to
+Changes:
+ ros-one-rosmake (1.15.8-3-g136e18e9-2024.10.22.14.15) jammy; urgency=high
+ .
+   * Fix spelling (#277 <https://github.com/ros/ros/issues/277>)
+   * Update maintainers (#272 <https://github.com/ros/ros/issues/272>)
+   * Contributors: Jacob Perron, freddii
+Checksums-Sha1:
+ 5ec330b03be54e92fa9c083d976680d177351f8f 8161 ros-one-rosmake_1.15.8-3-g136e18e9-2024.10.22.14.15_amd64.buildinfo
+ 7c00c0292a7727c5c1b4efe5886a009dd56c8926 34874 ros-one-rosmake_1.15.8-3-g136e18e9-2024.10.22.14.15_amd64.deb
+Checksums-Sha256:
+ 2d41053d5fb66c2b7eb400900cf0c973d7ccb226b4d218aa8d5cc6370eb9b4dc 8161 ros-one-rosmake_1.15.8-3-g136e18e9-2024.10.22.14.15_amd64.buildinfo
+ 4c3a6e3e1957662c51ebb4c59285706bbda1a4beacc161015179f9a540784e61 34874 ros-one-rosmake_1.15.8-3-g136e18e9-2024.10.22.14.15_amd64.deb
+Files:
+ 6b0d4ffb3f95cb926d04739f9f99c32c 8161 misc optional ros-one-rosmake_1.15.8-3-g136e18e9-2024.10.22.14.15_amd64.buildinfo
+ 46fbcacafa909e7410b8770d908b6150 34874 misc optional ros-one-rosmake_1.15.8-3-g136e18e9-2024.10.22.14.15_amd64.deb

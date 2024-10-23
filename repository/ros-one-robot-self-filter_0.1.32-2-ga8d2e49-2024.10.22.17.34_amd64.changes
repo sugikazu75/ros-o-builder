@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Fri, 07 Aug 2020 00:00:00 -0000
+Source: ros-one-robot-self-filter
+Binary: ros-one-robot-self-filter
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.32-2-ga8d2e49-2024.10.22.17.34
+Distribution: jammy
+Urgency: high
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Changed-By: Devon Ash <dash@clearpathrobotics.com>
+Description:
+ ros-one-robot-self-filter - Filters the robot's body out of point clouds.
+Changes:
+ ros-one-robot-self-filter (0.1.32-2-ga8d2e49-2024.10.22.17.34) jammy; urgency=high
+ .
+   * PCL > 1.10 uses c++ 14
+   * find_package(Boost signals) no longer required for noetic, use find_package(Boost)
+   * remove indigo/lunar from .travis.yml
+   * add noetic and fix .travs.yml
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ e0fcdd55ff644721afca91c653213edef7543c1a 3660052 ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2024.10.22.17.34_amd64.ddeb
+ b44509998998169ac421441f01298bcdc3c52c64 38964 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2024.10.22.17.34_amd64.buildinfo
+ 9129b1a3a2900f1cc81d0c91ed4650baa1bed502 188550 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2024.10.22.17.34_amd64.deb
+Checksums-Sha256:
+ 321e29e26f3de93e0d46d8be67f31ac200c9d3965f1899a4a8d12368e00da17f 3660052 ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2024.10.22.17.34_amd64.ddeb
+ 65357937924eb2996fff079d85c6d0da0ca0e53ccbc306e84412fd49f78ec84c 38964 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2024.10.22.17.34_amd64.buildinfo
+ 439f168cd2f88cc5a08fa71d3db598ebc0444530f0ce2aaa3d1a9f4e52d320d1 188550 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2024.10.22.17.34_amd64.deb
+Files:
+ 6e526b2b3f6b88d54c8ecc04a0176a21 3660052 debug optional ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2024.10.22.17.34_amd64.ddeb
+ 80c83f22740b69031e8c55dae4215616 38964 misc optional ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2024.10.22.17.34_amd64.buildinfo
+ 85e0b6f098a93e83ca0289d75de5d289 188550 misc optional ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2024.10.22.17.34_amd64.deb

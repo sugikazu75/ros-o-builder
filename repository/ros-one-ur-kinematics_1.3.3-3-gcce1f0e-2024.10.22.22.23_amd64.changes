@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 08 Apr 2024 00:00:00 -0000
+Source: ros-one-ur-kinematics
+Binary: ros-one-ur-kinematics
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.3.3-3-gcce1f0e-2024.10.22.22.23
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur-kinematics - Provides forward and inverse kinematics for Universal Robots desi
+Changes:
+ ros-one-ur-kinematics (1.3.3-3-gcce1f0e-2024.10.22.22.23) jammy; urgency=high
+ .
+   * Changed include for Boost in ur_kinematics (#675 <https://github.com/ros-industrial/universal_robot/issues/675>)
+   * UR30 description and meshes (#674 <https://github.com/ros-industrial/universal_robot/issues/674>)
+   * Contributors: Vincenzo Di Pentima
+Checksums-Sha1:
+ 53249e0c9861fd896428c3cf0e390992c73977f4 1574672 ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2024.10.22.22.23_amd64.ddeb
+ e3a4cfe42354697ce7d1d32c9b613ca8efad5a1e 26070 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.22.22.23_amd64.buildinfo
+ 6342f38f113b2af32a6e8e1079993d81129fd353 74714 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.22.22.23_amd64.deb
+Checksums-Sha256:
+ 5c6d8d1a828c704b3a846c4d7eb45fca09fb83e39ebfa6c9972dd8f142369068 1574672 ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2024.10.22.22.23_amd64.ddeb
+ 7ea8adb5d3c429ed802e341aa52ba1e373f6bc98518486713051a4f2b8df3ef2 26070 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.22.22.23_amd64.buildinfo
+ c56e28e08f08b13da1565feb47c672c27dd5b9a4b01df550b5036f8b3babed59 74714 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.22.22.23_amd64.deb
+Files:
+ fbe379c1634ac837499551cd8036d202 1574672 debug optional ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2024.10.22.22.23_amd64.ddeb
+ 3b4534e313dda50fec282c871ee47b3e 26070 misc optional ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.22.22.23_amd64.buildinfo
+ 336aec64579e1ceace5bf3b1ea9eb343 74714 misc optional ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2024.10.22.22.23_amd64.deb

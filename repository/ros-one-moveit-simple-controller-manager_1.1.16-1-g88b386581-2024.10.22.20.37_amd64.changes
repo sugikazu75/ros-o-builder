@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-simple-controller-manager
+Binary: ros-one-moveit-simple-controller-manager
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-1-g88b386581-2024.10.22.20.37
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-simple-controller-manager - A generic, simple controller manager plugin for MoveIt.
+Changes:
+ ros-one-moveit-simple-controller-manager (1.1.16-1-g88b386581-2024.10.22.20.37) jammy; urgency=high
+Checksums-Sha1:
+ 083e5b708b6b06afb0f82a54835a7e2ea9ce1813 2075814 ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-1-g88b386581-2024.10.22.20.37_amd64.ddeb
+ 81e99d23450e6b1b708cfb41fd685e342e6db062 22816 ros-one-moveit-simple-controller-manager_1.1.16-1-g88b386581-2024.10.22.20.37_amd64.buildinfo
+ d9741573b2c86808775a1227befa1c01d9a05ef3 165926 ros-one-moveit-simple-controller-manager_1.1.16-1-g88b386581-2024.10.22.20.37_amd64.deb
+Checksums-Sha256:
+ 9a5cbe0f6800d49e53c25ec75d2f2fe9e5d9f306e6fa914a55866d7dd5c0f17a 2075814 ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-1-g88b386581-2024.10.22.20.37_amd64.ddeb
+ cd55c1f088ffc92cebe74f38da492cfd7c84aa68f57db5873edefad82593171c 22816 ros-one-moveit-simple-controller-manager_1.1.16-1-g88b386581-2024.10.22.20.37_amd64.buildinfo
+ b60fc1b9d9bf5e07ba0a858c6ec5cb0050082f716cdbff58e87ac899bde77ee8 165926 ros-one-moveit-simple-controller-manager_1.1.16-1-g88b386581-2024.10.22.20.37_amd64.deb
+Files:
+ 7cd7ed43534086c06832d060ce8041a0 2075814 debug optional ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-1-g88b386581-2024.10.22.20.37_amd64.ddeb
+ 33b1b54734031a9f008b3e4f14184313 22816 misc optional ros-one-moveit-simple-controller-manager_1.1.16-1-g88b386581-2024.10.22.20.37_amd64.buildinfo
+ 820a12bbd1546baaf68bf1b7e0c98087 165926 misc optional ros-one-moveit-simple-controller-manager_1.1.16-1-g88b386581-2024.10.22.20.37_amd64.deb

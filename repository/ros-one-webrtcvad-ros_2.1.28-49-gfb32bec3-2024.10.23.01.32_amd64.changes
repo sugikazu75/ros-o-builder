@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-webrtcvad-ros
+Binary: ros-one-webrtcvad-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.23.01.32
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-webrtcvad-ros - This package provides a wrapper node for webrtcvad.
+Changes:
+ ros-one-webrtcvad-ros (2.1.28-49-gfb32bec3-2024.10.23.01.32) jammy; urgency=high
+Checksums-Sha1:
+ a6e9d203d1f271ef63150fce0298a4027bb23ff9 8192 ros-one-webrtcvad-ros_2.1.28-49-gfb32bec3-2024.10.23.01.32_amd64.buildinfo
+ 4ca9c4683fb3dda0b4077342244177a053998bdf 6034 ros-one-webrtcvad-ros_2.1.28-49-gfb32bec3-2024.10.23.01.32_amd64.deb
+Checksums-Sha256:
+ 707998d47fcb3af27ebc2cf610a3fb9f2fa2a555da79c86044306d78458fba9e 8192 ros-one-webrtcvad-ros_2.1.28-49-gfb32bec3-2024.10.23.01.32_amd64.buildinfo
+ 3e5d54f74047129f1b6bd62aa91dd4ca922236b0a26a14075b46a8b0963d6c3d 6034 ros-one-webrtcvad-ros_2.1.28-49-gfb32bec3-2024.10.23.01.32_amd64.deb
+Files:
+ 8425d21d039c6e9bb10bad206173ba3f 8192 misc optional ros-one-webrtcvad-ros_2.1.28-49-gfb32bec3-2024.10.23.01.32_amd64.buildinfo
+ b3469268fa820ac4089f042cf4d4826f 6034 misc optional ros-one-webrtcvad-ros_2.1.28-49-gfb32bec3-2024.10.23.01.32_amd64.deb

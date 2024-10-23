@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 21 Jul 2021 00:00:00 -0000
+Source: ros-one-roslib
+Binary: ros-one-roslib
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.15.8-3-g136e18e9-2024.10.22.14.16
+Distribution: jammy
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-roslib - Base dependencies and support libraries for ROS.
+Changes:
+ ros-one-roslib (1.15.8-3-g136e18e9-2024.10.22.14.16) jammy; urgency=high
+ .
+   * Fix spelling (#277 <https://github.com/ros/ros/issues/277>)
+   * Update maintainers (#272 <https://github.com/ros/ros/issues/272>)
+   * Contributors: Jacob Perron, freddii
+Checksums-Sha1:
+ 26f7c3ed42391b1d926ba8d0ddb29ca2eb07e2e5 249426 ros-one-roslib-dbgsym_1.15.8-3-g136e18e9-2024.10.22.14.16_amd64.ddeb
+ a0cd6db3662f6aa229bcef8b3bdeabcba21849bf 10489 ros-one-roslib_1.15.8-3-g136e18e9-2024.10.22.14.16_amd64.buildinfo
+ 530dbe732d79f53d5892888738da50e3e5280231 97014 ros-one-roslib_1.15.8-3-g136e18e9-2024.10.22.14.16_amd64.deb
+Checksums-Sha256:
+ b345d815bfcae55bef9e44d38cd4bed3b86d0197f4e439ea12f902c1c4a70e21 249426 ros-one-roslib-dbgsym_1.15.8-3-g136e18e9-2024.10.22.14.16_amd64.ddeb
+ 02703c2b3a3a279d766c3b8c9301e05b3ee5be66258dc19c2b5f643d86af0588 10489 ros-one-roslib_1.15.8-3-g136e18e9-2024.10.22.14.16_amd64.buildinfo
+ 3cf6abb30930fc31b0957a7fa8a8a3e40131a71abf9dbe1f34bec743cb3c46d7 97014 ros-one-roslib_1.15.8-3-g136e18e9-2024.10.22.14.16_amd64.deb
+Files:
+ 8c67999fa633ef06d21780bdc85c8246 249426 debug optional ros-one-roslib-dbgsym_1.15.8-3-g136e18e9-2024.10.22.14.16_amd64.ddeb
+ c8b5325fee946bbc7d837b547e47470e 10489 misc optional ros-one-roslib_1.15.8-3-g136e18e9-2024.10.22.14.16_amd64.buildinfo
+ 6d73b72b08e5e74db414b0e580d95d90 97014 misc optional ros-one-roslib_1.15.8-3-g136e18e9-2024.10.22.14.16_amd64.deb

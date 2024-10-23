@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 15 Jul 2021 00:00:00 -0000
+Source: ros-one-industrial-trajectory-filters
+Binary: ros-one-industrial-trajectory-filters
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.3-4-g2d70d15-2024.10.22.21.11
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-industrial-trajectory-filters - ROS Industrial libraries/plugins for filtering trajectories.
+Changes:
+ ros-one-industrial-trajectory-filters (0.7.3-4-g2d70d15-2024.10.22.21.11) jammy; urgency=high
+ .
+   * No changes
+Checksums-Sha1:
+ 90af54673a980a1f87180078ac29c9fa69734e00 3216424 ros-one-industrial-trajectory-filters-dbgsym_0.7.3-4-g2d70d15-2024.10.22.21.11_amd64.ddeb
+ dfb3bf9c4af5f40d81f168c68ebe4a0e08dbe19f 24128 ros-one-industrial-trajectory-filters_0.7.3-4-g2d70d15-2024.10.22.21.11_amd64.buildinfo
+ 9100bc01307ecbd3f2c4dae99420f9f0312233b7 52452 ros-one-industrial-trajectory-filters_0.7.3-4-g2d70d15-2024.10.22.21.11_amd64.deb
+Checksums-Sha256:
+ 88bd7c7b3bcceeecae9e40369c9b8dd7e6bb1800698552b68c77630a96ef9083 3216424 ros-one-industrial-trajectory-filters-dbgsym_0.7.3-4-g2d70d15-2024.10.22.21.11_amd64.ddeb
+ d840ddc3a74730962c0e56d0fd64c52434ae1d653c06aaf3679c3493d7b39932 24128 ros-one-industrial-trajectory-filters_0.7.3-4-g2d70d15-2024.10.22.21.11_amd64.buildinfo
+ 909008a9e341ea302958c558593092e8cc3c64f0bbc14967d1bbf6be2104e15e 52452 ros-one-industrial-trajectory-filters_0.7.3-4-g2d70d15-2024.10.22.21.11_amd64.deb
+Files:
+ e4e812441276b034dcba08de509b63bb 3216424 debug optional ros-one-industrial-trajectory-filters-dbgsym_0.7.3-4-g2d70d15-2024.10.22.21.11_amd64.ddeb
+ 4343c82d01cc5f8811f38baa332d3a63 24128 misc optional ros-one-industrial-trajectory-filters_0.7.3-4-g2d70d15-2024.10.22.21.11_amd64.buildinfo
+ 816f33739cad8528653d2734ff0899e9 52452 misc optional ros-one-industrial-trajectory-filters_0.7.3-4-g2d70d15-2024.10.22.21.11_amd64.deb

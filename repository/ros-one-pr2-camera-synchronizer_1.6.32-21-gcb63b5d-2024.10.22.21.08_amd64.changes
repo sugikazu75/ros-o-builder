@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 26 May 2021 00:00:00 -0000
+Source: ros-one-pr2-camera-synchronizer
+Binary: ros-one-pr2-camera-synchronizer
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.6.32-21-gcb63b5d-2024.10.22.21.08
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Feil-Seifer <dave@cse.unr.edu>
+Changed-By: Dave Feil-Seifer <dave@cse.unr.edu>
+Description:
+ ros-one-pr2-camera-synchronizer - The PR2 is equipped with a texture projector that can be used to
+Changes:
+ ros-one-pr2-camera-synchronizer (1.6.32-21-gcb63b5d-2024.10.22.21.08) jammy; urgency=high
+ .
+   * Merge pull request #268 <https://github.com/pr2/pr2_robot/issues/268> from k-okada/fix_for_noetic
+   * async is keyword in Python3.7
+   * python3 did not take tuple for lambda : https://stackoverflow.com/questions/11328312/python-lambda-does-not-accept-tuple-argument
+   * run 2to3 -w -fexcept .
+   * run 2to3 -w -fprint .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 8dd6d8aee32b1f1272130e3d657440c653222065 15736 ros-one-pr2-camera-synchronizer_1.6.32-21-gcb63b5d-2024.10.22.21.08_amd64.buildinfo
+ 3bcc4c3657660d9de255f33c12dfe3ed59f3d488 31332 ros-one-pr2-camera-synchronizer_1.6.32-21-gcb63b5d-2024.10.22.21.08_amd64.deb
+Checksums-Sha256:
+ b892e4ff1b1c55d4f29153020de2069288fd68f2479ae6ba2b407144278b8115 15736 ros-one-pr2-camera-synchronizer_1.6.32-21-gcb63b5d-2024.10.22.21.08_amd64.buildinfo
+ 448330d5bfa2b22a970c5a286d68d7beb798091c53bcde0cf93d4f5ab11782c4 31332 ros-one-pr2-camera-synchronizer_1.6.32-21-gcb63b5d-2024.10.22.21.08_amd64.deb
+Files:
+ a1a524fb9c3869cc82c2f38f410ea98d 15736 misc optional ros-one-pr2-camera-synchronizer_1.6.32-21-gcb63b5d-2024.10.22.21.08_amd64.buildinfo
+ 8a0beef3e431776e2dfb273048f17834 31332 misc optional ros-one-pr2-camera-synchronizer_1.6.32-21-gcb63b5d-2024.10.22.21.08_amd64.deb

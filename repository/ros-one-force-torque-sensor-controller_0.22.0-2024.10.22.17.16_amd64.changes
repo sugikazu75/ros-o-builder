@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 22 May 2024 00:00:00 -0000
+Source: ros-one-force-torque-sensor-controller
+Binary: ros-one-force-torque-sensor-controller
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.22.0-2024.10.22.17.16
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-force-torque-sensor-controller - Controller to publish state of force-torque sensors
+Changes:
+ ros-one-force-torque-sensor-controller (0.22.0-2024.10.22.17.16) jammy; urgency=high
+Checksums-Sha1:
+ ac68bf47156051978540e74ae20c48d369521351 543216 ros-one-force-torque-sensor-controller-dbgsym_0.22.0-2024.10.22.17.16_amd64.ddeb
+ b953e1ec06016f2aa7cbd57ce95132ae5e1592bd 15117 ros-one-force-torque-sensor-controller_0.22.0-2024.10.22.17.16_amd64.buildinfo
+ cc9c302fe6e11835f4b20f41770062b789cb7775 44224 ros-one-force-torque-sensor-controller_0.22.0-2024.10.22.17.16_amd64.deb
+Checksums-Sha256:
+ 5501f32968d83df762ebb0fb739baaf018d027f91d27e124c78f669ffe61d3f9 543216 ros-one-force-torque-sensor-controller-dbgsym_0.22.0-2024.10.22.17.16_amd64.ddeb
+ 1003e3267045181d958c7ee52ec7cf034b985379908e6a97eb25548205b37273 15117 ros-one-force-torque-sensor-controller_0.22.0-2024.10.22.17.16_amd64.buildinfo
+ d6366c6b347da7c2e1d63f455401a0fa92762266795b5efcd7011c1491941ed0 44224 ros-one-force-torque-sensor-controller_0.22.0-2024.10.22.17.16_amd64.deb
+Files:
+ be9636e3886d6b84b0f1da19a496d459 543216 debug optional ros-one-force-torque-sensor-controller-dbgsym_0.22.0-2024.10.22.17.16_amd64.ddeb
+ ab7e6899cfc630f819387b5718a15ccf 15117 misc optional ros-one-force-torque-sensor-controller_0.22.0-2024.10.22.17.16_amd64.buildinfo
+ 41a51df30622117d7f06e5e939935e57 44224 misc optional ros-one-force-torque-sensor-controller_0.22.0-2024.10.22.17.16_amd64.deb

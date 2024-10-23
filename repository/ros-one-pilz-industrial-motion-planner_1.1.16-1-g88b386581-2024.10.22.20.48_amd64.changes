@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-pilz-industrial-motion-planner
+Binary: ros-one-pilz-industrial-motion-planner
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-1-g88b386581-2024.10.22.20.48
+Distribution: jammy
+Urgency: high
+Maintainer: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Changed-By: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Description:
+ ros-one-pilz-industrial-motion-planner - MoveIt plugin to generate industrial trajectories PTP, LIN, CIRC
+Changes:
+ ros-one-pilz-industrial-motion-planner (1.1.16-1-g88b386581-2024.10.22.20.48) jammy; urgency=high
+Checksums-Sha1:
+ 5b44541764a8e9c39400e24966d9f3fa5480dd32 28820648 ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-1-g88b386581-2024.10.22.20.48_amd64.ddeb
+ 5b3e74cd4018533a136aa5cfb1d1ccc321c07842 27067 ros-one-pilz-industrial-motion-planner_1.1.16-1-g88b386581-2024.10.22.20.48_amd64.buildinfo
+ 65aead683b0d5f42705ebc1ef40cc5deeca0dfff 397808 ros-one-pilz-industrial-motion-planner_1.1.16-1-g88b386581-2024.10.22.20.48_amd64.deb
+Checksums-Sha256:
+ e7201c6522a63dac00c82e8b2ef999e3fbc4c9703581bc01b8b576027f8b4413 28820648 ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-1-g88b386581-2024.10.22.20.48_amd64.ddeb
+ 6957f16719a3bd10ec87b98c82dd3a3f2478911d77574d2278fc9e66bce3b511 27067 ros-one-pilz-industrial-motion-planner_1.1.16-1-g88b386581-2024.10.22.20.48_amd64.buildinfo
+ 817590c02dbe08a7cd187fa3de94118a8cec2200053f42a981697890ea758a9e 397808 ros-one-pilz-industrial-motion-planner_1.1.16-1-g88b386581-2024.10.22.20.48_amd64.deb
+Files:
+ 28ef14080617c43073c899505bee3bbf 28820648 debug optional ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-1-g88b386581-2024.10.22.20.48_amd64.ddeb
+ 7ad064367f7c4ba8e20d4dec273a3e44 27067 misc optional ros-one-pilz-industrial-motion-planner_1.1.16-1-g88b386581-2024.10.22.20.48_amd64.buildinfo
+ 67c16f5e8bf70d974ab83ff2268376c3 397808 misc optional ros-one-pilz-industrial-motion-planner_1.1.16-1-g88b386581-2024.10.22.20.48_amd64.deb

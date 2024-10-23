@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-julius-ros
+Binary: ros-one-julius-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.22.23.59
+Distribution: jammy
+Urgency: high
+Maintainer: Yuki Furuta <furushchev@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Yuki Furuta <furushchev@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-julius-ros - The julius_ros package
+Changes:
+ ros-one-julius-ros (2.1.28-49-gfb32bec3-2024.10.22.23.59) jammy; urgency=high
+Checksums-Sha1:
+ 9e0f23638cf1cba82c4bc04710878d784b7a8b72 8180 ros-one-julius-ros_2.1.28-49-gfb32bec3-2024.10.22.23.59_amd64.buildinfo
+ 7ac16462e7e6722a0e2432dd48ca926c4247fa31 23798 ros-one-julius-ros_2.1.28-49-gfb32bec3-2024.10.22.23.59_amd64.deb
+Checksums-Sha256:
+ 0bf0e10e7c7de37f2da79716ed09e54bd5cbd6523764497107c49496b41e73ce 8180 ros-one-julius-ros_2.1.28-49-gfb32bec3-2024.10.22.23.59_amd64.buildinfo
+ fe489958b63e6b6bcc66ce65decbb37bcdd0e44974acc1386ade4bcc77c06ed1 23798 ros-one-julius-ros_2.1.28-49-gfb32bec3-2024.10.22.23.59_amd64.deb
+Files:
+ d34fe3dbe7c4d92eaf62a4e94d47da26 8180 misc optional ros-one-julius-ros_2.1.28-49-gfb32bec3-2024.10.22.23.59_amd64.buildinfo
+ 7e22c136416a7f2807df63f5077242de 23798 misc optional ros-one-julius-ros_2.1.28-49-gfb32bec3-2024.10.22.23.59_amd64.deb

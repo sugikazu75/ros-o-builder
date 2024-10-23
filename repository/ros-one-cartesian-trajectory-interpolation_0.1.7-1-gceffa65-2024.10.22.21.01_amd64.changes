@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 29 Jul 2024 00:00:00 -0000
+Source: ros-one-cartesian-trajectory-interpolation
+Binary: ros-one-cartesian-trajectory-interpolation
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.7-1-gceffa65-2024.10.22.21.01
+Distribution: jammy
+Urgency: high
+Maintainer: Stefan Scherzinger <scherzin@fzi.de>
+Changed-By: Stefan Scherzinger <scherzin@fzi.de>
+Description:
+ ros-one-cartesian-trajectory-interpolation - Cartesian trajectory interpolation as a standalone library
+Changes:
+ ros-one-cartesian-trajectory-interpolation (0.1.7-1-gceffa65-2024.10.22.21.01) jammy; urgency=high
+Checksums-Sha1:
+ 7b2380f8d36a44d5de8e8dc7984a7a0e6738f518 872604 ros-one-cartesian-trajectory-interpolation-dbgsym_0.1.7-1-gceffa65-2024.10.22.21.01_amd64.ddeb
+ c6a521c01032fca020bd870fe22dfcadd3cc5ca4 22627 ros-one-cartesian-trajectory-interpolation_0.1.7-1-gceffa65-2024.10.22.21.01_amd64.buildinfo
+ dd3e40f38b00b500ab0aea27acb2873af64c378c 25638 ros-one-cartesian-trajectory-interpolation_0.1.7-1-gceffa65-2024.10.22.21.01_amd64.deb
+Checksums-Sha256:
+ e7dac5675e4f8c801018eab6195fa327f3f68efe05f5dbda0eef9d578203e526 872604 ros-one-cartesian-trajectory-interpolation-dbgsym_0.1.7-1-gceffa65-2024.10.22.21.01_amd64.ddeb
+ b2c5fe37c6e6f50c554574e618c9afa100fddea0079057e57fc2d3b2b673e0fd 22627 ros-one-cartesian-trajectory-interpolation_0.1.7-1-gceffa65-2024.10.22.21.01_amd64.buildinfo
+ 40b937c1b86a623cdad5c04dd7cbd18d370df9e2fc344cad6b8ae9c96a2b6e3e 25638 ros-one-cartesian-trajectory-interpolation_0.1.7-1-gceffa65-2024.10.22.21.01_amd64.deb
+Files:
+ d2436b91f588c40d10720d88a64d3c8e 872604 debug optional ros-one-cartesian-trajectory-interpolation-dbgsym_0.1.7-1-gceffa65-2024.10.22.21.01_amd64.ddeb
+ ffb86b2323e39a658e2821bdc4701a69 22627 misc optional ros-one-cartesian-trajectory-interpolation_0.1.7-1-gceffa65-2024.10.22.21.01_amd64.buildinfo
+ c552c93c2f039642fe5805abb9426b41 25638 misc optional ros-one-cartesian-trajectory-interpolation_0.1.7-1-gceffa65-2024.10.22.21.01_amd64.deb

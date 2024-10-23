@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-ros-google-cloud-language
+Binary: ros-one-ros-google-cloud-language
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.23.00.51
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-ros-google-cloud-language - ros clinet library for google cloud language
+Changes:
+ ros-one-ros-google-cloud-language (2.1.28-49-gfb32bec3-2024.10.23.00.51) jammy; urgency=high
+Checksums-Sha1:
+ 2e021870ccab533297ea0a616f0460ec138aa81e 506148 ros-one-ros-google-cloud-language-dbgsym_2.1.28-49-gfb32bec3-2024.10.23.00.51_amd64.ddeb
+ 36564626470f2b3d0a6d103e212626b45a067288 12335 ros-one-ros-google-cloud-language_2.1.28-49-gfb32bec3-2024.10.23.00.51_amd64.buildinfo
+ 9e7a7478cc7c40167fa71a94663a3d5b04328a9e 6919500 ros-one-ros-google-cloud-language_2.1.28-49-gfb32bec3-2024.10.23.00.51_amd64.deb
+Checksums-Sha256:
+ 5f0dec962cd1dd504dc35d10655f781b227b57f1d00c53d6f3c16d889dc112c8 506148 ros-one-ros-google-cloud-language-dbgsym_2.1.28-49-gfb32bec3-2024.10.23.00.51_amd64.ddeb
+ 8f5bd19126459408b98d4a41dd090f3907564f315ec4da77443bd0296c94880e 12335 ros-one-ros-google-cloud-language_2.1.28-49-gfb32bec3-2024.10.23.00.51_amd64.buildinfo
+ c25319d4cabd8b63b9bb4bae1d3e4206350d15b7465218c2ebd4be9d6053aeef 6919500 ros-one-ros-google-cloud-language_2.1.28-49-gfb32bec3-2024.10.23.00.51_amd64.deb
+Files:
+ c31a13bf24616490e1ce936251eae1e7 506148 debug optional ros-one-ros-google-cloud-language-dbgsym_2.1.28-49-gfb32bec3-2024.10.23.00.51_amd64.ddeb
+ 713d762ed9090524a732130862829211 12335 misc optional ros-one-ros-google-cloud-language_2.1.28-49-gfb32bec3-2024.10.23.00.51_amd64.buildinfo
+ 1e185fc992336c2c8e46630fcd887e3c 6919500 misc optional ros-one-ros-google-cloud-language_2.1.28-49-gfb32bec3-2024.10.23.00.51_amd64.deb

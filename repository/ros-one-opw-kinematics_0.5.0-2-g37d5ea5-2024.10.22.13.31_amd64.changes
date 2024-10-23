@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 05 Jul 2022 00:00:00 -0000
+Source: ros-one-opw-kinematics
+Binary: ros-one-opw-kinematics
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.0-2-g37d5ea5-2024.10.22.13.31
+Distribution: jammy
+Urgency: high
+Maintainer: Jon Meyer <jmeyer@swri.org>
+Changed-By: Jon Meyer <jmeyer@swri.org>
+Description:
+ ros-one-opw-kinematics - A simple, analytical inverse kinematic library for industrial rob
+Changes:
+ ros-one-opw-kinematics (0.5.0-2-g37d5ea5-2024.10.22.13.31) jammy; urgency=high
+ .
+   * remove xenial CI build
+   * Update to ros_industrial_cmake_boilerplate 0.3.0
+   * Contributors: Levi Armstrong
+Checksums-Sha1:
+ cf7b45e224fc0674f4ca44b5e4552cc0db1104a0 7156 ros-one-opw-kinematics_0.5.0-2-g37d5ea5-2024.10.22.13.31_amd64.buildinfo
+ 3ffa129a3cc3aa633b8cd6ae420569ac622c75aa 14038 ros-one-opw-kinematics_0.5.0-2-g37d5ea5-2024.10.22.13.31_amd64.deb
+Checksums-Sha256:
+ 5efec7c38868a452f13e1886e3e7b8db71e74250e4ad40f4988d36b930d0e7cc 7156 ros-one-opw-kinematics_0.5.0-2-g37d5ea5-2024.10.22.13.31_amd64.buildinfo
+ bb005e164dc71a7736e32826a66a1f0e6aa46a804bfce7511a1f8a300f9ade5b 14038 ros-one-opw-kinematics_0.5.0-2-g37d5ea5-2024.10.22.13.31_amd64.deb
+Files:
+ 750d2805fa22bdddb168783943f44f1e 7156 misc optional ros-one-opw-kinematics_0.5.0-2-g37d5ea5-2024.10.22.13.31_amd64.buildinfo
+ 888b6be25b180429cd14fe13ef12da51 14038 misc optional ros-one-opw-kinematics_0.5.0-2-g37d5ea5-2024.10.22.13.31_amd64.deb

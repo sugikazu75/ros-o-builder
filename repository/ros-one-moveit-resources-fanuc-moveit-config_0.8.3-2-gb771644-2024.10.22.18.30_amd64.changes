@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 10 Nov 2023 00:00:00 -0000
+Source: ros-one-moveit-resources-fanuc-moveit-config
+Binary: ros-one-moveit-resources-fanuc-moveit-config
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.8.3-2-gb771644-2024.10.22.18.30
+Distribution: jammy
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-one-moveit-resources-fanuc-moveit-config - MoveIt Resources for testing: Fanuc M-10iA.
+Changes:
+ ros-one-moveit-resources-fanuc-moveit-config (0.8.3-2-gb771644-2024.10.22.18.30) jammy; urgency=high
+ .
+   * Add ResolveConstraintFrames to all planning pipelines
+   * Contributors: Robert Haschke
+Checksums-Sha1:
+ 77439a8952c622603678898491ef081992c69e96 8298 ros-one-moveit-resources-fanuc-moveit-config_0.8.3-2-gb771644-2024.10.22.18.30_amd64.buildinfo
+ 7b58c18f3ca911d5c035eed925848f6ed0e8bbf8 17894 ros-one-moveit-resources-fanuc-moveit-config_0.8.3-2-gb771644-2024.10.22.18.30_amd64.deb
+Checksums-Sha256:
+ c9f0db3b69c51143a90461e9e130a079d42850df7245299d6290ce01eb265624 8298 ros-one-moveit-resources-fanuc-moveit-config_0.8.3-2-gb771644-2024.10.22.18.30_amd64.buildinfo
+ 2aed665709891e776b1ab95565e786e431951bd8248fbf891282c38d64d7f242 17894 ros-one-moveit-resources-fanuc-moveit-config_0.8.3-2-gb771644-2024.10.22.18.30_amd64.deb
+Files:
+ e8049aaba7921136ffcd3f1d281009b0 8298 misc optional ros-one-moveit-resources-fanuc-moveit-config_0.8.3-2-gb771644-2024.10.22.18.30_amd64.buildinfo
+ 0c3f33cf2d0567eef9954ae79d6e3462 17894 misc optional ros-one-moveit-resources-fanuc-moveit-config_0.8.3-2-gb771644-2024.10.22.18.30_amd64.deb

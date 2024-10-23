@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 23 Jul 2024 00:00:00 -0000
+Source: ros-one-qb-hand-description
+Binary: ros-one-qb-hand-description
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2024.10.22.21.13
+Distribution: jammy
+Urgency: high
+Maintainer: Alessandro Tondo <alessandro.tondo@qbrobotics.com>
+Changed-By: Alessandro Tondo <alessandro.tondo@qbrobotics.com>
+Description:
+ ros-one-qb-hand-description - This package contains the ROS description for qbrobotics® qbhand
+Changes:
+ ros-one-qb-hand-description (0-2024.10.22.21.13) jammy; urgency=high
+Checksums-Sha1:
+ 7cf934201c08a77b4c5120180d9e134fde2377df 8156 ros-one-qb-hand-description_0-2024.10.22.21.13_amd64.buildinfo
+ 8e649409964d7fbd0fa1d7f4d9060bf3128ca018 467002 ros-one-qb-hand-description_0-2024.10.22.21.13_amd64.deb
+Checksums-Sha256:
+ 579a76e76ddf2e1006f4cbc28050a8579b04497fd341308338400337057df73d 8156 ros-one-qb-hand-description_0-2024.10.22.21.13_amd64.buildinfo
+ 794d0c7eff3dc909cf30e8422bfa2a728afa24093356eb42f8ff69217640e310 467002 ros-one-qb-hand-description_0-2024.10.22.21.13_amd64.deb
+Files:
+ e265baf3e33c52bdb797c83cf366ecda 8156 misc optional ros-one-qb-hand-description_0-2024.10.22.21.13_amd64.buildinfo
+ 858e73b46d9a2e31a535acc9d67600cd 467002 misc optional ros-one-qb-hand-description_0-2024.10.22.21.13_amd64.deb

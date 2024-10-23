@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 06 Mar 2023 00:00:00 -0000
+Source: ros-one-moveit-task-constructor-visualization
+Binary: ros-one-moveit-task-constructor-visualization
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1-0.1.3-104-g1acf72e-2024.10.22.21.30
+Distribution: jammy
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-moveit-task-constructor-visualization - Visualization tools for MoveIt Task Pipeline
+Changes:
+ ros-one-moveit-task-constructor-visualization (1-0.1.3-104-g1acf72e-2024.10.22.21.30) jammy; urgency=high
+Checksums-Sha1:
+ 2767ca3330d7a6380ba90d8290d2bc2f0a8ec3e0 13539810 ros-one-moveit-task-constructor-visualization-dbgsym_1-0.1.3-104-g1acf72e-2024.10.22.21.30_amd64.ddeb
+ 4845708e09cdaa86aa0a0f0bfc796ae4d367dcd6 41060 ros-one-moveit-task-constructor-visualization_1-0.1.3-104-g1acf72e-2024.10.22.21.30_amd64.buildinfo
+ 342637ade9223376a869bda2177876d11067a377 381452 ros-one-moveit-task-constructor-visualization_1-0.1.3-104-g1acf72e-2024.10.22.21.30_amd64.deb
+Checksums-Sha256:
+ ec211e8bed278aa81eae283d19c04789e8422934d3e90977fcba2e07b9735e3b 13539810 ros-one-moveit-task-constructor-visualization-dbgsym_1-0.1.3-104-g1acf72e-2024.10.22.21.30_amd64.ddeb
+ a8dbf612b702faaf7305bfa23af4b67e7fa66ebe79aa728d7a1b783eb3fd72aa 41060 ros-one-moveit-task-constructor-visualization_1-0.1.3-104-g1acf72e-2024.10.22.21.30_amd64.buildinfo
+ a66fc8aa7d159f443aa096afacf909d1f26fc8479561c333451c8ad4fbedc0ea 381452 ros-one-moveit-task-constructor-visualization_1-0.1.3-104-g1acf72e-2024.10.22.21.30_amd64.deb
+Files:
+ 622e99459d1c2edc7ab49c21f86fdbff 13539810 debug optional ros-one-moveit-task-constructor-visualization-dbgsym_1-0.1.3-104-g1acf72e-2024.10.22.21.30_amd64.ddeb
+ 9ef9d7c893dcbc2b0ab22daa5042aa88 41060 misc optional ros-one-moveit-task-constructor-visualization_1-0.1.3-104-g1acf72e-2024.10.22.21.30_amd64.buildinfo
+ d5c0445dd2698c64df4a6c059dd0b9dc 381452 misc optional ros-one-moveit-task-constructor-visualization_1-0.1.3-104-g1acf72e-2024.10.22.21.30_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 10 Nov 2023 00:00:00 -0000
+Source: ros-one-moveit-resources
+Binary: ros-one-moveit-resources
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.8.3-2-gb771644-2024.10.22.18.21
+Distribution: jammy
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-one-moveit-resources - Resources used for MoveIt! testing
+Changes:
+ ros-one-moveit-resources (0.8.3-2-gb771644-2024.10.22.18.21) jammy; urgency=high
+Checksums-Sha1:
+ 6506cd4b684510b6280b1681aa9a6efbd6b01f5d 8195 ros-one-moveit-resources_0.8.3-2-gb771644-2024.10.22.18.21_amd64.buildinfo
+ 8fe6671259a01c47ccc3630b7c2469210b63014b 3278 ros-one-moveit-resources_0.8.3-2-gb771644-2024.10.22.18.21_amd64.deb
+Checksums-Sha256:
+ f99a584917763eabf56eb4b0d4d5393aee61cd89a218b6d43a1aa9ad50f77939 8195 ros-one-moveit-resources_0.8.3-2-gb771644-2024.10.22.18.21_amd64.buildinfo
+ c3b0a59ac565355c668b6d87ce2615d8813bbd58ffa0fd1aa0cafa448ef8c5c4 3278 ros-one-moveit-resources_0.8.3-2-gb771644-2024.10.22.18.21_amd64.deb
+Files:
+ 059de03d9dab038f2d587bed027cb529 8195 misc optional ros-one-moveit-resources_0.8.3-2-gb771644-2024.10.22.18.21_amd64.buildinfo
+ 47a6c0dae199c912a5c2c8e03243cef8 3278 misc optional ros-one-moveit-resources_0.8.3-2-gb771644-2024.10.22.18.21_amd64.deb

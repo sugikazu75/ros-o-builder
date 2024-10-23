@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 24 Jul 2023 00:00:00 -0000
+Source: ros-one-google-cloud-texttospeech
+Binary: ros-one-google-cloud-texttospeech
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.28-49-gfb32bec3-2024.10.22.23.38
+Distribution: jammy
+Urgency: high
+Maintainer: Shingo Kitagawa <shingogo.5511@gmail.com>
+Changed-By: Shingo Kitagawa <shingogo.5511@gmail.com>
+Description:
+ ros-one-google-cloud-texttospeech - The google_cloud_texttospeech package
+Changes:
+ ros-one-google-cloud-texttospeech (2.1.28-49-gfb32bec3-2024.10.22.23.38) jammy; urgency=high
+Checksums-Sha1:
+ b5ce78e0715fed8dc24a71b55f5cef8157d606c9 8255 ros-one-google-cloud-texttospeech_2.1.28-49-gfb32bec3-2024.10.22.23.38_amd64.buildinfo
+ 65b0c8044c71030fa2c72cdd64723b08d83ecf81 10470 ros-one-google-cloud-texttospeech_2.1.28-49-gfb32bec3-2024.10.22.23.38_amd64.deb
+Checksums-Sha256:
+ b12f24a89d8e3a38e9bf402739c0b88c5aadfe0b2d59c292cd74e696773250f8 8255 ros-one-google-cloud-texttospeech_2.1.28-49-gfb32bec3-2024.10.22.23.38_amd64.buildinfo
+ b36363555d0c53d7fc26d338bec50d66bb2b25b74377c6caa5f79e7e1701711a 10470 ros-one-google-cloud-texttospeech_2.1.28-49-gfb32bec3-2024.10.22.23.38_amd64.deb
+Files:
+ 18b002605900e510d801d7372f26dcd2 8255 misc optional ros-one-google-cloud-texttospeech_2.1.28-49-gfb32bec3-2024.10.22.23.38_amd64.buildinfo
+ e944f9312e6f60ac2da42d6e6641955f 10470 misc optional ros-one-google-cloud-texttospeech_2.1.28-49-gfb32bec3-2024.10.22.23.38_amd64.deb

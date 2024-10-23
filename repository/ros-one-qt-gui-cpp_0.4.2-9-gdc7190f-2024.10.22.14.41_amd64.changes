@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 24 Jul 2020 00:00:00 -0000
+Source: ros-one-qt-gui-cpp
+Binary: ros-one-qt-gui-cpp
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.4.2-9-gdc7190f-2024.10.22.14.41
+Distribution: jammy
+Urgency: high
+Maintainer: Scott Logan <cottsay@openrobotics.org>
+Changed-By: Scott Logan <cottsay@openrobotics.org>
+Description:
+ ros-one-qt-gui-cpp - qt_gui_cpp provides the foundation for C++-bindings for qt_gui an
+Changes:
+ ros-one-qt-gui-cpp (0.4.2-9-gdc7190f-2024.10.22.14.41) jammy; urgency=high
+ .
+   * quiet upstream Qt5 warnings (#210 <https://github.com/ros-visualization/qt_gui_core/issues/210>) (#229 <https://github.com/ros-visualization/qt_gui_core/issues/229>)
+   * declare private assignment operator for SIP (#226 <https://github.com/ros-visualization/qt_gui_core/issues/226>)
+Checksums-Sha1:
+ 100cbaa230988aa7b388b739e61c5e394d511d49 10595752 ros-one-qt-gui-cpp-dbgsym_0.4.2-9-gdc7190f-2024.10.22.14.41_amd64.ddeb
+ fa50a8681eed5ab8df5600da6a2f7083f042e0e6 18598 ros-one-qt-gui-cpp_0.4.2-9-gdc7190f-2024.10.22.14.41_amd64.buildinfo
+ 9dcb8aac853ad3226ea1e0fa8103b489216a3c37 284492 ros-one-qt-gui-cpp_0.4.2-9-gdc7190f-2024.10.22.14.41_amd64.deb
+Checksums-Sha256:
+ fc0984bf7d5a6016f0d39abf2827b93f621da5f37db0f6a1cb8cedc0cdfb1247 10595752 ros-one-qt-gui-cpp-dbgsym_0.4.2-9-gdc7190f-2024.10.22.14.41_amd64.ddeb
+ 66fcaeca1e982bfc1f311a8ab2a69f29cb8dc4415e9c02c4bd480c96f8c54138 18598 ros-one-qt-gui-cpp_0.4.2-9-gdc7190f-2024.10.22.14.41_amd64.buildinfo
+ 6b6e1b62f645b032a1c024360f2824fee0d2f545e3cb8aa1bf000c48f9d5635e 284492 ros-one-qt-gui-cpp_0.4.2-9-gdc7190f-2024.10.22.14.41_amd64.deb
+Files:
+ d064178166d7db03433932ca5adaab84 10595752 debug optional ros-one-qt-gui-cpp-dbgsym_0.4.2-9-gdc7190f-2024.10.22.14.41_amd64.ddeb
+ 95d85d6893664f9dba86c7772355e6a9 18598 misc optional ros-one-qt-gui-cpp_0.4.2-9-gdc7190f-2024.10.22.14.41_amd64.buildinfo
+ b0af01de939e1f65f3b3596db7df14f7 284492 misc optional ros-one-qt-gui-cpp_0.4.2-9-gdc7190f-2024.10.22.14.41_amd64.deb

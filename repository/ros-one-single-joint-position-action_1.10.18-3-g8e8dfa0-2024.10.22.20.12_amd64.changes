@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-single-joint-position-action
+Binary: ros-one-single-joint-position-action
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2024.10.22.20.12
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-single-joint-position-action - The single joint position action is a node that provides an actio
+Changes:
+ ros-one-single-joint-position-action (1.10.18-3-g8e8dfa0-2024.10.22.20.12) jammy; urgency=high
+Checksums-Sha1:
+ a98867138319dd5f348222e32ccd301173383124 933740 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2024.10.22.20.12_amd64.ddeb
+ 6b65d34ba2cd1ff97282b3966517aebe1c18be68 13911 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2024.10.22.20.12_amd64.buildinfo
+ c492c18ffbb650b27f468f5575481dfa351c2ffb 82654 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2024.10.22.20.12_amd64.deb
+Checksums-Sha256:
+ 16e5aace112ae53e151be98597a41570b7ac42c3b64b2375b5aeadc219710835 933740 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2024.10.22.20.12_amd64.ddeb
+ 17a1ac60067f39bccea7e5fd4d84901a5613cbdf17081c5093dae7ea864e2d9c 13911 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2024.10.22.20.12_amd64.buildinfo
+ a4613229b33a0a2d49db21dc196becd54d74dde2f33744542f3117b92fc8a726 82654 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2024.10.22.20.12_amd64.deb
+Files:
+ b6c03f9860fb53cc86ca464dcc715bfe 933740 debug optional ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2024.10.22.20.12_amd64.ddeb
+ b78e3a2da643763dd5812341b03144ee 13911 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2024.10.22.20.12_amd64.buildinfo
+ 81a40f2b85b93b726405d05304fed957 82654 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2024.10.22.20.12_amd64.deb

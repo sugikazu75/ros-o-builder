@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 06 Mar 2023 00:00:00 -0000
+Source: ros-one-moveit-task-constructor-capabilities
+Binary: ros-one-moveit-task-constructor-capabilities
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1-0.1.3-104-g1acf72e-2024.10.22.21.22
+Distribution: jammy
+Urgency: high
+Maintainer: Michael v4hn Goerner <me@v4hn.de>
+Changed-By: Michael v4hn Goerner <me@v4hn.de>
+Description:
+ ros-one-moveit-task-constructor-capabilities - MoveGroupCapabilites to interact with MoveIt
+Changes:
+ ros-one-moveit-task-constructor-capabilities (1-0.1.3-104-g1acf72e-2024.10.22.21.22) jammy; urgency=high
+Checksums-Sha1:
+ 4fcd4b016c2c49f437f0597c8661983411a74b1e 3292598 ros-one-moveit-task-constructor-capabilities-dbgsym_1-0.1.3-104-g1acf72e-2024.10.22.21.22_amd64.ddeb
+ 24a7ead46b377bafd2ca3e705bea27d5729fc298 27337 ros-one-moveit-task-constructor-capabilities_1-0.1.3-104-g1acf72e-2024.10.22.21.22_amd64.buildinfo
+ 5ac5e4a70dccbc87170991cd6fdc6ffa0b6ddd8b 116560 ros-one-moveit-task-constructor-capabilities_1-0.1.3-104-g1acf72e-2024.10.22.21.22_amd64.deb
+Checksums-Sha256:
+ 98cbb94efb5caa6313498e3bac9c6ff106db81f5b5a9b5f5b020cd3e073ff7aa 3292598 ros-one-moveit-task-constructor-capabilities-dbgsym_1-0.1.3-104-g1acf72e-2024.10.22.21.22_amd64.ddeb
+ 69b1d78d359daf8d8581fda59c888ff1fc3e3b716fa2e26b14d97742d9bdf414 27337 ros-one-moveit-task-constructor-capabilities_1-0.1.3-104-g1acf72e-2024.10.22.21.22_amd64.buildinfo
+ 7f0ab969366f8861dfb802b4e7aa08cd97962d38932482d080b08d806f343302 116560 ros-one-moveit-task-constructor-capabilities_1-0.1.3-104-g1acf72e-2024.10.22.21.22_amd64.deb
+Files:
+ 91df8e44c75206cf114d276a5cc84dd1 3292598 debug optional ros-one-moveit-task-constructor-capabilities-dbgsym_1-0.1.3-104-g1acf72e-2024.10.22.21.22_amd64.ddeb
+ 28bcbd2610db032ad0aa4a9e1f48bcb9 27337 misc optional ros-one-moveit-task-constructor-capabilities_1-0.1.3-104-g1acf72e-2024.10.22.21.22_amd64.buildinfo
+ e290f9f3e47e23562048ef7722707f55 116560 misc optional ros-one-moveit-task-constructor-capabilities_1-0.1.3-104-g1acf72e-2024.10.22.21.22_amd64.deb

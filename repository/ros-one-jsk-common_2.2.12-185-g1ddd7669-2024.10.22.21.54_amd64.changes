@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 07 Jun 2022 00:00:00 -0000
+Source: ros-one-jsk-common
+Binary: ros-one-jsk-common
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.2.12-185-g1ddd7669-2024.10.22.21.54
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-common - Metapackage that contains commonly used toolset for jsk-ros-pkg
+Changes:
+ ros-one-jsk-common (2.2.12-185-g1ddd7669-2024.10.22.21.54) jammy; urgency=high
+ .
+   * add audio_video_recorder in jsk_common (#1672 <https://github.com/jsk-ros-pkg/jsk_common/issues/1672>)
+   * Contributors: Shingo Kitagawa
+Checksums-Sha1:
+ 42773fbbac1dc6926224943f4812b18933a0b7f9 8181 ros-one-jsk-common_2.2.12-185-g1ddd7669-2024.10.22.21.54_amd64.buildinfo
+ 1d56e119dc43e0625c9e91c4b6f51c309764d388 3024 ros-one-jsk-common_2.2.12-185-g1ddd7669-2024.10.22.21.54_amd64.deb
+Checksums-Sha256:
+ 1c7508c5b664459d671aa4dfb76ad2fbccdd87e870dfff33a445692235b231cf 8181 ros-one-jsk-common_2.2.12-185-g1ddd7669-2024.10.22.21.54_amd64.buildinfo
+ a22647ba06d5fce0f125d95c6ea9cc8a52465a9ea8b8d2b56d7a2a87f776c143 3024 ros-one-jsk-common_2.2.12-185-g1ddd7669-2024.10.22.21.54_amd64.deb
+Files:
+ 28c9b85971b58921bbc577ce9c4edafe 8181 misc optional ros-one-jsk-common_2.2.12-185-g1ddd7669-2024.10.22.21.54_amd64.buildinfo
+ 43fc367d9fabe469798eafc881807054 3024 misc optional ros-one-jsk-common_2.2.12-185-g1ddd7669-2024.10.22.21.54_amd64.deb

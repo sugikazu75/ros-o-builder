@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-planning-interface
+Binary: ros-one-moveit-ros-planning-interface
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-1-g88b386581-2024.10.22.20.05
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-planning-interface - Components of MoveIt that offer simpler interfaces to planning an
+Changes:
+ ros-one-moveit-ros-planning-interface (1.1.16-1-g88b386581-2024.10.22.20.05) jammy; urgency=high
+Checksums-Sha1:
+ fecde8838710ff2921b0d7de1ee3e13837a4f7a8 16831944 ros-one-moveit-ros-planning-interface-dbgsym_1.1.16-1-g88b386581-2024.10.22.20.05_amd64.ddeb
+ 05a88d8355b8697cc1659a7bac572e04b859f8fa 26837 ros-one-moveit-ros-planning-interface_1.1.16-1-g88b386581-2024.10.22.20.05_amd64.buildinfo
+ e402854986e74429a0169b6704b034a43004bd73 549838 ros-one-moveit-ros-planning-interface_1.1.16-1-g88b386581-2024.10.22.20.05_amd64.deb
+Checksums-Sha256:
+ 7b54c4703aa655a7beac10ef460fd54fb3d53caa1df01a5c2fb34ec49a9989bb 16831944 ros-one-moveit-ros-planning-interface-dbgsym_1.1.16-1-g88b386581-2024.10.22.20.05_amd64.ddeb
+ 771aa3c65fed759fa4475107cfd037618c3fb05ff8e91b286948c46ad9d8baef 26837 ros-one-moveit-ros-planning-interface_1.1.16-1-g88b386581-2024.10.22.20.05_amd64.buildinfo
+ 0f5f0f606af1113ad8c60caec574dd11e2290072b553e3821e9f487774167a1d 549838 ros-one-moveit-ros-planning-interface_1.1.16-1-g88b386581-2024.10.22.20.05_amd64.deb
+Files:
+ 34d5efe6edbf7e26e19a2518389ff886 16831944 debug optional ros-one-moveit-ros-planning-interface-dbgsym_1.1.16-1-g88b386581-2024.10.22.20.05_amd64.ddeb
+ 9bfa5de1a46957b23444bcf937239deb 26837 misc optional ros-one-moveit-ros-planning-interface_1.1.16-1-g88b386581-2024.10.22.20.05_amd64.buildinfo
+ af00f0e77ff1008fa6a64df9bcf26150 549838 misc optional ros-one-moveit-ros-planning-interface_1.1.16-1-g88b386581-2024.10.22.20.05_amd64.deb

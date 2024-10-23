@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 22 May 2024 00:00:00 -0000
+Source: ros-one-effort-controllers
+Binary: ros-one-effort-controllers
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.22.0-2024.10.22.17.33
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-effort-controllers - effort_controllers
+Changes:
+ ros-one-effort-controllers (0.22.0-2024.10.22.17.33) jammy; urgency=high
+Checksums-Sha1:
+ 6bafc44b348a060242ccb511407931393dfc2039 1891300 ros-one-effort-controllers-dbgsym_0.22.0-2024.10.22.17.33_amd64.ddeb
+ 289a1e1c168a2612b1c01dbfa4aad0869e198c6f 17227 ros-one-effort-controllers_0.22.0-2024.10.22.17.33_amd64.buildinfo
+ f137a24db213d46fecdd9f0256884f8d96aede8c 73688 ros-one-effort-controllers_0.22.0-2024.10.22.17.33_amd64.deb
+Checksums-Sha256:
+ 7b17ca722343417da64521e74d377d001bcc0f3af6f5d57ff7e4c8613d7c34e0 1891300 ros-one-effort-controllers-dbgsym_0.22.0-2024.10.22.17.33_amd64.ddeb
+ f926c9250f2765f91d377058b7f4eebf7c5a524e03f8413af2b6386b9c67027c 17227 ros-one-effort-controllers_0.22.0-2024.10.22.17.33_amd64.buildinfo
+ 190426ef6b8d5101c35d7f36edf5eec90c5b1b1cf5cb2f5b549e4bc39774ea0f 73688 ros-one-effort-controllers_0.22.0-2024.10.22.17.33_amd64.deb
+Files:
+ e19353a645f702f06ee9fbdd43d45b19 1891300 debug optional ros-one-effort-controllers-dbgsym_0.22.0-2024.10.22.17.33_amd64.ddeb
+ 13f5efe3cbd3eab40b352c47cdf28cbc 17227 misc optional ros-one-effort-controllers_0.22.0-2024.10.22.17.33_amd64.buildinfo
+ e10475b8a42617f5c134c20d02cd5d95 73688 misc optional ros-one-effort-controllers_0.22.0-2024.10.22.17.33_amd64.deb

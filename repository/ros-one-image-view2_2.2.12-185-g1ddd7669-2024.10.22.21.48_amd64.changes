@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 07 Jun 2022 00:00:00 -0000
+Source: ros-one-image-view2
+Binary: ros-one-image-view2
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.2.12-185-g1ddd7669-2024.10.22.21.48
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-image-view2 - A simple viewer for ROS image topics with draw-on features
+Changes:
+ ros-one-image-view2 (2.2.12-185-g1ddd7669-2024.10.22.21.48) jammy; urgency=high
+ .
+   * set ccache prefix only for cmake <= 3.4 (#1694 <https://github.com/jsk-ros-pkg/jsk_common/issues/1694>)
+   * Contributors: Yuki Furuta
+Checksums-Sha1:
+ 38314b379cd7d155283efbaf7fc1aede91a19d03 4111080 ros-one-image-view2-dbgsym_2.2.12-185-g1ddd7669-2024.10.22.21.48_amd64.ddeb
+ ff656b13a8f9720bed40ff9db3fc9f8e67441740 42284 ros-one-image-view2_2.2.12-185-g1ddd7669-2024.10.22.21.48_amd64.buildinfo
+ 0e22049ca55f3c87ec7b4a226e767739ecec0cc6 281810 ros-one-image-view2_2.2.12-185-g1ddd7669-2024.10.22.21.48_amd64.deb
+Checksums-Sha256:
+ 736abacc7c61b4fcf2cba357684479cfc111e3bec9beb6ac62a9e0674b8d3ad6 4111080 ros-one-image-view2-dbgsym_2.2.12-185-g1ddd7669-2024.10.22.21.48_amd64.ddeb
+ 5d1af18f75abbed1ae46833dba8a3ab390e155a73126eaac04d12fe731c4532d 42284 ros-one-image-view2_2.2.12-185-g1ddd7669-2024.10.22.21.48_amd64.buildinfo
+ bfb9f737bbea4f81b9fd442068aae8fda93c2e29dfde5ed0c25b27ceabee240f 281810 ros-one-image-view2_2.2.12-185-g1ddd7669-2024.10.22.21.48_amd64.deb
+Files:
+ 936a18516b9afc9e89038ca7f94315aa 4111080 debug optional ros-one-image-view2-dbgsym_2.2.12-185-g1ddd7669-2024.10.22.21.48_amd64.ddeb
+ b6b4f369aff6a792a2a51ae58e559223 42284 misc optional ros-one-image-view2_2.2.12-185-g1ddd7669-2024.10.22.21.48_amd64.buildinfo
+ 477c7f559915787698d0b216e46c21f7 281810 misc optional ros-one-image-view2_2.2.12-185-g1ddd7669-2024.10.22.21.48_amd64.deb

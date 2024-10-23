@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Thu, 23 Apr 2020 00:00:00 -0000
+Source: ros-one-octomap-ros
+Binary: ros-one-octomap-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.4.1-3-g8816e50-2024.10.22.16.42
+Distribution: jammy
+Urgency: high
+Maintainer: Wolfgang Merkt <opensource@wolfgangmerkt.com>
+Changed-By: Wolfgang Merkt <opensource@wolfgangmerkt.com>
+Description:
+ ros-one-octomap-ros - octomap_ros provides conversion functions between ROS and OctoMap
+Changes:
+ ros-one-octomap-ros (0.4.1-3-g8816e50-2024.10.22.16.42) jammy; urgency=high
+ .
+   * Added archive destination for static libraries (#10 <https://github.com/OctoMap/octomap_ros/issues/10>)
+   * Fix catkin_lint issues and cmake policy CMP0038 (#9 <https://github.com/OctoMap/octomap_ros/issues/9>)
+   * Update maintainer emails
+   * Contributors: Andrea Ponza, Armin Hornung, Sebastian Kasperski, Wolfgang Merkt
+Checksums-Sha1:
+ 07c4aa7e6a6fb7421ae0ff836c8d400d3f14e8b6 91186 ros-one-octomap-ros-dbgsym_0.4.1-3-g8816e50-2024.10.22.16.42_amd64.ddeb
+ 43f6b5946eb5f7cff3a6bf54f64ca149bcee0394 18604 ros-one-octomap-ros_0.4.1-3-g8816e50-2024.10.22.16.42_amd64.buildinfo
+ 9298b9d990143703334c66f6b103aa4573c87bdd 12662 ros-one-octomap-ros_0.4.1-3-g8816e50-2024.10.22.16.42_amd64.deb
+Checksums-Sha256:
+ 97365682d8bc6f02239139828299f7cbed631da488ba503ebdf30eb36f9a34b7 91186 ros-one-octomap-ros-dbgsym_0.4.1-3-g8816e50-2024.10.22.16.42_amd64.ddeb
+ a68f4b37be621e123ea66def0c75badf8110bb0bc4d62b815b02fe6b5c311a65 18604 ros-one-octomap-ros_0.4.1-3-g8816e50-2024.10.22.16.42_amd64.buildinfo
+ e2081c8ed0b4d08baa3778f4bb7c7efb57a4c269aff2aab0211f44ce93c2c2ed 12662 ros-one-octomap-ros_0.4.1-3-g8816e50-2024.10.22.16.42_amd64.deb
+Files:
+ ff0892b677290dd6b91528f011a8df43 91186 debug optional ros-one-octomap-ros-dbgsym_0.4.1-3-g8816e50-2024.10.22.16.42_amd64.ddeb
+ ee91b8dbe9b1dc1e2902da886a5671a3 18604 misc optional ros-one-octomap-ros_0.4.1-3-g8816e50-2024.10.22.16.42_amd64.buildinfo
+ ebd9b20b2686e9b7978c3b632d530e4e 12662 misc optional ros-one-octomap-ros_0.4.1-3-g8816e50-2024.10.22.16.42_amd64.deb

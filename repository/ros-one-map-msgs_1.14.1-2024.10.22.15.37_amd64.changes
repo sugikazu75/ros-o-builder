@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 02 Nov 2020 00:00:00 -0000
+Source: ros-one-map-msgs
+Binary: ros-one-map-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.14.1-2024.10.22.15.37
+Distribution: jammy
+Urgency: high
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Changed-By: David V. Lu!! <davidvlu@gmail.com>
+Description:
+ ros-one-map-msgs - This package defines messages commonly used in mapping packages.
+Changes:
+ ros-one-map-msgs (1.14.1-2024.10.22.15.37) jammy; urgency=high
+Checksums-Sha1:
+ c016b59203b95c8a433ac56495f8b0ae8fb5161b 9923 ros-one-map-msgs_1.14.1-2024.10.22.15.37_amd64.buildinfo
+ 0dddc0a5fe2cd374d06fabf4342ed0aad3924b77 49522 ros-one-map-msgs_1.14.1-2024.10.22.15.37_amd64.deb
+Checksums-Sha256:
+ 7e2e01bd33fb70bdcc54c415ba2db636683b6ceca8474b3e82592498524ffd3f 9923 ros-one-map-msgs_1.14.1-2024.10.22.15.37_amd64.buildinfo
+ 82b3ceaae240dcbfb172433b9644d218d514a090345a8cba36f636ceb3cd5dda 49522 ros-one-map-msgs_1.14.1-2024.10.22.15.37_amd64.deb
+Files:
+ 3a4543f75b646a707212fcb8953817c9 9923 misc optional ros-one-map-msgs_1.14.1-2024.10.22.15.37_amd64.buildinfo
+ d9e71d8f4afa804b9adfaf929d7d0134 49522 misc optional ros-one-map-msgs_1.14.1-2024.10.22.15.37_amd64.deb

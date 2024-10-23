@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Wed, 10 Jul 2019 00:00:00 -0000
+Source: ros-one-openslam-gmapping
+Binary: ros-one-openslam-gmapping
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.2.1-17-g5105476-2024.10.22.13.10
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-openslam-gmapping - The catkinized verseion of openslam_gmapping package (https://git
+Changes:
+ ros-one-openslam-gmapping (0.2.1-17-g5105476-2024.10.22.13.10) jammy; urgency=high
+ .
+   * CMakeLists.txt: fix install command (install libs, install includes to corrrect position as well as hxx (#30 <https://github.com/ros-perception/openslam_gmapping/issues/30>)
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 61b14f4f28ff68de2833be71a388befce183c09d 1841538 ros-one-openslam-gmapping-dbgsym_0.2.1-17-g5105476-2024.10.22.13.10_amd64.ddeb
+ e21bbf8e3f17c6ce605f26e781867d3a3df2ec5e 8646 ros-one-openslam-gmapping_0.2.1-17-g5105476-2024.10.22.13.10_amd64.buildinfo
+ bc786e0d0277ce81406975c301efe2834ef69ba4 162230 ros-one-openslam-gmapping_0.2.1-17-g5105476-2024.10.22.13.10_amd64.deb
+Checksums-Sha256:
+ 566c4499e2485647e09bb87a436db7c2427d26abab51f2701eda437264aee08f 1841538 ros-one-openslam-gmapping-dbgsym_0.2.1-17-g5105476-2024.10.22.13.10_amd64.ddeb
+ a1184b3a673d73f8156af8c554764ffeb9fff97db4d5228350e3854633896610 8646 ros-one-openslam-gmapping_0.2.1-17-g5105476-2024.10.22.13.10_amd64.buildinfo
+ 80bf4eafa19945d83d2c1c626dddeebc5a77211df78c7a5482e758e96cbb0bf4 162230 ros-one-openslam-gmapping_0.2.1-17-g5105476-2024.10.22.13.10_amd64.deb
+Files:
+ 308fe2361539f675c8fcbb78f7df4f3e 1841538 debug optional ros-one-openslam-gmapping-dbgsym_0.2.1-17-g5105476-2024.10.22.13.10_amd64.ddeb
+ 7f714ee7d0b6f7beadd1759948e0d8d7 8646 misc optional ros-one-openslam-gmapping_0.2.1-17-g5105476-2024.10.22.13.10_amd64.buildinfo
+ bf17035d31e1a92d6d75cd9f4e634d1e 162230 misc optional ros-one-openslam-gmapping_0.2.1-17-g5105476-2024.10.22.13.10_amd64.deb
