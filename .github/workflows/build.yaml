@@ -11,14 +11,14 @@ concurrency:
 
 env:
   DISTRIBUTION: ubuntu
-  DEB_DISTRO: jammy
-  BRANCH: jammy-one-unstable
+  DEB_DISTRO: jammy-arm64
+  BRANCH: jammy-arm64-one-unstable
   JOBS_YAML: /home/runner/jobs.yaml
   AGG: /home/runner/apt_repo_dependencies
 
 jobs:
   stage-1:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-24.04-arm
     outputs:
       workers: ${{ steps.prepare.outputs.workers }}
     steps:
@@ -1439,7 +1439,7 @@ jobs:
   deploy:
     needs: stage18
     if: always() && !cancelled()
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-24.04-arm
     steps:
       - name: get apt packages from last job
         uses: actions/cache/restore@v4

@@ -42,7 +42,7 @@ env:
 
 jobs:
   stage-1:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-24.04-arm
     outputs:
       workers: ${{ steps.prepare.outputs.workers }}
     steps:
@@ -77,7 +77,7 @@ jobs:
   deploy:
     needs: stage@last_stage
     if: always() && !cancelled()
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-24.04-arm
     steps:
       - name: get apt packages from last job
         uses: actions/cache/restore@@v4
