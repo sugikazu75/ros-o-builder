@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 13 Oct 2023 00:00:00 -0000
+Source: ros-one-tf2-py
+Binary: ros-one-tf2-py
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.5-23-gfbcdc99-2025.01.21.12.28
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2-py - The tf2_py package
+Changes:
+ ros-one-tf2-py (0.7.5-23-gfbcdc99-2025.01.21.12.28) jammy; urgency=high
+ .
+   * Fix(tf2_py) potential memory leak (#544 <https://github.com/ros/geometry2/issues/544>)
+   * Contributors: Matthijs van der Burgh
+Checksums-Sha1:
+ 79bbbf5f44cf24386cef377d96f1184545d1159f 207960 ros-one-tf2-py-dbgsym_0.7.5-23-gfbcdc99-2025.01.21.12.28_amd64.ddeb
+ d42e98530974330c11b6cbb3912bee447bd67e5c 12853 ros-one-tf2-py_0.7.5-23-gfbcdc99-2025.01.21.12.28_amd64.buildinfo
+ ee298ba0f9314bd24c4644cb51d2ffdb24a04aaa 30136 ros-one-tf2-py_0.7.5-23-gfbcdc99-2025.01.21.12.28_amd64.deb
+Checksums-Sha256:
+ 374560437dc3993e0446d9752cb8e00a1c8ecba09fc702243981c67ed9ef587a 207960 ros-one-tf2-py-dbgsym_0.7.5-23-gfbcdc99-2025.01.21.12.28_amd64.ddeb
+ dbcadc1bc7959ed434f1a9515a554b28290749acf85fcb7a518b182aa4cb7f96 12853 ros-one-tf2-py_0.7.5-23-gfbcdc99-2025.01.21.12.28_amd64.buildinfo
+ 2e56dd2a02e288d1b780f6bab5194752e6a243ba9570e322c5b679e791f885e9 30136 ros-one-tf2-py_0.7.5-23-gfbcdc99-2025.01.21.12.28_amd64.deb
+Files:
+ ee0a2c988c86c123f970f64d41987c62 207960 debug optional ros-one-tf2-py-dbgsym_0.7.5-23-gfbcdc99-2025.01.21.12.28_amd64.ddeb
+ bbec3ec549ab78ceb3fe680900631394 12853 misc optional ros-one-tf2-py_0.7.5-23-gfbcdc99-2025.01.21.12.28_amd64.buildinfo
+ e034a8dba615ca9e4b056f9de3d58792 30136 misc optional ros-one-tf2-py_0.7.5-23-gfbcdc99-2025.01.21.12.28_amd64.deb

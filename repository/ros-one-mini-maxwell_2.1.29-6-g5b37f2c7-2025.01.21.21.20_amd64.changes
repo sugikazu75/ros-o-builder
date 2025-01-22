@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-mini-maxwell
+Binary: ros-one-mini-maxwell
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.01.21.21.20
+Distribution: jammy
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-mini-maxwell - mini_maxwell
+Changes:
+ ros-one-mini-maxwell (2.1.29-6-g5b37f2c7-2025.01.21.21.20) jammy; urgency=high
+Checksums-Sha1:
+ 50d057d6e4ba2aaf496b07f316ba8ff97749c1f9 15068 ros-one-mini-maxwell_2.1.29-6-g5b37f2c7-2025.01.21.21.20_amd64.buildinfo
+ e74796b9664ffb985f248f71351c68fbc56bb33c 26882 ros-one-mini-maxwell_2.1.29-6-g5b37f2c7-2025.01.21.21.20_amd64.deb
+Checksums-Sha256:
+ 7b98e8ac967f1cb4a83da02f4b63c30451c756a62a79b59af89a304236c53cbd 15068 ros-one-mini-maxwell_2.1.29-6-g5b37f2c7-2025.01.21.21.20_amd64.buildinfo
+ d1fff31a9f08645ef1c2b54f8c63cd486fb6f36b8c9b88c399cb970942dedaa0 26882 ros-one-mini-maxwell_2.1.29-6-g5b37f2c7-2025.01.21.21.20_amd64.deb
+Files:
+ 05fcd9a47d1f92c2cc88e9206cf9124b 15068 misc optional ros-one-mini-maxwell_2.1.29-6-g5b37f2c7-2025.01.21.21.20_amd64.buildinfo
+ be8d0896751d6000b103a194215d4800 26882 misc optional ros-one-mini-maxwell_2.1.29-6-g5b37f2c7-2025.01.21.21.20_amd64.deb

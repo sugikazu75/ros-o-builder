@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 23 Jul 2024 00:00:00 -0000
+Source: ros-one-qb-hand-control
+Binary: ros-one-qb-hand-control
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.01.21.17.54
+Distribution: jammy
+Urgency: high
+Maintainer: Alessandro Tondo <alessandro.tondo@qbrobotics.com>
+Changed-By: Alessandro Tondo <alessandro.tondo@qbrobotics.com>
+Description:
+ ros-one-qb-hand-control - This package contains the ROS control node for qbrobotics® qbhand
+Changes:
+ ros-one-qb-hand-control (0-2025.01.21.17.54) jammy; urgency=high
+Checksums-Sha1:
+ 981b4f980ce33f72f633a5825b41dbfff8d2726c 8130 ros-one-qb-hand-control_0-2025.01.21.17.54_amd64.buildinfo
+ 76922454a8d27db337f373c5d2592e984c30e11a 7876 ros-one-qb-hand-control_0-2025.01.21.17.54_amd64.deb
+Checksums-Sha256:
+ 88b4818ce5f0327239b317f1a056613dfe781e292045256c184449e538988b8c 8130 ros-one-qb-hand-control_0-2025.01.21.17.54_amd64.buildinfo
+ 2ee25c7391dc51d7f06fb530fdfb413ab7b6616db4edd74ac9a82c7131ca6256 7876 ros-one-qb-hand-control_0-2025.01.21.17.54_amd64.deb
+Files:
+ 9943dece4fba76fa2a0bb116f3dcda6b 8130 misc optional ros-one-qb-hand-control_0-2025.01.21.17.54_amd64.buildinfo
+ 20c2955fd647a3098d148ddf4029049e 7876 misc optional ros-one-qb-hand-control_0-2025.01.21.17.54_amd64.deb

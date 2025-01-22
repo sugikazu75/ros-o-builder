@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 07 Jun 2022 00:00:00 -0000
+Source: ros-one-dynamic-tf-publisher
+Binary: ros-one-dynamic-tf-publisher
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.2.12-185-g1ddd7669-2025.01.21.18.39
+Distribution: jammy
+Urgency: high
+Maintainer: Ryohei Ueda <garaemon@gmail.com>
+Changed-By: Ryohei Ueda <garaemon@gmail.com>
+Description:
+ ros-one-dynamic-tf-publisher - dynamically set the tf trensformation
+Changes:
+ ros-one-dynamic-tf-publisher (2.2.12-185-g1ddd7669-2025.01.21.18.39) jammy; urgency=high
+ .
+   * run 2to3 -w -f has_key for python3 compatibility (#1695 <https://github.com/jsk-ros-pkg/jsk_common/issues/1695>)
+   * install tf_reconfigure_publisher.py (#1654 <https://github.com/jsk-ros-pkg/jsk_common/issues/1654>)
+   * Contributors: Shingo Kitagawa
+Checksums-Sha1:
+ f76f7dd1e9d56903bcbc60c577f6f75fe014025a 18204 ros-one-dynamic-tf-publisher_2.2.12-185-g1ddd7669-2025.01.21.18.39_amd64.buildinfo
+ fc36bc2dd373279d70a5d9193af81cbf1e9f6d2b 35084 ros-one-dynamic-tf-publisher_2.2.12-185-g1ddd7669-2025.01.21.18.39_amd64.deb
+Checksums-Sha256:
+ baab4e0d4f658224e2d099a31bd593559cb5772fb0ec96db7a4be3c85c9a7f75 18204 ros-one-dynamic-tf-publisher_2.2.12-185-g1ddd7669-2025.01.21.18.39_amd64.buildinfo
+ 0c114266f9af7bc7ae2d0acd2be7d329ed04e745a599b4d1cb9fc09912f86bab 35084 ros-one-dynamic-tf-publisher_2.2.12-185-g1ddd7669-2025.01.21.18.39_amd64.deb
+Files:
+ 3d236edb6c96fb094e913ec4ecd3ff1d 18204 misc optional ros-one-dynamic-tf-publisher_2.2.12-185-g1ddd7669-2025.01.21.18.39_amd64.buildinfo
+ aac241199a1f2761c1668d517c13da03 35084 misc optional ros-one-dynamic-tf-publisher_2.2.12-185-g1ddd7669-2025.01.21.18.39_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 03 Oct 2022 00:00:00 -0000
+Source: ros-one-vision-opencv
+Binary: ros-one-vision-opencv
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.16.2-2-gcfabf72-2025.01.21.12.08
+Distribution: jammy
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-vision-opencv - Packages for interfacing ROS with OpenCV, a library of programmin
+Changes:
+ ros-one-vision-opencv (1.16.2-2-gcfabf72-2025.01.21.12.08) jammy; urgency=high
+Checksums-Sha1:
+ d727ec408974f28dddd570a6a5a504cd51760a20 8184 ros-one-vision-opencv_1.16.2-2-gcfabf72-2025.01.21.12.08_amd64.buildinfo
+ d781947e81652d4f68ab9c22de7e11f56077bd8e 2676 ros-one-vision-opencv_1.16.2-2-gcfabf72-2025.01.21.12.08_amd64.deb
+Checksums-Sha256:
+ 720a041870de8b713863bf453bb80235dc4a1c49972aee474ae276fa23cac2a8 8184 ros-one-vision-opencv_1.16.2-2-gcfabf72-2025.01.21.12.08_amd64.buildinfo
+ 1ce00f7bdf30ce483f4f74ad235f60a3c842ae9d44913539ff18506af6301ff1 2676 ros-one-vision-opencv_1.16.2-2-gcfabf72-2025.01.21.12.08_amd64.deb
+Files:
+ fb29286b2b973825e2cf7662210245ff 8184 misc optional ros-one-vision-opencv_1.16.2-2-gcfabf72-2025.01.21.12.08_amd64.buildinfo
+ f8a08d987c246acfe35ffd8faf0b2098 2676 misc optional ros-one-vision-opencv_1.16.2-2-gcfabf72-2025.01.21.12.08_amd64.deb

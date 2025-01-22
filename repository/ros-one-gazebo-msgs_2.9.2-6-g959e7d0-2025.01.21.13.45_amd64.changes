@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 21 Apr 2021 00:00:00 -0000
+Source: ros-one-gazebo-msgs
+Binary: ros-one-gazebo-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.9.2-6-g959e7d0-2025.01.21.13.45
+Distribution: jammy
+Urgency: high
+Maintainer: Alejandro Hernández Cordero <ahcorde@osrfoundation.org>
+Changed-By: Alejandro Hernández Cordero <ahcorde@osrfoundation.org>
+Description:
+ ros-one-gazebo-msgs - Message and service data structures for interacting with Gazebo f
+Changes:
+ ros-one-gazebo-msgs (2.9.2-6-g959e7d0-2025.01.21.13.45) jammy; urgency=high
+ .
+   * [Noetic] Bridge to republish PerformanceMetrics in ROS (#1145 <https://github.com/ros-simulation/gazebo_ros_pkgs/issues/1145>)
+     Co-authored-by: Ian Chen <mailto:ichen@osrfoundation.org>
+   * Contributors: Alejandro Hernández Cordero
+Checksums-Sha1:
+ e4f47ebe91f922de5daaf7dd82cb90e08fb8c077 10064 ros-one-gazebo-msgs_2.9.2-6-g959e7d0-2025.01.21.13.45_amd64.buildinfo
+ 2674789091cf7d73b506e555f5bcaa4442200a55 136524 ros-one-gazebo-msgs_2.9.2-6-g959e7d0-2025.01.21.13.45_amd64.deb
+Checksums-Sha256:
+ 33fbaad7107985bb60dd4585fd5abf0db3cef9e809727da54678d4d5515726c3 10064 ros-one-gazebo-msgs_2.9.2-6-g959e7d0-2025.01.21.13.45_amd64.buildinfo
+ 7dba4d3f560cbda2c72bb4d06e50daf777a11755558fc51c904ff6009cc080fd 136524 ros-one-gazebo-msgs_2.9.2-6-g959e7d0-2025.01.21.13.45_amd64.deb
+Files:
+ 93eb3e85b3171f565b016062d61f3296 10064 misc optional ros-one-gazebo-msgs_2.9.2-6-g959e7d0-2025.01.21.13.45_amd64.buildinfo
+ 4335b4b59949ded383286a330478d3d3 136524 misc optional ros-one-gazebo-msgs_2.9.2-6-g959e7d0-2025.01.21.13.45_amd64.deb

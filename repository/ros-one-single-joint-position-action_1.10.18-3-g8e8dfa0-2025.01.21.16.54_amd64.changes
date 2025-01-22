@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-single-joint-position-action
+Binary: ros-one-single-joint-position-action
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2025.01.21.16.54
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-single-joint-position-action - The single joint position action is a node that provides an actio
+Changes:
+ ros-one-single-joint-position-action (1.10.18-3-g8e8dfa0-2025.01.21.16.54) jammy; urgency=high
+Checksums-Sha1:
+ 05b33050474a72ca095cd35f73cecfdd9b91aacd 933742 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.01.21.16.54_amd64.ddeb
+ 740550742821ebe2dfb17d178fbb56215b2d1b57 13911 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.21.16.54_amd64.buildinfo
+ 3a2ae9dd38fb4805b122bce73d91fdfcb33a7ce1 82648 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.21.16.54_amd64.deb
+Checksums-Sha256:
+ 6e7389e5583f2df90255deb1ebe482542072de2154147610493f62adfb67a008 933742 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.01.21.16.54_amd64.ddeb
+ 690c1f7833ded1a50e2d76e87d6468c370ae83ed4ebed9d36bfc8757d8000122 13911 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.21.16.54_amd64.buildinfo
+ 7fb009cdd047015060ede94a4c9965d0f43142012fe80fe1373421f808087988 82648 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.21.16.54_amd64.deb
+Files:
+ 9dd4862a0d7e95ea5e12bd23445aea96 933742 debug optional ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.01.21.16.54_amd64.ddeb
+ e482e0feda34c1c684cec296f4d9be5d 13911 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.21.16.54_amd64.buildinfo
+ cf93765a9634e66795906e2920ab7096 82648 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.21.16.54_amd64.deb

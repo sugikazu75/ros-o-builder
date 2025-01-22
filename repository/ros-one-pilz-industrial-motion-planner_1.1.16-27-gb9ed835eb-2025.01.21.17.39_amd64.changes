@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-pilz-industrial-motion-planner
+Binary: ros-one-pilz-industrial-motion-planner
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-27-gb9ed835eb-2025.01.21.17.39
+Distribution: jammy
+Urgency: high
+Maintainer: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Changed-By: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Description:
+ ros-one-pilz-industrial-motion-planner - MoveIt plugin to generate industrial trajectories PTP, LIN, CIRC
+Changes:
+ ros-one-pilz-industrial-motion-planner (1.1.16-27-gb9ed835eb-2025.01.21.17.39) jammy; urgency=high
+Checksums-Sha1:
+ 8b735c1500acfb918eb6ae17ae0fcf597c18aab5 28811984 ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-27-gb9ed835eb-2025.01.21.17.39_amd64.ddeb
+ bc020c9640c5ef02fd2ec808d43e72035fa27893 27084 ros-one-pilz-industrial-motion-planner_1.1.16-27-gb9ed835eb-2025.01.21.17.39_amd64.buildinfo
+ fc6c83e29816dc83a143041bd0b0520674b56a5d 397754 ros-one-pilz-industrial-motion-planner_1.1.16-27-gb9ed835eb-2025.01.21.17.39_amd64.deb
+Checksums-Sha256:
+ 356ff57a54fac76cf80042182625244d349ca11aacbb8bb3e95b909f346b8d07 28811984 ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-27-gb9ed835eb-2025.01.21.17.39_amd64.ddeb
+ 7edfdbdecf09a72b1985d15573611fc229d72364810d748d5d675b07cfb0ed05 27084 ros-one-pilz-industrial-motion-planner_1.1.16-27-gb9ed835eb-2025.01.21.17.39_amd64.buildinfo
+ f50809176678fd3ed02a77caca51985141bebdcd3da2915018cfc0f704bab0b8 397754 ros-one-pilz-industrial-motion-planner_1.1.16-27-gb9ed835eb-2025.01.21.17.39_amd64.deb
+Files:
+ 3bc456fb4c30b8ae6291e31bf0df8b97 28811984 debug optional ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-27-gb9ed835eb-2025.01.21.17.39_amd64.ddeb
+ ea0d70fa560f7c87b3b58d3903c9c328 27084 misc optional ros-one-pilz-industrial-motion-planner_1.1.16-27-gb9ed835eb-2025.01.21.17.39_amd64.buildinfo
+ 8aad9adea07fd8692a478669e26974b3 397754 misc optional ros-one-pilz-industrial-motion-planner_1.1.16-27-gb9ed835eb-2025.01.21.17.39_amd64.deb

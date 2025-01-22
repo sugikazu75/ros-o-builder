@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-diagnostic-updater
+Binary: ros-one-diagnostic-updater
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.11.0-7-gda86650-2025.01.21.13.15
+Distribution: jammy
+Urgency: high
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Changed-By: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Description:
+ ros-one-diagnostic-updater - diagnostic_updater contains tools for easily updating diagnostics
+Changes:
+ ros-one-diagnostic-updater (1.11.0-7-gda86650-2025.01.21.13.15) jammy; urgency=high
+ .
+   * Use DiagnosticLevel enum instead of hardcoded integers (#208 <https://github.com/ros/diagnostics/issues/208>)
+     Spellcheck fixes
+   * Contributors: Amilcar Lucas
+Checksums-Sha1:
+ 35ec898aa9ba31fcf83eeec64e7079838cfbba71 328062 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2025.01.21.13.15_amd64.ddeb
+ f2424574c1fba6d3c51dd046b14347f5f1a4e987 13474 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.21.13.15_amd64.buildinfo
+ 15ec89bc82491e927f5027ec22369a958cfdbb8e 53910 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.21.13.15_amd64.deb
+Checksums-Sha256:
+ ed9dec09d2d933bb83bf1458eaa820358da03445c5643564f01fa8239497d803 328062 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2025.01.21.13.15_amd64.ddeb
+ 8c23def9e2cc463807b13bd2b2b893d9bb0e8a577cdc71c9b42864cb05254c91 13474 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.21.13.15_amd64.buildinfo
+ 60be065735d63a68629fd7ccab59476203024f554e7dbf1a16870449f976f56a 53910 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.21.13.15_amd64.deb
+Files:
+ e7ea20b7ddaaef35c3bfe01a79b40786 328062 debug optional ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2025.01.21.13.15_amd64.ddeb
+ c30c09e49e4753ddcd304a51dda1ef40 13474 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.21.13.15_amd64.buildinfo
+ 7fc536955a3139e8edf6d1c3ff8786a7 53910 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.21.13.15_amd64.deb

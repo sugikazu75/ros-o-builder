@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-ff
+Binary: ros-one-ff
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.01.21.20.24
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-ff - ff: pddl planner.
+Changes:
+ ros-one-ff (2.1.29-6-g5b37f2c7-2025.01.21.20.24) jammy; urgency=high
+ .
+   * Support ros-o / Ubuntu 22.04 (#512 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/512>)
+ .
+       * [ff] relax linker. allow function duplication
+ .
+   * Contributors: Yoshiki Obinata
+Checksums-Sha1:
+ 66206b1753b5cb7b77283e658311fbd435f7bcd6 236874 ros-one-ff-dbgsym_2.1.29-6-g5b37f2c7-2025.01.21.20.24_amd64.ddeb
+ 2f729393bcd47212090b0c5100b8ff67c1019067 11552 ros-one-ff_2.1.29-6-g5b37f2c7-2025.01.21.20.24_amd64.buildinfo
+ 50a07223bc711aac1e88aa6b7cc588bf2e9e5d46 111424 ros-one-ff_2.1.29-6-g5b37f2c7-2025.01.21.20.24_amd64.deb
+Checksums-Sha256:
+ 8cc15ce2dcbfb409e05edd87e9d351723662ef07a99d3183aea2677a635ef96f 236874 ros-one-ff-dbgsym_2.1.29-6-g5b37f2c7-2025.01.21.20.24_amd64.ddeb
+ 1bc6d28c4629be7a6fac962417107829e4803a0f4468691dd7355856463df1bf 11552 ros-one-ff_2.1.29-6-g5b37f2c7-2025.01.21.20.24_amd64.buildinfo
+ 1c3b7e3880af8aee84f11c96fbc1e8482be1a9fb13f5c417e9fe78ce86fe78b9 111424 ros-one-ff_2.1.29-6-g5b37f2c7-2025.01.21.20.24_amd64.deb
+Files:
+ bc7f1bd662c0dda899e4a733caa541fa 236874 debug optional ros-one-ff-dbgsym_2.1.29-6-g5b37f2c7-2025.01.21.20.24_amd64.ddeb
+ 31f7fa45a548135dd116663add4194de 11552 misc optional ros-one-ff_2.1.29-6-g5b37f2c7-2025.01.21.20.24_amd64.buildinfo
+ e7a5d1c210813d596e10f49a567a51b4 111424 misc optional ros-one-ff_2.1.29-6-g5b37f2c7-2025.01.21.20.24_amd64.deb

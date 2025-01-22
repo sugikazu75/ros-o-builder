@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-manipulation
+Binary: ros-one-moveit-ros-manipulation
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-27-gb9ed835eb-2025.01.21.16.25
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Görner <me@v4hn.de>
+Changed-By: Michael Görner <me@v4hn.de>
+Description:
+ ros-one-moveit-ros-manipulation - Components of MoveIt used for manipulation
+Changes:
+ ros-one-moveit-ros-manipulation (1.1.16-27-gb9ed835eb-2025.01.21.16.25) jammy; urgency=high
+Checksums-Sha1:
+ 6e381bc5050ce661bc4cbd1a82c08205a8730097 14097824 ros-one-moveit-ros-manipulation-dbgsym_1.1.16-27-gb9ed835eb-2025.01.21.16.25_amd64.ddeb
+ 5b1737f52c2f191e6eeb23d59557833dbd71d001 24417 ros-one-moveit-ros-manipulation_1.1.16-27-gb9ed835eb-2025.01.21.16.25_amd64.buildinfo
+ 0fe745f09b66b626abe76a7400ef4716114ca3d4 298326 ros-one-moveit-ros-manipulation_1.1.16-27-gb9ed835eb-2025.01.21.16.25_amd64.deb
+Checksums-Sha256:
+ 67ad3f3e8bbcfeee4cd9af13b696cc224d5424e7bb61bef13e646fa2421f284e 14097824 ros-one-moveit-ros-manipulation-dbgsym_1.1.16-27-gb9ed835eb-2025.01.21.16.25_amd64.ddeb
+ 602c891c655d56b235653d260a731ddbd4a537c428e4485255d4ff7d810620d0 24417 ros-one-moveit-ros-manipulation_1.1.16-27-gb9ed835eb-2025.01.21.16.25_amd64.buildinfo
+ 8f7b30a357a40b221b6e169dd38bfd5ed9716ad4a34abba042e325afbca13ed6 298326 ros-one-moveit-ros-manipulation_1.1.16-27-gb9ed835eb-2025.01.21.16.25_amd64.deb
+Files:
+ 03c47fa828dabb36a6bd9fa5f06e1708 14097824 debug optional ros-one-moveit-ros-manipulation-dbgsym_1.1.16-27-gb9ed835eb-2025.01.21.16.25_amd64.ddeb
+ d24e56955628be89801d5d687cac669d 24417 misc optional ros-one-moveit-ros-manipulation_1.1.16-27-gb9ed835eb-2025.01.21.16.25_amd64.buildinfo
+ 87b917e708b906a7d2211fb18ac85b18 298326 misc optional ros-one-moveit-ros-manipulation_1.1.16-27-gb9ed835eb-2025.01.21.16.25_amd64.deb

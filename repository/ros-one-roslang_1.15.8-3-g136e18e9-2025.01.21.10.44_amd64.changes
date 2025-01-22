@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 21 Jul 2021 00:00:00 -0000
+Source: ros-one-roslang
+Binary: ros-one-roslang
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.15.8-3-g136e18e9-2025.01.21.10.44
+Distribution: jammy
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-roslang - roslang is a common package that all ROS client libraries depend
+Changes:
+ ros-one-roslang (1.15.8-3-g136e18e9-2025.01.21.10.44) jammy; urgency=high
+ .
+   * Update maintainers (#272 <https://github.com/ros/ros/issues/272>)
+   * Contributors: Jacob Perron
+Checksums-Sha1:
+ 741ff76da61a8150e8aba2c6237b18dcfa26d622 8158 ros-one-roslang_1.15.8-3-g136e18e9-2025.01.21.10.44_amd64.buildinfo
+ 4d8cc65a4c164df384d5950da6bbef8e30b7b683 6118 ros-one-roslang_1.15.8-3-g136e18e9-2025.01.21.10.44_amd64.deb
+Checksums-Sha256:
+ cb3cc3c542272c776bfff49becb7a4bfe44b1d73eb37c8ca3f9ce9df03b4b0a5 8158 ros-one-roslang_1.15.8-3-g136e18e9-2025.01.21.10.44_amd64.buildinfo
+ 4847c59f4a64b17a77330a8bc695e8480acc3f5a27d7fa7a6e3180b1ef60a038 6118 ros-one-roslang_1.15.8-3-g136e18e9-2025.01.21.10.44_amd64.deb
+Files:
+ ddaee63e1824e947c24e5cbc1327a3be 8158 misc optional ros-one-roslang_1.15.8-3-g136e18e9-2025.01.21.10.44_amd64.buildinfo
+ 2cdc90f9835f5968851b28219afe6617 6118 misc optional ros-one-roslang_1.15.8-3-g136e18e9-2025.01.21.10.44_amd64.deb

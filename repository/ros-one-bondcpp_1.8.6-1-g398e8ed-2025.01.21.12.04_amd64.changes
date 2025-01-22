@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 28 Aug 2020 00:00:00 -0000
+Source: ros-one-bondcpp
+Binary: ros-one-bondcpp
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.8.6-1-g398e8ed-2025.01.21.12.04
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-bondcpp - C++ implementation of bond, a mechanism for checking when another
+Changes:
+ ros-one-bondcpp (1.8.6-1-g398e8ed-2025.01.21.12.04) jammy; urgency=high
+ .
+   * narrow down required boost dependencies (#68 <https://github.com/ros/bond_core/issues/68>)
+   * Contributors: Mikael Arguedas
+Checksums-Sha1:
+ 77ccd19ce37556e13bd433e7e035a5c37f94b7c9 640600 ros-one-bondcpp-dbgsym_1.8.6-1-g398e8ed-2025.01.21.12.04_amd64.ddeb
+ d5362cfec975e75a06d9fa7c6feeb5b14383ee8f 11484 ros-one-bondcpp_1.8.6-1-g398e8ed-2025.01.21.12.04_amd64.buildinfo
+ aa5250238f3a6ad71a27093fb4e03ecfbc79ffd0 54888 ros-one-bondcpp_1.8.6-1-g398e8ed-2025.01.21.12.04_amd64.deb
+Checksums-Sha256:
+ 2f67a463e28945b9abf877383d364da66cff91812eec4bdc6fd75a6025f5cdda 640600 ros-one-bondcpp-dbgsym_1.8.6-1-g398e8ed-2025.01.21.12.04_amd64.ddeb
+ f00759a86743826fec38864375317f4f652f443d62228d35cf8f8edfca5bb27c 11484 ros-one-bondcpp_1.8.6-1-g398e8ed-2025.01.21.12.04_amd64.buildinfo
+ 9342da7d835f948a716acf30e7823a9d602d3e9287206ae05e3464a2e027a7f8 54888 ros-one-bondcpp_1.8.6-1-g398e8ed-2025.01.21.12.04_amd64.deb
+Files:
+ 90fab8b029b7223a9f9d33ce8385abd7 640600 debug optional ros-one-bondcpp-dbgsym_1.8.6-1-g398e8ed-2025.01.21.12.04_amd64.ddeb
+ 0a7d4e1179fb9ee3087fe7d2ccbdef6b 11484 misc optional ros-one-bondcpp_1.8.6-1-g398e8ed-2025.01.21.12.04_amd64.buildinfo
+ 717451a475f3ed0af01a4bc433207ab3 54888 misc optional ros-one-bondcpp_1.8.6-1-g398e8ed-2025.01.21.12.04_amd64.deb

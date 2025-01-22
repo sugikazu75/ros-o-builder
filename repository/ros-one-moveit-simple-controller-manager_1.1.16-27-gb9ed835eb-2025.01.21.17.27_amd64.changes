@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-simple-controller-manager
+Binary: ros-one-moveit-simple-controller-manager
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-27-gb9ed835eb-2025.01.21.17.27
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-simple-controller-manager - A generic, simple controller manager plugin for MoveIt.
+Changes:
+ ros-one-moveit-simple-controller-manager (1.1.16-27-gb9ed835eb-2025.01.21.17.27) jammy; urgency=high
+Checksums-Sha1:
+ 751025fc36de86cde31a8a57659a05c24406e5f6 2075814 ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-27-gb9ed835eb-2025.01.21.17.27_amd64.ddeb
+ e67123d30686ac484a4aaf3cfb362a96c5b953cf 22824 ros-one-moveit-simple-controller-manager_1.1.16-27-gb9ed835eb-2025.01.21.17.27_amd64.buildinfo
+ 742248b9b715e4ccd04564666573f204c73bd810 165926 ros-one-moveit-simple-controller-manager_1.1.16-27-gb9ed835eb-2025.01.21.17.27_amd64.deb
+Checksums-Sha256:
+ f4bed52480eb1d804b6be35d5dd7df52390f41d37f26834936baddfb800a969d 2075814 ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-27-gb9ed835eb-2025.01.21.17.27_amd64.ddeb
+ 80076f11ec1e09e16a94a4541f93df8dc0293e75d014d0418f6601d9deb38388 22824 ros-one-moveit-simple-controller-manager_1.1.16-27-gb9ed835eb-2025.01.21.17.27_amd64.buildinfo
+ eb59feb3b411b47580e142c3159bf338daed04f3ff39f346c224e7201300c537 165926 ros-one-moveit-simple-controller-manager_1.1.16-27-gb9ed835eb-2025.01.21.17.27_amd64.deb
+Files:
+ dbc9faf819c3501bbced7feffae52d01 2075814 debug optional ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-27-gb9ed835eb-2025.01.21.17.27_amd64.ddeb
+ 0ba8fc57e073af4a592c9d1698345588 22824 misc optional ros-one-moveit-simple-controller-manager_1.1.16-27-gb9ed835eb-2025.01.21.17.27_amd64.buildinfo
+ 290579f82c7678b2dbbb608be9ecc9a8 165926 misc optional ros-one-moveit-simple-controller-manager_1.1.16-27-gb9ed835eb-2025.01.21.17.27_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 14 Nov 2023 00:00:00 -0000
+Source: ros-one-imagesift
+Binary: ros-one-imagesift
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.2.17-42-g7816812a-2025.01.21.23.14
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-imagesift - For every image, computes its sift features and send a new messag
+Changes:
+ ros-one-imagesift (1.2.17-42-g7816812a-2025.01.21.23.14) jammy; urgency=high
+Checksums-Sha1:
+ a2bd9ee39d1a4e35175a46c79369a20b3b53026f 2484158 ros-one-imagesift-dbgsym_1.2.17-42-g7816812a-2025.01.21.23.14_amd64.ddeb
+ 4907c4c3ec4a54768a52015fede2f7648114d254 47159 ros-one-imagesift_1.2.17-42-g7816812a-2025.01.21.23.14_amd64.buildinfo
+ 65dab9724946dc90e4014915146b5395e21bd14f 151046 ros-one-imagesift_1.2.17-42-g7816812a-2025.01.21.23.14_amd64.deb
+Checksums-Sha256:
+ 40a1c9e60bf821ad7e2f6b0c7a0ef1b029a7a01300a6cc5b9c722e33a0158a78 2484158 ros-one-imagesift-dbgsym_1.2.17-42-g7816812a-2025.01.21.23.14_amd64.ddeb
+ 833ed9f086022351addb6d1a108c43814e16f1a402e57c7b7242c4ce4236d5d0 47159 ros-one-imagesift_1.2.17-42-g7816812a-2025.01.21.23.14_amd64.buildinfo
+ 8ac6c44b9f827bd78602192b128bd2a6332ad4d1cbb0a84ddbde485e7c2ab392 151046 ros-one-imagesift_1.2.17-42-g7816812a-2025.01.21.23.14_amd64.deb
+Files:
+ 7e49bd3809390e89d9bb33da730d356c 2484158 debug optional ros-one-imagesift-dbgsym_1.2.17-42-g7816812a-2025.01.21.23.14_amd64.ddeb
+ 1b25ea9bf6d3b80e0e3f80a91642a575 47159 misc optional ros-one-imagesift_1.2.17-42-g7816812a-2025.01.21.23.14_amd64.buildinfo
+ 761960468bfc61217166fc75341c068f 151046 misc optional ros-one-imagesift_1.2.17-42-g7816812a-2025.01.21.23.14_amd64.deb

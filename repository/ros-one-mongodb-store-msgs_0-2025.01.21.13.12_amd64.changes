@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 20 Sep 2022 00:00:00 -0000
+Source: ros-one-mongodb-store-msgs
+Binary: ros-one-mongodb-store-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.01.21.13.12
+Distribution: jammy
+Urgency: high
+Maintainer: Nick Hawes <nickh@robots.ox.ac.uk>
+Changed-By: Nick Hawes <nickh@robots.ox.ac.uk>
+Description:
+ ros-one-mongodb-store-msgs - The mongodb_store_msgs package
+Changes:
+ ros-one-mongodb-store-msgs (0-2025.01.21.13.12) jammy; urgency=high
+Checksums-Sha1:
+ c035319d6be252d1320e9d153f205c3d9571ac8c 13066 ros-one-mongodb-store-msgs_0-2025.01.21.13.12_amd64.buildinfo
+ 0c06bb98a3704e2c6372aa91f15bfa55812fc54f 66360 ros-one-mongodb-store-msgs_0-2025.01.21.13.12_amd64.deb
+Checksums-Sha256:
+ 79a15d660fd2ee230401e8441e4131a09ba89e2ac5fdb5366eb29c359adc07d4 13066 ros-one-mongodb-store-msgs_0-2025.01.21.13.12_amd64.buildinfo
+ c2854c96b03a98947d3c45486e06947370f27c14a563c0ac807936e0ed1506a8 66360 ros-one-mongodb-store-msgs_0-2025.01.21.13.12_amd64.deb
+Files:
+ 77951d602b3c4be52cecd1950014a65d 13066 misc optional ros-one-mongodb-store-msgs_0-2025.01.21.13.12_amd64.buildinfo
+ bab8a0bfa9c31ecfda6555f9eea93e38 66360 misc optional ros-one-mongodb-store-msgs_0-2025.01.21.13.12_amd64.deb

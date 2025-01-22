@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 07 Jun 2024 00:00:00 -0000
+Source: ros-one-qb-device-driver
+Binary: ros-one-qb-device-driver
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.01.21.16.23
+Distribution: jammy
+Urgency: high
+Maintainer: qb Support Team <support@qbrobotics.com>
+Changed-By: qb Support Team <support@qbrobotics.com>
+Description:
+ ros-one-qb-device-driver - This package contains a device-independent API wrapper for qbrobo
+Changes:
+ ros-one-qb-device-driver (0-2025.01.21.16.23) jammy; urgency=high
+Checksums-Sha1:
+ 4a857c8aaa0a750222ddac97695c249961a15eaf 2355562 ros-one-qb-device-driver-dbgsym_0-2025.01.21.16.23_amd64.ddeb
+ e61e65e90500359648ce2e4cad0ee54cdf5e3fee 11465 ros-one-qb-device-driver_0-2025.01.21.16.23_amd64.buildinfo
+ 1c2dc00c136684ee5b0e37593d8b65d2a2b4cc66 316454 ros-one-qb-device-driver_0-2025.01.21.16.23_amd64.deb
+Checksums-Sha256:
+ 5a9f28babf91ddb845a3578b09617e2414943df4e6d8a113f222d7eba0d0a087 2355562 ros-one-qb-device-driver-dbgsym_0-2025.01.21.16.23_amd64.ddeb
+ fbf341c3cc8a3162c1732e5d45cd6cc4140151da3d0c1ea660348518769269a6 11465 ros-one-qb-device-driver_0-2025.01.21.16.23_amd64.buildinfo
+ 3abba8aa533e66cda9f9e16cffcd17f52320305db8019d86136a30d06272a089 316454 ros-one-qb-device-driver_0-2025.01.21.16.23_amd64.deb
+Files:
+ 5e3afe41b72eabda3fa5ea5438e513bb 2355562 debug optional ros-one-qb-device-driver-dbgsym_0-2025.01.21.16.23_amd64.ddeb
+ 60c58a1b553f7463ab5a43956098fc85 11465 misc optional ros-one-qb-device-driver_0-2025.01.21.16.23_amd64.buildinfo
+ fe06e0bc95f90fd80603563d2858e13b 316454 misc optional ros-one-qb-device-driver_0-2025.01.21.16.23_amd64.deb

@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Tue, 12 Apr 2022 00:00:00 -0000
+Source: ros-one-openni2-launch
+Binary: ros-one-openni2-launch
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.01.21.15.30
+Distribution: jammy
+Urgency: high
+Maintainer: Isaac I. Y. Saito <isaac.saito@plusonerobotics.com>
+Changed-By: Isaac I. Y. Saito <isaac.saito@plusonerobotics.com>
+Description:
+ ros-one-openni2-launch - Launch files to start the openni2_camera drivers using rgbd_launc
+Changes:
+ ros-one-openni2-launch (0-2025.01.21.15.30) jammy; urgency=high
+ .
+   * [capability] Add depth_registered and depth_registered_filtered arguments #111 <https://github.com/ros-drivers/openni2_camera/issues/111>
+Checksums-Sha1:
+ 758b0290c486a2ee8f629e9a72b5e5e5e507cc7e 12632 ros-one-openni2-launch_0-2025.01.21.15.30_amd64.buildinfo
+ 39bc11d225d666dfd59c0e4a3491aa2e42df659d 12364 ros-one-openni2-launch_0-2025.01.21.15.30_amd64.deb
+Checksums-Sha256:
+ fdf11629ba6dafb32080b6c2ebcbbe8364f5242272b8bc15c6c15b588c040cb3 12632 ros-one-openni2-launch_0-2025.01.21.15.30_amd64.buildinfo
+ 81f342b7cd9557ae70f349d37211aecf76f714a6038db6d02265df33c038f84f 12364 ros-one-openni2-launch_0-2025.01.21.15.30_amd64.deb
+Files:
+ 3c366de9faf91cba931ab679592fc1f6 12632 misc optional ros-one-openni2-launch_0-2025.01.21.15.30_amd64.buildinfo
+ 23203f073473c04d81cc6c2d7a8f8401 12364 misc optional ros-one-openni2-launch_0-2025.01.21.15.30_amd64.deb

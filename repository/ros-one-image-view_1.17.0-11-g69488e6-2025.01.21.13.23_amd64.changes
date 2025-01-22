@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 17 Oct 2022 00:00:00 -0000
+Source: ros-one-image-view
+Binary: ros-one-image-view
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.17.0-11-g69488e6-2025.01.21.13.23
+Distribution: jammy
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-image-view - A simple viewer for ROS image topics.
+Changes:
+ ros-one-image-view (1.17.0-11-g69488e6-2025.01.21.13.23) jammy; urgency=high
+ .
+   * Switch to hpp headers of pluginlib
+   * Switch to new boost/bind/bind.hpp
+   * Add support for floating point fps
+   * Contributors: Jochen Sprickerhof, Júnio Eduardo de Morais Aquino
+Checksums-Sha1:
+ 685f264bfa9c3f4e783e61fef35408bbd0fa1e20 4816814 ros-one-image-view-dbgsym_1.17.0-11-g69488e6-2025.01.21.13.23_amd64.ddeb
+ bff838f61ffe46f27ecae17f3ad46da509373259 31310 ros-one-image-view_1.17.0-11-g69488e6-2025.01.21.13.23_amd64.buildinfo
+ 027c7b96f1f506b3d6682f94b7f25cee6f82520a 286158 ros-one-image-view_1.17.0-11-g69488e6-2025.01.21.13.23_amd64.deb
+Checksums-Sha256:
+ 92ad4cb0fedb95021e28bdc13768ca2497928825cf6319c936c4089e7ab8873c 4816814 ros-one-image-view-dbgsym_1.17.0-11-g69488e6-2025.01.21.13.23_amd64.ddeb
+ 0fdce6c3592f9a05ac8b8c2182b005ea6da4210a89dcdda2cf7e9fb48de85984 31310 ros-one-image-view_1.17.0-11-g69488e6-2025.01.21.13.23_amd64.buildinfo
+ 31d544f87f278f9531d22cfdb065f6619e23c401b8daf6a0923332b6491164e2 286158 ros-one-image-view_1.17.0-11-g69488e6-2025.01.21.13.23_amd64.deb
+Files:
+ 23448f0c825b4c0f35b9c42a21698367 4816814 debug optional ros-one-image-view-dbgsym_1.17.0-11-g69488e6-2025.01.21.13.23_amd64.ddeb
+ 54fd9e6cd2e007b9f0e0545666c67eda 31310 misc optional ros-one-image-view_1.17.0-11-g69488e6-2025.01.21.13.23_amd64.buildinfo
+ 99750b9c9c1c0978a7b36cea4d28eaa0 286158 misc optional ros-one-image-view_1.17.0-11-g69488e6-2025.01.21.13.23_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 28 Aug 2020 00:00:00 -0000
+Source: ros-one-bond-core
+Binary: ros-one-bond-core
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.8.6-1-g398e8ed-2025.01.21.12.00
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-bond-core - A bond allows two processes, A and B, to know when the other has
+Changes:
+ ros-one-bond-core (1.8.6-1-g398e8ed-2025.01.21.12.00) jammy; urgency=high
+Checksums-Sha1:
+ cb180f721d16dcc690544a02011372553ad9a31b 8160 ros-one-bond-core_1.8.6-1-g398e8ed-2025.01.21.12.00_amd64.buildinfo
+ a957e787872a2dfada891d54e3b81d0fa93f8b90 2630 ros-one-bond-core_1.8.6-1-g398e8ed-2025.01.21.12.00_amd64.deb
+Checksums-Sha256:
+ b81b4735cb298282e32c421af5fbfd3d1684b6641db9475a014f5144a5883c54 8160 ros-one-bond-core_1.8.6-1-g398e8ed-2025.01.21.12.00_amd64.buildinfo
+ 1f4950502874586fcccc6d6e8a66f3a41cc93c31578527c06fe4a4f3ea5aeeb4 2630 ros-one-bond-core_1.8.6-1-g398e8ed-2025.01.21.12.00_amd64.deb
+Files:
+ 4e590d6173e1d052056814d32e78cd4e 8160 misc optional ros-one-bond-core_1.8.6-1-g398e8ed-2025.01.21.12.00_amd64.buildinfo
+ 3176e774fb81f680801a60d58e4d9ece 2630 misc optional ros-one-bond-core_1.8.6-1-g398e8ed-2025.01.21.12.00_amd64.deb

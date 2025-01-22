@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 10 Oct 2024 00:00:00 -0000
+Source: ros-one-libmavconn
+Binary: ros-one-libmavconn
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.20.0-1-g08142be7-2025.01.21.13.48
+Distribution: jammy
+Urgency: high
+Maintainer: Vladimir Ermakov <vooon341@gmail.com>
+Changed-By: Vladimir Ermakov <vooon341@gmail.com>
+Description:
+ ros-one-libmavconn - MAVLink communication library.
+Changes:
+ ros-one-libmavconn (1.20.0-1-g08142be7-2025.01.21.13.48) jammy; urgency=high
+Checksums-Sha1:
+ d29f1cd8eecdad9b5ae3d5c0cfb0401714a8019b 1936072 ros-one-libmavconn-dbgsym_1.20.0-1-g08142be7-2025.01.21.13.48_amd64.ddeb
+ 5474d4f92de2b324bbffd92a5967dac914199c05 15547 ros-one-libmavconn_1.20.0-1-g08142be7-2025.01.21.13.48_amd64.buildinfo
+ 94e29efc2d3ce95f4be5c22bf99164bcae0e6576 112864 ros-one-libmavconn_1.20.0-1-g08142be7-2025.01.21.13.48_amd64.deb
+Checksums-Sha256:
+ 9bcc099dc6e52498185592f4224d647c14e1cde4b60a295784e6c0ca80d1f8ba 1936072 ros-one-libmavconn-dbgsym_1.20.0-1-g08142be7-2025.01.21.13.48_amd64.ddeb
+ f3cba167b73c03a9d792cfadda7db7f8934162a05132421b0eb5a4923f34d706 15547 ros-one-libmavconn_1.20.0-1-g08142be7-2025.01.21.13.48_amd64.buildinfo
+ d928594ac80f5fa0a4c81231e5ab2ada70a603f75a8bfcb96059e04a8099bd52 112864 ros-one-libmavconn_1.20.0-1-g08142be7-2025.01.21.13.48_amd64.deb
+Files:
+ 2a0b73e47e35792dee3343afca0083e2 1936072 debug optional ros-one-libmavconn-dbgsym_1.20.0-1-g08142be7-2025.01.21.13.48_amd64.ddeb
+ 1ee5fb00bd412f799c6f0edfa1545ab6 15547 misc optional ros-one-libmavconn_1.20.0-1-g08142be7-2025.01.21.13.48_amd64.buildinfo
+ 57c18406fe9111042474c6c7ef7c6776 112864 misc optional ros-one-libmavconn_1.20.0-1-g08142be7-2025.01.21.13.48_amd64.deb

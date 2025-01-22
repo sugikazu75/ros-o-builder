@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-zdepth-image-transport
+Binary: ros-one-zdepth-image-transport
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.01.21.22.40
+Distribution: jammy
+Urgency: high
+Maintainer: Shingo Kitagawa <shingogo.5511@gmail.com>
+Changed-By: Shingo Kitagawa <shingogo.5511@gmail.com>
+Description:
+ ros-one-zdepth-image-transport - The zdepth_image_transport package
+Changes:
+ ros-one-zdepth-image-transport (2.1.29-6-g5b37f2c7-2025.01.21.22.40) jammy; urgency=high
+Checksums-Sha1:
+ 5b701a23b48853d16240025734120ab6248842de 13617 ros-one-zdepth-image-transport_2.1.29-6-g5b37f2c7-2025.01.21.22.40_amd64.buildinfo
+ c86e117e0dd62e3668d5170386f3d336e2d89ede 17524 ros-one-zdepth-image-transport_2.1.29-6-g5b37f2c7-2025.01.21.22.40_amd64.deb
+Checksums-Sha256:
+ eeec1a208cff1061604b9417ae316253bfcf224042438f6e05b904200a376252 13617 ros-one-zdepth-image-transport_2.1.29-6-g5b37f2c7-2025.01.21.22.40_amd64.buildinfo
+ 35fcbe3cdd191ad70098bcf4514fed2fa59c7523b8ad7b4f366cb97845607e52 17524 ros-one-zdepth-image-transport_2.1.29-6-g5b37f2c7-2025.01.21.22.40_amd64.deb
+Files:
+ 4b58b42b134e5313fa2801d40bd97630 13617 misc optional ros-one-zdepth-image-transport_2.1.29-6-g5b37f2c7-2025.01.21.22.40_amd64.buildinfo
+ cce3b00dc834bb56d98fdb245b725399 17524 misc optional ros-one-zdepth-image-transport_2.1.29-6-g5b37f2c7-2025.01.21.22.40_amd64.deb

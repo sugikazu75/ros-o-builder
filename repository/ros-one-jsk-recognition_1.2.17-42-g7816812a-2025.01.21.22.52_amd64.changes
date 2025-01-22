@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 14 Nov 2023 00:00:00 -0000
+Source: ros-one-jsk-recognition
+Binary: ros-one-jsk-recognition
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.2.17-42-g7816812a-2025.01.21.22.52
+Distribution: jammy
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-recognition - Metapackage that contains recognition package for jsk-ros-pkg
+Changes:
+ ros-one-jsk-recognition (1.2.17-42-g7816812a-2025.01.21.22.52) jammy; urgency=high
+Checksums-Sha1:
+ 3693ce11799712bb4291e017bc5f99366de0b6bf 8202 ros-one-jsk-recognition_1.2.17-42-g7816812a-2025.01.21.22.52_amd64.buildinfo
+ ba3c6f5c631f04dac1813c12c00bec201944c374 2928 ros-one-jsk-recognition_1.2.17-42-g7816812a-2025.01.21.22.52_amd64.deb
+Checksums-Sha256:
+ add8e40f0b0f73c400e8cd1376d4c5309d41efdf4d3eafb2335b51b2fbd4dab5 8202 ros-one-jsk-recognition_1.2.17-42-g7816812a-2025.01.21.22.52_amd64.buildinfo
+ 67caa2d93fe7fef7a9d777812213350167b571a4afd46470c77db5ce5ce0f358 2928 ros-one-jsk-recognition_1.2.17-42-g7816812a-2025.01.21.22.52_amd64.deb
+Files:
+ f1ff41e1cd633f0d35be679e76dcfc8f 8202 misc optional ros-one-jsk-recognition_1.2.17-42-g7816812a-2025.01.21.22.52_amd64.buildinfo
+ 859df0f0c6b23d423e9874bcb974366e 2928 misc optional ros-one-jsk-recognition_1.2.17-42-g7816812a-2025.01.21.22.52_amd64.deb

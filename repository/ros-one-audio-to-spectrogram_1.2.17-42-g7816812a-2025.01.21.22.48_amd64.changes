@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 14 Nov 2023 00:00:00 -0000
+Source: ros-one-audio-to-spectrogram
+Binary: ros-one-audio-to-spectrogram
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.2.17-42-g7816812a-2025.01.21.22.48
+Distribution: jammy
+Urgency: high
+Maintainer: Naoya Yamaguchi <yamaguchi@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Naoya Yamaguchi <yamaguchi@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-audio-to-spectrogram - Convert audio (audio_common_msgs/AudioData) to spectrogram (senso
+Changes:
+ ros-one-audio-to-spectrogram (1.2.17-42-g7816812a-2025.01.21.22.48) jammy; urgency=high
+Checksums-Sha1:
+ c5ccf9d52813b2da85d14a574a7db02d8fc9f8c2 15053 ros-one-audio-to-spectrogram_1.2.17-42-g7816812a-2025.01.21.22.48_amd64.buildinfo
+ a0f272d343e3f4ace869c21d48d50bceef0d58c9 805514 ros-one-audio-to-spectrogram_1.2.17-42-g7816812a-2025.01.21.22.48_amd64.deb
+Checksums-Sha256:
+ c7dbdb46e2b748a17695cbcb68ab0f53c8c53f25a8acaf3420f37fe4901710bd 15053 ros-one-audio-to-spectrogram_1.2.17-42-g7816812a-2025.01.21.22.48_amd64.buildinfo
+ 18ce0adeba1271ff4b06d8ba3322c094cc78d9604a21817ee3ab94c3bc27870b 805514 ros-one-audio-to-spectrogram_1.2.17-42-g7816812a-2025.01.21.22.48_amd64.deb
+Files:
+ 67003b3ee0f9e09be353a6fa8467009d 15053 misc optional ros-one-audio-to-spectrogram_1.2.17-42-g7816812a-2025.01.21.22.48_amd64.buildinfo
+ 9acffaf47da3a19ed1fcb2c55ab41315 805514 misc optional ros-one-audio-to-spectrogram_1.2.17-42-g7816812a-2025.01.21.22.48_amd64.deb

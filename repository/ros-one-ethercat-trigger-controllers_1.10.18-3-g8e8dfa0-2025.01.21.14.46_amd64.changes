@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-ethercat-trigger-controllers
+Binary: ros-one-ethercat-trigger-controllers
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2025.01.21.14.46
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-ethercat-trigger-controllers - Controllers to operate the digital output of the motor controller
+Changes:
+ ros-one-ethercat-trigger-controllers (1.10.18-3-g8e8dfa0-2025.01.21.14.46) jammy; urgency=high
+Checksums-Sha1:
+ ac457c29575c631bdc408607bc760a498e853f99 1546458 ros-one-ethercat-trigger-controllers-dbgsym_1.10.18-3-g8e8dfa0-2025.01.21.14.46_amd64.ddeb
+ 39897eefaa35bb6ea9381ddedf09fe39cc10543a 16170 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.01.21.14.46_amd64.buildinfo
+ c0409b646189cb761a95d147e354d966deb42e14 107532 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.01.21.14.46_amd64.deb
+Checksums-Sha256:
+ cde0fb65080238684d13e9177ea5077c8924e77e8e94b94a21bf08b4b8fe2210 1546458 ros-one-ethercat-trigger-controllers-dbgsym_1.10.18-3-g8e8dfa0-2025.01.21.14.46_amd64.ddeb
+ 9c5e2a06c7c92b7408051d8dbd3daa298484755d273c4c04d19f1c9304de52fd 16170 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.01.21.14.46_amd64.buildinfo
+ aee5a8d105b94cf654f3a536d69d792dcea34810c057ae5ec9b3e1677f1f66f6 107532 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.01.21.14.46_amd64.deb
+Files:
+ 0a25790c3bfb2129376078c3bfad3a31 1546458 debug optional ros-one-ethercat-trigger-controllers-dbgsym_1.10.18-3-g8e8dfa0-2025.01.21.14.46_amd64.ddeb
+ fd07cacb2e153f1561803b00aada636e 16170 misc optional ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.01.21.14.46_amd64.buildinfo
+ d57daf73bfd7ec3438458cee522c17d5 107532 misc optional ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.01.21.14.46_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-voice-text
+Binary: ros-one-voice-text
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.01.21.22.28
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-voice-text - voice_text (www.voicetext.jp)
+Changes:
+ ros-one-voice-text (2.1.29-6-g5b37f2c7-2025.01.21.22.28) jammy; urgency=high
+Checksums-Sha1:
+ 83f7f84bb252ee3c766f80afdd457923bd292ff3 859796 ros-one-voice-text-dbgsym_2.1.29-6-g5b37f2c7-2025.01.21.22.28_amd64.ddeb
+ 89a8cd551dbe4f9a00001525ef9a4dd60174609f 15404 ros-one-voice-text_2.1.29-6-g5b37f2c7-2025.01.21.22.28_amd64.buildinfo
+ e7d698a63945cf32e8109edd4f06d8fe8df02152 84888 ros-one-voice-text_2.1.29-6-g5b37f2c7-2025.01.21.22.28_amd64.deb
+Checksums-Sha256:
+ 41c02b910ab135fb86ca5350ee2808e40ecd03fdf4abb0d17ec61aa90a1d5a0d 859796 ros-one-voice-text-dbgsym_2.1.29-6-g5b37f2c7-2025.01.21.22.28_amd64.ddeb
+ 485339ee00b0a23b51c31ee59e78376718eaf4e340055a7cc10dafcb675e481e 15404 ros-one-voice-text_2.1.29-6-g5b37f2c7-2025.01.21.22.28_amd64.buildinfo
+ 04c438ecd2f92e6ce47071502e7b41e88c43d202543ff38fac8a61cdee0ffff8 84888 ros-one-voice-text_2.1.29-6-g5b37f2c7-2025.01.21.22.28_amd64.deb
+Files:
+ c7aded8d1205a10bc17529227199d02c 859796 debug optional ros-one-voice-text-dbgsym_2.1.29-6-g5b37f2c7-2025.01.21.22.28_amd64.ddeb
+ 3a23ab8ee6b865798f02d1127d3e4d69 15404 misc optional ros-one-voice-text_2.1.29-6-g5b37f2c7-2025.01.21.22.28_amd64.buildinfo
+ c92f70cfdb5b171faac4ab54a63fbfd8 84888 misc optional ros-one-voice-text_2.1.29-6-g5b37f2c7-2025.01.21.22.28_amd64.deb

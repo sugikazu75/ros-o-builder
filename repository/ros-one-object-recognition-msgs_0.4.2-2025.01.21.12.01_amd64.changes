@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 23 Apr 2020 00:00:00 -0000
+Source: ros-one-object-recognition-msgs
+Binary: ros-one-object-recognition-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.4.2-2025.01.21.12.01
+Distribution: jammy
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-object-recognition-msgs - Object_recognition_msgs contains the ROS message and the actionli
+Changes:
+ ros-one-object-recognition-msgs (0.4.2-2025.01.21.12.01) jammy; urgency=high
+ .
+   * Bump CMake version to avoid CMP0048
+   * Contributors: Jonathan Binney, Shane Loretz
+Checksums-Sha1:
+ fb5bee97e56ed7d7ea1cb70c1d76b75a563b9abf 9996 ros-one-object-recognition-msgs_0.4.2-2025.01.21.12.01_amd64.buildinfo
+ 3aa75745e7bf15c5ed124823621adeb2f8976ff8 72302 ros-one-object-recognition-msgs_0.4.2-2025.01.21.12.01_amd64.deb
+Checksums-Sha256:
+ ad667cdf38dbb8ed4a9b77795681c7cfec9e17466c364de06ce5093322ddc797 9996 ros-one-object-recognition-msgs_0.4.2-2025.01.21.12.01_amd64.buildinfo
+ 71ecb213f7f33b06902127044c237cb8a6b6abeb4ee4f58115bf9e3b378a14b5 72302 ros-one-object-recognition-msgs_0.4.2-2025.01.21.12.01_amd64.deb
+Files:
+ 46f9d4f798e6f588892dbf5cda11c070 9996 misc optional ros-one-object-recognition-msgs_0.4.2-2025.01.21.12.01_amd64.buildinfo
+ 4204ec6981c81f847c5c659a8b62f30b 72302 misc optional ros-one-object-recognition-msgs_0.4.2-2025.01.21.12.01_amd64.deb

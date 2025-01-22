@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-control-interface
+Binary: ros-one-moveit-ros-control-interface
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-27-gb9ed835eb-2025.01.21.17.31
+Distribution: jammy
+Urgency: high
+Maintainer: Mathias Lüdtke <mathias.luedtke@ipa.fraunhofer.de>
+Changed-By: Mathias Lüdtke <mathias.luedtke@ipa.fraunhofer.de>
+Description:
+ ros-one-moveit-ros-control-interface - ros_control controller manager interface for MoveIt
+Changes:
+ ros-one-moveit-ros-control-interface (1.1.16-27-gb9ed835eb-2025.01.21.17.31) jammy; urgency=high
+Checksums-Sha1:
+ 3fc2c8cffa4dd93c60cc32cda79b688118425872 2124282 ros-one-moveit-ros-control-interface-dbgsym_1.1.16-27-gb9ed835eb-2025.01.21.17.31_amd64.ddeb
+ 2ca51cff8a48f2c7f64a25724f80da0269433c70 24147 ros-one-moveit-ros-control-interface_1.1.16-27-gb9ed835eb-2025.01.21.17.31_amd64.buildinfo
+ 1eabd515b445144f3735da79ff5856db140a5828 147506 ros-one-moveit-ros-control-interface_1.1.16-27-gb9ed835eb-2025.01.21.17.31_amd64.deb
+Checksums-Sha256:
+ e4491efd228eb87793a1aa2010f0a449946ca645a055cbe94478bdd2ca6d5d3d 2124282 ros-one-moveit-ros-control-interface-dbgsym_1.1.16-27-gb9ed835eb-2025.01.21.17.31_amd64.ddeb
+ c1e9bc67d6d4c3129f8dd74f13989ef64dd531aa68b47d4807946a74ef9cbf6e 24147 ros-one-moveit-ros-control-interface_1.1.16-27-gb9ed835eb-2025.01.21.17.31_amd64.buildinfo
+ cfbc05c9f024481129ace2139c0c7a913f0c88f5662ad0fb6b8fee4905254c13 147506 ros-one-moveit-ros-control-interface_1.1.16-27-gb9ed835eb-2025.01.21.17.31_amd64.deb
+Files:
+ b20a35b76413d15ec025a4021879850f 2124282 debug optional ros-one-moveit-ros-control-interface-dbgsym_1.1.16-27-gb9ed835eb-2025.01.21.17.31_amd64.ddeb
+ 320fff25f01dfbf6c3e6f559baf58e56 24147 misc optional ros-one-moveit-ros-control-interface_1.1.16-27-gb9ed835eb-2025.01.21.17.31_amd64.buildinfo
+ 9e2a90f60ed5acbc12ad9efc1a208d06 147506 misc optional ros-one-moveit-ros-control-interface_1.1.16-27-gb9ed835eb-2025.01.21.17.31_amd64.deb

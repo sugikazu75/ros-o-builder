@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-robot-interaction
+Binary: ros-one-moveit-ros-robot-interaction
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-27-gb9ed835eb-2025.01.21.16.35
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-robot-interaction - Components of MoveIt that offer interaction via interactive marke
+Changes:
+ ros-one-moveit-ros-robot-interaction (1.1.16-27-gb9ed835eb-2025.01.21.16.35) jammy; urgency=high
+Checksums-Sha1:
+ bc643c5bee548539a1bf8dca7b58327db62f22b7 5468678 ros-one-moveit-ros-robot-interaction-dbgsym_1.1.16-27-gb9ed835eb-2025.01.21.16.35_amd64.ddeb
+ 833f10072af3c1741bc583fb1c07097be42070e1 24222 ros-one-moveit-ros-robot-interaction_1.1.16-27-gb9ed835eb-2025.01.21.16.35_amd64.buildinfo
+ 270644043fbe73101888c5534debf6b641e93405 116382 ros-one-moveit-ros-robot-interaction_1.1.16-27-gb9ed835eb-2025.01.21.16.35_amd64.deb
+Checksums-Sha256:
+ fed6985cc216bfb98975c77e37e3ecab5d99b9211698110ab93d9ac56a3a913e 5468678 ros-one-moveit-ros-robot-interaction-dbgsym_1.1.16-27-gb9ed835eb-2025.01.21.16.35_amd64.ddeb
+ bb4b8fd2dcb544617e45043564da7eb9f2b1a00160f54dda270d018d61f87a46 24222 ros-one-moveit-ros-robot-interaction_1.1.16-27-gb9ed835eb-2025.01.21.16.35_amd64.buildinfo
+ 5cf94e0f0224290d40d6f9474c0e8ffb9aa8456f9537497e4544edc0986d4b3a 116382 ros-one-moveit-ros-robot-interaction_1.1.16-27-gb9ed835eb-2025.01.21.16.35_amd64.deb
+Files:
+ 860f6b545be827cad5c8eb135963d03d 5468678 debug optional ros-one-moveit-ros-robot-interaction-dbgsym_1.1.16-27-gb9ed835eb-2025.01.21.16.35_amd64.ddeb
+ 177557f7258ba165c5aae5253c7a6481 24222 misc optional ros-one-moveit-ros-robot-interaction_1.1.16-27-gb9ed835eb-2025.01.21.16.35_amd64.buildinfo
+ 35ff5c2cd4dfed71eb0a0a3c573ebc1b 116382 misc optional ros-one-moveit-ros-robot-interaction_1.1.16-27-gb9ed835eb-2025.01.21.16.35_amd64.deb

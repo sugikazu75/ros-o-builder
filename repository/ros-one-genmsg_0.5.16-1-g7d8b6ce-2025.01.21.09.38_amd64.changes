@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Mon, 06 Apr 2020 00:00:00 -0000
+Source: ros-one-genmsg
+Binary: ros-one-genmsg
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.16-1-g7d8b6ce-2025.01.21.09.38
+Distribution: jammy
+Urgency: high
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Changed-By: Dirk Thomas <dthomas@osrfoundation.org>
+Description:
+ ros-one-genmsg - Standalone Python library for generating ROS message and service
+Changes:
+ ros-one-genmsg (0.5.16-1-g7d8b6ce-2025.01.21.09.38) jammy; urgency=high
+ .
+   * fix comment handling in service spec string constants (#92 <https://github.com/ros/genmsg/issues/92>)
+Checksums-Sha1:
+ c4761d6349ea2c7fdc4d746418a40e91b99360ab 8152 ros-one-genmsg_0.5.16-1-g7d8b6ce-2025.01.21.09.38_amd64.buildinfo
+ bf260ae73aed7a058625123d692fcf94569327eb 37576 ros-one-genmsg_0.5.16-1-g7d8b6ce-2025.01.21.09.38_amd64.deb
+Checksums-Sha256:
+ afef97aaa1734e546b58bdb3d2d01584b194d8863097961774b7c88c5763e0f4 8152 ros-one-genmsg_0.5.16-1-g7d8b6ce-2025.01.21.09.38_amd64.buildinfo
+ 08726c14e2f6d0dd5a39b2b99e86573bb7e93b280e88ea9fd316816220ee11d7 37576 ros-one-genmsg_0.5.16-1-g7d8b6ce-2025.01.21.09.38_amd64.deb
+Files:
+ 506eb0b2dac548c276af3bd1d9915edd 8152 misc optional ros-one-genmsg_0.5.16-1-g7d8b6ce-2025.01.21.09.38_amd64.buildinfo
+ 63bbc1a420688f1a3146d6e617380c77 37576 misc optional ros-one-genmsg_0.5.16-1-g7d8b6ce-2025.01.21.09.38_amd64.deb

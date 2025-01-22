@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-pr2-kinematics
+Binary: ros-one-pr2-kinematics
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.0.11-4-gffb1be8-2025.01.21.18.24
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-kinematics - The pr2_kinematics package
+Changes:
+ ros-one-pr2-kinematics (1.0.11-4-gffb1be8-2025.01.21.18.24) jammy; urgency=high
+Checksums-Sha1:
+ 5e2a5eac83ea1bd231e325840fa5d15f95820b6e 8189 ros-one-pr2-kinematics_1.0.11-4-gffb1be8-2025.01.21.18.24_amd64.buildinfo
+ 31026f43a3e6c3f3c41ca255a953a8fc0c7ed4cb 1774 ros-one-pr2-kinematics_1.0.11-4-gffb1be8-2025.01.21.18.24_amd64.deb
+Checksums-Sha256:
+ f2f04fb8ffc467d60b0eae7844052d206a02ee60e479fcb39616d46cc4f636d0 8189 ros-one-pr2-kinematics_1.0.11-4-gffb1be8-2025.01.21.18.24_amd64.buildinfo
+ 6a1b22120320dca5a1e7b016164a0ddca46ed8fda5a02a17795582a1cefa0b25 1774 ros-one-pr2-kinematics_1.0.11-4-gffb1be8-2025.01.21.18.24_amd64.deb
+Files:
+ 10091490fe88773972084b90b9d2a300 8189 misc optional ros-one-pr2-kinematics_1.0.11-4-gffb1be8-2025.01.21.18.24_amd64.buildinfo
+ f715a6bb59a74d1bc413e9dec08b6f30 1774 misc optional ros-one-pr2-kinematics_1.0.11-4-gffb1be8-2025.01.21.18.24_amd64.deb

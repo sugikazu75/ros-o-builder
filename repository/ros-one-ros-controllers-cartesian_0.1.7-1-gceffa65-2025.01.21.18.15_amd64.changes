@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 29 Jul 2024 00:00:00 -0000
+Source: ros-one-ros-controllers-cartesian
+Binary: ros-one-ros-controllers-cartesian
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.7-1-gceffa65-2025.01.21.18.15
+Distribution: jammy
+Urgency: high
+Maintainer: Felix Exner <exner@fzi.de>
+Changed-By: Felix Exner <exner@fzi.de>
+Description:
+ ros-one-ros-controllers-cartesian - Metapackage for Cartesian ROS controllers
+Changes:
+ ros-one-ros-controllers-cartesian (0.1.7-1-gceffa65-2025.01.21.18.15) jammy; urgency=high
+Checksums-Sha1:
+ 2b7762c529e7991a283e863908c2d15465f65ca2 8240 ros-one-ros-controllers-cartesian_0.1.7-1-gceffa65-2025.01.21.18.15_amd64.buildinfo
+ ca4e6e6c5c7a88ec4a266a9c8de774b14e995cff 2014 ros-one-ros-controllers-cartesian_0.1.7-1-gceffa65-2025.01.21.18.15_amd64.deb
+Checksums-Sha256:
+ b21ced1dbcf679fce639f87c231ec54d55b940aebc5077c9d4e9cb731f599395 8240 ros-one-ros-controllers-cartesian_0.1.7-1-gceffa65-2025.01.21.18.15_amd64.buildinfo
+ d26e5d314df59e27e1e67a75131687862da88502230371fe3d8be18a52c93eb1 2014 ros-one-ros-controllers-cartesian_0.1.7-1-gceffa65-2025.01.21.18.15_amd64.deb
+Files:
+ 5117716cfaa356f7fe92619b50ee6f7e 8240 misc optional ros-one-ros-controllers-cartesian_0.1.7-1-gceffa65-2025.01.21.18.15_amd64.buildinfo
+ 214ed9de5348e88c1d2cda8465096f38 2014 misc optional ros-one-ros-controllers-cartesian_0.1.7-1-gceffa65-2025.01.21.18.15_amd64.deb

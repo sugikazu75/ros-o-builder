@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-jsk-3rdparty
+Binary: ros-one-jsk-3rdparty
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.01.21.20.50
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-3rdparty - Metapackage that contains commonly used 3rdparty toolset for jsk-
+Changes:
+ ros-one-jsk-3rdparty (2.1.29-6-g5b37f2c7-2025.01.21.20.50) jammy; urgency=high
+Checksums-Sha1:
+ 4e188cafef59067483e79c947aa4b787a9e2b2e0 8183 ros-one-jsk-3rdparty_2.1.29-6-g5b37f2c7-2025.01.21.20.50_amd64.buildinfo
+ ace9da19cd9ba90f9cb4a9d50f8dc0182e41dbf8 4102 ros-one-jsk-3rdparty_2.1.29-6-g5b37f2c7-2025.01.21.20.50_amd64.deb
+Checksums-Sha256:
+ 4ff71efedc60e233505855eaede9d43c5892949a7ff645682b28b9d229911842 8183 ros-one-jsk-3rdparty_2.1.29-6-g5b37f2c7-2025.01.21.20.50_amd64.buildinfo
+ bfd6688f04d99a127debcc1db951a2b3ec0fcf2aef43b7d76fe66374006373e5 4102 ros-one-jsk-3rdparty_2.1.29-6-g5b37f2c7-2025.01.21.20.50_amd64.deb
+Files:
+ c8d5318d7714eb9758a2ece9dbc17751 8183 misc optional ros-one-jsk-3rdparty_2.1.29-6-g5b37f2c7-2025.01.21.20.50_amd64.buildinfo
+ 0e43e8c944f64d056bd2138631e6014f 4102 misc optional ros-one-jsk-3rdparty_2.1.29-6-g5b37f2c7-2025.01.21.20.50_amd64.deb

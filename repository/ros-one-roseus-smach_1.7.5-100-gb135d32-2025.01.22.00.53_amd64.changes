@@ -1,0 +1,93 @@
+Format: 1.8
+Date: Mon, 13 Dec 2021 00:00:00 -0000
+Source: ros-one-roseus-smach
+Binary: ros-one-roseus-smach
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.7.5-100-gb135d32-2025.01.22.00.53
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-roseus-smach - roseus_smach * Euslisp state machine class.
+Changes:
+ ros-one-roseus-smach (1.7.5-100-gb135d32-2025.01.22.00.53) jammy; urgency=high
+ .
+   * [roseus_smach] add :append-goal-state (#696 <https://github.com/jsk-ros-pkg/jsk_roseus/issues/696>)
+   * add nested example with make-state-machine function (#661 <https://github.com/jsk-ros-pkg/jsk_roseus/issues/661>)
+ .
+       * add readme on smach-simple-nested
+       * use defmacro instead of defun for make-simple-state
+     without this, we need to write
+     ```
+     (setq sm-top
+     (make-state-machine
+     '((:bas :outcome3 :sub) ;; transitions
+     (:sub :outcome4 :outcome5))
+     `((:bas 'func-bas)  ;; functon maps
+     (:sub ,sm-sub))   ;; set "nestaed state machine"
+     '(:bas)      ;; initial
+     '(:outcome5) ;; goal
+     ))
+     ```
+     to avoid
+     ```
+     /opt/ros/melodic/share/euslisp/jskeus/eus/Linux64/bin/irteusgl unittest-error: unbound variable sm-sub in (eval (get-alist node func-map)), exitting...
+     ```
+     errors,
+     this change enable us to write intuitive way
+     ```
+     '((:bas 'func-bas)  ;; functon maps
+     (:sub sm-sub))   ;; set "nestaed state machine"
+     ```
+     you can test this behavior with
+     ```
+     (defmacro test (l)
+     `(dolist (e ,l)
+     (print e)
+     (print (eval (cadr e)))))
+     (defmacro test (l)
+     (dolist (e l)
+     (print e)
+     (print (eval (cadr e)))))
+     (let (a)
+     (setq a 10)
+     (test '((:foo 1)  (:bar a))))
+     ```
+   * [roseus_smach] make roseus_smach execution faster (#684 <https://github.com/jsk-ros-pkg/jsk_roseus/issues/684>)
+ .
+       * sleep 0.5 s for publisher
+       * use ros::sleep for smach execution
+ .
+   * [roseus_smach] add more ros-info in convert-smach (#683 <https://github.com/jsk-ros-pkg/jsk_roseus/issues/683>)
+   * [roseus_smach] fix typo in state-machine-utils.l (#693 <https://github.com/jsk-ros-pkg/jsk_roseus/issues/693>)
+   * [roseus_smach] add :start-state and :goal-state in convert-smach (#682 <https://github.com/jsk-ros-pkg/jsk_roseus/issues/682>)
+   * [roseus_smach] add groupname in state-machine-inspector (#691 <https://github.com/jsk-ros-pkg/jsk_roseus/issues/691>)
+ .
+       * use send sm :spin-once in state-machine-utils.l
+       * add groupname and spin-once with groupname
+ .
+   * Updates to README sample code and explanations (#659 <https://github.com/jsk-ros-pkg/jsk_roseus/issues/659>)
+ .
+       * extend test time limit to 120 sec for test-samples.l
+       * add example/test for smach-simple with make-state-machine function
+       * write more info similar to rospy implementation
+       * add more info(URL/python code) on sample
+       * fix typo of nestate state machine example path
+       * add make-sample-parallel-state-machine tests
+       * add more test, check :active-tates, duration time
+ .
+   * [roseus_smach] use roseus for parallel-state-machine-sample (#651 <https://github.com/jsk-ros-pkg/jsk_roseus/issues/651>)
+   * [roseus_smach] add smach_viewer installation to README (#641 <https://github.com/jsk-ros-pkg/jsk_roseus/issues/641>)
+   * [roseus_smach] add code explanation of simple-state-machine in README.md. (#627 <https://github.com/jsk-ros-pkg/jsk_roseus/issues/627>)
+   * Contributors: Guilherme Affonso, Kei Okada, Naoki Hiraoka, Naoya Yamaguchi, Shingo Kitagawa, Yoichiro Kawamura
+Checksums-Sha1:
+ dbe8fdf37787ede9034050a063059d4ca47014f6 20989 ros-one-roseus-smach_1.7.5-100-gb135d32-2025.01.22.00.53_amd64.buildinfo
+ 85fda8652394316a85c495f3b4dc69110b656afb 57008 ros-one-roseus-smach_1.7.5-100-gb135d32-2025.01.22.00.53_amd64.deb
+Checksums-Sha256:
+ 85aa9aaa2e0430aadd843373e264399e8ed7ca1b25a7abe1d8941c5c76bdff44 20989 ros-one-roseus-smach_1.7.5-100-gb135d32-2025.01.22.00.53_amd64.buildinfo
+ 3a9a8422b6d2758c72ebf6e3425899d3445a4e576c79ea11cf315493e057e4ef 57008 ros-one-roseus-smach_1.7.5-100-gb135d32-2025.01.22.00.53_amd64.deb
+Files:
+ dc35a0866d3144ac88af4f45b8e12f6d 20989 misc optional ros-one-roseus-smach_1.7.5-100-gb135d32-2025.01.22.00.53_amd64.buildinfo
+ 4d1668bb449d115fc69da181dc1d7183 57008 misc optional ros-one-roseus-smach_1.7.5-100-gb135d32-2025.01.22.00.53_amd64.deb

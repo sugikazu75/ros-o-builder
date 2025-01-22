@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Wed, 14 Jul 2021 00:00:00 -0000
+Source: ros-one-agni-tf-tools
+Binary: ros-one-agni-tf-tools
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.6-4-geee30f6-2025.01.21.14.44
+Distribution: jammy
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-agni-tf-tools - This package provides a gui program as well as a rviz plugin to p
+Changes:
+ ros-one-agni-tf-tools (0.1.6-4-geee30f6-2025.01.21.14.44) jammy; urgency=high
+ .
+   * Remove setStatus() variants
+   * Cancel TF request if not needed anymore
+   * Fix issue when publishing an unknown parent transform
+   * Contributors: Robert Haschke
+Checksums-Sha1:
+ 4ac74326bd8985d1f33f37cac7bbed5147b95e5a 7654678 ros-one-agni-tf-tools-dbgsym_0.1.6-4-geee30f6-2025.01.21.14.44_amd64.ddeb
+ 973f3eaba815fccc5b6328d5e5cbd9516d253d09 29526 ros-one-agni-tf-tools_0.1.6-4-geee30f6-2025.01.21.14.44_amd64.buildinfo
+ 2327a75c6b95aeaf71a81500a9b6ca7b3ef24c15 143712 ros-one-agni-tf-tools_0.1.6-4-geee30f6-2025.01.21.14.44_amd64.deb
+Checksums-Sha256:
+ 12b8cacfb945c86ff7f981ad13795a24ce6ed13fc3b37c8b55f4c4296ed1aa65 7654678 ros-one-agni-tf-tools-dbgsym_0.1.6-4-geee30f6-2025.01.21.14.44_amd64.ddeb
+ 1bb8abe59cc907db685fb1993bb701a590d4ec4d44f34e39f9e9032f58b422d1 29526 ros-one-agni-tf-tools_0.1.6-4-geee30f6-2025.01.21.14.44_amd64.buildinfo
+ d0e05efff94c750d5b372321c4148941d0924a5f7555224d9476476cf9646592 143712 ros-one-agni-tf-tools_0.1.6-4-geee30f6-2025.01.21.14.44_amd64.deb
+Files:
+ ea4c5fee0d37512d3d4a70081750b6f7 7654678 debug optional ros-one-agni-tf-tools-dbgsym_0.1.6-4-geee30f6-2025.01.21.14.44_amd64.ddeb
+ c040de991d7415ce7d6235ca9428f7b0 29526 misc optional ros-one-agni-tf-tools_0.1.6-4-geee30f6-2025.01.21.14.44_amd64.buildinfo
+ ebb862be1b9e36015c91f447479d94bc 143712 misc optional ros-one-agni-tf-tools_0.1.6-4-geee30f6-2025.01.21.14.44_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 31 Jul 2020 00:00:00 -0000
+Source: ros-one-ros-tutorials
+Binary: ros-one-ros-tutorials
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.10.2-3-gdb63288-2025.01.21.12.07
+Distribution: jammy
+Urgency: high
+Maintainer: Mabel Zhang <mabel@openrobotics.org>
+Changed-By: Mabel Zhang <mabel@openrobotics.org>
+Description:
+ ros-one-ros-tutorials - ros_tutorials contains packages that demonstrate various features
+Changes:
+ ros-one-ros-tutorials (0.10.2-3-gdb63288-2025.01.21.12.07) jammy; urgency=high
+Checksums-Sha1:
+ 4a1916d0d01efb5c3d0f560b08f06808a87ff6c6 8184 ros-one-ros-tutorials_0.10.2-3-gdb63288-2025.01.21.12.07_amd64.buildinfo
+ 8becfbc6ef42c84d963f2e8721d1f4e02bebfd64 2468 ros-one-ros-tutorials_0.10.2-3-gdb63288-2025.01.21.12.07_amd64.deb
+Checksums-Sha256:
+ be4e4c9d5cf7219fc6fa41f250526de6bfc5c16a779415af806b432b79369380 8184 ros-one-ros-tutorials_0.10.2-3-gdb63288-2025.01.21.12.07_amd64.buildinfo
+ 6ba8f1cd9aed11282fd1db72863b7fc50cb990be275bcc3c44256248863b5b3c 2468 ros-one-ros-tutorials_0.10.2-3-gdb63288-2025.01.21.12.07_amd64.deb
+Files:
+ 8bad90fe5933bb269057cd43381fff18 8184 misc optional ros-one-ros-tutorials_0.10.2-3-gdb63288-2025.01.21.12.07_amd64.buildinfo
+ 4d8a9d85f8ee3ab119f674bc6c3e3957 2468 misc optional ros-one-ros-tutorials_0.10.2-3-gdb63288-2025.01.21.12.07_amd64.deb

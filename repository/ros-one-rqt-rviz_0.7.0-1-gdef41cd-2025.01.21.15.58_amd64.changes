@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Tue, 22 Jun 2021 00:00:00 -0000
+Source: ros-one-rqt-rviz
+Binary: ros-one-rqt-rviz
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.0-1-gdef41cd-2025.01.21.15.58
+Distribution: jammy
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-rqt-rviz - rqt_rviz provides a GUI plugin embedding RViz.
+Changes:
+ ros-one-rqt-rviz (0.7.0-1-gdef41cd-2025.01.21.15.58) jammy; urgency=high
+ .
+   * Fixup catkin_lint issues
+   * Update maintainers
+   * Correctly update window title with context serial no
+   * Notice changes of display config file
+   * Find quit action by name
+   * Suppress rviz splash screen
+   * fix shebang line for python3 (#14 <https://github.com/ros-visualization/rqt_rviz/issues/14>)
+   * Contributors: Mikael Arguedas, Robert Haschke
+Checksums-Sha1:
+ ee0a42ce9cb4f5c77e8bc7dc6d99562c9f3953de 850046 ros-one-rqt-rviz-dbgsym_0.7.0-1-gdef41cd-2025.01.21.15.58_amd64.ddeb
+ baa2254aca9cd46a78456caeb91777a6886d79f8 29979 ros-one-rqt-rviz_0.7.0-1-gdef41cd-2025.01.21.15.58_amd64.buildinfo
+ c876eecd057eb1f812c46f8f3b3dbb24adacb717 36238 ros-one-rqt-rviz_0.7.0-1-gdef41cd-2025.01.21.15.58_amd64.deb
+Checksums-Sha256:
+ a8c329813f5b6d47662927f0df9c1e8801a4252782bb845604324bca93969378 850046 ros-one-rqt-rviz-dbgsym_0.7.0-1-gdef41cd-2025.01.21.15.58_amd64.ddeb
+ 853526b9341ddaa454c6d3c111f4743a77a6f2a9157eedb222fa0ceb4f1d5e2f 29979 ros-one-rqt-rviz_0.7.0-1-gdef41cd-2025.01.21.15.58_amd64.buildinfo
+ eb28775ce1dd3021abf6f4f09a839edf8f464c37f332585a531c9b1c5b1ef4f9 36238 ros-one-rqt-rviz_0.7.0-1-gdef41cd-2025.01.21.15.58_amd64.deb
+Files:
+ 32eb2c70308a2592693a89e7dd5ca0e9 850046 debug optional ros-one-rqt-rviz-dbgsym_0.7.0-1-gdef41cd-2025.01.21.15.58_amd64.ddeb
+ a68cf98e8c2f4126337f5fc4a287e56d 29979 misc optional ros-one-rqt-rviz_0.7.0-1-gdef41cd-2025.01.21.15.58_amd64.buildinfo
+ aa5d653e52c4c0e9199ff4291a752528 36238 misc optional ros-one-rqt-rviz_0.7.0-1-gdef41cd-2025.01.21.15.58_amd64.deb

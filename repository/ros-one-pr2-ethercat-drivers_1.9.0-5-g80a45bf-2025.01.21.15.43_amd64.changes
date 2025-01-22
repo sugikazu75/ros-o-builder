@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 03 Mar 2021 00:00:00 -0000
+Source: ros-one-pr2-ethercat-drivers
+Binary: ros-one-pr2-ethercat-drivers
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.9.0-5-g80a45bf-2025.01.21.15.43
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-ethercat-drivers - This stack contains drivers for the ethercat system and the perip
+Changes:
+ ros-one-pr2-ethercat-drivers (1.9.0-5-g80a45bf-2025.01.21.15.43) jammy; urgency=high
+Checksums-Sha1:
+ 8399ea4ed399028445e8df7ed35c43eb139f1949 8215 ros-one-pr2-ethercat-drivers_1.9.0-5-g80a45bf-2025.01.21.15.43_amd64.buildinfo
+ c9b15450d8434a4d8273d5caf4ca5c1ad62b57cf 2196 ros-one-pr2-ethercat-drivers_1.9.0-5-g80a45bf-2025.01.21.15.43_amd64.deb
+Checksums-Sha256:
+ 7b8c4e11eae203be78003e6d445041089286a7e14f7a306161c3c2e200fdbf61 8215 ros-one-pr2-ethercat-drivers_1.9.0-5-g80a45bf-2025.01.21.15.43_amd64.buildinfo
+ 801833e8ac33539f8ff4f36e1d09a10ca9009b76e28cbc9c284a0890abf1195b 2196 ros-one-pr2-ethercat-drivers_1.9.0-5-g80a45bf-2025.01.21.15.43_amd64.deb
+Files:
+ 60ce6dc623d6e9caa47861161fdb4012 8215 misc optional ros-one-pr2-ethercat-drivers_1.9.0-5-g80a45bf-2025.01.21.15.43_amd64.buildinfo
+ 815cafd56fda5002cef72a27562a0f80 2196 misc optional ros-one-pr2-ethercat-drivers_1.9.0-5-g80a45bf-2025.01.21.15.43_amd64.deb

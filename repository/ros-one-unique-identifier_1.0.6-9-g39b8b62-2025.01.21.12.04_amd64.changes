@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 04 Apr 2017 00:00:00 -0000
+Source: ros-one-unique-identifier
+Binary: ros-one-unique-identifier
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.0.6-9-g39b8b62-2025.01.21.12.04
+Distribution: jammy
+Urgency: high
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Changed-By: Jack O'Quin <jack.oquin@gmail.com>
+Description:
+ ros-one-unique-identifier - ROS messages and interfaces for universally unique identifiers.
+Changes:
+ ros-one-unique-identifier (1.0.6-9-g39b8b62-2025.01.21.12.04) jammy; urgency=high
+Checksums-Sha1:
+ 8b0c078383a3034d60aa19f6023c00cda4d39994 8200 ros-one-unique-identifier_1.0.6-9-g39b8b62-2025.01.21.12.04_amd64.buildinfo
+ 7be0302b0e46df9799a00bbe20785b7f0d6f5ea3 2018 ros-one-unique-identifier_1.0.6-9-g39b8b62-2025.01.21.12.04_amd64.deb
+Checksums-Sha256:
+ f7c0ee7828fa545b0f03d2c891c27bca67ae1dceb1230e83856254048be9bc50 8200 ros-one-unique-identifier_1.0.6-9-g39b8b62-2025.01.21.12.04_amd64.buildinfo
+ fc0a2cae5beac0de946e4e41cb068d33ced27226ef159f130633bbfe1ce52da8 2018 ros-one-unique-identifier_1.0.6-9-g39b8b62-2025.01.21.12.04_amd64.deb
+Files:
+ 9b8a4d548df75089b9213c20bc666e8a 8200 misc optional ros-one-unique-identifier_1.0.6-9-g39b8b62-2025.01.21.12.04_amd64.buildinfo
+ 8e555e91bb6e491c75a7bfe48611f7a1 2018 misc optional ros-one-unique-identifier_1.0.6-9-g39b8b62-2025.01.21.12.04_amd64.deb

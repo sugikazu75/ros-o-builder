@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Thu, 15 Jul 2021 00:00:00 -0000
+Source: ros-one-industrial-robot-simulator
+Binary: ros-one-industrial-robot-simulator
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.3-7-ge4d2633-2025.01.21.18.01
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-industrial-robot-simulator - The industrial robot simulator is a stand in for industrial robot
+Changes:
+ ros-one-industrial-robot-simulator (0.7.3-7-ge4d2633-2025.01.21.18.01) jammy; urgency=high
+ .
+   * No changes
+Checksums-Sha1:
+ 26aaafead79f92e9b5e36c7c8898781c080e4869 8248 ros-one-industrial-robot-simulator_0.7.3-7-ge4d2633-2025.01.21.18.01_amd64.buildinfo
+ 7d5e12ffc4087a80f13a838cd530629f3adcb9e2 12318 ros-one-industrial-robot-simulator_0.7.3-7-ge4d2633-2025.01.21.18.01_amd64.deb
+Checksums-Sha256:
+ be9514fbc4822b1e4434fda5bcaf1926470d523535fb8f2fe76c660d837565a0 8248 ros-one-industrial-robot-simulator_0.7.3-7-ge4d2633-2025.01.21.18.01_amd64.buildinfo
+ 5dcdf9ec6b3774b65da7976f7110726fa2990d2dd20c4ca2fc386d1bdc3d0743 12318 ros-one-industrial-robot-simulator_0.7.3-7-ge4d2633-2025.01.21.18.01_amd64.deb
+Files:
+ 82e1441919092d119da1cef27020b61d 8248 misc optional ros-one-industrial-robot-simulator_0.7.3-7-ge4d2633-2025.01.21.18.01_amd64.buildinfo
+ 77285f57fa2efe59ed37607c4b6aa001 12318 misc optional ros-one-industrial-robot-simulator_0.7.3-7-ge4d2633-2025.01.21.18.01_amd64.deb

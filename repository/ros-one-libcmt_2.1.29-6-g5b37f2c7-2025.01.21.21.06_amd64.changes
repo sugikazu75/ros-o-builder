@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-libcmt
+Binary: ros-one-libcmt
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.01.21.21.06
+Distribution: jammy
+Urgency: high
+Maintainer: Yuto Inagaki <inagaki@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Yuto Inagaki <inagaki@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-libcmt - libCMT ROS Wrapper
+Changes:
+ ros-one-libcmt (2.1.29-6-g5b37f2c7-2025.01.21.21.06) jammy; urgency=high
+Checksums-Sha1:
+ 35cc2fd823ddecdfcb54a185c33bcc2b9b2d85ae 435934 ros-one-libcmt-dbgsym_2.1.29-6-g5b37f2c7-2025.01.21.21.06_amd64.ddeb
+ 6fd46a8d64584dfade344347eea9af601be0bfdd 27632 ros-one-libcmt_2.1.29-6-g5b37f2c7-2025.01.21.21.06_amd64.buildinfo
+ 8a2708286739c6e076ff971b0cb808ea9f69e4b1 28914 ros-one-libcmt_2.1.29-6-g5b37f2c7-2025.01.21.21.06_amd64.deb
+Checksums-Sha256:
+ 7a2cc532f4b91d2ece6619cd5a60081f221b26e39553b6925537df8d68d2fc5f 435934 ros-one-libcmt-dbgsym_2.1.29-6-g5b37f2c7-2025.01.21.21.06_amd64.ddeb
+ 22cae7f8aaa3d2df819ce0e11a9cfb75d86f9c190408a36b44c61c00057a8e8d 27632 ros-one-libcmt_2.1.29-6-g5b37f2c7-2025.01.21.21.06_amd64.buildinfo
+ f4dde65560846f862cc6b8cd20e6c7fb3e9fa81d18754bef5ce5415b5602450b 28914 ros-one-libcmt_2.1.29-6-g5b37f2c7-2025.01.21.21.06_amd64.deb
+Files:
+ 44cc0e05a6ce5edc40bbc554a39f973d 435934 debug optional ros-one-libcmt-dbgsym_2.1.29-6-g5b37f2c7-2025.01.21.21.06_amd64.ddeb
+ 43909ad6776eba41df36c07c4c239750 27632 misc optional ros-one-libcmt_2.1.29-6-g5b37f2c7-2025.01.21.21.06_amd64.buildinfo
+ 17633e9f913b8a97baa12e8cdc0676e9 28914 misc optional ros-one-libcmt_2.1.29-6-g5b37f2c7-2025.01.21.21.06_amd64.deb

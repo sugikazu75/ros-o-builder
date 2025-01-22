@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 26 Jun 2020 00:00:00 -0000
+Source: ros-one-teleop-twist-keyboard
+Binary: ros-one-teleop-twist-keyboard
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.0.0-11-g8e1e14f-2025.01.21.12.07
+Distribution: jammy
+Urgency: high
+Maintainer: Austin Hendrix <namniart@gmail.com>
+Changed-By: Austin Hendrix <namniart@gmail.com>
+Description:
+ ros-one-teleop-twist-keyboard - Generic keyboard teleop for twist robots.
+Changes:
+ ros-one-teleop-twist-keyboard (1.0.0-11-g8e1e14f-2025.01.21.12.07) jammy; urgency=high
+ .
+   * Implement repeat rate and key timeout
+   * Update readme about publishing to another topic.
+   * Contributors: Austin, trainman419
+Checksums-Sha1:
+ a53bde317bb47b62351bec741fac79799a4caefe 8224 ros-one-teleop-twist-keyboard_1.0.0-11-g8e1e14f-2025.01.21.12.07_amd64.buildinfo
+ ee5a023fa386c864de32e1c81066ca5b1ac5adf6 7484 ros-one-teleop-twist-keyboard_1.0.0-11-g8e1e14f-2025.01.21.12.07_amd64.deb
+Checksums-Sha256:
+ c3e232ae54063689ec03b09304f27405cd7bfb38ab82583bd11a1d980a95474a 8224 ros-one-teleop-twist-keyboard_1.0.0-11-g8e1e14f-2025.01.21.12.07_amd64.buildinfo
+ 960cc2aa2719488075ed226e49b90195c9643b8ec7cea141a4044e06ad217d90 7484 ros-one-teleop-twist-keyboard_1.0.0-11-g8e1e14f-2025.01.21.12.07_amd64.deb
+Files:
+ f8eb72d61fd407323eea095b8cfbefe4 8224 misc optional ros-one-teleop-twist-keyboard_1.0.0-11-g8e1e14f-2025.01.21.12.07_amd64.buildinfo
+ 0f7c9efa8ec9e032e5cfccfde4466fa7 7484 misc optional ros-one-teleop-twist-keyboard_1.0.0-11-g8e1e14f-2025.01.21.12.07_amd64.deb

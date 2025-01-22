@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 22 Jun 2022 00:00:00 -0000
+Source: ros-one-pr2-mechanism
+Binary: ros-one-pr2-mechanism
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.8.21-7-g3b10e3e-2025.01.21.14.08
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-mechanism - The pr2_mechanism stack contains the infrastructure to control th
+Changes:
+ ros-one-pr2-mechanism (1.8.21-7-g3b10e3e-2025.01.21.14.08) jammy; urgency=high
+Checksums-Sha1:
+ 3ce414e5997c9b95d7e73cfce644b18a636a0def 8184 ros-one-pr2-mechanism_1.8.21-7-g3b10e3e-2025.01.21.14.08_amd64.buildinfo
+ d0de5b558c110d599b6019c3a8cc86bf6bb8cf0c 2090 ros-one-pr2-mechanism_1.8.21-7-g3b10e3e-2025.01.21.14.08_amd64.deb
+Checksums-Sha256:
+ 99cc1b2eb80e16e231bf44f93c229c8c8d5cd5dfb7c395d55ec1595c7addeab1 8184 ros-one-pr2-mechanism_1.8.21-7-g3b10e3e-2025.01.21.14.08_amd64.buildinfo
+ bbaa24eb8a169b1417cbc28795194b4921fd60a9d5b467d1e46395ff30a724f3 2090 ros-one-pr2-mechanism_1.8.21-7-g3b10e3e-2025.01.21.14.08_amd64.deb
+Files:
+ 0bf1832f40063af3940cc8b1d15791d8 8184 misc optional ros-one-pr2-mechanism_1.8.21-7-g3b10e3e-2025.01.21.14.08_amd64.buildinfo
+ 81f2d3b2de3c0330c42a4ef180539e75 2090 misc optional ros-one-pr2-mechanism_1.8.21-7-g3b10e3e-2025.01.21.14.08_amd64.deb

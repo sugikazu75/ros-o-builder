@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 22 Jan 2024 00:00:00 -0000
+Source: ros-one-robot-body-filter
+Binary: ros-one-robot-body-filter
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.3.2-1-g4ebbd32-2025.01.21.18.10
+Distribution: jammy
+Urgency: high
+Maintainer: Martin Pecka <peckama2@fel.cvut.cz>
+Changed-By: Martin Pecka <peckama2@fel.cvut.cz>
+Description:
+ ros-one-robot-body-filter - Filters the robot's body out of laser scans or point clouds.
+Changes:
+ ros-one-robot-body-filter (1.3.2-1-g4ebbd32-2025.01.21.18.10) jammy; urgency=high
+ .
+   * Do not segfault when a mesh resource is not found.
+   * Added full_example.
+   * Contributors: Martin Pecka
+Checksums-Sha1:
+ 4b8d17524ab196e775fe54241d7d8e012af1cfb7 6847020 ros-one-robot-body-filter-dbgsym_1.3.2-1-g4ebbd32-2025.01.21.18.10_amd64.ddeb
+ 8f75d45137e9e5f5e65148f7f79ccc0a2e1f0ec8 44529 ros-one-robot-body-filter_1.3.2-1-g4ebbd32-2025.01.21.18.10_amd64.buildinfo
+ 4cf11a534f4965fba7cfee0dfbbfc0aa49a4b9a6 269320 ros-one-robot-body-filter_1.3.2-1-g4ebbd32-2025.01.21.18.10_amd64.deb
+Checksums-Sha256:
+ ea209d11b6fdf01739b24f714dc45b5ce14dc4d06dc4c8e4e927d42d58a3bbe1 6847020 ros-one-robot-body-filter-dbgsym_1.3.2-1-g4ebbd32-2025.01.21.18.10_amd64.ddeb
+ 7e0ed9e1a24f23624eb08eacf6e82d1447c6917b7a50b573f421a8b0a79efc55 44529 ros-one-robot-body-filter_1.3.2-1-g4ebbd32-2025.01.21.18.10_amd64.buildinfo
+ a1ade06af0e6f0f1891c68028c2bc85844586ef1da88b805acb524260d714f8a 269320 ros-one-robot-body-filter_1.3.2-1-g4ebbd32-2025.01.21.18.10_amd64.deb
+Files:
+ 244be7aa0b58e9cc0a9392eca8c5c049 6847020 debug optional ros-one-robot-body-filter-dbgsym_1.3.2-1-g4ebbd32-2025.01.21.18.10_amd64.ddeb
+ b94ad5c88efa3041af3bd6cebdb7a97a 44529 misc optional ros-one-robot-body-filter_1.3.2-1-g4ebbd32-2025.01.21.18.10_amd64.buildinfo
+ c14dd53eca64458765d3637955fd937c 269320 misc optional ros-one-robot-body-filter_1.3.2-1-g4ebbd32-2025.01.21.18.10_amd64.deb

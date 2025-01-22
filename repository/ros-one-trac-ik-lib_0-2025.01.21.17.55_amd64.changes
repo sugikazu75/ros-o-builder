@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 05 May 2021 00:00:00 -0000
+Source: ros-one-trac-ik-lib
+Binary: ros-one-trac-ik-lib
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.01.21.17.55
+Distribution: jammy
+Urgency: high
+Maintainer: TRACLabs Robotics <robotics@traclabs.com>
+Changed-By: TRACLabs Robotics <robotics@traclabs.com>
+Description:
+ ros-one-trac-ik-lib - TRAC-IK is a faster, significantly more reliable drop-in replacem
+Changes:
+ ros-one-trac-ik-lib (0-2025.01.21.17.55) jammy; urgency=high
+Checksums-Sha1:
+ 9887eb71bc9ceff434066c54bfe1a1702aba21e3 2615286 ros-one-trac-ik-lib-dbgsym_0-2025.01.21.17.55_amd64.ddeb
+ 11cc85456d88e503eb384e0552a7378de826dde1 19460 ros-one-trac-ik-lib_0-2025.01.21.17.55_amd64.buildinfo
+ 4dedf97f312696734358725f1df711f12558703a 94522 ros-one-trac-ik-lib_0-2025.01.21.17.55_amd64.deb
+Checksums-Sha256:
+ 362b585a7671c4ebfc1ae92cdcab47b153e80772a7b2e1f7e9bcaed2093c28e0 2615286 ros-one-trac-ik-lib-dbgsym_0-2025.01.21.17.55_amd64.ddeb
+ bf324045b247d67c7d3faacd05870546fb1908e1c77c49fdebb3a24111d76965 19460 ros-one-trac-ik-lib_0-2025.01.21.17.55_amd64.buildinfo
+ 7308e23482f5937acb45c2bd39cd5f7800992daad78dec602787be6138765b18 94522 ros-one-trac-ik-lib_0-2025.01.21.17.55_amd64.deb
+Files:
+ 910941f29bced46f791756b4bc68a533 2615286 debug optional ros-one-trac-ik-lib-dbgsym_0-2025.01.21.17.55_amd64.ddeb
+ 32efa49602a8064a18c8f5ddd8c74db8 19460 misc optional ros-one-trac-ik-lib_0-2025.01.21.17.55_amd64.buildinfo
+ 03672c02dbb624d267b7817f204c591e 94522 misc optional ros-one-trac-ik-lib_0-2025.01.21.17.55_amd64.deb

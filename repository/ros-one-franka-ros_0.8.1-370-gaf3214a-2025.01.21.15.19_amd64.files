@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2025-01-21 15:19 ./
+drwxr-xr-x root/root         0 2025-01-21 15:19 ./opt/
+drwxr-xr-x root/root         0 2025-01-21 15:19 ./opt/ros/
+drwxr-xr-x root/root         0 2025-01-21 15:19 ./opt/ros/one/
+drwxr-xr-x root/root         0 2025-01-21 15:19 ./opt/ros/one/share/
+drwxr-xr-x root/root         0 2025-01-21 15:19 ./opt/ros/one/share/franka_ros/
+-rw-r--r-- root/root      1018 2025-01-21 14:42 ./opt/ros/one/share/franka_ros/package.xml
+drwxr-xr-x root/root         0 2025-01-21 15:19 ./usr/
+drwxr-xr-x root/root         0 2025-01-21 15:19 ./usr/share/
+drwxr-xr-x root/root         0 2025-01-21 15:19 ./usr/share/doc/
+drwxr-xr-x root/root         0 2025-01-21 15:19 ./usr/share/doc/ros-one-franka-ros/
+-rw-r--r-- root/root       212 2025-01-21 15:19 ./usr/share/doc/ros-one-franka-ros/changelog.Debian.gz
+-rw-r--r-- root/root       403 2025-01-21 15:19 ./usr/share/doc/ros-one-franka-ros/copyright

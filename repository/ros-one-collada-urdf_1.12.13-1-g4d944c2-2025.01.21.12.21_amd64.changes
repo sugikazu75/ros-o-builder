@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 14 Jul 2020 00:00:00 -0000
+Source: ros-one-collada-urdf
+Binary: ros-one-collada-urdf
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.12.13-1-g4d944c2-2025.01.21.12.21
+Distribution: jammy
+Urgency: high
+Maintainer: Chris Lalancette <clalancette@osrfoundation.org>
+Changed-By: Chris Lalancette <clalancette@osrfoundation.org>
+Description:
+ ros-one-collada-urdf - This package contains a tool to convert Unified Robot Description
+Changes:
+ ros-one-collada-urdf (1.12.13-1-g4d944c2-2025.01.21.12.21) jammy; urgency=high
+ .
+   * Update to newer CMake to get rid of CMP0048 warning (#38 <https://github.com/ros/collada_urdf/issues/38>)
+   * Enable to output transmission_interface instead of pr2_mechanism_model (#35 <https://github.com/ros/collada_urdf/issues/35>)
+   * Contributors: Chris Lalancette, Shun Hasegawa
+Checksums-Sha1:
+ d1148ad804fb54b9f2b484069232d473ad3a3f2b 3244132 ros-one-collada-urdf-dbgsym_1.12.13-1-g4d944c2-2025.01.21.12.21_amd64.ddeb
+ 037345ba6c3d0432cdba089f4d58e4d1cb0dba06 20545 ros-one-collada-urdf_1.12.13-1-g4d944c2-2025.01.21.12.21_amd64.buildinfo
+ 17a60b8aafa05fcb6e4696454990200b07154006 155582 ros-one-collada-urdf_1.12.13-1-g4d944c2-2025.01.21.12.21_amd64.deb
+Checksums-Sha256:
+ 7565f4bf1581f7bd40ef2d09f7bf109561a7e0fae8e046581ef8db35c21f4d73 3244132 ros-one-collada-urdf-dbgsym_1.12.13-1-g4d944c2-2025.01.21.12.21_amd64.ddeb
+ 2f7a617b6e9783c3ddf00b54dbcce65edcd59938af94cc530d7a5863eb4b32e6 20545 ros-one-collada-urdf_1.12.13-1-g4d944c2-2025.01.21.12.21_amd64.buildinfo
+ 9a2c346eff9712cba38182b9da4c6258b898fc0e44e6fca16e113e46fc971ab1 155582 ros-one-collada-urdf_1.12.13-1-g4d944c2-2025.01.21.12.21_amd64.deb
+Files:
+ 10f1dd05ac47c12bee78ed7a4b4cc155 3244132 debug optional ros-one-collada-urdf-dbgsym_1.12.13-1-g4d944c2-2025.01.21.12.21_amd64.ddeb
+ ec64c773554c52679c0644ac5e7784d8 20545 misc optional ros-one-collada-urdf_1.12.13-1-g4d944c2-2025.01.21.12.21_amd64.buildinfo
+ 27c3e93dbed9cb30a60851b42a50443f 155582 misc optional ros-one-collada-urdf_1.12.13-1-g4d944c2-2025.01.21.12.21_amd64.deb

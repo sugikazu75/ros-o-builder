@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 05 Mar 2021 00:00:00 -0000
+Source: ros-one-fetch-maps
+Binary: ros-one-fetch-maps
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.9.1-5-g11f8df9-2025.01.21.18.08
+Distribution: jammy
+Urgency: high
+Maintainer: Sarah Elliott <selliott@fetchrobotics.com>
+Changed-By: Sarah Elliott <selliott@fetchrobotics.com>
+Description:
+ ros-one-fetch-maps - The fetch_maps package
+Changes:
+ ros-one-fetch-maps (0.9.1-5-g11f8df9-2025.01.21.18.08) jammy; urgency=high
+Checksums-Sha1:
+ 08b3d3d0bad8cec7d3e6c657ee9c3016d1f30644 8171 ros-one-fetch-maps_0.9.1-5-g11f8df9-2025.01.21.18.08_amd64.buildinfo
+ 48f9cd21209d7bae3656d4512c6eea90c1cee099 244046 ros-one-fetch-maps_0.9.1-5-g11f8df9-2025.01.21.18.08_amd64.deb
+Checksums-Sha256:
+ 53f1adf4a5f74d7abd71e18f3d01eaebfc6436fe99e0dbdf532071271a49d9a2 8171 ros-one-fetch-maps_0.9.1-5-g11f8df9-2025.01.21.18.08_amd64.buildinfo
+ 2f327ce8faefc7f2446db982acd109a5c3d411a775fe96b1a8323e61a8173b29 244046 ros-one-fetch-maps_0.9.1-5-g11f8df9-2025.01.21.18.08_amd64.deb
+Files:
+ a32e2576df6a8f115ff9474e83b085dc 8171 misc optional ros-one-fetch-maps_0.9.1-5-g11f8df9-2025.01.21.18.08_amd64.buildinfo
+ 171e0fbe6e77099b79a6143062655270 244046 misc optional ros-one-fetch-maps_0.9.1-5-g11f8df9-2025.01.21.18.08_amd64.deb

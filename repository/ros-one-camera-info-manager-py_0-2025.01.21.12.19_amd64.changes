@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 13 May 2014 00:00:00 -0000
+Source: ros-one-camera-info-manager-py
+Binary: ros-one-camera-info-manager-py
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.01.21.12.19
+Distribution: jammy
+Urgency: high
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Changed-By: Jack O'Quin <jack.oquin@gmail.com>
+Description:
+ ros-one-camera-info-manager-py - Python interface for camera calibration information.
+Changes:
+ ros-one-camera-info-manager-py (0-2025.01.21.12.19) jammy; urgency=high
+Checksums-Sha1:
+ b0b78973ce7ee976350295e84f196bf631b14f66 19767 ros-one-camera-info-manager-py_0-2025.01.21.12.19_amd64.buildinfo
+ 1bed7986ebdb001bdc90f887ec3e63f73f469170 20834 ros-one-camera-info-manager-py_0-2025.01.21.12.19_amd64.deb
+Checksums-Sha256:
+ fd392c42633f04ded54744d9452ad056d631290a0cdc023796761ffce4e7e847 19767 ros-one-camera-info-manager-py_0-2025.01.21.12.19_amd64.buildinfo
+ 10cbc523e697bf4b4ba0829da431128cbd63e2d3461787863e1a29f350b60812 20834 ros-one-camera-info-manager-py_0-2025.01.21.12.19_amd64.deb
+Files:
+ 9289dc572f81c092ae962fe8556b6645 19767 misc optional ros-one-camera-info-manager-py_0-2025.01.21.12.19_amd64.buildinfo
+ a3d22e067999413bc24c565b86a89974 20834 misc optional ros-one-camera-info-manager-py_0-2025.01.21.12.19_amd64.deb

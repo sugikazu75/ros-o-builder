@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Wed, 21 Apr 2021 00:00:00 -0000
+Source: ros-one-gazebo-ros-control
+Binary: ros-one-gazebo-ros-control
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.9.2-6-g959e7d0-2025.01.21.14.02
+Distribution: jammy
+Urgency: high
+Maintainer: Alejandro Hernández Cordero <ahcorde@osrfoundation.org>
+Changed-By: Alejandro Hernández Cordero <ahcorde@osrfoundation.org>
+Description:
+ ros-one-gazebo-ros-control - gazebo_ros_control
+Changes:
+ ros-one-gazebo-ros-control (2.9.2-6-g959e7d0-2025.01.21.14.02) jammy; urgency=high
+ .
+   * colcon.pkg: build gazebo first in colcon workspace (#1135 <https://github.com/ros-simulation/gazebo_ros_pkgs/issues/1135>)
+     Add a colcon.pkg file to gazebo_dev with gazebo's cmake project
+     name "Gazebo" listed as a dependency to support building
+     gazebo from source in a colcon workspace.
+     * Add colcon.pkg files for other packages
+     Copy colcon.pkg to gazebo_ros, gazebo_plugins, and
+     gazebo_ros_control so that --merge-install won't be required.
+   * Contributors: Steve Peters
+Checksums-Sha1:
+ 6a430d0ec775e50346d32f65f94ef8d5bdb8750c 3966780 ros-one-gazebo-ros-control-dbgsym_2.9.2-6-g959e7d0-2025.01.21.14.02_amd64.ddeb
+ 8063649feb484a8e1be28609f76e754af291a647 38773 ros-one-gazebo-ros-control_2.9.2-6-g959e7d0-2025.01.21.14.02_amd64.buildinfo
+ 3a7a0a9f463bea3ea16413afd6352b613f16529b 204876 ros-one-gazebo-ros-control_2.9.2-6-g959e7d0-2025.01.21.14.02_amd64.deb
+Checksums-Sha256:
+ 85a406779f0982e87211f8f5321abe65ca26c3dadd34abb96d909dc3739f8e5b 3966780 ros-one-gazebo-ros-control-dbgsym_2.9.2-6-g959e7d0-2025.01.21.14.02_amd64.ddeb
+ 8317e210eb4391b194ead19597f0d8213ff08f585f5da339a46ee3d36e9b8ecf 38773 ros-one-gazebo-ros-control_2.9.2-6-g959e7d0-2025.01.21.14.02_amd64.buildinfo
+ 88c344be21568074c7febe0fd582e592151ab3796a938ded0e3fe560e7945e85 204876 ros-one-gazebo-ros-control_2.9.2-6-g959e7d0-2025.01.21.14.02_amd64.deb
+Files:
+ bb116c3f57d55eba2ca57900c2d2c1dd 3966780 debug optional ros-one-gazebo-ros-control-dbgsym_2.9.2-6-g959e7d0-2025.01.21.14.02_amd64.ddeb
+ 4d0c8b87075bed59c37191ac2bad984a 38773 misc optional ros-one-gazebo-ros-control_2.9.2-6-g959e7d0-2025.01.21.14.02_amd64.buildinfo
+ 5c9a750895c9aa3195886f5f60b6f5ee 204876 misc optional ros-one-gazebo-ros-control_2.9.2-6-g959e7d0-2025.01.21.14.02_amd64.deb

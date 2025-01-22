@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-rospatlite
+Binary: ros-one-rospatlite
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.01.21.22.01
+Distribution: jammy
+Urgency: high
+Maintainer: Takuya Nakaoka <nakaokat@gmail.com>
+Changed-By: Takuya Nakaoka <nakaokat@gmail.com>
+Description:
+ ros-one-rospatlite - rospatlite
+Changes:
+ ros-one-rospatlite (2.1.29-6-g5b37f2c7-2025.01.21.22.01) jammy; urgency=high
+Checksums-Sha1:
+ 99c50e5369bc6e4893ddaca3785038b2e905568b 12269 ros-one-rospatlite_2.1.29-6-g5b37f2c7-2025.01.21.22.01_amd64.buildinfo
+ 5e182d6566f10ee230b94958b7f2b2b9a245a5d8 7884 ros-one-rospatlite_2.1.29-6-g5b37f2c7-2025.01.21.22.01_amd64.deb
+Checksums-Sha256:
+ 82d6703a758bcf49118f7826f836768a23d8ec3346fa4f71d4d78cdefbd78e62 12269 ros-one-rospatlite_2.1.29-6-g5b37f2c7-2025.01.21.22.01_amd64.buildinfo
+ 8799a75dfba5ea07bded6d1c05c71c613936ce578137dce22cc7102b0c4246f0 7884 ros-one-rospatlite_2.1.29-6-g5b37f2c7-2025.01.21.22.01_amd64.deb
+Files:
+ 8922e2fc85ccfa90c4c6a75e5c9d4522 12269 misc optional ros-one-rospatlite_2.1.29-6-g5b37f2c7-2025.01.21.22.01_amd64.buildinfo
+ 83244777eab0e5d23c68c74fc147346b 7884 misc optional ros-one-rospatlite_2.1.29-6-g5b37f2c7-2025.01.21.22.01_amd64.deb

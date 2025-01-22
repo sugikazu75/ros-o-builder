@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 01 May 2021 00:00:00 -0000
+Source: ros-one-genpy
+Binary: ros-one-genpy
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.6.16-6-gf70658f-2025.01.21.10.00
+Distribution: jammy
+Urgency: high
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Changed-By: Geoffrey Biggs <geoff@openrobotics.org>
+Description:
+ ros-one-genpy - Python ROS message and service generators.
+Changes:
+ ros-one-genpy (0.6.16-6-gf70658f-2025.01.21.10.00) jammy; urgency=high
+ .
+   * Fix runtime incompatibility with messages generated with 0.6.14 (#139 <https://github.com/ros/genpy/issues/139>)
+   * Contributors: Shane Loretz
+Checksums-Sha1:
+ bedea32f7393bff0a03841981dea0038d5c9924d 8203 ros-one-genpy_0.6.16-6-gf70658f-2025.01.21.10.00_amd64.buildinfo
+ f6d0b32229d812e78e44a3da063944cb8601ee57 55220 ros-one-genpy_0.6.16-6-gf70658f-2025.01.21.10.00_amd64.deb
+Checksums-Sha256:
+ e3e6420a385423d27d0ef6c79d9fdb6a892199a7c23ece5f9e4fbb67e6e0c186 8203 ros-one-genpy_0.6.16-6-gf70658f-2025.01.21.10.00_amd64.buildinfo
+ eb2182719d116e1f79e1b08c3d42fdb7b75b37c066a5e4bea8c3cc5ff7fc13c2 55220 ros-one-genpy_0.6.16-6-gf70658f-2025.01.21.10.00_amd64.deb
+Files:
+ 1652d0cf7fd4a31350b12f1d82fa4f8a 8203 misc optional ros-one-genpy_0.6.16-6-gf70658f-2025.01.21.10.00_amd64.buildinfo
+ bd276723a41243bc79295dc62faba983 55220 misc optional ros-one-genpy_0.6.16-6-gf70658f-2025.01.21.10.00_amd64.deb

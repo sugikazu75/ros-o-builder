@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 06 Mar 2023 00:00:00 -0000
+Source: ros-one-moveit-task-constructor-capabilities
+Binary: ros-one-moveit-task-constructor-capabilities
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1-0.1.3-119-g8318546-2025.01.21.18.13
+Distribution: jammy
+Urgency: high
+Maintainer: Michael v4hn Goerner <me@v4hn.de>
+Changed-By: Michael v4hn Goerner <me@v4hn.de>
+Description:
+ ros-one-moveit-task-constructor-capabilities - MoveGroupCapabilites to interact with MoveIt
+Changes:
+ ros-one-moveit-task-constructor-capabilities (1-0.1.3-119-g8318546-2025.01.21.18.13) jammy; urgency=high
+Checksums-Sha1:
+ d2e70d530940070f6f6dfe38469afa8f128005ae 3293554 ros-one-moveit-task-constructor-capabilities-dbgsym_1-0.1.3-119-g8318546-2025.01.21.18.13_amd64.ddeb
+ 42c8c90adb2213ac1b107b7047f084226e0c5a21 27347 ros-one-moveit-task-constructor-capabilities_1-0.1.3-119-g8318546-2025.01.21.18.13_amd64.buildinfo
+ 99c523b0aef82e799c7bba86d417abfff655ac6d 116550 ros-one-moveit-task-constructor-capabilities_1-0.1.3-119-g8318546-2025.01.21.18.13_amd64.deb
+Checksums-Sha256:
+ bdf4c46313dcf6b77dc5e441fc381a00c55b202e9cc2c4da39d89b2cfe1e0969 3293554 ros-one-moveit-task-constructor-capabilities-dbgsym_1-0.1.3-119-g8318546-2025.01.21.18.13_amd64.ddeb
+ 32b73fa4dc2617193001b45eba7ddb3383f77a1e6a8fcb973f7819784f37a06b 27347 ros-one-moveit-task-constructor-capabilities_1-0.1.3-119-g8318546-2025.01.21.18.13_amd64.buildinfo
+ 2b557975bc8a8f17bcf71abba991c38e2c01e7c7b640b0a06afed42965cbf5fd 116550 ros-one-moveit-task-constructor-capabilities_1-0.1.3-119-g8318546-2025.01.21.18.13_amd64.deb
+Files:
+ 9f1139102dcfe546c4764bce09a3b85e 3293554 debug optional ros-one-moveit-task-constructor-capabilities-dbgsym_1-0.1.3-119-g8318546-2025.01.21.18.13_amd64.ddeb
+ a36b5817ec522b3ebe86429bf76e3d7a 27347 misc optional ros-one-moveit-task-constructor-capabilities_1-0.1.3-119-g8318546-2025.01.21.18.13_amd64.buildinfo
+ 301001f471e407075a5ba849e9d624a3 116550 misc optional ros-one-moveit-task-constructor-capabilities_1-0.1.3-119-g8318546-2025.01.21.18.13_amd64.deb

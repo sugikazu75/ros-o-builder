@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Fri, 07 Aug 2020 00:00:00 -0000
+Source: ros-one-robot-self-filter
+Binary: ros-one-robot-self-filter
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.32-2-ga8d2e49-2025.01.21.14.13
+Distribution: jammy
+Urgency: high
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Changed-By: Devon Ash <dash@clearpathrobotics.com>
+Description:
+ ros-one-robot-self-filter - Filters the robot's body out of point clouds.
+Changes:
+ ros-one-robot-self-filter (0.1.32-2-ga8d2e49-2025.01.21.14.13) jammy; urgency=high
+ .
+   * PCL > 1.10 uses c++ 14
+   * find_package(Boost signals) no longer required for noetic, use find_package(Boost)
+   * remove indigo/lunar from .travis.yml
+   * add noetic and fix .travs.yml
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 34b973f88b812f3ea4986e9b852a051fcf222948 3659560 ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2025.01.21.14.13_amd64.ddeb
+ 6fa33e6ee151847e81b264d33575e46a5f368c0b 38949 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.21.14.13_amd64.buildinfo
+ c3e257479ee8bb4fbf45a1a501deaf92d73105d3 188548 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.21.14.13_amd64.deb
+Checksums-Sha256:
+ ec3e2c9f7cd76d8f235808223e636fd57f3a5ab959255b5832ee6acd620e77fd 3659560 ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2025.01.21.14.13_amd64.ddeb
+ 54d6f251cdf90005ace5e4aa16b5839f11a633dcc2f02b2a2a3f9280ecc2354b 38949 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.21.14.13_amd64.buildinfo
+ bffacfb6c53c88aea54b6941dea447b700ba6226f1f61240889b197ab57f0155 188548 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.21.14.13_amd64.deb
+Files:
+ e9f9d30fe07e7dcf66dfe7f772b06d26 3659560 debug optional ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2025.01.21.14.13_amd64.ddeb
+ 928215fc7b711bd4fffba52d6e7b44b2 38949 misc optional ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.21.14.13_amd64.buildinfo
+ 6013334cc1287a0f5342de35d8bba52a 188548 misc optional ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.21.14.13_amd64.deb
