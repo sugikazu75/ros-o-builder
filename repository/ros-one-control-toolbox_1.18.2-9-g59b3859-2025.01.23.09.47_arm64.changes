@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Thu, 04 Jun 2020 00:00:00 -0000
+Source: ros-one-control-toolbox
+Binary: ros-one-control-toolbox
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.18.2-9-g59b3859-2025.01.23.09.47
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-control-toolbox - The control toolbox contains modules that are useful across all c
+Changes:
+ ros-one-control-toolbox (1.18.2-9-g59b3859-2025.01.23.09.47) jammy; urgency=high
+ .
+   * Python 3 compat part II
+   * Contributors: Tobias Fischer
+Checksums-Sha1:
+ c2997e092a159437b078c662aa6411282727b5a8 1064666 ros-one-control-toolbox-dbgsym_1.18.2-9-g59b3859-2025.01.23.09.47_arm64.ddeb
+ 836f76bc9cd906dd697a6ec2c771b10db76e4b7e 16685 ros-one-control-toolbox_1.18.2-9-g59b3859-2025.01.23.09.47_arm64.buildinfo
+ 6528b6f04b1ecbbf64843f621c819e83fb06844c 93566 ros-one-control-toolbox_1.18.2-9-g59b3859-2025.01.23.09.47_arm64.deb
+Checksums-Sha256:
+ af6fb83f830dfcd333196c44162cbb6eb7d699eccf8c9de005a0b12ce6ea38c0 1064666 ros-one-control-toolbox-dbgsym_1.18.2-9-g59b3859-2025.01.23.09.47_arm64.ddeb
+ d8d22a3d9613f924e4decc80b09de3e178d878f31793daa8019f5e90614ae4e3 16685 ros-one-control-toolbox_1.18.2-9-g59b3859-2025.01.23.09.47_arm64.buildinfo
+ 5ac290958881b28843b09203e0467d61cf8364fad1e03cd2bf783f007a9d093d 93566 ros-one-control-toolbox_1.18.2-9-g59b3859-2025.01.23.09.47_arm64.deb
+Files:
+ f9879912a2e3fcc520b1486388e11497 1064666 debug optional ros-one-control-toolbox-dbgsym_1.18.2-9-g59b3859-2025.01.23.09.47_arm64.ddeb
+ 0db367eed01878abf20e4abc3a436c2a 16685 misc optional ros-one-control-toolbox_1.18.2-9-g59b3859-2025.01.23.09.47_arm64.buildinfo
+ 230add27201dff92c6625cc170d125d3 93566 misc optional ros-one-control-toolbox_1.18.2-9-g59b3859-2025.01.23.09.47_arm64.deb

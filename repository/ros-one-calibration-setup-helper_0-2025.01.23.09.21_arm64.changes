@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-calibration-setup-helper
+Binary: ros-one-calibration-setup-helper
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0-2025.01.23.09.21
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <kei.okada@gmail.com>
+Changed-By: Kei Okada <kei.okada@gmail.com>
+Description:
+ ros-one-calibration-setup-helper - This package contains a script to generate calibration launch and
+Changes:
+ ros-one-calibration-setup-helper (0-2025.01.23.09.21) jammy; urgency=high
+Checksums-Sha1:
+ f126832985361185ac5fa0213a90e8def7dfd6b8 8177 ros-one-calibration-setup-helper_0-2025.01.23.09.21_arm64.buildinfo
+ d813d6da60e1f86878d2ba84651298d196dae817 11284 ros-one-calibration-setup-helper_0-2025.01.23.09.21_arm64.deb
+Checksums-Sha256:
+ 3b2df5189b11d3f7dbdd27ce740495a77cb64032efc08e67e47c75890899877f 8177 ros-one-calibration-setup-helper_0-2025.01.23.09.21_arm64.buildinfo
+ 0f82e27f6c0755ec05a3f26bba5f82dff39cb51d5ef1142e11b52982cc6f10e8 11284 ros-one-calibration-setup-helper_0-2025.01.23.09.21_arm64.deb
+Files:
+ ae57b3986b33792759ae1f24e6a85513 8177 misc optional ros-one-calibration-setup-helper_0-2025.01.23.09.21_arm64.buildinfo
+ 3ccd1cf1b7b35ae8a1f6ec558ec6f943 11284 misc optional ros-one-calibration-setup-helper_0-2025.01.23.09.21_arm64.deb

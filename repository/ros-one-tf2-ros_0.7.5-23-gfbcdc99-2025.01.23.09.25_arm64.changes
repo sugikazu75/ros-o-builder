@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 13 Oct 2023 00:00:00 -0000
+Source: ros-one-tf2-ros
+Binary: ros-one-tf2-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.7.5-23-gfbcdc99-2025.01.23.09.25
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2-ros - This package contains the ROS bindings for the tf2 library, for b
+Changes:
+ ros-one-tf2-ros (0.7.5-23-gfbcdc99-2025.01.23.09.25) jammy; urgency=high
+Checksums-Sha1:
+ c04f959763a008a72e8f6b72e48ea5709377cafa 3068940 ros-one-tf2-ros-dbgsym_0.7.5-23-gfbcdc99-2025.01.23.09.25_arm64.ddeb
+ d649b9a41c5be555e1ce928fe816bd82f9fc6103 13760 ros-one-tf2-ros_0.7.5-23-gfbcdc99-2025.01.23.09.25_arm64.buildinfo
+ 12dcd94155f6e16d8aa70fa60e05ea53642dc8e8 208582 ros-one-tf2-ros_0.7.5-23-gfbcdc99-2025.01.23.09.25_arm64.deb
+Checksums-Sha256:
+ 146b40de1e7decaaa416744592b07678d39bda6c7ad94a116693bbf5e385b24d 3068940 ros-one-tf2-ros-dbgsym_0.7.5-23-gfbcdc99-2025.01.23.09.25_arm64.ddeb
+ f45f65c0d5c2a93c94ddd6312f607324f67ea3523529ab541969a578897b3b7c 13760 ros-one-tf2-ros_0.7.5-23-gfbcdc99-2025.01.23.09.25_arm64.buildinfo
+ e9723f72cd63504341ecd008d0e0f962d6ef428305ce837100b4fa5de49392a2 208582 ros-one-tf2-ros_0.7.5-23-gfbcdc99-2025.01.23.09.25_arm64.deb
+Files:
+ e0fec41ff08e00578e4cc0a595bc0224 3068940 debug optional ros-one-tf2-ros-dbgsym_0.7.5-23-gfbcdc99-2025.01.23.09.25_arm64.ddeb
+ bde45665de34312ddade0b22f26c109d 13760 misc optional ros-one-tf2-ros_0.7.5-23-gfbcdc99-2025.01.23.09.25_arm64.buildinfo
+ 9c97220f38283dc7d7514f5cc43e6e0a 208582 misc optional ros-one-tf2-ros_0.7.5-23-gfbcdc99-2025.01.23.09.25_arm64.deb

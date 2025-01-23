@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 09 Oct 2020 00:00:00 -0000
+Source: ros-one-warehouse-ros-mongo
+Binary: ros-one-warehouse-ros-mongo
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.10.0-7-g9ba9e71-2025.01.23.11.25
+Distribution: jammy
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-one-warehouse-ros-mongo - warehouse_ros for MongoDB
+Changes:
+ ros-one-warehouse-ros-mongo (0.10.0-7-g9ba9e71-2025.01.23.11.25) jammy; urgency=high
+ .
+   * clang-format-10
+   * Python3 compatibility layer for roslaunch in CMake (#35 <https://github.com/ros-planning/warehouse_ros_mongo/issues/35>)
+   * Contributors: Robert Haschke, Tyler Weaver
+Checksums-Sha1:
+ 3c04e628e49b882820ad3dd66393ab5b9b8defbf 732324 ros-one-warehouse-ros-mongo-dbgsym_0.10.0-7-g9ba9e71-2025.01.23.11.25_arm64.ddeb
+ 8a36963025066043c68000594f889ad2f96fe707 23297 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.01.23.11.25_arm64.buildinfo
+ 434017dd6718a02e8843ad3ebddad84e8c3560bc 57082 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.01.23.11.25_arm64.deb
+Checksums-Sha256:
+ cfac2614b4b37572a17e142dafce5795b3bffe230ddd2e4ee45d76e731a9079f 732324 ros-one-warehouse-ros-mongo-dbgsym_0.10.0-7-g9ba9e71-2025.01.23.11.25_arm64.ddeb
+ 2a74dcc291ab46fb7a802e3d651c89f0aa7f41c88f6a2d7adabe5734460e9f26 23297 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.01.23.11.25_arm64.buildinfo
+ a9f9016a1eeb3ce5627c2d2e7bd586e399da4ea69b3f2f53576925b29f0b568a 57082 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.01.23.11.25_arm64.deb
+Files:
+ 7bb14dfa87b695648cace4a217289705 732324 debug optional ros-one-warehouse-ros-mongo-dbgsym_0.10.0-7-g9ba9e71-2025.01.23.11.25_arm64.ddeb
+ 1df9bd7f5df725e75f928825f67e0e21 23297 misc optional ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.01.23.11.25_arm64.buildinfo
+ 5da5b526dc36a4fbd598f3b54e619616 57082 misc optional ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.01.23.11.25_arm64.deb

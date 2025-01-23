@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-monocam-settler
+Binary: ros-one-monocam-settler
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0-2025.01.23.09.38
+Distribution: jammy
+Urgency: high
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Changed-By: David Feil-Seifer <david.feilseifer@gmail.com>
+Description:
+ ros-one-monocam-settler - Listens on a ImageFeatures topic, and waits for the data to settl
+Changes:
+ ros-one-monocam-settler (0-2025.01.23.09.38) jammy; urgency=high
+ .
+   * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+     Noetic devel
+   * fixes for compiler warnings CMP0048 and CMP0046
+   * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ bd2d7a3d4b87963b1d451afe9e94565eebef3325 1036668 ros-one-monocam-settler-dbgsym_0-2025.01.23.09.38_arm64.ddeb
+ b3c18e7bb8c6d78f97df2c5673d5232992ce91d0 18654 ros-one-monocam-settler_0-2025.01.23.09.38_arm64.buildinfo
+ 262bda3895a40edef3f0da901b00477bc11205ef 115160 ros-one-monocam-settler_0-2025.01.23.09.38_arm64.deb
+Checksums-Sha256:
+ d959e247a6ee9ff730f41cbd564a00331365f52fccefe6003994121646af76b2 1036668 ros-one-monocam-settler-dbgsym_0-2025.01.23.09.38_arm64.ddeb
+ d264edd8efba6338167c2ab82461fdf291ea8a121e38593d99103283ce166eb7 18654 ros-one-monocam-settler_0-2025.01.23.09.38_arm64.buildinfo
+ cc0efb07b246acc8f8f172c16e61c35ac4f00a2aeb80856de260ad0fd49cfe19 115160 ros-one-monocam-settler_0-2025.01.23.09.38_arm64.deb
+Files:
+ ecde0015f1527a8e6d558c6246f63134 1036668 debug optional ros-one-monocam-settler-dbgsym_0-2025.01.23.09.38_arm64.ddeb
+ 9f5856027b58b6e227a42e588638224f 18654 misc optional ros-one-monocam-settler_0-2025.01.23.09.38_arm64.buildinfo
+ 8b05884d2f46001498217cd8a59d4f14 115160 misc optional ros-one-monocam-settler_0-2025.01.23.09.38_arm64.deb

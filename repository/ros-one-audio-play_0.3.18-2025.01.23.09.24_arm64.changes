@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 13 Aug 2024 00:00:00 -0000
+Source: ros-one-audio-play
+Binary: ros-one-audio-play
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.3.18-2025.01.23.09.24
+Distribution: jammy
+Urgency: high
+Maintainer: Austin Hendrix <namniart@gmail.com>
+Changed-By: Austin Hendrix <namniart@gmail.com>
+Description:
+ ros-one-audio-play - Outputs audio to a speaker from a source node.
+Changes:
+ ros-one-audio-play (0.3.18-2025.01.23.09.24) jammy; urgency=high
+ .
+   * Merge pull request #238 <https://github.com/ros-drivers/audio_common/issues/238> from Kanazawanaoaki/add-record-to-file-launch
+   * Add record to file launch
+   * Contributors: Kanazawanaoaki, Shingo Kitagawa
+Checksums-Sha1:
+ 49960e389f07a29f039fb7dc11e10ce730871d0e 504136 ros-one-audio-play-dbgsym_0.3.18-2025.01.23.09.24_arm64.ddeb
+ f7fa3ea8b6157aa7c66db2d3d16474a1fc457c27 15242 ros-one-audio-play_0.3.18-2025.01.23.09.24_arm64.buildinfo
+ 7c5863a9e961a0ce6195498e44bab06ef480f599 41928 ros-one-audio-play_0.3.18-2025.01.23.09.24_arm64.deb
+Checksums-Sha256:
+ a0740fa38be15b5e847ae69c3c26f3dee7e718c39d67b06e8313e5aa9a338bbe 504136 ros-one-audio-play-dbgsym_0.3.18-2025.01.23.09.24_arm64.ddeb
+ 9b034441d9657c8a62e55344ab4bdef467a3f6a54efcf19945eaa1755a0a1269 15242 ros-one-audio-play_0.3.18-2025.01.23.09.24_arm64.buildinfo
+ 573d1aa47ec85b3884d40ed9320d05a8ec1b94778c7553ad811607914b881d54 41928 ros-one-audio-play_0.3.18-2025.01.23.09.24_arm64.deb
+Files:
+ 7874b8d5d113bfa1b8dff4860b1f1cda 504136 debug optional ros-one-audio-play-dbgsym_0.3.18-2025.01.23.09.24_arm64.ddeb
+ 657db3d55deefc7dcfdfbcd53948a6c9 15242 misc optional ros-one-audio-play_0.3.18-2025.01.23.09.24_arm64.buildinfo
+ ac3bb913b5b5b2996b839f49e2f43a62 41928 misc optional ros-one-audio-play_0.3.18-2025.01.23.09.24_arm64.deb

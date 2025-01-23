@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-gdrive-ros
+Binary: ros-one-gdrive-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 2.1.29-6-g5b37f2c7-2025.01.23.16.10
+Distribution: jammy
+Urgency: high
+Maintainer: Shingo Kitagawa <shingogo.5511@gmail.com>
+Changed-By: Shingo Kitagawa <shingogo.5511@gmail.com>
+Description:
+ ros-one-gdrive-ros - Google drive upload and download package
+Changes:
+ ros-one-gdrive-ros (2.1.29-6-g5b37f2c7-2025.01.23.16.10) jammy; urgency=high
+Checksums-Sha1:
+ 4ccbdda1569f614369b94920b0a7e3c4d2ad816b 568174 ros-one-gdrive-ros-dbgsym_2.1.29-6-g5b37f2c7-2025.01.23.16.10_arm64.ddeb
+ 1a04732d5e5e3c80e647ddb6bd1fa2ddb4c09730 13310 ros-one-gdrive-ros_2.1.29-6-g5b37f2c7-2025.01.23.16.10_arm64.buildinfo
+ 87727f5227329f4c5272b0a4b76dfdad76829f9f 8514436 ros-one-gdrive-ros_2.1.29-6-g5b37f2c7-2025.01.23.16.10_arm64.deb
+Checksums-Sha256:
+ d02f52d66844f8f707acc1fcb8ef54a31aafba63fa53a9e8e7c2c38f8cef81ce 568174 ros-one-gdrive-ros-dbgsym_2.1.29-6-g5b37f2c7-2025.01.23.16.10_arm64.ddeb
+ 60d0c2a3d97edcf3483563eb3b13d7d1cfc71d993f92293fd6e8d968fc7c709f 13310 ros-one-gdrive-ros_2.1.29-6-g5b37f2c7-2025.01.23.16.10_arm64.buildinfo
+ c3e599e6605523e018feb66fa16bd82001ac65f306c96872575c3409bbbb4f75 8514436 ros-one-gdrive-ros_2.1.29-6-g5b37f2c7-2025.01.23.16.10_arm64.deb
+Files:
+ df848a09af774450f58417bead797078 568174 debug optional ros-one-gdrive-ros-dbgsym_2.1.29-6-g5b37f2c7-2025.01.23.16.10_arm64.ddeb
+ 0fe8c04ab20a2ffe78e89d10ee984cab 13310 misc optional ros-one-gdrive-ros_2.1.29-6-g5b37f2c7-2025.01.23.16.10_arm64.buildinfo
+ a7c0cc2b4b8108b57feb53bd4d315300 8514436 misc optional ros-one-gdrive-ros_2.1.29-6-g5b37f2c7-2025.01.23.16.10_arm64.deb

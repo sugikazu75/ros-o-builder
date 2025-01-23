@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Thu, 16 May 2024 00:00:00 -0000
+Source: ros-one-pal-statistics
+Binary: ros-one-pal-statistics
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.5.2-2-ga5b028b-2025.01.23.08.57
+Distribution: jammy
+Urgency: high
+Maintainer: victor <victor.lopez@pal-robotics.com>
+Changed-By: victor <victor.lopez@pal-robotics.com>
+Description:
+ ros-one-pal-statistics - The pal_statistics package
+Changes:
+ ros-one-pal-statistics (1.5.2-2-ga5b028b-2025.01.23.08.57) jammy; urgency=high
+ .
+   * do not rely on extension for std::vector<bool>
+     The standard does not define std::swap() for the bit proxy objects,
+     but defines a static method instead. This broke with clang++ 14.0.6 over
+     here.
+     See here for more details:
+     https://stackoverflow.com/a/58660208/21260084
+   * Contributors: v4hn
+Checksums-Sha1:
+ 55c3941a431900a0440b6de97d2b23ce872850bc 1648642 ros-one-pal-statistics-dbgsym_1.5.2-2-ga5b028b-2025.01.23.08.57_arm64.ddeb
+ ad55f82538609af748e171cf59652282cea7472b 20149 ros-one-pal-statistics_1.5.2-2-ga5b028b-2025.01.23.08.57_arm64.buildinfo
+ 54de3f64b218eefce52148851c9681def7a08db7 107566 ros-one-pal-statistics_1.5.2-2-ga5b028b-2025.01.23.08.57_arm64.deb
+Checksums-Sha256:
+ e7cc3fb3819f09cb497ad189038c4b459d5ddf20e3c61a03cfa28b92298c0317 1648642 ros-one-pal-statistics-dbgsym_1.5.2-2-ga5b028b-2025.01.23.08.57_arm64.ddeb
+ 94235d9812a85f47587475558c589f5f04ca6bf923722921a60a6c5e537ecccc 20149 ros-one-pal-statistics_1.5.2-2-ga5b028b-2025.01.23.08.57_arm64.buildinfo
+ adb2e65173ed22add5939ce2fe1e3e42a66f0c35568e11de5504f469f0954442 107566 ros-one-pal-statistics_1.5.2-2-ga5b028b-2025.01.23.08.57_arm64.deb
+Files:
+ 70524a37bc1c2fcddfad5a4fad97f30d 1648642 debug optional ros-one-pal-statistics-dbgsym_1.5.2-2-ga5b028b-2025.01.23.08.57_arm64.ddeb
+ b6e2bf4eb85d61ea82a8a756c6003909 20149 misc optional ros-one-pal-statistics_1.5.2-2-ga5b028b-2025.01.23.08.57_arm64.buildinfo
+ b5df613244e2c1e163358a6b6b0a6097 107566 misc optional ros-one-pal-statistics_1.5.2-2-ga5b028b-2025.01.23.08.57_arm64.deb

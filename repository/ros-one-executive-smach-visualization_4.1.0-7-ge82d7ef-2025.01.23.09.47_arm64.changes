@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 24 Feb 2023 00:00:00 -0000
+Source: ros-one-executive-smach-visualization
+Binary: ros-one-executive-smach-visualization
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 4.1.0-7-ge82d7ef-2025.01.23.09.47
+Distribution: jammy
+Urgency: high
+Maintainer: Jonathan Bohren <jbo@jhu.edu>
+Changed-By: Jonathan Bohren <jbo@jhu.edu>
+Description:
+ ros-one-executive-smach-visualization - This metapackage depends on the SMACH visualization tools.
+Changes:
+ ros-one-executive-smach-visualization (4.1.0-7-ge82d7ef-2025.01.23.09.47) jammy; urgency=high
+Checksums-Sha1:
+ c7edbdced36651b86404300f3818d2a7810b80d0 8259 ros-one-executive-smach-visualization_4.1.0-7-ge82d7ef-2025.01.23.09.47_arm64.buildinfo
+ a285766001e82844626420b2d5133b699cf48421 2020 ros-one-executive-smach-visualization_4.1.0-7-ge82d7ef-2025.01.23.09.47_arm64.deb
+Checksums-Sha256:
+ f9962a9fd6c35ce42b8c05f3334a1de2830fbea7392e4b29e2eed83b28ab1775 8259 ros-one-executive-smach-visualization_4.1.0-7-ge82d7ef-2025.01.23.09.47_arm64.buildinfo
+ f434101f4f307eea70ee5782d48b8de58bbfc9d27feac06e614a98e19db4fd7c 2020 ros-one-executive-smach-visualization_4.1.0-7-ge82d7ef-2025.01.23.09.47_arm64.deb
+Files:
+ 9c5d06a526024a284035720571be8d6c 8259 misc optional ros-one-executive-smach-visualization_4.1.0-7-ge82d7ef-2025.01.23.09.47_arm64.buildinfo
+ 3ea2d291254fe8761cfd12cd19b14a07 2020 misc optional ros-one-executive-smach-visualization_4.1.0-7-ge82d7ef-2025.01.23.09.47_arm64.deb

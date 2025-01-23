@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 17 Oct 2022 00:00:00 -0000
+Source: ros-one-image-pipeline
+Binary: ros-one-image-pipeline
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.17.0-11-g69488e6-2025.01.23.10.15
+Distribution: jammy
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-image-pipeline - image_pipeline fills the gap between getting raw images from a ca
+Changes:
+ ros-one-image-pipeline (1.17.0-11-g69488e6-2025.01.23.10.15) jammy; urgency=high
+Checksums-Sha1:
+ 1637c4ea15825096aa27c0d8757522e971d875fa 8192 ros-one-image-pipeline_1.17.0-11-g69488e6-2025.01.23.10.15_arm64.buildinfo
+ 8aeab089bcfb9e145da018801a2383067ebcfcac 2636 ros-one-image-pipeline_1.17.0-11-g69488e6-2025.01.23.10.15_arm64.deb
+Checksums-Sha256:
+ 083f1f075fb7eba509f3c5e0cb67b440f66c47ec57d63511539571486ffc12d9 8192 ros-one-image-pipeline_1.17.0-11-g69488e6-2025.01.23.10.15_arm64.buildinfo
+ 83d83c8f06e7a6310649508c01eddb1bc5e594db43b20f789cfa49e0b11deff7 2636 ros-one-image-pipeline_1.17.0-11-g69488e6-2025.01.23.10.15_arm64.deb
+Files:
+ 2f9f6df712c29ea4f9437ec0791063e8 8192 misc optional ros-one-image-pipeline_1.17.0-11-g69488e6-2025.01.23.10.15_arm64.buildinfo
+ d48ec2ef42fa1d0a2a1b706822e45f33 2636 misc optional ros-one-image-pipeline_1.17.0-11-g69488e6-2025.01.23.10.15_arm64.deb

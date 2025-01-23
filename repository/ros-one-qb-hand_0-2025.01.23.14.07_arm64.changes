@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 23 Jul 2024 00:00:00 -0000
+Source: ros-one-qb-hand
+Binary: ros-one-qb-hand
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0-2025.01.23.14.07
+Distribution: jammy
+Urgency: high
+Maintainer: Alessandro Tondo <alessandro.tondo@qbrobotics.com>
+Changed-By: Alessandro Tondo <alessandro.tondo@qbrobotics.com>
+Description:
+ ros-one-qb-hand - This package contains the ROS interface for qbrobotics® qbhand de
+Changes:
+ ros-one-qb-hand (0-2025.01.23.14.07) jammy; urgency=high
+Checksums-Sha1:
+ c5cf8c2a78b033081af9ec82a54441ba8520afd5 8089 ros-one-qb-hand_0-2025.01.23.14.07_arm64.buildinfo
+ 4609b04589dc7cbb6809a145fd8c25365064197b 2052 ros-one-qb-hand_0-2025.01.23.14.07_arm64.deb
+Checksums-Sha256:
+ e2f1e0ae8ace0e3a201e5744ccb7264edfe55b4fceda698830dc39b3d3950ac6 8089 ros-one-qb-hand_0-2025.01.23.14.07_arm64.buildinfo
+ dc4680eaddecf55786ef408533095eb69adae4b52937b24b6ad95637c0e8f0bb 2052 ros-one-qb-hand_0-2025.01.23.14.07_arm64.deb
+Files:
+ 41353f10373077af27f6741568cad804 8089 misc optional ros-one-qb-hand_0-2025.01.23.14.07_arm64.buildinfo
+ fc98ffe2d12ce4d6f7dec07325966cf6 2052 misc optional ros-one-qb-hand_0-2025.01.23.14.07_arm64.deb

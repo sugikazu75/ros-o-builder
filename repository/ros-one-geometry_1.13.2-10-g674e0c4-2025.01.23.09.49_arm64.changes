@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 08 Jun 2020 00:00:00 -0000
+Source: ros-one-geometry
+Binary: ros-one-geometry
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.13.2-10-g674e0c4-2025.01.23.09.49
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-geometry - A metapackage for geometry library suite.
+Changes:
+ ros-one-geometry (1.13.2-10-g674e0c4-2025.01.23.09.49) jammy; urgency=high
+Checksums-Sha1:
+ 5d7acc4c2a8da1eb7a1e4b6cf90ca5fdf18bbb4d 8162 ros-one-geometry_1.13.2-10-g674e0c4-2025.01.23.09.49_arm64.buildinfo
+ 0ad66291da60ab99c2a3e20a0765befbfe50414a 3404 ros-one-geometry_1.13.2-10-g674e0c4-2025.01.23.09.49_arm64.deb
+Checksums-Sha256:
+ 2c3548c6f52b9574d2fb4d1c81bf62b640fdf5fa108c001572fc4613865a03da 8162 ros-one-geometry_1.13.2-10-g674e0c4-2025.01.23.09.49_arm64.buildinfo
+ 9c2e5109835ff032e7e922337437a3885f6b3c2ac6eaec101f2dcad820c86c45 3404 ros-one-geometry_1.13.2-10-g674e0c4-2025.01.23.09.49_arm64.deb
+Files:
+ 0c2f70b918120dc7e675aebb461a3c73 8162 misc optional ros-one-geometry_1.13.2-10-g674e0c4-2025.01.23.09.49_arm64.buildinfo
+ cc79b894974c846e297cdc4a0e6e124b 3404 misc optional ros-one-geometry_1.13.2-10-g674e0c4-2025.01.23.09.49_arm64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 08 Apr 2024 00:00:00 -0000
+Source: ros-one-ur-gazebo
+Binary: ros-one-ur-gazebo
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.3.3-3-gcce1f0e-2025.01.23.15.07
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur-gazebo - Gazebo wrapper for the Universal UR5/10 robot arms.
+Changes:
+ ros-one-ur-gazebo (1.3.3-3-gcce1f0e-2025.01.23.15.07) jammy; urgency=high
+ .
+   * UR30 description and meshes (#674 <https://github.com/ros-industrial/universal_robot/issues/674>)
+   * Contributors: Vincenzo Di Pentima
+Checksums-Sha1:
+ 19c172fd2095731ec92d62040d315d50cae238d1 8162 ros-one-ur-gazebo_1.3.3-3-gcce1f0e-2025.01.23.15.07_arm64.buildinfo
+ 9f258a4873701e27e2264a6ccf6435a7e89f1ada 17122 ros-one-ur-gazebo_1.3.3-3-gcce1f0e-2025.01.23.15.07_arm64.deb
+Checksums-Sha256:
+ ced04228199481a2b937844b31df5bc24b7636cd3bcf938e2b655a84746210d2 8162 ros-one-ur-gazebo_1.3.3-3-gcce1f0e-2025.01.23.15.07_arm64.buildinfo
+ 891096f146b673fa579360a90af9f2381ac12d63e94f724e4f247889fe451af2 17122 ros-one-ur-gazebo_1.3.3-3-gcce1f0e-2025.01.23.15.07_arm64.deb
+Files:
+ f7e7adcdea32db4d2a2aae223a1a368e 8162 misc optional ros-one-ur-gazebo_1.3.3-3-gcce1f0e-2025.01.23.15.07_arm64.buildinfo
+ c536cfe256687e56fb7ce38dd1705280 17122 misc optional ros-one-ur-gazebo_1.3.3-3-gcce1f0e-2025.01.23.15.07_arm64.deb

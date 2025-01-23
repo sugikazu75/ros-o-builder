@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 21 Apr 2021 00:00:00 -0000
+Source: ros-one-gazebo-ros-pkgs
+Binary: ros-one-gazebo-ros-pkgs
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 2.9.2-6-g959e7d0-2025.01.23.10.48
+Distribution: jammy
+Urgency: high
+Maintainer: Alejandro Hernández Cordero <ahcorde@osrfoundation.org>
+Changed-By: Alejandro Hernández Cordero <ahcorde@osrfoundation.org>
+Description:
+ ros-one-gazebo-ros-pkgs - Interface for using ROS with the Gazebo simulator.
+Changes:
+ ros-one-gazebo-ros-pkgs (2.9.2-6-g959e7d0-2025.01.23.10.48) jammy; urgency=high
+Checksums-Sha1:
+ 009b67d27dc7eda06c6625078a146b55928ffedc 8189 ros-one-gazebo-ros-pkgs_2.9.2-6-g959e7d0-2025.01.23.10.48_arm64.buildinfo
+ 11cae0499d86bd009e87e1f946bc4acb82a13f76 3196 ros-one-gazebo-ros-pkgs_2.9.2-6-g959e7d0-2025.01.23.10.48_arm64.deb
+Checksums-Sha256:
+ 7da36c3461a752828b13893aedef6bb17b6409367e7800c7b2b5ee252c897efe 8189 ros-one-gazebo-ros-pkgs_2.9.2-6-g959e7d0-2025.01.23.10.48_arm64.buildinfo
+ ba19aa1489475a2e1482dee9f4ed664a309d85a03a532142c256192510ffe783 3196 ros-one-gazebo-ros-pkgs_2.9.2-6-g959e7d0-2025.01.23.10.48_arm64.deb
+Files:
+ d4800cc95d463fcbbb8adad5436f6f08 8189 misc optional ros-one-gazebo-ros-pkgs_2.9.2-6-g959e7d0-2025.01.23.10.48_arm64.buildinfo
+ 83a5fa431a8151026d476a746cb7695b 3196 misc optional ros-one-gazebo-ros-pkgs_2.9.2-6-g959e7d0-2025.01.23.10.48_arm64.deb

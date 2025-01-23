@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 15 Jul 2021 00:00:00 -0000
+Source: ros-one-industrial-trajectory-filters
+Binary: ros-one-industrial-trajectory-filters
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.7.3-7-ge4d2633-2025.01.23.14.08
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-industrial-trajectory-filters - ROS Industrial libraries/plugins for filtering trajectories.
+Changes:
+ ros-one-industrial-trajectory-filters (0.7.3-7-ge4d2633-2025.01.23.14.08) jammy; urgency=high
+ .
+   * No changes
+Checksums-Sha1:
+ 3bd688d9df4691e03e4ffbfd0dbbe03a3b149db2 3205058 ros-one-industrial-trajectory-filters-dbgsym_0.7.3-7-ge4d2633-2025.01.23.14.08_arm64.ddeb
+ 75abd9a227c30140c1c2b07634a3ef87c41d4df7 24058 ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.01.23.14.08_arm64.buildinfo
+ 9fff5587103a322b81ecc9087b4ee4b08de60761 48488 ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.01.23.14.08_arm64.deb
+Checksums-Sha256:
+ 1ee6c1d33f15a7eeb3ab30823f444a42b2e10a10f2668dce0724804d7b6f2b05 3205058 ros-one-industrial-trajectory-filters-dbgsym_0.7.3-7-ge4d2633-2025.01.23.14.08_arm64.ddeb
+ ee5cb33fc7537dba4c4a74fe57db1ae7c074573ed989d18b6db11ff344f2ad67 24058 ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.01.23.14.08_arm64.buildinfo
+ 467fff1f4210e9e753c603b42d6ebb982a0c1f9c34607f58ecfa4fe07f2af2e3 48488 ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.01.23.14.08_arm64.deb
+Files:
+ 65cede20c1d212b34c6ff7b146f65f36 3205058 debug optional ros-one-industrial-trajectory-filters-dbgsym_0.7.3-7-ge4d2633-2025.01.23.14.08_arm64.ddeb
+ 35dfe5b8bbea3e1a0449ed22b79f2468 24058 misc optional ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.01.23.14.08_arm64.buildinfo
+ 3d1bc4f4bcb63b776e871984cdef00b9 48488 misc optional ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.01.23.14.08_arm64.deb

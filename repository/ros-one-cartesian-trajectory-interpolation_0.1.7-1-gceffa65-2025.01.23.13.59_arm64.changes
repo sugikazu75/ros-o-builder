@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 29 Jul 2024 00:00:00 -0000
+Source: ros-one-cartesian-trajectory-interpolation
+Binary: ros-one-cartesian-trajectory-interpolation
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.1.7-1-gceffa65-2025.01.23.13.59
+Distribution: jammy
+Urgency: high
+Maintainer: Stefan Scherzinger <scherzin@fzi.de>
+Changed-By: Stefan Scherzinger <scherzin@fzi.de>
+Description:
+ ros-one-cartesian-trajectory-interpolation - Cartesian trajectory interpolation as a standalone library
+Changes:
+ ros-one-cartesian-trajectory-interpolation (0.1.7-1-gceffa65-2025.01.23.13.59) jammy; urgency=high
+Checksums-Sha1:
+ 38c16a0e5dac6aa916abc5e71768682468aafd10 859064 ros-one-cartesian-trajectory-interpolation-dbgsym_0.1.7-1-gceffa65-2025.01.23.13.59_arm64.ddeb
+ 3ec6a73884134623e45e63de0d844c03fe1fcb2b 22554 ros-one-cartesian-trajectory-interpolation_0.1.7-1-gceffa65-2025.01.23.13.59_arm64.buildinfo
+ 0a1f54b3320fdd2929a1baae373690b6b79bb8ff 24552 ros-one-cartesian-trajectory-interpolation_0.1.7-1-gceffa65-2025.01.23.13.59_arm64.deb
+Checksums-Sha256:
+ 92037e6c159cf4bcedec4f2c5db1bfac2486c8c4a965057f0a83f5cb4f1f2356 859064 ros-one-cartesian-trajectory-interpolation-dbgsym_0.1.7-1-gceffa65-2025.01.23.13.59_arm64.ddeb
+ c4931fcd538aef01f87285b826b9606c30ee42b9b46af4ec3e841016d8b76815 22554 ros-one-cartesian-trajectory-interpolation_0.1.7-1-gceffa65-2025.01.23.13.59_arm64.buildinfo
+ 03c0b23e8fc5975545a730ce84770b573f2837cb0ec300eccac916656f5c4950 24552 ros-one-cartesian-trajectory-interpolation_0.1.7-1-gceffa65-2025.01.23.13.59_arm64.deb
+Files:
+ 34a5c47a59705e6c9ef5a0fd772fe420 859064 debug optional ros-one-cartesian-trajectory-interpolation-dbgsym_0.1.7-1-gceffa65-2025.01.23.13.59_arm64.ddeb
+ 12ff709ebb0296d0cb6232cf0da91795 22554 misc optional ros-one-cartesian-trajectory-interpolation_0.1.7-1-gceffa65-2025.01.23.13.59_arm64.buildinfo
+ ecc11825fe36885507f318a92c121066 24552 misc optional ros-one-cartesian-trajectory-interpolation_0.1.7-1-gceffa65-2025.01.23.13.59_arm64.deb

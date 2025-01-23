@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 12 Aug 2024 00:00:00 -0000
+Source: ros-one-random-numbers
+Binary: ros-one-random-numbers
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.3.3-1-g51f6043-2025.01.23.07.04
+Distribution: jammy
+Urgency: high
+Maintainer: Steven! Ragnarök <stevenragnarok@osrfoundation.org>
+Changed-By: Steven! Ragnarök <stevenragnarok@osrfoundation.org>
+Description:
+ ros-one-random-numbers - This library contains wrappers for generating floating point valu
+Changes:
+ ros-one-random-numbers (0.3.3-1-g51f6043-2025.01.23.07.04) jammy; urgency=high
+ .
+   * Windows shared library support (#27 <https://github.com/ros-planning/random_numbers/issues/27>/#23 <https://github.com/ros-planning/random_numbers/pull/23>)
+   * Bump required cmake version (#19 <https://github.com/ros-planning/random_numbers/issues/19>)
+   * Fix shared library install path (#13 <https://github.com/ros-planning/random_numbers/issues/13>)
+   * Contributors: Michael Görner, Robert Haschke, Sean Yen [MSFT], Silvio Traversaro
+Checksums-Sha1:
+ 86bcb20cbbfe13fd23fab9b0f4b7441e05643082 166300 ros-one-random-numbers-dbgsym_0.3.3-1-g51f6043-2025.01.23.07.04_arm64.ddeb
+ 098bc396d22904523dc8a9dbd0755fb1c2939689 15355 ros-one-random-numbers_0.3.3-1-g51f6043-2025.01.23.07.04_arm64.buildinfo
+ 88b15df394ac5d68ba8aecf60a9618edc541d342 25126 ros-one-random-numbers_0.3.3-1-g51f6043-2025.01.23.07.04_arm64.deb
+Checksums-Sha256:
+ 8ff977231c8f3a66b3b3a56d897b16d6547692a97d5ff8d54dbaab4689480a6d 166300 ros-one-random-numbers-dbgsym_0.3.3-1-g51f6043-2025.01.23.07.04_arm64.ddeb
+ ba71ffcffd0ca676ba1c743958398ff731822b727253bf73fd5ff96cdb058d2c 15355 ros-one-random-numbers_0.3.3-1-g51f6043-2025.01.23.07.04_arm64.buildinfo
+ 352225e7ca8140d9812374a3a6115ab40c6b89b92b6f31f347845b838cda0d0d 25126 ros-one-random-numbers_0.3.3-1-g51f6043-2025.01.23.07.04_arm64.deb
+Files:
+ 38246b701900c0e4544bc950022323dd 166300 debug optional ros-one-random-numbers-dbgsym_0.3.3-1-g51f6043-2025.01.23.07.04_arm64.ddeb
+ 4f14fae610bb38cb4152cb5886b472b9 15355 misc optional ros-one-random-numbers_0.3.3-1-g51f6043-2025.01.23.07.04_arm64.buildinfo
+ 5ba30e4002ad4e854225a32f3fee300b 25126 misc optional ros-one-random-numbers_0.3.3-1-g51f6043-2025.01.23.07.04_arm64.deb

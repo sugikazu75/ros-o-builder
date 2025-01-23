@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 13 Nov 2024 00:00:00 -0000
+Source: ros-one-nodelet-topic-tools
+Binary: ros-one-nodelet-topic-tools
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.11.1-2025.01.23.09.29
+Distribution: jammy
+Urgency: high
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Changed-By: Geoffrey Biggs <geoff@openrobotics.org>
+Description:
+ ros-one-nodelet-topic-tools - This package contains common nodelet tools such as a mux, demux a
+Changes:
+ ros-one-nodelet-topic-tools (1.11.1-2025.01.23.09.29) jammy; urgency=high
+Checksums-Sha1:
+ 32d2f8cf686a9289e8159c8f1576781f5f6c2f83 14992 ros-one-nodelet-topic-tools_1.11.1-2025.01.23.09.29_arm64.buildinfo
+ 6f34ca6cbb227f9b38fd667be06f9db1e34a7bb3 16832 ros-one-nodelet-topic-tools_1.11.1-2025.01.23.09.29_arm64.deb
+Checksums-Sha256:
+ 0b19a88c501f8696a9cc46e07edbfd1c3cfe74d1a3644916627d12e6c43e83f6 14992 ros-one-nodelet-topic-tools_1.11.1-2025.01.23.09.29_arm64.buildinfo
+ 8bde9c2bb54869bc7c9c74207f07616fb43cf3d7d00430942a4a5a296d8a06fb 16832 ros-one-nodelet-topic-tools_1.11.1-2025.01.23.09.29_arm64.deb
+Files:
+ 4d4a6161447f46fb58c29754e0a64fed 14992 misc optional ros-one-nodelet-topic-tools_1.11.1-2025.01.23.09.29_arm64.buildinfo
+ 7ce374b7c42e42b6918cf897eaa45127 16832 misc optional ros-one-nodelet-topic-tools_1.11.1-2025.01.23.09.29_arm64.deb

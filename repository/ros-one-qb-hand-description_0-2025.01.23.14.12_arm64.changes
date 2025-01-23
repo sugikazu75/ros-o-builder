@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 23 Jul 2024 00:00:00 -0000
+Source: ros-one-qb-hand-description
+Binary: ros-one-qb-hand-description
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0-2025.01.23.14.12
+Distribution: jammy
+Urgency: high
+Maintainer: Alessandro Tondo <alessandro.tondo@qbrobotics.com>
+Changed-By: Alessandro Tondo <alessandro.tondo@qbrobotics.com>
+Description:
+ ros-one-qb-hand-description - This package contains the ROS description for qbrobotics® qbhand
+Changes:
+ ros-one-qb-hand-description (0-2025.01.23.14.12) jammy; urgency=high
+Checksums-Sha1:
+ 6a7fdd35dfe9f968630f4daa505b6bcdedf047f3 8155 ros-one-qb-hand-description_0-2025.01.23.14.12_arm64.buildinfo
+ c26cee31597c1e56787d72cf8052f157b5e7b308 467002 ros-one-qb-hand-description_0-2025.01.23.14.12_arm64.deb
+Checksums-Sha256:
+ e1e872f815e09a9540c00a8cf9e211cbafa7d5ea90d69c4e2a6ea98eb0d40ad2 8155 ros-one-qb-hand-description_0-2025.01.23.14.12_arm64.buildinfo
+ a646b83dca4c24e8604f0dc627bb91860f12fa14a64190a5169a4c141fd6c46c 467002 ros-one-qb-hand-description_0-2025.01.23.14.12_arm64.deb
+Files:
+ cc2a678ae7b44f382554837e65d8a228 8155 misc optional ros-one-qb-hand-description_0-2025.01.23.14.12_arm64.buildinfo
+ 8dcc4910e444b9ea5cfb19b06b0f6ed2 467002 misc optional ros-one-qb-hand-description_0-2025.01.23.14.12_arm64.deb

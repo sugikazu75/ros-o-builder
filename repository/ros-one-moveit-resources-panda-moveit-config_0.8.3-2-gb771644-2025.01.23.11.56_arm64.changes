@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 10 Nov 2023 00:00:00 -0000
+Source: ros-one-moveit-resources-panda-moveit-config
+Binary: ros-one-moveit-resources-panda-moveit-config
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.8.3-2-gb771644-2025.01.23.11.56
+Distribution: jammy
+Urgency: high
+Maintainer: MoveIt maintainer team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt maintainer team <moveit_releasers@googlegroups.com>
+Description:
+ ros-one-moveit-resources-panda-moveit-config - MoveIt Resources for testing: Franka Emika Panda A project-intern
+Changes:
+ ros-one-moveit-resources-panda-moveit-config (0.8.3-2-gb771644-2025.01.23.11.56) jammy; urgency=high
+ .
+   * Add ResolveConstraintFrames to all planning pipelines
+   * Add dual_panda_moveit_config (#133 <https://github.com/ros-planning/moveit_resources/issues/133>)
+   * Contributors: Robert Haschke, Cristian Beltran
+Checksums-Sha1:
+ dc4f76644366ce28e8a5d599a36df54c1df93c8c 8297 ros-one-moveit-resources-panda-moveit-config_0.8.3-2-gb771644-2025.01.23.11.56_arm64.buildinfo
+ fa2e0986f88fe978c3658f9f27027382bcfd54fc 20696 ros-one-moveit-resources-panda-moveit-config_0.8.3-2-gb771644-2025.01.23.11.56_arm64.deb
+Checksums-Sha256:
+ 0a924b355615f66858bcafb377a475c89d494af2a3d8e6fb6cd8ab700baaece4 8297 ros-one-moveit-resources-panda-moveit-config_0.8.3-2-gb771644-2025.01.23.11.56_arm64.buildinfo
+ f63adc9366aa9637e4dbaa9a61accf56ece52cd96e6231aa1dc12667dcbea903 20696 ros-one-moveit-resources-panda-moveit-config_0.8.3-2-gb771644-2025.01.23.11.56_arm64.deb
+Files:
+ d611c95f77bce160cd40e51f26fba937 8297 misc optional ros-one-moveit-resources-panda-moveit-config_0.8.3-2-gb771644-2025.01.23.11.56_arm64.buildinfo
+ b6b33e88d410f3de79a66a49292520ee 20696 misc optional ros-one-moveit-resources-panda-moveit-config_0.8.3-2-gb771644-2025.01.23.11.56_arm64.deb

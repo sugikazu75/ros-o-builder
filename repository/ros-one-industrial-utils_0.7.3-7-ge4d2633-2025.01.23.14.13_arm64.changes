@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 15 Jul 2021 00:00:00 -0000
+Source: ros-one-industrial-utils
+Binary: ros-one-industrial-utils
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.7.3-7-ge4d2633-2025.01.23.14.13
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-industrial-utils - Industrial utils is a library package that captures common funcit
+Changes:
+ ros-one-industrial-utils (0.7.3-7-ge4d2633-2025.01.23.14.13) jammy; urgency=high
+ .
+   * No changes
+Checksums-Sha1:
+ 3fd61872cce85cc3a1d7df902779e08d959e70b6 451052 ros-one-industrial-utils-dbgsym_0.7.3-7-ge4d2633-2025.01.23.14.13_arm64.ddeb
+ 2950af74b056953e03a6786feadc77785bc27bc3 14132 ros-one-industrial-utils_0.7.3-7-ge4d2633-2025.01.23.14.13_arm64.buildinfo
+ 3a29f1da9d0fc070cabfb59a7922a476a1521c7a 30592 ros-one-industrial-utils_0.7.3-7-ge4d2633-2025.01.23.14.13_arm64.deb
+Checksums-Sha256:
+ f4f984fb15e27f48ce36e823c088d2c74abc7a61981677f7de4eb29dfe57f06f 451052 ros-one-industrial-utils-dbgsym_0.7.3-7-ge4d2633-2025.01.23.14.13_arm64.ddeb
+ 0afde3bead6db936aac4e441d755e9c9d5dbe74371bcdc2aab54af2967a50c50 14132 ros-one-industrial-utils_0.7.3-7-ge4d2633-2025.01.23.14.13_arm64.buildinfo
+ bfb215eca0d1f0f7111255bb3bc37a06eb8f88f700cafb6f15522deb6a1eceaf 30592 ros-one-industrial-utils_0.7.3-7-ge4d2633-2025.01.23.14.13_arm64.deb
+Files:
+ 3a865b75fb062733ad39f5662ff66c56 451052 debug optional ros-one-industrial-utils-dbgsym_0.7.3-7-ge4d2633-2025.01.23.14.13_arm64.ddeb
+ 0150424bf87ba4c390cd3336c45a2e17 14132 misc optional ros-one-industrial-utils_0.7.3-7-ge4d2633-2025.01.23.14.13_arm64.buildinfo
+ 3465a9c007716816290172540d0feec7 30592 misc optional ros-one-industrial-utils_0.7.3-7-ge4d2633-2025.01.23.14.13_arm64.deb

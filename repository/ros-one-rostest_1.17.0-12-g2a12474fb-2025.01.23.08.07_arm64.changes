@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Fri, 13 Sep 2024 00:00:00 -0000
+Source: ros-one-rostest
+Binary: ros-one-rostest
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.17.0-12-g2a12474fb-2025.01.23.08.07
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rostest - Integration test suite based on roslaunch that is compatible with
+Changes:
+ ros-one-rostest (1.17.0-12-g2a12474fb-2025.01.23.08.07) jammy; urgency=high
+ .
+   * Add new rostest utility subscribetest (#2184 <https://github.com/ros/ros_comm/issues/2184>)
+   * Fix use of undelcared variable t_start (#2183 <https://github.com/ros/ros_comm/issues/2183>)
+   * Fix rostest target names when build directory is inside source directory (#2361 <https://github.com/ros/ros_comm/issues/2361>)
+   * Contributors: Kei Okada, Michael Görner
+Checksums-Sha1:
+ 84f9a52801e1bf5f5c34bf6d99942c23865ac3b2 10224 ros-one-rostest_1.17.0-12-g2a12474fb-2025.01.23.08.07_arm64.buildinfo
+ 59935a3f05e951fc161ca61d08c54797567cf7f5 33024 ros-one-rostest_1.17.0-12-g2a12474fb-2025.01.23.08.07_arm64.deb
+Checksums-Sha256:
+ c7495a80ebc4982c9312f28a738a0ce09ddd918c9d2a69ff64dcf5fc89b499d5 10224 ros-one-rostest_1.17.0-12-g2a12474fb-2025.01.23.08.07_arm64.buildinfo
+ 504a7615d2b092b1419ab9c2bb03a270bdffe3c505f4a110470b86f5a7b28101 33024 ros-one-rostest_1.17.0-12-g2a12474fb-2025.01.23.08.07_arm64.deb
+Files:
+ ea21e6669a14ec66b37e83a0f38d6809 10224 misc optional ros-one-rostest_1.17.0-12-g2a12474fb-2025.01.23.08.07_arm64.buildinfo
+ ebe0c8da55455f077e3943d0c0d5097b 33024 misc optional ros-one-rostest_1.17.0-12-g2a12474fb-2025.01.23.08.07_arm64.deb

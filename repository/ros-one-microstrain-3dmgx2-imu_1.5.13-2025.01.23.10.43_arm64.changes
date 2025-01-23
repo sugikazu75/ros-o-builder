@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 02 Jul 2019 00:00:00 -0000
+Source: ros-one-microstrain-3dmgx2-imu
+Binary: ros-one-microstrain-3dmgx2-imu
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.5.13-2025.01.23.10.43
+Distribution: jammy
+Urgency: high
+Maintainer: Chad Rockey <chadrockey@gmail.com>
+Changed-By: Chad Rockey <chadrockey@gmail.com>
+Description:
+ ros-one-microstrain-3dmgx2-imu - A driver for IMUs compatible the microstrain 3DM-GX2 and 3DM-GX3
+Changes:
+ ros-one-microstrain-3dmgx2-imu (1.5.13-2025.01.23.10.43) jammy; urgency=high
+ .
+   * Merge pull request #11 <https://github.com/ros-drivers/microstrain_3dmgx2_imu/issues/11> from scpeters/fix_melodic_build
+     Fix melodic build (backwards compatible alternative to #10 <https://github.com/ros-drivers/microstrain_3dmgx2_imu/issues/10>)
+   * from C++11, constexpr specifier is requred for double
+   * Contributors: Kei Okada, Tony Baltovski
+Checksums-Sha1:
+ 70628a069d9db0ef37b2946c28539385f5eb938b 1148232 ros-one-microstrain-3dmgx2-imu-dbgsym_1.5.13-2025.01.23.10.43_arm64.ddeb
+ 838ce40cd00e77cb0725a98c8868a5ec29915c4e 18696 ros-one-microstrain-3dmgx2-imu_1.5.13-2025.01.23.10.43_arm64.buildinfo
+ 57e74410924863e484cba418240785b53dbefd03 128880 ros-one-microstrain-3dmgx2-imu_1.5.13-2025.01.23.10.43_arm64.deb
+Checksums-Sha256:
+ 5cce4525dc52777f7a6d9d27deb66775d37b5c8407b7136141773203e5ef53fe 1148232 ros-one-microstrain-3dmgx2-imu-dbgsym_1.5.13-2025.01.23.10.43_arm64.ddeb
+ 62d768afa371e9e3f4d3bbfa7c6dd5ae398d5752cb55d3cc748d77be2fcaa609 18696 ros-one-microstrain-3dmgx2-imu_1.5.13-2025.01.23.10.43_arm64.buildinfo
+ cc1e2ce4433371b4d7e696522f3e12e0c82606b9d1a076c279d52246a9f9a9dc 128880 ros-one-microstrain-3dmgx2-imu_1.5.13-2025.01.23.10.43_arm64.deb
+Files:
+ fa1510d21080a2aebda056c79b46daae 1148232 debug optional ros-one-microstrain-3dmgx2-imu-dbgsym_1.5.13-2025.01.23.10.43_arm64.ddeb
+ f2dc55a3b8fd493c55713e558a4254f8 18696 misc optional ros-one-microstrain-3dmgx2-imu_1.5.13-2025.01.23.10.43_arm64.buildinfo
+ cb56a7de60f46067bf179eebf2c6c14c 128880 misc optional ros-one-microstrain-3dmgx2-imu_1.5.13-2025.01.23.10.43_arm64.deb

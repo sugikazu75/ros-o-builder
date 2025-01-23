@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 13 Oct 2023 00:00:00 -0000
+Source: ros-one-tf2-tools
+Binary: ros-one-tf2-tools
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.7.5-23-gfbcdc99-2025.01.23.09.35
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2-tools - tf2_tools
+Changes:
+ ros-one-tf2-tools (0.7.5-23-gfbcdc99-2025.01.23.09.35) jammy; urgency=high
+Checksums-Sha1:
+ 557f79b9937cc9281ba7a5ed4568eabca50e56e0 13428 ros-one-tf2-tools_0.7.5-23-gfbcdc99-2025.01.23.09.35_arm64.buildinfo
+ b2b9ef568d9dde9be7b8abd5fce67c7b43afbf69 11092 ros-one-tf2-tools_0.7.5-23-gfbcdc99-2025.01.23.09.35_arm64.deb
+Checksums-Sha256:
+ ac65ad414d24e2c13bcaaf05ed8eda2f35730a02121078ec918ea1bc8bbb82e9 13428 ros-one-tf2-tools_0.7.5-23-gfbcdc99-2025.01.23.09.35_arm64.buildinfo
+ f1de02c020cc6da755d61da1f0a7555d66477bffc1a214bdf5e0cde3fc07bbb9 11092 ros-one-tf2-tools_0.7.5-23-gfbcdc99-2025.01.23.09.35_arm64.deb
+Files:
+ b5d320876eb2ebf392a75ffed8a8e0c5 13428 misc optional ros-one-tf2-tools_0.7.5-23-gfbcdc99-2025.01.23.09.35_arm64.buildinfo
+ 704fe972e7af89003a83adf226e2bb31 11092 misc optional ros-one-tf2-tools_0.7.5-23-gfbcdc99-2025.01.23.09.35_arm64.deb

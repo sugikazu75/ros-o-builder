@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Thu, 18 Jul 2024 00:00:00 -0000
+Source: ros-one-geometric-shapes
+Binary: ros-one-geometric-shapes
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.7.7-1-gc24eb49-2025.01.23.09.03
+Distribution: jammy
+Urgency: high
+Maintainer: Tyler Weaver <tyler@picknik.ai>
+Changed-By: Tyler Weaver <tyler@picknik.ai>
+Description:
+ ros-one-geometric-shapes - Generic definitions of geometric shapes and bodies.
+Changes:
+ ros-one-geometric-shapes (0.7.7-1-gc24eb49-2025.01.23.09.03) jammy; urgency=high
+ .
+   * Use Eigen to robustly compute the angle between vertex normals (#246 <https://github.com/ros-planning/geometric_shapes/issues/246>)
+   * Contributors: Mike Lanighan
+Checksums-Sha1:
+ 2aff34954c757b22922fc7ef358ae1ae8aeb9aaf 6115456 ros-one-geometric-shapes-dbgsym_0.7.7-1-gc24eb49-2025.01.23.09.03_arm64.ddeb
+ 5225ebe49b6e29ee2bd15f08496d3ceef9268812 18183 ros-one-geometric-shapes_0.7.7-1-gc24eb49-2025.01.23.09.03_arm64.buildinfo
+ 638b6100d4e691023893913fb4ccbc1c3830ef33 92428 ros-one-geometric-shapes_0.7.7-1-gc24eb49-2025.01.23.09.03_arm64.deb
+Checksums-Sha256:
+ 944c648ff21868f53162567037bdff217dc0cd54c5c58ef46d4735d0e8d1fa64 6115456 ros-one-geometric-shapes-dbgsym_0.7.7-1-gc24eb49-2025.01.23.09.03_arm64.ddeb
+ a0f08fede7a57434194ec51fe3230c8a901d8f756c78aa050fe5152f03ec22ec 18183 ros-one-geometric-shapes_0.7.7-1-gc24eb49-2025.01.23.09.03_arm64.buildinfo
+ 48fcf2059d4eabcc6ff3d22b0e2632950053b7598df0b47d422cb57d89ae777a 92428 ros-one-geometric-shapes_0.7.7-1-gc24eb49-2025.01.23.09.03_arm64.deb
+Files:
+ 04441cae3a8012ed877f12a101094ddb 6115456 debug optional ros-one-geometric-shapes-dbgsym_0.7.7-1-gc24eb49-2025.01.23.09.03_arm64.ddeb
+ cbb246d002157b9b73496b3925f42fd0 18183 misc optional ros-one-geometric-shapes_0.7.7-1-gc24eb49-2025.01.23.09.03_arm64.buildinfo
+ 673f4303b8ca4592fec72849a1d31255 92428 misc optional ros-one-geometric-shapes_0.7.7-1-gc24eb49-2025.01.23.09.03_arm64.deb

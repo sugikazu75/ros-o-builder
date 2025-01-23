@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-chomp-optimizer-adapter
+Binary: ros-one-moveit-chomp-optimizer-adapter
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.1.16-27-gb9ed835eb-2025.01.23.12.13
+Distribution: jammy
+Urgency: high
+Maintainer: Raghavender Sahdev <raghavendersahdev@gmail.com>
+Changed-By: Raghavender Sahdev <raghavendersahdev@gmail.com>
+Description:
+ ros-one-moveit-chomp-optimizer-adapter - MoveIt planning request adapter utilizing chomp for solution opti
+Changes:
+ ros-one-moveit-chomp-optimizer-adapter (1.1.16-27-gb9ed835eb-2025.01.23.12.13) jammy; urgency=high
+Checksums-Sha1:
+ 4cec892673beda78e2fae4f0afde8e80897c5e62 1746458 ros-one-moveit-chomp-optimizer-adapter-dbgsym_1.1.16-27-gb9ed835eb-2025.01.23.12.13_arm64.ddeb
+ 83a3112964b90ea484496ca98c67673ddce94111 22742 ros-one-moveit-chomp-optimizer-adapter_1.1.16-27-gb9ed835eb-2025.01.23.12.13_arm64.buildinfo
+ ce0746d7738065d3d75d45d9023050c5e8209416 26816 ros-one-moveit-chomp-optimizer-adapter_1.1.16-27-gb9ed835eb-2025.01.23.12.13_arm64.deb
+Checksums-Sha256:
+ a055321767b76b5df9aeb6fa27f7908c460f4dbd241a44731d410584005a3d30 1746458 ros-one-moveit-chomp-optimizer-adapter-dbgsym_1.1.16-27-gb9ed835eb-2025.01.23.12.13_arm64.ddeb
+ 566d3f24389d57122a4c38863624331600ab3c61fccf18d236be4cd6c59b4936 22742 ros-one-moveit-chomp-optimizer-adapter_1.1.16-27-gb9ed835eb-2025.01.23.12.13_arm64.buildinfo
+ 05328953bb3f3312b6a9ebace3cc74d9cec7a9c3c5d54923cb4ceb8930d8a0df 26816 ros-one-moveit-chomp-optimizer-adapter_1.1.16-27-gb9ed835eb-2025.01.23.12.13_arm64.deb
+Files:
+ 72edc68c6f1b6d3bb909ce9a11cbf0b4 1746458 debug optional ros-one-moveit-chomp-optimizer-adapter-dbgsym_1.1.16-27-gb9ed835eb-2025.01.23.12.13_arm64.ddeb
+ b287dafd1511f01495af5afaa61f8b1f 22742 misc optional ros-one-moveit-chomp-optimizer-adapter_1.1.16-27-gb9ed835eb-2025.01.23.12.13_arm64.buildinfo
+ 30509849edd38fb3443c2b7ca0641d12 26816 misc optional ros-one-moveit-chomp-optimizer-adapter_1.1.16-27-gb9ed835eb-2025.01.23.12.13_arm64.deb

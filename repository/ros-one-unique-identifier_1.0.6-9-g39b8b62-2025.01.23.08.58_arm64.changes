@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 04 Apr 2017 00:00:00 -0000
+Source: ros-one-unique-identifier
+Binary: ros-one-unique-identifier
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.0.6-9-g39b8b62-2025.01.23.08.58
+Distribution: jammy
+Urgency: high
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Changed-By: Jack O'Quin <jack.oquin@gmail.com>
+Description:
+ ros-one-unique-identifier - ROS messages and interfaces for universally unique identifiers.
+Changes:
+ ros-one-unique-identifier (1.0.6-9-g39b8b62-2025.01.23.08.58) jammy; urgency=high
+Checksums-Sha1:
+ 9e332ae05bdb26145b8be3e67525dde8b7d4048e 8199 ros-one-unique-identifier_1.0.6-9-g39b8b62-2025.01.23.08.58_arm64.buildinfo
+ 122df8ad3e00916b3bc0d5aa7e8854089e95c1d0 2014 ros-one-unique-identifier_1.0.6-9-g39b8b62-2025.01.23.08.58_arm64.deb
+Checksums-Sha256:
+ fa9c60145c627a594c8cd361904dae60a478713f913419b5cc2dbc418aa4041a 8199 ros-one-unique-identifier_1.0.6-9-g39b8b62-2025.01.23.08.58_arm64.buildinfo
+ afa522013d844d61e6bd23f50c64465e7ac79ff125066d7bc29b79ea0d2f7fff 2014 ros-one-unique-identifier_1.0.6-9-g39b8b62-2025.01.23.08.58_arm64.deb
+Files:
+ 6013f853c04209fe39e906ec3f701cfb 8199 misc optional ros-one-unique-identifier_1.0.6-9-g39b8b62-2025.01.23.08.58_arm64.buildinfo
+ 4c69dbcb50f9393a6b49a781894b2667 2014 misc optional ros-one-unique-identifier_1.0.6-9-g39b8b62-2025.01.23.08.58_arm64.deb

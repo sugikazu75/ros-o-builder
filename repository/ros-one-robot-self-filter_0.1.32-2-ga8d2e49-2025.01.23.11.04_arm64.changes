@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Fri, 07 Aug 2020 00:00:00 -0000
+Source: ros-one-robot-self-filter
+Binary: ros-one-robot-self-filter
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.1.32-2-ga8d2e49-2025.01.23.11.04
+Distribution: jammy
+Urgency: high
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Changed-By: Devon Ash <dash@clearpathrobotics.com>
+Description:
+ ros-one-robot-self-filter - Filters the robot's body out of point clouds.
+Changes:
+ ros-one-robot-self-filter (0.1.32-2-ga8d2e49-2025.01.23.11.04) jammy; urgency=high
+ .
+   * PCL > 1.10 uses c++ 14
+   * find_package(Boost signals) no longer required for noetic, use find_package(Boost)
+   * remove indigo/lunar from .travis.yml
+   * add noetic and fix .travs.yml
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 1d84249b428365d90d6569c439a9bf243e18ed2d 3608978 ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2025.01.23.11.04_arm64.ddeb
+ 213a8d2b4cd90fdf748015880b9ba8abcb7b57e3 38807 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.23.11.04_arm64.buildinfo
+ 14f09f8de00afdbb702be0a5fc587f6559edb134 183624 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.23.11.04_arm64.deb
+Checksums-Sha256:
+ 843eea6ec4e217b81290b8759e8afabfdb731c7a9876d867417615060faef792 3608978 ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2025.01.23.11.04_arm64.ddeb
+ fa31d57e705573946b99b62058f3240b48ac3904800619ceb506a5855c9f2a19 38807 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.23.11.04_arm64.buildinfo
+ 5bf29df1b923f2f2b96fa9e3dc101dc32756902d1050033714de5c5826113803 183624 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.23.11.04_arm64.deb
+Files:
+ bf1c8b7c6e0036f9a2f4ed0fccc961fc 3608978 debug optional ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2025.01.23.11.04_arm64.ddeb
+ 77c56bee5568de0172da0955e4e4d887 38807 misc optional ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.23.11.04_arm64.buildinfo
+ b68e8917257bfc7cbc93ec0057153aa0 183624 misc optional ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.23.11.04_arm64.deb

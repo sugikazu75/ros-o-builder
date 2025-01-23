@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 27 Oct 2023 00:00:00 -0000
+Source: ros-one-rqt-controller-manager
+Binary: ros-one-rqt-controller-manager
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.20.0-1-g633c374-2025.01.23.10.22
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-rqt-controller-manager - Graphical frontend for interacting with the controller manager.
+Changes:
+ ros-one-rqt-controller-manager (0.20.0-1-g633c374-2025.01.23.10.22) jammy; urgency=high
+Checksums-Sha1:
+ 153c75fae653565458c7b646adc51304e8882d86 8231 ros-one-rqt-controller-manager_0.20.0-1-g633c374-2025.01.23.10.22_arm64.buildinfo
+ 459d2156e755d5a8912b9072e2a882a717475773 36508 ros-one-rqt-controller-manager_0.20.0-1-g633c374-2025.01.23.10.22_arm64.deb
+Checksums-Sha256:
+ 9ec092c3c39f4a7bce31bf90b51c14992defa7c09887121a12c85be0028b5cca 8231 ros-one-rqt-controller-manager_0.20.0-1-g633c374-2025.01.23.10.22_arm64.buildinfo
+ c75ed5d9e489991c3c2fc1b95beffc5ed783ebc3a0517501556b7ccb7e8bb2cc 36508 ros-one-rqt-controller-manager_0.20.0-1-g633c374-2025.01.23.10.22_arm64.deb
+Files:
+ 868cda3cb8a31940ccbdd9c5ec6919af 8231 misc optional ros-one-rqt-controller-manager_0.20.0-1-g633c374-2025.01.23.10.22_arm64.buildinfo
+ cf396bee4f067ac1173ef394405484c5 36508 misc optional ros-one-rqt-controller-manager_0.20.0-1-g633c374-2025.01.23.10.22_arm64.deb

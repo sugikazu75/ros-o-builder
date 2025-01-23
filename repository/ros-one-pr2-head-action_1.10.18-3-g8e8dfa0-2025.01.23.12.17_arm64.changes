@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-pr2-head-action
+Binary: ros-one-pr2-head-action
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.10.18-3-g8e8dfa0-2025.01.23.12.17
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-head-action - The PR2 head action is a node that provides an action interface f
+Changes:
+ ros-one-pr2-head-action (1.10.18-3-g8e8dfa0-2025.01.23.12.17) jammy; urgency=high
+ .
+   * Fix for noetic (#401 <https://github.com/PR2/pr2_controllers/issues/401>)
+ .
+       * install liborocos for noetic
+       * conver to package 3
+ .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 4fbbe8aa174b0b2fef8fe086fc7ddd900617c2fe 1146132 ros-one-pr2-head-action-dbgsym_1.10.18-3-g8e8dfa0-2025.01.23.12.17_arm64.ddeb
+ 77cd7627bac55451cb13dc3b700ff341d4a3c7d8 19522 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2025.01.23.12.17_arm64.buildinfo
+ b04a98a87a3779f31d9dd99936edbe7f08776aff 89452 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2025.01.23.12.17_arm64.deb
+Checksums-Sha256:
+ d6e25c4be6a24fea03a67a4cf79bbd96992bfa57f12d49a2fc8209ee6633b5fd 1146132 ros-one-pr2-head-action-dbgsym_1.10.18-3-g8e8dfa0-2025.01.23.12.17_arm64.ddeb
+ 59f4e0f27471a211388a7b215aef1722ef04e3f74cddc4cade319a76d48bd587 19522 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2025.01.23.12.17_arm64.buildinfo
+ 1d8281d7467ef6170efa4555a8d5ed6feef1cc639ade8995d8c8f68757f289d1 89452 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2025.01.23.12.17_arm64.deb
+Files:
+ 082c17a5c07bb0d7e080d3259b24ed53 1146132 debug optional ros-one-pr2-head-action-dbgsym_1.10.18-3-g8e8dfa0-2025.01.23.12.17_arm64.ddeb
+ 2253382080cbf6c17949e4676402ab51 19522 misc optional ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2025.01.23.12.17_arm64.buildinfo
+ aafdfc9edbce4e19413a35d10c231108 89452 misc optional ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2025.01.23.12.17_arm64.deb

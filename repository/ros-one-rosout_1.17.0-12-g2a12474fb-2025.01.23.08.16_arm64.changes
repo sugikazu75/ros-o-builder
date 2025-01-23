@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 13 Sep 2024 00:00:00 -0000
+Source: ros-one-rosout
+Binary: ros-one-rosout
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.17.0-12-g2a12474fb-2025.01.23.08.16
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rosout - System-wide logging mechanism for messages sent to the /rosout to
+Changes:
+ ros-one-rosout (1.17.0-12-g2a12474fb-2025.01.23.08.16) jammy; urgency=high
+Checksums-Sha1:
+ 6b35efe237067aee5b6b4a2a5c8bdb4c32520b7b 355086 ros-one-rosout-dbgsym_1.17.0-12-g2a12474fb-2025.01.23.08.16_arm64.ddeb
+ 0b9ad627ef2bcb5f4b0109efc76685f2244e42ad 11297 ros-one-rosout_1.17.0-12-g2a12474fb-2025.01.23.08.16_arm64.buildinfo
+ a45b65a16c47bc73992508f17def4e197f08d16d 33346 ros-one-rosout_1.17.0-12-g2a12474fb-2025.01.23.08.16_arm64.deb
+Checksums-Sha256:
+ 5b597d8cf5690ef8c678109ab355d5b709f3fea8ab4a0ebafe78d8d2f8910089 355086 ros-one-rosout-dbgsym_1.17.0-12-g2a12474fb-2025.01.23.08.16_arm64.ddeb
+ 89deaf45547195d8689c19144e22505fcd6a80d9f3ac2644359e93324678837a 11297 ros-one-rosout_1.17.0-12-g2a12474fb-2025.01.23.08.16_arm64.buildinfo
+ 5c2999da82894b085d29b1c80b44c7cd2611df7962f6329f66fc733a8b252000 33346 ros-one-rosout_1.17.0-12-g2a12474fb-2025.01.23.08.16_arm64.deb
+Files:
+ e908aa77e527a0b4ef45fc444c4c9d80 355086 debug optional ros-one-rosout-dbgsym_1.17.0-12-g2a12474fb-2025.01.23.08.16_arm64.ddeb
+ 39142c3e397406915d50d11f630974a5 11297 misc optional ros-one-rosout_1.17.0-12-g2a12474fb-2025.01.23.08.16_arm64.buildinfo
+ fe0ed71cf549e8e4bc09e4312e097c27 33346 misc optional ros-one-rosout_1.17.0-12-g2a12474fb-2025.01.23.08.16_arm64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 13 Oct 2023 00:00:00 -0000
+Source: ros-one-tf2-bullet
+Binary: ros-one-tf2-bullet
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.7.5-23-gfbcdc99-2025.01.23.09.20
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2-bullet - tf2_bullet
+Changes:
+ ros-one-tf2-bullet (0.7.5-23-gfbcdc99-2025.01.23.09.20) jammy; urgency=high
+Checksums-Sha1:
+ 2ac4ade61f3140fa6ab92dc15e6b9cd181dd7b97 10063 ros-one-tf2-bullet_0.7.5-23-gfbcdc99-2025.01.23.09.20_arm64.buildinfo
+ 03d90086c34a1fa9d1471bbc013a4c951636a3fb 8304 ros-one-tf2-bullet_0.7.5-23-gfbcdc99-2025.01.23.09.20_arm64.deb
+Checksums-Sha256:
+ 519c4e2ee72b7ad4172992c8d685a31e3186ab830e3cbe2509d8d5ac0a9afec9 10063 ros-one-tf2-bullet_0.7.5-23-gfbcdc99-2025.01.23.09.20_arm64.buildinfo
+ c14de6f9c55bb818f0e507fcfe8aad2ffd7bc1d1a9b0ea4a24c70929bd80c487 8304 ros-one-tf2-bullet_0.7.5-23-gfbcdc99-2025.01.23.09.20_arm64.deb
+Files:
+ c198b7fdfda6105ef3999124f1dff725 10063 misc optional ros-one-tf2-bullet_0.7.5-23-gfbcdc99-2025.01.23.09.20_arm64.buildinfo
+ f061c32592ef9563e13aa82317099fd9 8304 misc optional ros-one-tf2-bullet_0.7.5-23-gfbcdc99-2025.01.23.09.20_arm64.deb

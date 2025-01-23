@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 06 Mar 2023 00:00:00 -0000
+Source: ros-one-moveit-task-constructor-msgs
+Binary: ros-one-moveit-task-constructor-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1-0.1.3-119-g8318546-2025.01.23.13.57
+Distribution: jammy
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-moveit-task-constructor-msgs - Messages for MoveIt Task Pipeline
+Changes:
+ ros-one-moveit-task-constructor-msgs (1-0.1.3-119-g8318546-2025.01.23.13.57) jammy; urgency=high
+Checksums-Sha1:
+ fabcf74a03c8cb3fb1dcced81cf5fb9e72a64a7c 10447 ros-one-moveit-task-constructor-msgs_1-0.1.3-119-g8318546-2025.01.23.13.57_arm64.buildinfo
+ 517cd2c4fee94932795e2331c92f240ce5b510b6 149460 ros-one-moveit-task-constructor-msgs_1-0.1.3-119-g8318546-2025.01.23.13.57_arm64.deb
+Checksums-Sha256:
+ 1ec256d7120fb9ec81039e5489f591fbdb15287edf5685fd8811694bea20055d 10447 ros-one-moveit-task-constructor-msgs_1-0.1.3-119-g8318546-2025.01.23.13.57_arm64.buildinfo
+ 7e759c061720c63139caa3377443fec87b31419f2d4a76c7b5f544e8ea023c27 149460 ros-one-moveit-task-constructor-msgs_1-0.1.3-119-g8318546-2025.01.23.13.57_arm64.deb
+Files:
+ 4cfb7f823d922db5282d341cb1f5fd2d 10447 misc optional ros-one-moveit-task-constructor-msgs_1-0.1.3-119-g8318546-2025.01.23.13.57_arm64.buildinfo
+ b95349efffc358d26821aaa87a641600 149460 misc optional ros-one-moveit-task-constructor-msgs_1-0.1.3-119-g8318546-2025.01.23.13.57_arm64.deb

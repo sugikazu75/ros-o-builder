@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 21 Apr 2021 00:00:00 -0000
+Source: ros-one-rqt-publisher
+Binary: ros-one-rqt-publisher
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.4.10-7-g3f32ffe-2025.01.23.10.13
+Distribution: jammy
+Urgency: high
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Changed-By: Geoffrey Biggs <geoff@openrobotics.org>
+Description:
+ ros-one-rqt-publisher - rqt_publisher provides a GUI plugin for publishing arbitrary mess
+Changes:
+ ros-one-rqt-publisher (0.4.10-7-g3f32ffe-2025.01.23.10.13) jammy; urgency=high
+ .
+   * Update maintainer in package.xml (#25 <https://github.com/ros-visualization/rqt_publisher/issues/25>)
+   * fix shebang line for python3 (#20 <https://github.com/ros-visualization/rqt_publisher/issues/20>)
+   * Contributors: Mikael Arguedas, Shane Loretz
+Checksums-Sha1:
+ 3827bd6dc28d81fd665347c41739e81c79c81d2f 8186 ros-one-rqt-publisher_0.4.10-7-g3f32ffe-2025.01.23.10.13_arm64.buildinfo
+ 27936af744def3faceb662c4537d41f4f3b20eff 23548 ros-one-rqt-publisher_0.4.10-7-g3f32ffe-2025.01.23.10.13_arm64.deb
+Checksums-Sha256:
+ 4494bfd244fef2edf49eb5ddc3eab6e751f51fea5d46d01eedf5cdaa90c67f3c 8186 ros-one-rqt-publisher_0.4.10-7-g3f32ffe-2025.01.23.10.13_arm64.buildinfo
+ e004349d48d1d64bc4a0b8b8a7ad0129e096381ad1550f9854cb7cafd32d5dbd 23548 ros-one-rqt-publisher_0.4.10-7-g3f32ffe-2025.01.23.10.13_arm64.deb
+Files:
+ 6963f50630bcc2aba0c198def2859f51 8186 misc optional ros-one-rqt-publisher_0.4.10-7-g3f32ffe-2025.01.23.10.13_arm64.buildinfo
+ 08782d5b849b8a49e1c37a40062d155d 23548 misc optional ros-one-rqt-publisher_0.4.10-7-g3f32ffe-2025.01.23.10.13_arm64.deb

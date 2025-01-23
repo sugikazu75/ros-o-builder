@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-occupancy-map-monitor
+Binary: ros-one-moveit-ros-occupancy-map-monitor
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.1.16-27-gb9ed835eb-2025.01.23.12.30
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-occupancy-map-monitor - Components of MoveIt connecting to occupancy map
+Changes:
+ ros-one-moveit-ros-occupancy-map-monitor (1.1.16-27-gb9ed835eb-2025.01.23.12.30) jammy; urgency=high
+Checksums-Sha1:
+ 4777ab0876438ac0112d01d6c1939bf38c22823a 2183898 ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-27-gb9ed835eb-2025.01.23.12.30_arm64.ddeb
+ 1841c85f2a639008429e14948d60668960cc5d2c 22690 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-27-gb9ed835eb-2025.01.23.12.30_arm64.buildinfo
+ cb40396dc066a70fd2f0c201444d08d36832930a 127378 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-27-gb9ed835eb-2025.01.23.12.30_arm64.deb
+Checksums-Sha256:
+ 01dab3b66f02268c22981a56f625a2d50df7eb7820c7066afde52cdf57f19646 2183898 ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-27-gb9ed835eb-2025.01.23.12.30_arm64.ddeb
+ 4c9eada51c7fc855a88aa64408f582bfcd332b11d54239bc76bbf869d68250b7 22690 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-27-gb9ed835eb-2025.01.23.12.30_arm64.buildinfo
+ 853351a8e4ba67f9c5e42e308f80ab98aba6568adbe70fb4efb615b9040efcef 127378 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-27-gb9ed835eb-2025.01.23.12.30_arm64.deb
+Files:
+ cbb1337b13f8bb89b92c20ca1db0d5f3 2183898 debug optional ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-27-gb9ed835eb-2025.01.23.12.30_arm64.ddeb
+ 26dda9955a82aafea859c1eb45bee979 22690 misc optional ros-one-moveit-ros-occupancy-map-monitor_1.1.16-27-gb9ed835eb-2025.01.23.12.30_arm64.buildinfo
+ 31b5e565ee513a95941025d190f9df9e 127378 misc optional ros-one-moveit-ros-occupancy-map-monitor_1.1.16-27-gb9ed835eb-2025.01.23.12.30_arm64.deb

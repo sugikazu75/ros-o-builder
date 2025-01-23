@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 08 Apr 2024 00:00:00 -0000
+Source: ros-one-ur20-moveit-config
+Binary: ros-one-ur20-moveit-config
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.3.3-3-gcce1f0e-2025.01.23.14.47
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur20-moveit-config - An automatically generated package with all the configuration and
+Changes:
+ ros-one-ur20-moveit-config (1.3.3-3-gcce1f0e-2025.01.23.14.47) jammy; urgency=high
+Checksums-Sha1:
+ 47d34bc73dcf7a9f1a776d6bc4204a2179a6a276 8207 ros-one-ur20-moveit-config_1.3.3-3-gcce1f0e-2025.01.23.14.47_arm64.buildinfo
+ e4a07182929a73fcf11969692ce73102b583981d 15282 ros-one-ur20-moveit-config_1.3.3-3-gcce1f0e-2025.01.23.14.47_arm64.deb
+Checksums-Sha256:
+ 338b41a787644de26737e6470d53ff6b4dbac1117d1ca69a277470e436c44ead 8207 ros-one-ur20-moveit-config_1.3.3-3-gcce1f0e-2025.01.23.14.47_arm64.buildinfo
+ c6b814123314c08c62494e7b6d1e542307404bcc4668b5fa225eb191205dec4a 15282 ros-one-ur20-moveit-config_1.3.3-3-gcce1f0e-2025.01.23.14.47_arm64.deb
+Files:
+ 0a3030d79a508abec96c957d20c13c7f 8207 misc optional ros-one-ur20-moveit-config_1.3.3-3-gcce1f0e-2025.01.23.14.47_arm64.buildinfo
+ 968a423b3b7682c370964ea9dff0ec53 15282 misc optional ros-one-ur20-moveit-config_1.3.3-3-gcce1f0e-2025.01.23.14.47_arm64.deb
