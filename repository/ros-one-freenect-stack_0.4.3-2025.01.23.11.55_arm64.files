@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2025-01-23 11:55 ./
+drwxr-xr-x root/root         0 2025-01-23 11:55 ./opt/
+drwxr-xr-x root/root         0 2025-01-23 11:55 ./opt/ros/
+drwxr-xr-x root/root         0 2025-01-23 11:55 ./opt/ros/one/
+drwxr-xr-x root/root         0 2025-01-23 11:55 ./opt/ros/one/share/
+drwxr-xr-x root/root         0 2025-01-23 11:55 ./opt/ros/one/share/freenect_stack/
+-rw-r--r-- root/root       740 2025-01-23 11:32 ./opt/ros/one/share/freenect_stack/package.xml
+drwxr-xr-x root/root         0 2025-01-23 11:55 ./usr/
+drwxr-xr-x root/root         0 2025-01-23 11:55 ./usr/share/
+drwxr-xr-x root/root         0 2025-01-23 11:55 ./usr/share/doc/
+drwxr-xr-x root/root         0 2025-01-23 11:55 ./usr/share/doc/ros-one-freenect-stack/
+-rw-r--r-- root/root       543 2025-01-23 11:55 ./usr/share/doc/ros-one-freenect-stack/changelog.Debian.gz
+-rw-r--r-- root/root       412 2025-01-23 11:55 ./usr/share/doc/ros-one-freenect-stack/copyright

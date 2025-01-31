@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-benchmarks
+Binary: ros-one-moveit-ros-benchmarks
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.1.16-27-gb9ed835eb-2025.01.23.13.19
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Coleman <dave@picknik.ai>
+Changed-By: Dave Coleman <dave@picknik.ai>
+Description:
+ ros-one-moveit-ros-benchmarks - Enhanced tools for benchmarks in MoveIt
+Changes:
+ ros-one-moveit-ros-benchmarks (1.1.16-27-gb9ed835eb-2025.01.23.13.19) jammy; urgency=high
+Checksums-Sha1:
+ ca48eedda868cae4dcff633189b19bd951ecb6db 7812530 ros-one-moveit-ros-benchmarks-dbgsym_1.1.16-27-gb9ed835eb-2025.01.23.13.19_arm64.ddeb
+ ff39d500742c2b94015c57994eed1cb72f6ac020 25878 ros-one-moveit-ros-benchmarks_1.1.16-27-gb9ed835eb-2025.01.23.13.19_arm64.buildinfo
+ 2892ddf7ba577716ba962bbc4e534cd7c1054783 212440 ros-one-moveit-ros-benchmarks_1.1.16-27-gb9ed835eb-2025.01.23.13.19_arm64.deb
+Checksums-Sha256:
+ ecb2837c39c162473560b4de4252389c155cb40872ee646d6f047261bb95e04b 7812530 ros-one-moveit-ros-benchmarks-dbgsym_1.1.16-27-gb9ed835eb-2025.01.23.13.19_arm64.ddeb
+ 4eaf1cefeef5bb2740b21e7164b01f4c22d7a816466197e31a889a3c5cc65577 25878 ros-one-moveit-ros-benchmarks_1.1.16-27-gb9ed835eb-2025.01.23.13.19_arm64.buildinfo
+ a8e9ce94edff5e2889a571e98e98ae88421fb10319214fc1df5c075c26893de8 212440 ros-one-moveit-ros-benchmarks_1.1.16-27-gb9ed835eb-2025.01.23.13.19_arm64.deb
+Files:
+ 99787e78026d67d7f32c75d778f47cef 7812530 debug optional ros-one-moveit-ros-benchmarks-dbgsym_1.1.16-27-gb9ed835eb-2025.01.23.13.19_arm64.ddeb
+ 7e5fc73c7901f40f227d1c5651a876e8 25878 misc optional ros-one-moveit-ros-benchmarks_1.1.16-27-gb9ed835eb-2025.01.23.13.19_arm64.buildinfo
+ 0eef0c0d5adfbe26d11265c34355b822 212440 misc optional ros-one-moveit-ros-benchmarks_1.1.16-27-gb9ed835eb-2025.01.23.13.19_arm64.deb

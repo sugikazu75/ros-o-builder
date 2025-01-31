@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 02 Jun 2020 00:00:00 -0000
+Source: ros-one-rosparam-shortcuts
+Binary: ros-one-rosparam-shortcuts
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.4.0-4-g7cf1dea-2025.01.23.10.18
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Coleman <davetcoleman@gmail.com>
+Changed-By: Dave Coleman <davetcoleman@gmail.com>
+Description:
+ ros-one-rosparam-shortcuts - Quickly load variables from rosparam with good command line error
+Changes:
+ ros-one-rosparam-shortcuts (0.4.0-4-g7cf1dea-2025.01.23.10.18) jammy; urgency=high
+ .
+   * bump cmake version (#13 <https://github.com/PickNikRobotics/rosparam_shortcuts/issues/13>)
+     get rid of CMP0048 warning.
+     https://github.com/ros-planning/geometric_shapes/pull/129
+   * Contributors: Michael Görner
+Checksums-Sha1:
+ 1ebbad2abe28382d075e0323ad3c4d4c658c79f9 894414 ros-one-rosparam-shortcuts-dbgsym_0.4.0-4-g7cf1dea-2025.01.23.10.18_arm64.ddeb
+ 48db080d9e59b2768280a7b5432f28a95591037d 11726 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.23.10.18_arm64.buildinfo
+ 663e6ce00dcf0191f8c09b77c6b4d15686c4b1ed 40134 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.23.10.18_arm64.deb
+Checksums-Sha256:
+ 7ef42ca969f1c620927b860b05455bece4b94639eb8945f9abb12ef611a3945a 894414 ros-one-rosparam-shortcuts-dbgsym_0.4.0-4-g7cf1dea-2025.01.23.10.18_arm64.ddeb
+ c9445b931ac8027bce9927810bfea8fc791bd65bad2491978e654ab3fd51af7d 11726 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.23.10.18_arm64.buildinfo
+ 20c27b939983c63f6cd3fbbf1e68c989fc22b8530ee84e900a1be8a26b9a5651 40134 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.23.10.18_arm64.deb
+Files:
+ a8e0b68933de1cc56823ad6d8433cccd 894414 debug optional ros-one-rosparam-shortcuts-dbgsym_0.4.0-4-g7cf1dea-2025.01.23.10.18_arm64.ddeb
+ d8eac7b62ec3d767ce64442b03efdf63 11726 misc optional ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.23.10.18_arm64.buildinfo
+ 5cd37954f4129465412fc16478c3b7f9 40134 misc optional ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.23.10.18_arm64.deb

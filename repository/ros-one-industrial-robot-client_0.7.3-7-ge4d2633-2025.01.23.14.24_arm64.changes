@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 15 Jul 2021 00:00:00 -0000
+Source: ros-one-industrial-robot-client
+Binary: ros-one-industrial-robot-client
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.7.3-7-ge4d2633-2025.01.23.14.24
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-industrial-robot-client - industrial robot client contains generic clients for connecting t
+Changes:
+ ros-one-industrial-robot-client (0.7.3-7-ge4d2633-2025.01.23.14.24) jammy; urgency=high
+ .
+   * No changes
+Checksums-Sha1:
+ 796d91e5e205d7bee209c0c90d9ccaede9668d35 4522956 ros-one-industrial-robot-client-dbgsym_0.7.3-7-ge4d2633-2025.01.23.14.24_arm64.ddeb
+ c63bc267e85445b6e91c8b4fbf4a6ccf805f7ef0 15774 ros-one-industrial-robot-client_0.7.3-7-ge4d2633-2025.01.23.14.24_arm64.buildinfo
+ fc02aa931d396c9327f875d6964b4f0a8a360055 172556 ros-one-industrial-robot-client_0.7.3-7-ge4d2633-2025.01.23.14.24_arm64.deb
+Checksums-Sha256:
+ 10332f5585f2e27f2921f1b7233e2c534113b885c6e3721e6102e27ba36883fd 4522956 ros-one-industrial-robot-client-dbgsym_0.7.3-7-ge4d2633-2025.01.23.14.24_arm64.ddeb
+ 0f07720433579a2e930ac3505ee82c45510ea6b1198107d396e7f8622e3fe6f3 15774 ros-one-industrial-robot-client_0.7.3-7-ge4d2633-2025.01.23.14.24_arm64.buildinfo
+ 007a2bcb2619a56ba78d8456f83a3c732756a0dde56df179b79a3171b968a29b 172556 ros-one-industrial-robot-client_0.7.3-7-ge4d2633-2025.01.23.14.24_arm64.deb
+Files:
+ efd5c749efd5121ebf1213eebee5b939 4522956 debug optional ros-one-industrial-robot-client-dbgsym_0.7.3-7-ge4d2633-2025.01.23.14.24_arm64.ddeb
+ c53e6cbbf1899da6981e1d69374944ba 15774 misc optional ros-one-industrial-robot-client_0.7.3-7-ge4d2633-2025.01.23.14.24_arm64.buildinfo
+ 2e14de704af1e6cfb9fffb539725d384 172556 misc optional ros-one-industrial-robot-client_0.7.3-7-ge4d2633-2025.01.23.14.24_arm64.deb

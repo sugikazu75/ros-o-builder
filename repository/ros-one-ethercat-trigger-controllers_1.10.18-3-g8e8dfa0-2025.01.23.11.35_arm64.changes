@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-ethercat-trigger-controllers
+Binary: ros-one-ethercat-trigger-controllers
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.10.18-3-g8e8dfa0-2025.01.23.11.35
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-ethercat-trigger-controllers - Controllers to operate the digital output of the motor controller
+Changes:
+ ros-one-ethercat-trigger-controllers (1.10.18-3-g8e8dfa0-2025.01.23.11.35) jammy; urgency=high
+Checksums-Sha1:
+ 0554bcdc8eb19df34fc89a4435ceac2101e3c2d9 1525148 ros-one-ethercat-trigger-controllers-dbgsym_1.10.18-3-g8e8dfa0-2025.01.23.11.35_arm64.ddeb
+ ec05f3f2a5fe4b5173f4ed00f8a834421fcdd747 16169 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.01.23.11.35_arm64.buildinfo
+ 9b7065f1548a19249578b90f134ef056be21f0f0 102846 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.01.23.11.35_arm64.deb
+Checksums-Sha256:
+ aaedcf3daa6e8dfc645c2de51e7fad5a8d2b2c7678114e61eea90b28c47e8707 1525148 ros-one-ethercat-trigger-controllers-dbgsym_1.10.18-3-g8e8dfa0-2025.01.23.11.35_arm64.ddeb
+ d8e117b07bb7501c4441b47aedac42dd72621cac6ae493a87d4b5047c3f8e97f 16169 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.01.23.11.35_arm64.buildinfo
+ ebb022197eed9ff169d207fcc60c5725f854452d1fd4f9bfdc4f317b878f0f3d 102846 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.01.23.11.35_arm64.deb
+Files:
+ 199aed896956ff973862cad5bcd46027 1525148 debug optional ros-one-ethercat-trigger-controllers-dbgsym_1.10.18-3-g8e8dfa0-2025.01.23.11.35_arm64.ddeb
+ 1bd8f130814a27c53a0a7a35662da625 16169 misc optional ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.01.23.11.35_arm64.buildinfo
+ 49595a116cbd9045aeb99f0cd3c7abbd 102846 misc optional ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.01.23.11.35_arm64.deb

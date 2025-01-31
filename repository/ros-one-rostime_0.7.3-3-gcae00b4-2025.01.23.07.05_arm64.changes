@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Thu, 15 Jun 2023 00:00:00 -0000
+Source: ros-one-rostime
+Binary: ros-one-rostime
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.7.3-3-gcae00b4-2025.01.23.07.05
+Distribution: jammy
+Urgency: high
+Maintainer: Martin Pecka <peckama2@fel.cvut.cz>
+Changed-By: Martin Pecka <peckama2@fel.cvut.cz>
+Description:
+ ros-one-rostime - Time and Duration implementations for C++ libraries, including ro
+Changes:
+ ros-one-rostime (0.7.3-3-gcae00b4-2025.01.23.07.05) jammy; urgency=high
+ .
+   * Fix min() usage
+   * Use shorter wall sleeps in sim time for very short durations
+   * Changed maintainer to Martin Pecka
+   * Removed constants for WEEK and YEAR as they might be ambiguous.
+   * rostime: Added <limits> headers wherever std::numeric_limits are used.
+   * Fixed handling of infinite or >int64 doubles in Time and Duration constructors. Added tests for Rate(double) constructor, verified Rate(inf) works and Rate(0) does not.
+   * rostime: Added useful time and duration constants.
+   * Contributors: Martin Pecka
+Checksums-Sha1:
+ 10b34615db1b368be66a65eedc4266e4cb7ae983 224826 ros-one-rostime-dbgsym_0.7.3-3-gcae00b4-2025.01.23.07.05_arm64.ddeb
+ 89905bd1285761b88043cb7a4661debe286aa650 9425 ros-one-rostime_0.7.3-3-gcae00b4-2025.01.23.07.05_arm64.buildinfo
+ b4ccce363f02a525bc1abf41eb2bf22a684127b0 37720 ros-one-rostime_0.7.3-3-gcae00b4-2025.01.23.07.05_arm64.deb
+Checksums-Sha256:
+ 1e892ce897e9a3f90d68ed394958a2a1fe9f60e622d39acf44685403fd159bb9 224826 ros-one-rostime-dbgsym_0.7.3-3-gcae00b4-2025.01.23.07.05_arm64.ddeb
+ 7816febddd435433f66a28dfd644e2bff8b48a9ee8ac8b1a8695d242a0c82781 9425 ros-one-rostime_0.7.3-3-gcae00b4-2025.01.23.07.05_arm64.buildinfo
+ e843e7051463dcde3de94d1f838cf48793052caa8cf6c5070f109aca7c143751 37720 ros-one-rostime_0.7.3-3-gcae00b4-2025.01.23.07.05_arm64.deb
+Files:
+ 377780a25991fc721c35b2464ef33469 224826 debug optional ros-one-rostime-dbgsym_0.7.3-3-gcae00b4-2025.01.23.07.05_arm64.ddeb
+ a868a00cb115aed40e703f6600c45b56 9425 misc optional ros-one-rostime_0.7.3-3-gcae00b4-2025.01.23.07.05_arm64.buildinfo
+ 4825d7f6fdd52df752e884c5c6b7556f 37720 misc optional ros-one-rostime_0.7.3-3-gcae00b4-2025.01.23.07.05_arm64.deb

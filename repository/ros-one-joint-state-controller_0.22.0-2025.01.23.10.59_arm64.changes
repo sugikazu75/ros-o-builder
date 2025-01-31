@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 22 May 2024 00:00:00 -0000
+Source: ros-one-joint-state-controller
+Binary: ros-one-joint-state-controller
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.22.0-2025.01.23.10.59
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-joint-state-controller - Controller to publish joint state
+Changes:
+ ros-one-joint-state-controller (0.22.0-2025.01.23.10.59) jammy; urgency=high
+ .
+   * Fix uncaught exception in joint_state_controller (#630 <https://github.com/ros-controls/ros_controllers/issues/630>)
+   * add flag controlling init of last_publish_time_ (`#617 <https://github.com/ros-controls/ros_controllers/pull/617`_)
+   * Contributors: Bryan Stuurman, Robert Haschke, Dr Denis
+Checksums-Sha1:
+ bdccee39d333e7193cff7c16446bbc61ef461cd4 570850 ros-one-joint-state-controller-dbgsym_0.22.0-2025.01.23.10.59_arm64.ddeb
+ 3cf6e24137bf122279fac0918c684b4514b8a171 15094 ros-one-joint-state-controller_0.22.0-2025.01.23.10.59_arm64.buildinfo
+ 2ecf1bb6e07d1fa976daa1b1151a99fcdcf3cb55 49084 ros-one-joint-state-controller_0.22.0-2025.01.23.10.59_arm64.deb
+Checksums-Sha256:
+ 687e6e6d3f3660157e0e431b7316db2b6bcb832f638fb36d88cfc24151e79003 570850 ros-one-joint-state-controller-dbgsym_0.22.0-2025.01.23.10.59_arm64.ddeb
+ 50e18de2f4cac151d6d42897429750357d7bee85691efa417481b94201e35f38 15094 ros-one-joint-state-controller_0.22.0-2025.01.23.10.59_arm64.buildinfo
+ 6e6151a382744157b98e97c34208373ef8654564b39705d758158b6cb72a27f6 49084 ros-one-joint-state-controller_0.22.0-2025.01.23.10.59_arm64.deb
+Files:
+ 64a47bfeeb66d1201a204f23d7ca6ecf 570850 debug optional ros-one-joint-state-controller-dbgsym_0.22.0-2025.01.23.10.59_arm64.ddeb
+ 98dc09d656be23b9c52620bf0bc05a19 15094 misc optional ros-one-joint-state-controller_0.22.0-2025.01.23.10.59_arm64.buildinfo
+ 9fe2ea2faa08890608c7bce68f8b7ff9 49084 misc optional ros-one-joint-state-controller_0.22.0-2025.01.23.10.59_arm64.deb

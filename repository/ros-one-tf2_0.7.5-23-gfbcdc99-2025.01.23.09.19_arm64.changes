@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 13 Oct 2023 00:00:00 -0000
+Source: ros-one-tf2
+Binary: ros-one-tf2
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.7.5-23-gfbcdc99-2025.01.23.09.19
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2 - tf2 is the second generation of the transform library, which lets
+Changes:
+ ros-one-tf2 (0.7.5-23-gfbcdc99-2025.01.23.09.19) jammy; urgency=high
+ .
+   * fix extra comma that gives annoying build warnings with -Wall and -Wpedantic with g++-9 and assuming most other compilers (#550 <https://github.com/ros/geometry2/issues/550>)
+   * Add parent frame to warning logs (#533 <https://github.com/ros/geometry2/issues/533>)
+   * Contributors: Jack Zender, Stephan
+Checksums-Sha1:
+ 9192ac09bd4392934a25a018451ab14868ac9d65 822988 ros-one-tf2-dbgsym_0.7.5-23-gfbcdc99-2025.01.23.09.19_arm64.ddeb
+ 0e5a7be0c32e3f8332e8dea201f63502c0141df6 10282 ros-one-tf2_0.7.5-23-gfbcdc99-2025.01.23.09.19_arm64.buildinfo
+ 7cbfe419a84a2f621b86c3d2d99340ac873cd4f0 101092 ros-one-tf2_0.7.5-23-gfbcdc99-2025.01.23.09.19_arm64.deb
+Checksums-Sha256:
+ 075a45ded183da7a9cfa517bd71104331ee841f927591c334d340f38a2a30f4b 822988 ros-one-tf2-dbgsym_0.7.5-23-gfbcdc99-2025.01.23.09.19_arm64.ddeb
+ 579f305159af1f6782143db3ab7c8f1bdd89edf2bffa3eb135a6b56b0f1c65f7 10282 ros-one-tf2_0.7.5-23-gfbcdc99-2025.01.23.09.19_arm64.buildinfo
+ 1e292d62a963d2a0e16135f088c1652330ea388aaffa6507b400e3ebfd79879f 101092 ros-one-tf2_0.7.5-23-gfbcdc99-2025.01.23.09.19_arm64.deb
+Files:
+ 2a57e7a2c83eac0e764ea83ba0f52ea5 822988 debug optional ros-one-tf2-dbgsym_0.7.5-23-gfbcdc99-2025.01.23.09.19_arm64.ddeb
+ 02a85f166101af37d1ad18ab174becc1 10282 misc optional ros-one-tf2_0.7.5-23-gfbcdc99-2025.01.23.09.19_arm64.buildinfo
+ 37cc77d541aac067cdcfb37cfd6face0 101092 misc optional ros-one-tf2_0.7.5-23-gfbcdc99-2025.01.23.09.19_arm64.deb

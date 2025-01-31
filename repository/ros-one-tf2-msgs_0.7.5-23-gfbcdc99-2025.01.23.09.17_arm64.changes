@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 13 Oct 2023 00:00:00 -0000
+Source: ros-one-tf2-msgs
+Binary: ros-one-tf2-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.7.5-23-gfbcdc99-2025.01.23.09.17
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2-msgs - tf2_msgs
+Changes:
+ ros-one-tf2-msgs (0.7.5-23-gfbcdc99-2025.01.23.09.17) jammy; urgency=high
+Checksums-Sha1:
+ c0f132b88f5b9fd36626d3d6a8075be1af924dc5 9869 ros-one-tf2-msgs_0.7.5-23-gfbcdc99-2025.01.23.09.17_arm64.buildinfo
+ b9f2144775ade2a04342dcfbb2bf7e3a3c0787aa 45676 ros-one-tf2-msgs_0.7.5-23-gfbcdc99-2025.01.23.09.17_arm64.deb
+Checksums-Sha256:
+ b256239341478efda7b4ed94b4751e108f48e4d9a4f090eeb1937d635828bcdc 9869 ros-one-tf2-msgs_0.7.5-23-gfbcdc99-2025.01.23.09.17_arm64.buildinfo
+ cb277fb7fb7be8fd1d8138c7602a61df2f8558352abe2212ad4d5ab2f97e97bb 45676 ros-one-tf2-msgs_0.7.5-23-gfbcdc99-2025.01.23.09.17_arm64.deb
+Files:
+ b841c9b6d05c6f6088faea0d76385ce8 9869 misc optional ros-one-tf2-msgs_0.7.5-23-gfbcdc99-2025.01.23.09.17_arm64.buildinfo
+ 7dfe29731212748fbf593155bc1a4611 45676 misc optional ros-one-tf2-msgs_0.7.5-23-gfbcdc99-2025.01.23.09.17_arm64.deb

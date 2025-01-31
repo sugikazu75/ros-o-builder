@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-simple-controller-manager
+Binary: ros-one-moveit-simple-controller-manager
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.1.16-27-gb9ed835eb-2025.01.23.13.39
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-simple-controller-manager - A generic, simple controller manager plugin for MoveIt.
+Changes:
+ ros-one-moveit-simple-controller-manager (1.1.16-27-gb9ed835eb-2025.01.23.13.39) jammy; urgency=high
+Checksums-Sha1:
+ 01cd11bb6ea848d89677c806f50709ba7ba23d3f 2012014 ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-27-gb9ed835eb-2025.01.23.13.39_arm64.ddeb
+ 23b77234bb92b4b366965b61ba29bd4db70d9e90 22751 ros-one-moveit-simple-controller-manager_1.1.16-27-gb9ed835eb-2025.01.23.13.39_arm64.buildinfo
+ 69db25961201921642480071cda0023d19404a48 153760 ros-one-moveit-simple-controller-manager_1.1.16-27-gb9ed835eb-2025.01.23.13.39_arm64.deb
+Checksums-Sha256:
+ e81a9c4e5cea4feb1e2a39a02a9d6f637e38b4aa3c66af9163b80485eaf8cde4 2012014 ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-27-gb9ed835eb-2025.01.23.13.39_arm64.ddeb
+ 1fb65859ca03100d27ad64fbfc872d8cb6fd610976a012ccf5ed1cea414e0b39 22751 ros-one-moveit-simple-controller-manager_1.1.16-27-gb9ed835eb-2025.01.23.13.39_arm64.buildinfo
+ cba8b1e8e127b7674287ce8be570400674162d3e3aed64250e9762a39ff10e25 153760 ros-one-moveit-simple-controller-manager_1.1.16-27-gb9ed835eb-2025.01.23.13.39_arm64.deb
+Files:
+ c0b4703948d1e5c8e5f71ec8c9e1b8c6 2012014 debug optional ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-27-gb9ed835eb-2025.01.23.13.39_arm64.ddeb
+ 7d5887662a276a9577a06b4285c12305 22751 misc optional ros-one-moveit-simple-controller-manager_1.1.16-27-gb9ed835eb-2025.01.23.13.39_arm64.buildinfo
+ 6507f6b0a3769be248d34a4ee8e29d49 153760 misc optional ros-one-moveit-simple-controller-manager_1.1.16-27-gb9ed835eb-2025.01.23.13.39_arm64.deb

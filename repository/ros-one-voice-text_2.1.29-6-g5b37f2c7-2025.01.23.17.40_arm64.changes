@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-voice-text
+Binary: ros-one-voice-text
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 2.1.29-6-g5b37f2c7-2025.01.23.17.40
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-voice-text - voice_text (www.voicetext.jp)
+Changes:
+ ros-one-voice-text (2.1.29-6-g5b37f2c7-2025.01.23.17.40) jammy; urgency=high
+Checksums-Sha1:
+ cf211a3a9b31c402e53bd2047fd22ff4bb589777 835972 ros-one-voice-text-dbgsym_2.1.29-6-g5b37f2c7-2025.01.23.17.40_arm64.ddeb
+ cddaf782bedeef76de27018ee3d2ad98a4e2c6d7 15403 ros-one-voice-text_2.1.29-6-g5b37f2c7-2025.01.23.17.40_arm64.buildinfo
+ 0ea2cad1879d73614247af7b2b46d76384fe9417 81674 ros-one-voice-text_2.1.29-6-g5b37f2c7-2025.01.23.17.40_arm64.deb
+Checksums-Sha256:
+ c3b6fe0791e286ee29cc2c00d8421dd5e3ef798de8d9614062ef376e05820ee4 835972 ros-one-voice-text-dbgsym_2.1.29-6-g5b37f2c7-2025.01.23.17.40_arm64.ddeb
+ e9b9c26c0d3b4d9af5592199ac03e20141828cb5f49584ada16ed493686a3781 15403 ros-one-voice-text_2.1.29-6-g5b37f2c7-2025.01.23.17.40_arm64.buildinfo
+ ba103a21fa2539cb52491c4ed973d2a2b7fa9f09d40c7886524f8efaa847f3f3 81674 ros-one-voice-text_2.1.29-6-g5b37f2c7-2025.01.23.17.40_arm64.deb
+Files:
+ 5f92d6b35fd5bdceb9eacde87d2f4685 835972 debug optional ros-one-voice-text-dbgsym_2.1.29-6-g5b37f2c7-2025.01.23.17.40_arm64.ddeb
+ 4ebc2f6d804ff064fb419f18187ef2a2 15403 misc optional ros-one-voice-text_2.1.29-6-g5b37f2c7-2025.01.23.17.40_arm64.buildinfo
+ fb35f99af21aaa74f12fb690d74b5f03 81674 misc optional ros-one-voice-text_2.1.29-6-g5b37f2c7-2025.01.23.17.40_arm64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 13 Oct 2023 00:00:00 -0000
+Source: ros-one-tf2-geometry-msgs
+Binary: ros-one-tf2-geometry-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.7.5-23-gfbcdc99-2025.01.23.09.28
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2-geometry-msgs - tf2_geometry_msgs
+Changes:
+ ros-one-tf2-geometry-msgs (0.7.5-23-gfbcdc99-2025.01.23.09.28) jammy; urgency=high
+Checksums-Sha1:
+ af90c96f780f7ca99de383b28d9305fdf96e48b6 13651 ros-one-tf2-geometry-msgs_0.7.5-23-gfbcdc99-2025.01.23.09.28_arm64.buildinfo
+ b2f209ef86e6cf13eb217959de8eab184430c603 15150 ros-one-tf2-geometry-msgs_0.7.5-23-gfbcdc99-2025.01.23.09.28_arm64.deb
+Checksums-Sha256:
+ a3873d5b6eb67c5499ef498097504744448f56bbcc21fb99c9a499bc40ad2cd9 13651 ros-one-tf2-geometry-msgs_0.7.5-23-gfbcdc99-2025.01.23.09.28_arm64.buildinfo
+ ceb5217a80bc84e20581afcb9b3a81d7f479daf3ca091e53c5372859767c9eeb 15150 ros-one-tf2-geometry-msgs_0.7.5-23-gfbcdc99-2025.01.23.09.28_arm64.deb
+Files:
+ c15ebcc477b49b01e6675e863412afde 13651 misc optional ros-one-tf2-geometry-msgs_0.7.5-23-gfbcdc99-2025.01.23.09.28_arm64.buildinfo
+ a5848089f86fae10551c9622269b06aa 15150 misc optional ros-one-tf2-geometry-msgs_0.7.5-23-gfbcdc99-2025.01.23.09.28_arm64.deb

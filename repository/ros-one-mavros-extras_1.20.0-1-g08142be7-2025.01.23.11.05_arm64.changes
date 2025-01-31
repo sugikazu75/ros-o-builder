@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Thu, 10 Oct 2024 00:00:00 -0000
+Source: ros-one-mavros-extras
+Binary: ros-one-mavros-extras
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.20.0-1-g08142be7-2025.01.23.11.05
+Distribution: jammy
+Urgency: high
+Maintainer: Vladimir Ermakov <vooon341@gmail.com>
+Changed-By: Vladimir Ermakov <vooon341@gmail.com>
+Description:
+ ros-one-mavros-extras - Extra nodes and plugins for MAVROS.
+Changes:
+ ros-one-mavros-extras (1.20.0-1-g08142be7-2025.01.23.11.05) jammy; urgency=high
+ .
+   * Add missing std_srvs dependency
+   * add param to odom plugin
+   * add frame_id parameter
+   * Fix compile error when compiling with gcc 13
+     The error is:
+     src/plugins/mag_calibration_status.cpp:64:22: error: ‘bitset’ is not a member of ‘std’
+   * Contributors: EnderMandS, Michal Sojka, Roland Arsenault
+Checksums-Sha1:
+ 284c560cd5e95d3d08b68e165bcb792fe50c6841 16369284 ros-one-mavros-extras-dbgsym_1.20.0-1-g08142be7-2025.01.23.11.05_arm64.ddeb
+ da0a052ae01395510432a3832c9e33af5a2e46ea 24663 ros-one-mavros-extras_1.20.0-1-g08142be7-2025.01.23.11.05_arm64.buildinfo
+ 11aa996545c8eb4b1e08eb31adad73dc3b78a939 361904 ros-one-mavros-extras_1.20.0-1-g08142be7-2025.01.23.11.05_arm64.deb
+Checksums-Sha256:
+ 739d5aac08556e74ad4a19ade7e2d4fbe243f2e8e95fa6dca321d986d4e15a77 16369284 ros-one-mavros-extras-dbgsym_1.20.0-1-g08142be7-2025.01.23.11.05_arm64.ddeb
+ d06adcf36b73f17edfa70078b67b6312cb43dbb60139eb1ff90c7424c582f7e6 24663 ros-one-mavros-extras_1.20.0-1-g08142be7-2025.01.23.11.05_arm64.buildinfo
+ 0796a97a724636ad1ea060c0b0ee9a1b7f2c2479629435df47d8b23cc485f4b9 361904 ros-one-mavros-extras_1.20.0-1-g08142be7-2025.01.23.11.05_arm64.deb
+Files:
+ a4e0dcc20b4c974faecb2c083116b795 16369284 debug optional ros-one-mavros-extras-dbgsym_1.20.0-1-g08142be7-2025.01.23.11.05_arm64.ddeb
+ d2a99cfd1186fd18135d6abd52f47dc1 24663 misc optional ros-one-mavros-extras_1.20.0-1-g08142be7-2025.01.23.11.05_arm64.buildinfo
+ 22025ff6fc195e3146cd9409b2847c77 361904 misc optional ros-one-mavros-extras_1.20.0-1-g08142be7-2025.01.23.11.05_arm64.deb

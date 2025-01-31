@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-laser-filters-jsk-patch
+Binary: ros-one-laser-filters-jsk-patch
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 2.1.29-6-g5b37f2c7-2025.01.23.16.33
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-laser-filters-jsk-patch - laser_filters_jsk_patch
+Changes:
+ ros-one-laser-filters-jsk-patch (2.1.29-6-g5b37f2c7-2025.01.23.16.33) jammy; urgency=high
+Checksums-Sha1:
+ 96321b47c619e8637c2641bb61c0dc2f1ed5c276 273782 ros-one-laser-filters-jsk-patch-dbgsym_2.1.29-6-g5b37f2c7-2025.01.23.16.33_arm64.ddeb
+ 3f5cdc035db3861da4926c97189e6ce3370d0d9c 19608 ros-one-laser-filters-jsk-patch_2.1.29-6-g5b37f2c7-2025.01.23.16.33_arm64.buildinfo
+ d77d993ae0d09462351eaeaf15624ee5f716ff49 22612 ros-one-laser-filters-jsk-patch_2.1.29-6-g5b37f2c7-2025.01.23.16.33_arm64.deb
+Checksums-Sha256:
+ 1d23f4080e7d71f0c951aea9215b8fb58166ef6534a091ea101db27f88a766c1 273782 ros-one-laser-filters-jsk-patch-dbgsym_2.1.29-6-g5b37f2c7-2025.01.23.16.33_arm64.ddeb
+ c9ea3fbdcc30cae414d97af6ad6ae1ba7ec7533d64c4d1217dd17d20971ee5a4 19608 ros-one-laser-filters-jsk-patch_2.1.29-6-g5b37f2c7-2025.01.23.16.33_arm64.buildinfo
+ d4c37f0578e4157bb697216a190be3fd975731dfef2d39b77e48cf3c81c8fc1c 22612 ros-one-laser-filters-jsk-patch_2.1.29-6-g5b37f2c7-2025.01.23.16.33_arm64.deb
+Files:
+ a67e1d46cbcfb01a92f2ce61c59c2b0c 273782 debug optional ros-one-laser-filters-jsk-patch-dbgsym_2.1.29-6-g5b37f2c7-2025.01.23.16.33_arm64.ddeb
+ 9ea8e2172b4d9f999ccf0603c70e7580 19608 misc optional ros-one-laser-filters-jsk-patch_2.1.29-6-g5b37f2c7-2025.01.23.16.33_arm64.buildinfo
+ d60f2fd7ec42c0c356062733f6cc112d 22612 misc optional ros-one-laser-filters-jsk-patch_2.1.29-6-g5b37f2c7-2025.01.23.16.33_arm64.deb

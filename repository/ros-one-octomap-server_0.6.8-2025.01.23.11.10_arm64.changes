@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Sun, 24 Mar 2024 00:00:00 -0000
+Source: ros-one-octomap-server
+Binary: ros-one-octomap-server
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.6.8-2025.01.23.11.10
+Distribution: jammy
+Urgency: high
+Maintainer: Wolfgang Merkt <opensource@wolfgangmerkt.com>
+Changed-By: Wolfgang Merkt <opensource@wolfgangmerkt.com>
+Description:
+ ros-one-octomap-server - octomap_server loads a 3D map (as Octree-based OctoMap) and distr
+Changes:
+ ros-one-octomap-server (0.6.8-2025.01.23.11.10) jammy; urgency=high
+ .
+   * Change frame id "/map" to "map" to prevent RViz visualization warnings in ROS Noetic caused by tf (#124 <https://github.com/octomap/octomap_mapping/issues/124>
+   * Initialize quaternion to avoid RViz warning (#112 <https://github.com/octomap/octomap_mapping/issues/112>)
+   * Update for PCL deprecated and removed API (#118 <https://github.com/octomap/octomap_mapping/issues/118>)
+   * Update pluginlib headers (#114 <https://github.com/OctoMap/octomap_mapping/issues/114>)
+   * Update boost::placeholders (#105 <https://github.com/octomap/octomap_mapping/issues/105>)
+   * Fix publishing of projected map on reset (#92 <https://github.com/octomap/octomap_mapping/issues/92>)
+   * Add a min range parameter (#100 <https://github.com/octomap/octomap_mapping/issues/100>)
+   * Contributors: Lovro Markovic, Lucas Walter, Wolfgang Merkt, Zhefan-Xu, yuri-r
+Checksums-Sha1:
+ 8bcb7f4c3a0dea1d12b4b71be206c5f9f1e96dce 12986182 ros-one-octomap-server-dbgsym_0.6.8-2025.01.23.11.10_arm64.ddeb
+ 8bf52d24d73beb3ea5e3feddb417c9ac8fdbd074 38177 ros-one-octomap-server_0.6.8-2025.01.23.11.10_arm64.buildinfo
+ c5819678f9cadcb8f5ca733824ad2643d82b684c 322362 ros-one-octomap-server_0.6.8-2025.01.23.11.10_arm64.deb
+Checksums-Sha256:
+ 31608a8fe6758dba1e0a54a3dacaf164c29590b324c1f9b222e416fcdc2d44d8 12986182 ros-one-octomap-server-dbgsym_0.6.8-2025.01.23.11.10_arm64.ddeb
+ 7d06e9a64e72a9c9ddd319be7aa69c367ad3d2f601a2ff05afbbc3dd3763808b 38177 ros-one-octomap-server_0.6.8-2025.01.23.11.10_arm64.buildinfo
+ ba5de135dee7f3c1066d944323de8cb1a2b1bd9152311314f382ddaac26464c0 322362 ros-one-octomap-server_0.6.8-2025.01.23.11.10_arm64.deb
+Files:
+ e88fbadc02694fc4f4be7d05b904d8a1 12986182 debug optional ros-one-octomap-server-dbgsym_0.6.8-2025.01.23.11.10_arm64.ddeb
+ 8a16ca4d99a014164c9678894748d66a 38177 misc optional ros-one-octomap-server_0.6.8-2025.01.23.11.10_arm64.buildinfo
+ 9dca7eab075384fe9402392de5cd4dbc 322362 misc optional ros-one-octomap-server_0.6.8-2025.01.23.11.10_arm64.deb

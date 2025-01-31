@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 02 Oct 2023 00:00:00 -0000
+Source: ros-one-rqt-logger-level
+Binary: ros-one-rqt-logger-level
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.4.12-2025.01.23.10.16
+Distribution: jammy
+Urgency: high
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Changed-By: Dirk Thomas <dthomas@osrfoundation.org>
+Description:
+ ros-one-rqt-logger-level - rqt_logger_level provides a GUI plugin for configuring the logger
+Changes:
+ ros-one-rqt-logger-level (0.4.12-2025.01.23.10.16) jammy; urgency=high
+ .
+   * added LICENSE
+   * Import setup from setuptools instead of distutils.core
+   * Add xml-model
+Checksums-Sha1:
+ 5dc32fd741baf566bfb8c3a1ba55c5dae97e5438 8157 ros-one-rqt-logger-level_0.4.12-2025.01.23.10.16_arm64.buildinfo
+ d090174453b425e29fac463f2bb106b010a38269 13908 ros-one-rqt-logger-level_0.4.12-2025.01.23.10.16_arm64.deb
+Checksums-Sha256:
+ f0278ade475c4c0de0904b426944f5b2b4f1d88651901014b3e5373971d78cfc 8157 ros-one-rqt-logger-level_0.4.12-2025.01.23.10.16_arm64.buildinfo
+ c5ea40788fb88217021c4e2f95fb3da566860a99926894cde12262ef06e0ab3f 13908 ros-one-rqt-logger-level_0.4.12-2025.01.23.10.16_arm64.deb
+Files:
+ b1374c502be9f9bd39635ddd17b1b005 8157 misc optional ros-one-rqt-logger-level_0.4.12-2025.01.23.10.16_arm64.buildinfo
+ a70cb92454817d97b8b8c19b04a52f95 13908 misc optional ros-one-rqt-logger-level_0.4.12-2025.01.23.10.16_arm64.deb

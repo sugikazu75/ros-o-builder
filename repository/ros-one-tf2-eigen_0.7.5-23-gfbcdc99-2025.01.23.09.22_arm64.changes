@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 13 Oct 2023 00:00:00 -0000
+Source: ros-one-tf2-eigen
+Binary: ros-one-tf2-eigen
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.7.5-23-gfbcdc99-2025.01.23.09.22
+Distribution: jammy
+Urgency: high
+Maintainer: Koji Terada <terakoji@gmail.com>
+Changed-By: Koji Terada <terakoji@gmail.com>
+Description:
+ ros-one-tf2-eigen - tf2_eigen
+Changes:
+ ros-one-tf2-eigen (0.7.5-23-gfbcdc99-2025.01.23.09.22) jammy; urgency=high
+Checksums-Sha1:
+ 2643f313e3bcb42face0356383daab1d2802ff3e 10079 ros-one-tf2-eigen_0.7.5-23-gfbcdc99-2025.01.23.09.22_arm64.buildinfo
+ f24a31fe219d0d01541da48386e21fa63aedcb46 9742 ros-one-tf2-eigen_0.7.5-23-gfbcdc99-2025.01.23.09.22_arm64.deb
+Checksums-Sha256:
+ 9e9aa8717eb3cb7d30f826925e12ba83a23522762873fbc2a0fca40445dd16c3 10079 ros-one-tf2-eigen_0.7.5-23-gfbcdc99-2025.01.23.09.22_arm64.buildinfo
+ 2712dc5e8d12fbca1c0bbb4abb6a4bd3e2da66406f12adc77932172ecf35939d 9742 ros-one-tf2-eigen_0.7.5-23-gfbcdc99-2025.01.23.09.22_arm64.deb
+Files:
+ 376ced32a9310452482b0fde684c69d0 10079 misc optional ros-one-tf2-eigen_0.7.5-23-gfbcdc99-2025.01.23.09.22_arm64.buildinfo
+ f23e03941e9e8da87eadafd5ba9259e7 9742 misc optional ros-one-tf2-eigen_0.7.5-23-gfbcdc99-2025.01.23.09.22_arm64.deb

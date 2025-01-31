@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 29 Oct 2020 00:00:00 -0000
+Source: ros-one-code-coverage
+Binary: ros-one-code-coverage
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.4.4-5-g7c273b3-2025.01.23.07.03
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mike@vanadiumlabs.com>
+Changed-By: Michael Ferguson <mike@vanadiumlabs.com>
+Description:
+ ros-one-code-coverage - CMake configuration to run coverage
+Changes:
+ ros-one-code-coverage (0.4.4-5-g7c273b3-2025.01.23.07.03) jammy; urgency=high
+ .
+   * Added python3-coverage support and error if python*-coverage is missing. (#27 <https://github.com/mikeferguson/code_coverage/issues/27>)
+   * Contributors: Stefan Fabian
+Checksums-Sha1:
+ 89e770bf492911ae599967fb555d49a1c5f1dfa1 8306 ros-one-code-coverage_0.4.4-5-g7c273b3-2025.01.23.07.03_arm64.buildinfo
+ 1db31747efea7c541f68ac425923bb36099c774a 9286 ros-one-code-coverage_0.4.4-5-g7c273b3-2025.01.23.07.03_arm64.deb
+Checksums-Sha256:
+ 93706e230c40da49f844d271bb3ce6572ff184893d1d60c737e5d1869c188ec6 8306 ros-one-code-coverage_0.4.4-5-g7c273b3-2025.01.23.07.03_arm64.buildinfo
+ cb1697bd3f7762c60d3ed10db77235db762378e56a5bf8ac009d6ddb5cc76532 9286 ros-one-code-coverage_0.4.4-5-g7c273b3-2025.01.23.07.03_arm64.deb
+Files:
+ 8414a134c5224a5a580c01a0bc9ad70b 8306 misc optional ros-one-code-coverage_0.4.4-5-g7c273b3-2025.01.23.07.03_arm64.buildinfo
+ 7f7d41363ca73b9f01cb62b101814516 9286 misc optional ros-one-code-coverage_0.4.4-5-g7c273b3-2025.01.23.07.03_arm64.deb

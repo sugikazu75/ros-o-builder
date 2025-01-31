@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 31 Jan 2024 00:00:00 -0000
+Source: ros-one-axis-description
+Binary: ros-one-axis-description
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.5.4-1-g340c307-2025.01.23.10.05
+Distribution: jammy
+Urgency: high
+Maintainer: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>
+Changed-By: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>
+Description:
+ ros-one-axis-description - Description package with URDF files for common Axis fixed and PTZ
+Changes:
+ ros-one-axis-description (0.5.4-1-g340c307-2025.01.23.10.05) jammy; urgency=high
+Checksums-Sha1:
+ 757117fcb6ae6183e1b2f35f559d4e39278bdeb0 8200 ros-one-axis-description_0.5.4-1-g340c307-2025.01.23.10.05_arm64.buildinfo
+ 967fa667704d3e8ed05bf3215cff04e0ea0646b1 147734 ros-one-axis-description_0.5.4-1-g340c307-2025.01.23.10.05_arm64.deb
+Checksums-Sha256:
+ 500c1af6bc26e91804c3f90e94f8e03b3fd14cc32dff7c3be8a31e2e9148aabb 8200 ros-one-axis-description_0.5.4-1-g340c307-2025.01.23.10.05_arm64.buildinfo
+ ca880443174b777fa6edabcfb78863d5d0ad13bd73277f31621bc77726bbc7a2 147734 ros-one-axis-description_0.5.4-1-g340c307-2025.01.23.10.05_arm64.deb
+Files:
+ bc5e3d3242b6dc5468884eeb81905a35 8200 misc optional ros-one-axis-description_0.5.4-1-g340c307-2025.01.23.10.05_arm64.buildinfo
+ cb63afafb025996e82872998839704ce 147734 misc optional ros-one-axis-description_0.5.4-1-g340c307-2025.01.23.10.05_arm64.deb

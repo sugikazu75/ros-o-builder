@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 04 Apr 2017 00:00:00 -0000
+Source: ros-one-unique-id
+Binary: ros-one-unique-id
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.0.6-9-g39b8b62-2025.01.23.09.01
+Distribution: jammy
+Urgency: high
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Changed-By: Jack O'Quin <jack.oquin@gmail.com>
+Description:
+ ros-one-unique-id - ROS Python and C++ interfaces for universally unique identifiers.
+Changes:
+ ros-one-unique-id (1.0.6-9-g39b8b62-2025.01.23.09.01) jammy; urgency=high
+Checksums-Sha1:
+ 94180fa918980a69454826200501ce80d05ac84c 12316 ros-one-unique-id_1.0.6-9-g39b8b62-2025.01.23.09.01_arm64.buildinfo
+ 982d2e45cd0b10ac293c5575ba1b85033f86fa10 10620 ros-one-unique-id_1.0.6-9-g39b8b62-2025.01.23.09.01_arm64.deb
+Checksums-Sha256:
+ dd1e105f2ea68636a5c0abe5b07c99c7ac92dbe1a07cda2a960a3acdb0fa34f0 12316 ros-one-unique-id_1.0.6-9-g39b8b62-2025.01.23.09.01_arm64.buildinfo
+ 9e019c3fe3d7f584572d66095d300a35ac28960ce6324000ec4aa8dd8ea19eb9 10620 ros-one-unique-id_1.0.6-9-g39b8b62-2025.01.23.09.01_arm64.deb
+Files:
+ b7d8c7e0e159a10e0400e7c00b7d57ca 12316 misc optional ros-one-unique-id_1.0.6-9-g39b8b62-2025.01.23.09.01_arm64.buildinfo
+ b96a8bdce02def09230d4619f280ba4d 10620 misc optional ros-one-unique-id_1.0.6-9-g39b8b62-2025.01.23.09.01_arm64.deb

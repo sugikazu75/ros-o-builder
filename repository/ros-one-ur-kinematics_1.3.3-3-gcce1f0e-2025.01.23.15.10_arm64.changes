@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 08 Apr 2024 00:00:00 -0000
+Source: ros-one-ur-kinematics
+Binary: ros-one-ur-kinematics
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.3.3-3-gcce1f0e-2025.01.23.15.10
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur-kinematics - Provides forward and inverse kinematics for Universal Robots desi
+Changes:
+ ros-one-ur-kinematics (1.3.3-3-gcce1f0e-2025.01.23.15.10) jammy; urgency=high
+ .
+   * Changed include for Boost in ur_kinematics (#675 <https://github.com/ros-industrial/universal_robot/issues/675>)
+   * UR30 description and meshes (#674 <https://github.com/ros-industrial/universal_robot/issues/674>)
+   * Contributors: Vincenzo Di Pentima
+Checksums-Sha1:
+ 880e03a2042379761251bcc15e9e9ccd0ee1e5e4 1531642 ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2025.01.23.15.10_arm64.ddeb
+ 053a32a507f211adb8a3205889478132a944d6d2 26003 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.01.23.15.10_arm64.buildinfo
+ 2d4f224d2966378b326945b60a74a5741137bd09 71002 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.01.23.15.10_arm64.deb
+Checksums-Sha256:
+ ce21649a94af650bbef7e49b8fb067c7e54d78240ea63ab61a8a91de7b0f601c 1531642 ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2025.01.23.15.10_arm64.ddeb
+ d1db1b2e26f0fdf7b867c99ba01d303e38191837b444b59de89c18c6f2951c4b 26003 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.01.23.15.10_arm64.buildinfo
+ 3648888462710201417efed1536b46bbc1c646c56064f0a029386b36707019f4 71002 ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.01.23.15.10_arm64.deb
+Files:
+ 201b97f307f77f629387ca209d922d75 1531642 debug optional ros-one-ur-kinematics-dbgsym_1.3.3-3-gcce1f0e-2025.01.23.15.10_arm64.ddeb
+ 804ae6b149b418984d060132d2d6d911 26003 misc optional ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.01.23.15.10_arm64.buildinfo
+ 3efa7278b9b0a7ae03bd40b43c8ebc3c 71002 misc optional ros-one-ur-kinematics_1.3.3-3-gcce1f0e-2025.01.23.15.10_arm64.deb

@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Thu, 15 Jul 2021 00:00:00 -0000
+Source: ros-one-industrial-core
+Binary: ros-one-industrial-core
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.7.3-7-ge4d2633-2025.01.23.13.57
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-industrial-core - ROS-Industrial core stack contains packages and libraries for sup
+Changes:
+ ros-one-industrial-core (0.7.3-7-ge4d2633-2025.01.23.13.57) jammy; urgency=high
+ .
+   * No changes
+Checksums-Sha1:
+ 31f32b86b97a8f6293e86813898b5b25f89c0240 8189 ros-one-industrial-core_0.7.3-7-ge4d2633-2025.01.23.13.57_arm64.buildinfo
+ 3b026031dd19f629b4185b6c64e576f8bc81c807 2694 ros-one-industrial-core_0.7.3-7-ge4d2633-2025.01.23.13.57_arm64.deb
+Checksums-Sha256:
+ 66a8a3664ade385a5836449d6b33fb1c5b1e22264cb35ad5ad8427bae08622d3 8189 ros-one-industrial-core_0.7.3-7-ge4d2633-2025.01.23.13.57_arm64.buildinfo
+ 4240b19c4e61ae3ffb2bc9e42f4c6738a4ca5febc1b10a7176786c540d27387a 2694 ros-one-industrial-core_0.7.3-7-ge4d2633-2025.01.23.13.57_arm64.deb
+Files:
+ ed61c362caac556801dafcc7ebb5cc3e 8189 misc optional ros-one-industrial-core_0.7.3-7-ge4d2633-2025.01.23.13.57_arm64.buildinfo
+ 4bf554671d6c22e9af311756205866ff 2694 misc optional ros-one-industrial-core_0.7.3-7-ge4d2633-2025.01.23.13.57_arm64.deb

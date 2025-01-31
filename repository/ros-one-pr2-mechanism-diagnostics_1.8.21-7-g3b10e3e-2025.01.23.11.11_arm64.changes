@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 22 Jun 2022 00:00:00 -0000
+Source: ros-one-pr2-mechanism-diagnostics
+Binary: ros-one-pr2-mechanism-diagnostics
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.8.21-7-g3b10e3e-2025.01.23.11.11
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-mechanism-diagnostics - The `pr2_mechanism_diagnostics` node subscribes to `mechanism_sta
+Changes:
+ ros-one-pr2-mechanism-diagnostics (1.8.21-7-g3b10e3e-2025.01.23.11.11) jammy; urgency=high
+ .
+   * set catkin_add_gtest within CATKIN_ENABLE_TESTING (#346 <https://github.com/pr2/pr2_mechanism/issues/346>)
+     fix with CATKIN_ENABLE_TESTING=OFF
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 07a156aa09075591b37a0a2574d3f79c38d6f750 837584 ros-one-pr2-mechanism-diagnostics-dbgsym_1.8.21-7-g3b10e3e-2025.01.23.11.11_arm64.ddeb
+ a06bf4f1676dc20d94f8d97428042e09d2a1f967 15990 ros-one-pr2-mechanism-diagnostics_1.8.21-7-g3b10e3e-2025.01.23.11.11_arm64.buildinfo
+ 6f8ca4def0835052b4008de12f46d531626baaf8 53452 ros-one-pr2-mechanism-diagnostics_1.8.21-7-g3b10e3e-2025.01.23.11.11_arm64.deb
+Checksums-Sha256:
+ 2b5d2f7ff591a1df18ad550a1f6c76a49939be5469f7a788f7e1a0c3cb671500 837584 ros-one-pr2-mechanism-diagnostics-dbgsym_1.8.21-7-g3b10e3e-2025.01.23.11.11_arm64.ddeb
+ 3d73ffec54b11cb07b24fbead4274ffe0bd91cc26cd7489e4b22e83f131cb54e 15990 ros-one-pr2-mechanism-diagnostics_1.8.21-7-g3b10e3e-2025.01.23.11.11_arm64.buildinfo
+ db8ac97147548e10ca752b122541123e273ba4c78d7a0055d94d7c02e2ee0128 53452 ros-one-pr2-mechanism-diagnostics_1.8.21-7-g3b10e3e-2025.01.23.11.11_arm64.deb
+Files:
+ b7b1da7a7e522311caf7561b5b5bd502 837584 debug optional ros-one-pr2-mechanism-diagnostics-dbgsym_1.8.21-7-g3b10e3e-2025.01.23.11.11_arm64.ddeb
+ b8b44df621b36f54843ee169ccea0808 15990 misc optional ros-one-pr2-mechanism-diagnostics_1.8.21-7-g3b10e3e-2025.01.23.11.11_arm64.buildinfo
+ b652f1b813c18ad34ac856d1594913f7 53452 misc optional ros-one-pr2-mechanism-diagnostics_1.8.21-7-g3b10e3e-2025.01.23.11.11_arm64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-rostwitter
+Binary: ros-one-rostwitter
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 2.1.29-6-g5b37f2c7-2025.01.23.17.27
+Distribution: jammy
+Urgency: high
+Maintainer: k-okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: k-okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-rostwitter - The rostwitter package
+Changes:
+ ros-one-rostwitter (2.1.29-6-g5b37f2c7-2025.01.23.17.27) jammy; urgency=high
+Checksums-Sha1:
+ c63d5276e2404d71daa0630518685d221af05145 15975 ros-one-rostwitter_2.1.29-6-g5b37f2c7-2025.01.23.17.27_arm64.buildinfo
+ 817eae2d31d414ff0ad39725e0f4a5c1e7afc1f5 127674 ros-one-rostwitter_2.1.29-6-g5b37f2c7-2025.01.23.17.27_arm64.deb
+Checksums-Sha256:
+ 7d1321b24aadb59c6a924a33b01e8156d50cc4570c235e33969177d184d9107e 15975 ros-one-rostwitter_2.1.29-6-g5b37f2c7-2025.01.23.17.27_arm64.buildinfo
+ 9cda2cf04ef824ad7283b0fe064f8545e8908ee22a708f138e1a613f4438fcb3 127674 ros-one-rostwitter_2.1.29-6-g5b37f2c7-2025.01.23.17.27_arm64.deb
+Files:
+ 34b48c4d4f1b0b91f96655740a7402ea 15975 misc optional ros-one-rostwitter_2.1.29-6-g5b37f2c7-2025.01.23.17.27_arm64.buildinfo
+ 8931f36a596933c8a562d5828bf2b0f3 127674 misc optional ros-one-rostwitter_2.1.29-6-g5b37f2c7-2025.01.23.17.27_arm64.deb

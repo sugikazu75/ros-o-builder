@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 28 Aug 2020 00:00:00 -0000
+Source: ros-one-bond
+Binary: ros-one-bond
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.8.6-1-g398e8ed-2025.01.23.08.52
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-bond - A bond allows two processes, A and B, to know when the other has
+Changes:
+ ros-one-bond (1.8.6-1-g398e8ed-2025.01.23.08.52) jammy; urgency=high
+Checksums-Sha1:
+ 01d24370c0b24058a6d144f67114d2d617c905d4 9740 ros-one-bond_1.8.6-1-g398e8ed-2025.01.23.08.52_arm64.buildinfo
+ 7c8493bdab4b0edd3e415ba1da5847c4f5e951d5 19224 ros-one-bond_1.8.6-1-g398e8ed-2025.01.23.08.52_arm64.deb
+Checksums-Sha256:
+ ac2b32349c235ab08151df000ef3c4a7e4cf59e60ac3c917ade69937fec2290f 9740 ros-one-bond_1.8.6-1-g398e8ed-2025.01.23.08.52_arm64.buildinfo
+ 04d372ab1eaad0463ef5aabca5722d4f4cef2e84881add68e375bdad1fbfd9e9 19224 ros-one-bond_1.8.6-1-g398e8ed-2025.01.23.08.52_arm64.deb
+Files:
+ 0eebc0806b361d9ebe190685ec56b7bc 9740 misc optional ros-one-bond_1.8.6-1-g398e8ed-2025.01.23.08.52_arm64.buildinfo
+ efdb2231f926bc16325e2826f7550b2a 19224 misc optional ros-one-bond_1.8.6-1-g398e8ed-2025.01.23.08.52_arm64.deb

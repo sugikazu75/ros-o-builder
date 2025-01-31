@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2025-01-23 15:49 ./
+drwxr-xr-x root/root         0 2025-01-23 15:49 ./opt/
+drwxr-xr-x root/root         0 2025-01-23 15:49 ./opt/ros/
+drwxr-xr-x root/root         0 2025-01-23 15:49 ./opt/ros/one/
+drwxr-xr-x root/root         0 2025-01-23 15:49 ./opt/ros/one/share/
+drwxr-xr-x root/root         0 2025-01-23 15:49 ./opt/ros/one/share/simulators/
+-rw-r--r-- root/root       886 2025-01-23 15:32 ./opt/ros/one/share/simulators/package.xml
+drwxr-xr-x root/root         0 2025-01-23 15:49 ./usr/
+drwxr-xr-x root/root         0 2025-01-23 15:49 ./usr/share/
+drwxr-xr-x root/root         0 2025-01-23 15:49 ./usr/share/doc/
+drwxr-xr-x root/root         0 2025-01-23 15:49 ./usr/share/doc/ros-one-simulators/
+-rw-r--r-- root/root       201 2025-01-23 15:49 ./usr/share/doc/ros-one-simulators/changelog.Debian.gz
+-rw-r--r-- root/root       384 2025-01-23 15:49 ./usr/share/doc/ros-one-simulators/copyright

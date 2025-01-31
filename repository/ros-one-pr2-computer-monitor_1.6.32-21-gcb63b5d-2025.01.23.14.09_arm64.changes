@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Wed, 26 May 2021 00:00:00 -0000
+Source: ros-one-pr2-computer-monitor
+Binary: ros-one-pr2-computer-monitor
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.6.32-21-gcb63b5d-2025.01.23.14.09
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Feil-Seifer <dave@cse.unr.edu>
+Changed-By: Dave Feil-Seifer <dave@cse.unr.edu>
+Description:
+ ros-one-pr2-computer-monitor - Monitors the computer's processor and hard drives of the PR2 and
+Changes:
+ ros-one-pr2-computer-monitor (1.6.32-21-gcb63b5d-2025.01.23.14.09) jammy; urgency=high
+ .
+   * Merge pull request #268 <https://github.com/pr2/pr2_robot/issues/268> from k-okada/fix_for_noetic
+   * run 2to3 -w -fexcept .
+   * run 2to3 -w -fprint .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 1fd8b4680e6824d08bff68c774a72c84a636843d 207152 ros-one-pr2-computer-monitor-dbgsym_1.6.32-21-gcb63b5d-2025.01.23.14.09_arm64.ddeb
+ 9cb4cfcd53421663849872a09669e26e9ac6fc69 11573 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.01.23.14.09_arm64.buildinfo
+ 7bd7e6ce5f829c8821f25180c4a18b2c80d0c07c 33278 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.01.23.14.09_arm64.deb
+Checksums-Sha256:
+ 846f27b934ae6f11220a39a4e3b1ad7b4defa0638024806b8f41255ac8b07642 207152 ros-one-pr2-computer-monitor-dbgsym_1.6.32-21-gcb63b5d-2025.01.23.14.09_arm64.ddeb
+ 625b1cd0d2c8a904e9b07fbad29122d027233666e9ef54938098f857f6232ab2 11573 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.01.23.14.09_arm64.buildinfo
+ 733b3ec4eb7a3b3bd5d34f806edccd794999e84c687872ab0a6fdd5acad5a5c4 33278 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.01.23.14.09_arm64.deb
+Files:
+ 58c05c2049189e9775b58028d846bae7 207152 debug optional ros-one-pr2-computer-monitor-dbgsym_1.6.32-21-gcb63b5d-2025.01.23.14.09_arm64.ddeb
+ 86df766913f88c6f910036d7385dcde3 11573 misc optional ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.01.23.14.09_arm64.buildinfo
+ 8825c15c08c85797cede7a58048c7b66 33278 misc optional ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.01.23.14.09_arm64.deb

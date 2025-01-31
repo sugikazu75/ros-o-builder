@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 10 Oct 2024 00:00:00 -0000
+Source: ros-one-mavros
+Binary: ros-one-mavros
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.20.0-1-g08142be7-2025.01.23.11.00
+Distribution: jammy
+Urgency: high
+Maintainer: Vladimir Ermakov <vooon341@gmail.com>
+Changed-By: Vladimir Ermakov <vooon341@gmail.com>
+Description:
+ ros-one-mavros - MAVROS -- MAVLink extendable communication node for ROS with prox
+Changes:
+ ros-one-mavros (1.20.0-1-g08142be7-2025.01.23.11.00) jammy; urgency=high
+ .
+   * add param to odom plugin
+   * add frame_id parameter
+   * Contributors: EnderMandS
+Checksums-Sha1:
+ 1b886a82edacd90ef3171c7c0eef4cd33917cf1e 23201758 ros-one-mavros-dbgsym_1.20.0-1-g08142be7-2025.01.23.11.00_arm64.ddeb
+ d53632808f6a8c485388b330802eab13c38dd214 21320 ros-one-mavros_1.20.0-1-g08142be7-2025.01.23.11.00_arm64.buildinfo
+ 8ec409edd3ba7b16c9440a3d7ee57f378face3d5 792930 ros-one-mavros_1.20.0-1-g08142be7-2025.01.23.11.00_arm64.deb
+Checksums-Sha256:
+ a7e60a2075af8336b78d9b80216401f1524f81a32765ee3f29ddf07f5907bd69 23201758 ros-one-mavros-dbgsym_1.20.0-1-g08142be7-2025.01.23.11.00_arm64.ddeb
+ d6c46547de7fbeb8ef60f942e0883679923346abf89c5ec49957dff3c980a5d8 21320 ros-one-mavros_1.20.0-1-g08142be7-2025.01.23.11.00_arm64.buildinfo
+ 3f4fe9bf79bab5ada68b22252870a694d05ed60d3c7e7d1118f46fa6a95b96b1 792930 ros-one-mavros_1.20.0-1-g08142be7-2025.01.23.11.00_arm64.deb
+Files:
+ 5eeb4b92b4f5200bf6d7b517644efd7b 23201758 debug optional ros-one-mavros-dbgsym_1.20.0-1-g08142be7-2025.01.23.11.00_arm64.ddeb
+ 7fcd9d9aff2abb530920121d6d05628d 21320 misc optional ros-one-mavros_1.20.0-1-g08142be7-2025.01.23.11.00_arm64.buildinfo
+ 14ecf77de99248dabea6f766e527dc4a 792930 misc optional ros-one-mavros_1.20.0-1-g08142be7-2025.01.23.11.00_arm64.deb

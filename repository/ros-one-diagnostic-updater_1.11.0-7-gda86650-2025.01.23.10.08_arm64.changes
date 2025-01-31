@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-diagnostic-updater
+Binary: ros-one-diagnostic-updater
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.11.0-7-gda86650-2025.01.23.10.08
+Distribution: jammy
+Urgency: high
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Changed-By: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Description:
+ ros-one-diagnostic-updater - diagnostic_updater contains tools for easily updating diagnostics
+Changes:
+ ros-one-diagnostic-updater (1.11.0-7-gda86650-2025.01.23.10.08) jammy; urgency=high
+ .
+   * Use DiagnosticLevel enum instead of hardcoded integers (#208 <https://github.com/ros/diagnostics/issues/208>)
+     Spellcheck fixes
+   * Contributors: Amilcar Lucas
+Checksums-Sha1:
+ 54da57e1b9ef52a010f44a05419c6e2b73dc515c 322148 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2025.01.23.10.08_arm64.ddeb
+ e06888ebdb9f07f2684de3d83f71a63423ada51b 13473 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.23.10.08_arm64.buildinfo
+ 416b74df0405eacdbfb56cfd4d3d4a62d918a47f 52932 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.23.10.08_arm64.deb
+Checksums-Sha256:
+ 112d5be91714da5b09bd2da32c00ff13acd40ab63f34d3ec8e3955ef6662284e 322148 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2025.01.23.10.08_arm64.ddeb
+ e33025bf8652fb4d289602ba010e2affd552eb1b044048805e32915e66b4b175 13473 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.23.10.08_arm64.buildinfo
+ 5a20f73151ab3cbc9e560f59b95b96b3a43475b0bc6d5fefcbc229cb22e1a66c 52932 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.23.10.08_arm64.deb
+Files:
+ fd1aedee26e34f5a7ce01d161d407f9d 322148 debug optional ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2025.01.23.10.08_arm64.ddeb
+ 5c1c819f730b8ff77a1274b115476563 13473 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.23.10.08_arm64.buildinfo
+ 954721f0e2b675bc723c642655182162 52932 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.23.10.08_arm64.deb

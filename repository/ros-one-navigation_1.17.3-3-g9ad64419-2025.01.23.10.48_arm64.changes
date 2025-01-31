@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 10 Jan 2023 00:00:00 -0000
+Source: ros-one-navigation
+Binary: ros-one-navigation
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.17.3-3-g9ad64419-2025.01.23.10.48
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mfergs7@gmail.com>
+Changed-By: Michael Ferguson <mfergs7@gmail.com>
+Description:
+ ros-one-navigation - A 2D navigation stack that takes in information from odometry, se
+Changes:
+ ros-one-navigation (1.17.3-3-g9ad64419-2025.01.23.10.48) jammy; urgency=high
+Checksums-Sha1:
+ 0e9e98c2f61d8fa0acfe11a27ec476680e3f23c5 8172 ros-one-navigation_1.17.3-3-g9ad64419-2025.01.23.10.48_arm64.buildinfo
+ 24c6b921f3e433f7c2b4bc025eed6e076904af59 2832 ros-one-navigation_1.17.3-3-g9ad64419-2025.01.23.10.48_arm64.deb
+Checksums-Sha256:
+ d66ab83e71e96f46b5bf8e428a0aef6c9a0c15ebe67991af4a8cce898b2f4d2a 8172 ros-one-navigation_1.17.3-3-g9ad64419-2025.01.23.10.48_arm64.buildinfo
+ 7f571db483693cbb89dd7d3856e4a9c8d96cbf171be9138ceee59925c93893f0 2832 ros-one-navigation_1.17.3-3-g9ad64419-2025.01.23.10.48_arm64.deb
+Files:
+ 9471b04226f3b4271c8454e86bc1d921 8172 misc optional ros-one-navigation_1.17.3-3-g9ad64419-2025.01.23.10.48_arm64.buildinfo
+ 469d6f6c15f2d23eff688fc2b3823e2c 2832 misc optional ros-one-navigation_1.17.3-3-g9ad64419-2025.01.23.10.48_arm64.deb

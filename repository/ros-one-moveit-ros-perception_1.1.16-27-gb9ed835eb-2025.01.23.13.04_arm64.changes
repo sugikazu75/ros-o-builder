@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-perception
+Binary: ros-one-moveit-ros-perception
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.1.16-27-gb9ed835eb-2025.01.23.13.04
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-perception - Components of MoveIt connecting to perception
+Changes:
+ ros-one-moveit-ros-perception (1.1.16-27-gb9ed835eb-2025.01.23.13.04) jammy; urgency=high
+Checksums-Sha1:
+ 731eb2c54d1511cd6ba455bab332fd6b995260d1 10589626 ros-one-moveit-ros-perception-dbgsym_1.1.16-27-gb9ed835eb-2025.01.23.13.04_arm64.ddeb
+ 6409b4cf2706b6ac647cba37973f34ccbb475fa7 35657 ros-one-moveit-ros-perception_1.1.16-27-gb9ed835eb-2025.01.23.13.04_arm64.buildinfo
+ 03849daa46eed64511bcd452c29673ff07ac6120 282342 ros-one-moveit-ros-perception_1.1.16-27-gb9ed835eb-2025.01.23.13.04_arm64.deb
+Checksums-Sha256:
+ 30c4757da50913d4c52175d730bd5814f9f1be45ba524c826641079a7271ec97 10589626 ros-one-moveit-ros-perception-dbgsym_1.1.16-27-gb9ed835eb-2025.01.23.13.04_arm64.ddeb
+ 0f64a092f0b936d3685f4dd9e9d7dad14b52d72168002f7b60759e589336b11d 35657 ros-one-moveit-ros-perception_1.1.16-27-gb9ed835eb-2025.01.23.13.04_arm64.buildinfo
+ 2c0de5e41706e26d338c1ae41f8e0610815ac4fb6909b24fa20ba86a54c9611b 282342 ros-one-moveit-ros-perception_1.1.16-27-gb9ed835eb-2025.01.23.13.04_arm64.deb
+Files:
+ fde2024ca70be4c2a6664406cafab52d 10589626 debug optional ros-one-moveit-ros-perception-dbgsym_1.1.16-27-gb9ed835eb-2025.01.23.13.04_arm64.ddeb
+ 175afa1c11e77fffcaa40619eebe224e 35657 misc optional ros-one-moveit-ros-perception_1.1.16-27-gb9ed835eb-2025.01.23.13.04_arm64.buildinfo
+ 15a14a2e1d609e3813873aeaeb2d175e 282342 misc optional ros-one-moveit-ros-perception_1.1.16-27-gb9ed835eb-2025.01.23.13.04_arm64.deb

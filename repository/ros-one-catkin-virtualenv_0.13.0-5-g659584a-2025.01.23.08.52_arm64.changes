@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-one-catkin-virtualenv
+Binary: ros-one-catkin-virtualenv
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.13.0-5-g659584a-2025.01.23.08.52
+Distribution: jammy
+Urgency: high
+Maintainer: Paul Bovbel <pbovbel@locusrobotics.com>
+Changed-By: Paul Bovbel <pbovbel@locusrobotics.com>
+Description:
+ ros-one-catkin-virtualenv - Bundle python requirements in a catkin package via virtualenv.
+Changes:
+ ros-one-catkin-virtualenv (0.13.0-5-g659584a-2025.01.23.08.52) jammy; urgency=high
+Checksums-Sha1:
+ 341885789ba19b5d09f5d96c483ab053a0b98268 8206 ros-one-catkin-virtualenv_0.13.0-5-g659584a-2025.01.23.08.52_arm64.buildinfo
+ 9df8eb3c42c70582e8569371759dab0bb927d103 24124 ros-one-catkin-virtualenv_0.13.0-5-g659584a-2025.01.23.08.52_arm64.deb
+Checksums-Sha256:
+ 7042519fc8fca87526bdee2cdb7bc5c46247a4a3222b961af507715229fa86b7 8206 ros-one-catkin-virtualenv_0.13.0-5-g659584a-2025.01.23.08.52_arm64.buildinfo
+ dcf5bcadf5adb1647e8a993c7030405b9611283bbcb59475ddee8ec31fcf0d86 24124 ros-one-catkin-virtualenv_0.13.0-5-g659584a-2025.01.23.08.52_arm64.deb
+Files:
+ 7c4e177e53e00750b8b659d06cf624ac 8206 misc optional ros-one-catkin-virtualenv_0.13.0-5-g659584a-2025.01.23.08.52_arm64.buildinfo
+ 32f84ff3661b1771fd128ffc725e6bdd 24124 misc optional ros-one-catkin-virtualenv_0.13.0-5-g659584a-2025.01.23.08.52_arm64.deb

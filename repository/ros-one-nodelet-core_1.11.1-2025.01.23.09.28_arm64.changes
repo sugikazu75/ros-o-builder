@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 13 Nov 2024 00:00:00 -0000
+Source: ros-one-nodelet-core
+Binary: ros-one-nodelet-core
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.11.1-2025.01.23.09.28
+Distribution: jammy
+Urgency: high
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Changed-By: Geoffrey Biggs <geoff@openrobotics.org>
+Description:
+ ros-one-nodelet-core - Nodelet Core Metapackage
+Changes:
+ ros-one-nodelet-core (1.11.1-2025.01.23.09.28) jammy; urgency=high
+Checksums-Sha1:
+ a4c8095128b1614d4470732dd444d7b87462239a 8134 ros-one-nodelet-core_1.11.1-2025.01.23.09.28_arm64.buildinfo
+ 9229cf79876a4bc6525ecf51398fade5e78b83da 2624 ros-one-nodelet-core_1.11.1-2025.01.23.09.28_arm64.deb
+Checksums-Sha256:
+ 1199aa76a0f6565c8c5e6b263c422cb83064d5bc28811727e62f5c056a7f1ebc 8134 ros-one-nodelet-core_1.11.1-2025.01.23.09.28_arm64.buildinfo
+ 1195315505e9163c1a545062ade5c616c52a41fd110185d6cd4ff89c0fd087f0 2624 ros-one-nodelet-core_1.11.1-2025.01.23.09.28_arm64.deb
+Files:
+ 1558394ed4ab5c853f15bc73ad1c592c 8134 misc optional ros-one-nodelet-core_1.11.1-2025.01.23.09.28_arm64.buildinfo
+ 06b976783ad2847cf9ea1e67da7c17f0 2624 misc optional ros-one-nodelet-core_1.11.1-2025.01.23.09.28_arm64.deb

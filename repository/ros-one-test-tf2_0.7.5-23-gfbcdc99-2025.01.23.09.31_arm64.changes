@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 13 Oct 2023 00:00:00 -0000
+Source: ros-one-test-tf2
+Binary: ros-one-test-tf2
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.7.5-23-gfbcdc99-2025.01.23.09.31
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-test-tf2 - tf2 unit tests
+Changes:
+ ros-one-test-tf2 (0.7.5-23-gfbcdc99-2025.01.23.09.31) jammy; urgency=high
+Checksums-Sha1:
+ 1e50f218cdcbabc61ca94f7da4c96335d1f46d29 13922 ros-one-test-tf2_0.7.5-23-gfbcdc99-2025.01.23.09.31_arm64.buildinfo
+ 46594edf577d6e386665974bc0b56a7597352fb1 8986 ros-one-test-tf2_0.7.5-23-gfbcdc99-2025.01.23.09.31_arm64.deb
+Checksums-Sha256:
+ b3762683164c8b03e9456a51f6c0ba1e4fa72d4406f2ca43f25cc3072614036d 13922 ros-one-test-tf2_0.7.5-23-gfbcdc99-2025.01.23.09.31_arm64.buildinfo
+ 71c6aa164acdefe3cb90b4660f471c60b72176bcd5197483fead0c411944c978 8986 ros-one-test-tf2_0.7.5-23-gfbcdc99-2025.01.23.09.31_arm64.deb
+Files:
+ 6673da6c70e8e41395df54efb519481a 13922 misc optional ros-one-test-tf2_0.7.5-23-gfbcdc99-2025.01.23.09.31_arm64.buildinfo
+ 51f89ac920f49165e080a3300ba636f6 8986 misc optional ros-one-test-tf2_0.7.5-23-gfbcdc99-2025.01.23.09.31_arm64.deb

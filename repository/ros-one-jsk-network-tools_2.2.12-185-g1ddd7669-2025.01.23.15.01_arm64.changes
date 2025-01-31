@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 07 Jun 2022 00:00:00 -0000
+Source: ros-one-jsk-network-tools
+Binary: ros-one-jsk-network-tools
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 2.2.12-185-g1ddd7669-2025.01.23.15.01
+Distribution: jammy
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-network-tools - jsk_network_tools
+Changes:
+ ros-one-jsk-network-tools (2.2.12-185-g1ddd7669-2025.01.23.15.01) jammy; urgency=high
+ .
+   * add skip_interfaces param in network_status.py (#1664 <https://github.com/jsk-ros-pkg/jsk_common/issues/1664>)
+   * Contributors: Shingo Kitagawa
+Checksums-Sha1:
+ 1eed6a239aa8da420f4c7fca43cad9f32fec510a 713552 ros-one-jsk-network-tools-dbgsym_2.2.12-185-g1ddd7669-2025.01.23.15.01_arm64.ddeb
+ 2ff387d594eb39062505ee5e0c204a03f46776bb 16382 ros-one-jsk-network-tools_2.2.12-185-g1ddd7669-2025.01.23.15.01_arm64.buildinfo
+ f8a1e6842323dc75181682da6b2a93f59fd8442f 136740 ros-one-jsk-network-tools_2.2.12-185-g1ddd7669-2025.01.23.15.01_arm64.deb
+Checksums-Sha256:
+ d117740cc4b132d6f7b87d293559a07c5ac05f04e0a5929b10e1d3102db29528 713552 ros-one-jsk-network-tools-dbgsym_2.2.12-185-g1ddd7669-2025.01.23.15.01_arm64.ddeb
+ 46973f2838617ef071fc9a8c44df6e9adb3c0d9538df540b8fe7ead238a5cd76 16382 ros-one-jsk-network-tools_2.2.12-185-g1ddd7669-2025.01.23.15.01_arm64.buildinfo
+ 060d2a3534e5f87ae16d2dd7f70d3fd3990f31b10460257b1544954593764031 136740 ros-one-jsk-network-tools_2.2.12-185-g1ddd7669-2025.01.23.15.01_arm64.deb
+Files:
+ ffb9e46de6cf396574f63012e65d8573 713552 debug optional ros-one-jsk-network-tools-dbgsym_2.2.12-185-g1ddd7669-2025.01.23.15.01_arm64.ddeb
+ 5294a14c7bef34783b328994257d2006 16382 misc optional ros-one-jsk-network-tools_2.2.12-185-g1ddd7669-2025.01.23.15.01_arm64.buildinfo
+ e83fa7e82f6dd3e49769d1a902244493 136740 misc optional ros-one-jsk-network-tools_2.2.12-185-g1ddd7669-2025.01.23.15.01_arm64.deb

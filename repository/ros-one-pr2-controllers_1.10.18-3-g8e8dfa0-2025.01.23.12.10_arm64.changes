@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-pr2-controllers
+Binary: ros-one-pr2-controllers
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.10.18-3-g8e8dfa0-2025.01.23.12.10
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-controllers - Contains the controllers that run in realtime on the PR2 and supp
+Changes:
+ ros-one-pr2-controllers (1.10.18-3-g8e8dfa0-2025.01.23.12.10) jammy; urgency=high
+Checksums-Sha1:
+ a83cea0482ca6252f675dab2d74da5224bd50d16 8197 ros-one-pr2-controllers_1.10.18-3-g8e8dfa0-2025.01.23.12.10_arm64.buildinfo
+ 1236fe90b9716d7d303118d2742b33016e7c4c71 2240 ros-one-pr2-controllers_1.10.18-3-g8e8dfa0-2025.01.23.12.10_arm64.deb
+Checksums-Sha256:
+ d62e7da080953a2bc2f5225daa1eccab877fb455b3c67d104fd1064ed7deeaaf 8197 ros-one-pr2-controllers_1.10.18-3-g8e8dfa0-2025.01.23.12.10_arm64.buildinfo
+ 5e6d5563b6b838ee6e1c119ea165a8533fd11e49d9ec8803f8323b63b486602c 2240 ros-one-pr2-controllers_1.10.18-3-g8e8dfa0-2025.01.23.12.10_arm64.deb
+Files:
+ d9ee41bcdc321421677c42bf03877ec9 8197 misc optional ros-one-pr2-controllers_1.10.18-3-g8e8dfa0-2025.01.23.12.10_arm64.buildinfo
+ 6157f37941140117fd4588db29dfcefe 2240 misc optional ros-one-pr2-controllers_1.10.18-3-g8e8dfa0-2025.01.23.12.10_arm64.deb

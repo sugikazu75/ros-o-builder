@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-single-joint-position-action
+Binary: ros-one-single-joint-position-action
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 1.10.18-3-g8e8dfa0-2025.01.23.13.06
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-single-joint-position-action - The single joint position action is a node that provides an actio
+Changes:
+ ros-one-single-joint-position-action (1.10.18-3-g8e8dfa0-2025.01.23.13.06) jammy; urgency=high
+Checksums-Sha1:
+ 46f72214d4dc8ed45361924e69ccdf11294f91d9 901056 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.01.23.13.06_arm64.ddeb
+ 7630852ede34e7df734219775ed9a6a061e0b73e 13910 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.23.13.06_arm64.buildinfo
+ 4680098aa6017c429bd93d3d3be6dd072575f882 79026 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.23.13.06_arm64.deb
+Checksums-Sha256:
+ f79e574969f7ea708967c8d5b37f0aff7aad688e369d28df750b98a9545315e5 901056 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.01.23.13.06_arm64.ddeb
+ 01d9fe63126767f210b0969d9d486bcdeb1fa5dea1bbfb55174c58b022e792b3 13910 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.23.13.06_arm64.buildinfo
+ fad3aaf28c5f3dafce717394c571f1457cc14eecf332f4e6bc5e38cb611e9ae7 79026 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.23.13.06_arm64.deb
+Files:
+ e8e2bff3ee344921f2ad4c294b692756 901056 debug optional ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.01.23.13.06_arm64.ddeb
+ c6e91f457feca872c8fc4a5b2d3a6158 13910 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.23.13.06_arm64.buildinfo
+ 2d734e5adef4094c4b401b7e322683f9 79026 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.23.13.06_arm64.deb

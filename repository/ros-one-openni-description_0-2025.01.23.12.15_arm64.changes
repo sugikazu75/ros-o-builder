@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 13 Sep 2018 00:00:00 -0000
+Source: ros-one-openni-description
+Binary: ros-one-openni-description
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0-2025.01.23.12.15
+Distribution: jammy
+Urgency: high
+Maintainer: Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>
+Changed-By: Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>
+Description:
+ ros-one-openni-description - Model files of OpenNI device.
+Changes:
+ ros-one-openni-description (0-2025.01.23.12.15) jammy; urgency=high
+ .
+   * Remove a test_depend on pkg that are not guaranteed to be available in newer distro. #70 <https://github.com/ros-drivers/openni_camera/issues/70>
+   * Contributors: Isaac I.Y. Saito
+Checksums-Sha1:
+ bcfd1692a0bebfaea6b772dc2130fd60125f4585 8153 ros-one-openni-description_0-2025.01.23.12.15_arm64.buildinfo
+ df13c1456a382882c918faf8aa70ea268f40bf18 1957918 ros-one-openni-description_0-2025.01.23.12.15_arm64.deb
+Checksums-Sha256:
+ 7a128ef9786ebf1e634eab16057c088d7fbd48c0d2168145c3747655987ff3f6 8153 ros-one-openni-description_0-2025.01.23.12.15_arm64.buildinfo
+ cd7533e56bdf1761073e324bd019bff1bace3f957087f6a6edb5037135bf22f1 1957918 ros-one-openni-description_0-2025.01.23.12.15_arm64.deb
+Files:
+ edbd319ee4c483e37c0326eacadec396 8153 misc optional ros-one-openni-description_0-2025.01.23.12.15_arm64.buildinfo
+ a5dd96d24cfcd66075d76bfb20cfc6e2 1957918 misc optional ros-one-openni-description_0-2025.01.23.12.15_arm64.deb

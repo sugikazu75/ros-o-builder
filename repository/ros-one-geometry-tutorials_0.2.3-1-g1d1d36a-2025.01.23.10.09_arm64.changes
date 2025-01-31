@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 02 Apr 2020 00:00:00 -0000
+Source: ros-one-geometry-tutorials
+Binary: ros-one-geometry-tutorials
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.2.3-1-g1d1d36a-2025.01.23.10.09
+Distribution: jammy
+Urgency: high
+Maintainer: William Woodall <william@osrfoundation.org>
+Changed-By: William Woodall <william@osrfoundation.org>
+Description:
+ ros-one-geometry-tutorials - Metapackage of geometry tutorials ROS.
+Changes:
+ ros-one-geometry-tutorials (0.2.3-1-g1d1d36a-2025.01.23.10.09) jammy; urgency=high
+ .
+   * Bump CMake version to avoid CMP0048 warning (#29 <https://github.com/ros/geometry_tutorials//issues/29>)
+   * Contributors: Alejandro Hernández Cordero
+Checksums-Sha1:
+ 5f553dc75535f8997c83850aec01f378f5c7ec0c 8204 ros-one-geometry-tutorials_0.2.3-1-g1d1d36a-2025.01.23.10.09_arm64.buildinfo
+ 6efb5ca7b7d24609759f0a5d122b4107541d40e1 1986 ros-one-geometry-tutorials_0.2.3-1-g1d1d36a-2025.01.23.10.09_arm64.deb
+Checksums-Sha256:
+ a54395f4edd75dbbad7f32bedb6dacf31ab54223c85d2f22136ef4f620b72743 8204 ros-one-geometry-tutorials_0.2.3-1-g1d1d36a-2025.01.23.10.09_arm64.buildinfo
+ 383a7d1d44c514c62cc07cb7d7365e6255c166474fc5f2520a78b3b3397bec86 1986 ros-one-geometry-tutorials_0.2.3-1-g1d1d36a-2025.01.23.10.09_arm64.deb
+Files:
+ 4ca9caa401150ee1e37acf168c050a0d 8204 misc optional ros-one-geometry-tutorials_0.2.3-1-g1d1d36a-2025.01.23.10.09_arm64.buildinfo
+ 9d155a8e668503482bdf095b137a3d95 1986 misc optional ros-one-geometry-tutorials_0.2.3-1-g1d1d36a-2025.01.23.10.09_arm64.deb

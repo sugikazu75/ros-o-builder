@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-chaplus-ros
+Binary: ros-one-chaplus-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 2.1.29-6-g5b37f2c7-2025.01.23.15.47
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-chaplus-ros - The ROS package for chaplus service
+Changes:
+ ros-one-chaplus-ros (2.1.29-6-g5b37f2c7-2025.01.23.15.47) jammy; urgency=high
+Checksums-Sha1:
+ 3df830656d3981ab0cdc3bbede7f9da58287fe1a 8177 ros-one-chaplus-ros_2.1.29-6-g5b37f2c7-2025.01.23.15.47_arm64.buildinfo
+ 5de8e786d416d6453408c92d6eb1acaba82da512 9964 ros-one-chaplus-ros_2.1.29-6-g5b37f2c7-2025.01.23.15.47_arm64.deb
+Checksums-Sha256:
+ 76f617cb9d7d233d93b067fcb15b2ef28e4041c77ca31db3d43e601be43dbf19 8177 ros-one-chaplus-ros_2.1.29-6-g5b37f2c7-2025.01.23.15.47_arm64.buildinfo
+ 09e4b086682ed5eed0a56fc985cd3d1fab908653ab10b2910e9eee856db87389 9964 ros-one-chaplus-ros_2.1.29-6-g5b37f2c7-2025.01.23.15.47_arm64.deb
+Files:
+ 1203ed8219ec02066580db4f18a219c5 8177 misc optional ros-one-chaplus-ros_2.1.29-6-g5b37f2c7-2025.01.23.15.47_arm64.buildinfo
+ a20f27f06bc1b8c8fc14523d6c2bdd3e 9964 misc optional ros-one-chaplus-ros_2.1.29-6-g5b37f2c7-2025.01.23.15.47_arm64.deb

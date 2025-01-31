@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-one-test-catkin-virtualenv
+Binary: ros-one-test-catkin-virtualenv
+Built-For-Profiles: noudeb nocheck
+Architecture: arm64
+Version: 0.13.0-5-g659584a-2025.01.23.08.55
+Distribution: jammy
+Urgency: high
+Maintainer: Paul Bovbel <pbovbel@locusrobotics.com>
+Changed-By: Paul Bovbel <pbovbel@locusrobotics.com>
+Description:
+ ros-one-test-catkin-virtualenv - Basic catkin_virtualenv test.
+Changes:
+ ros-one-test-catkin-virtualenv (0.13.0-5-g659584a-2025.01.23.08.55) jammy; urgency=high
+Checksums-Sha1:
+ 35ae94c07fb039d1455796f62742b426f54fa7f4 868896 ros-one-test-catkin-virtualenv-dbgsym_0.13.0-5-g659584a-2025.01.23.08.55_arm64.ddeb
+ 2a29b762c33a98790ad277b839b833094b3a4fb8 10834 ros-one-test-catkin-virtualenv_0.13.0-5-g659584a-2025.01.23.08.55_arm64.buildinfo
+ 30ce17495997142831382e929fe9a9318f16ab52 3086310 ros-one-test-catkin-virtualenv_0.13.0-5-g659584a-2025.01.23.08.55_arm64.deb
+Checksums-Sha256:
+ 5dc627dbd4eaa15f347c81edfaa44dd40b4219cc748f5425cf15c269cf0950a2 868896 ros-one-test-catkin-virtualenv-dbgsym_0.13.0-5-g659584a-2025.01.23.08.55_arm64.ddeb
+ 80e610835735bbe8f6e1cf3f727d2ad92eda6c43267c347d6579b015e5f5da14 10834 ros-one-test-catkin-virtualenv_0.13.0-5-g659584a-2025.01.23.08.55_arm64.buildinfo
+ de7ed6ec3ee2394648b59676974ce1ade3aac73d5272e069aaa3d8115ce6e30c 3086310 ros-one-test-catkin-virtualenv_0.13.0-5-g659584a-2025.01.23.08.55_arm64.deb
+Files:
+ 54e78047478fb70e92283ff9159d3347 868896 debug optional ros-one-test-catkin-virtualenv-dbgsym_0.13.0-5-g659584a-2025.01.23.08.55_arm64.ddeb
+ 0c5336a46e1f4640a5ac41f137f2b834 10834 misc optional ros-one-test-catkin-virtualenv_0.13.0-5-g659584a-2025.01.23.08.55_arm64.buildinfo
+ 765161c19be692f7d495f5cf7f38a8ac 3086310 misc optional ros-one-test-catkin-virtualenv_0.13.0-5-g659584a-2025.01.23.08.55_arm64.deb
