@@ -12,7 +12,7 @@ concurrency:
 env:
   DISTRIBUTION: ubuntu
   DEB_DISTRO: jammy
-  BRANCH: jammy-one-unstable
+  BRANCH: jammy-amd64-one-unstable
   JOBS_YAML: /home/runner/jobs.yaml
   AGG: /home/runner/apt_repo_dependencies
 
