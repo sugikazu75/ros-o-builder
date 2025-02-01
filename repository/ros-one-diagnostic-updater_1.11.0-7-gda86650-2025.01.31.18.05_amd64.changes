@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-diagnostic-updater
+Binary: ros-one-diagnostic-updater
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.11.0-7-gda86650-2025.01.31.18.05
+Distribution: jammy
+Urgency: high
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Changed-By: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Description:
+ ros-one-diagnostic-updater - diagnostic_updater contains tools for easily updating diagnostics
+Changes:
+ ros-one-diagnostic-updater (1.11.0-7-gda86650-2025.01.31.18.05) jammy; urgency=high
+ .
+   * Use DiagnosticLevel enum instead of hardcoded integers (#208 <https://github.com/ros/diagnostics/issues/208>)
+     Spellcheck fixes
+   * Contributors: Amilcar Lucas
+Checksums-Sha1:
+ 24e373d5d560a1b3dc1f985ef510c1224ffb16fd 328066 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2025.01.31.18.05_amd64.ddeb
+ 47513617326bf86d8b1b92493b00f6dd08d79936 13472 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.31.18.05_amd64.buildinfo
+ c3415c68df2705040cb83b382f1dd86d92fdcbd6 53940 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.31.18.05_amd64.deb
+Checksums-Sha256:
+ 2b65f2422ebfa182e68b07b4f3522ba0b90f7dffb2b7fcae5293f3f1065e5d26 328066 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2025.01.31.18.05_amd64.ddeb
+ 2523a2169f1981e555a7d41431e35891281096ab1918c22704c8153a74d9a1e7 13472 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.31.18.05_amd64.buildinfo
+ 69b35722e7ff6e4ba85d20f8bb822c27081c51f2d3efb594511bf5d816a7b530 53940 ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.31.18.05_amd64.deb
+Files:
+ 086a75881b6e1df1d24b9154f30b6cfd 328066 debug optional ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2025.01.31.18.05_amd64.ddeb
+ 81774f2dd12d968e931fe9626c44f3bb 13472 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.31.18.05_amd64.buildinfo
+ a27388073edd7ebf5db2968c1592abc3 53940 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2025.01.31.18.05_amd64.deb

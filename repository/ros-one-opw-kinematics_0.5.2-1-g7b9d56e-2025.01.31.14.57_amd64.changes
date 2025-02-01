@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 14 Jan 2025 00:00:00 -0000
+Source: ros-one-opw-kinematics
+Binary: ros-one-opw-kinematics
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.2-1-g7b9d56e-2025.01.31.14.57
+Distribution: jammy
+Urgency: high
+Maintainer: Jon Meyer <jmeyer@swri.org>
+Changed-By: Jon Meyer <jmeyer@swri.org>
+Description:
+ ros-one-opw-kinematics - A simple, analytical inverse kinematic library for industrial rob
+Changes:
+ ros-one-opw-kinematics (0.5.2-1-g7b9d56e-2025.01.31.14.57) jammy; urgency=high
+ .
+   * Update debian for all distros
+   * Contributors: Levi Armstrong
+Checksums-Sha1:
+ 1b8e18b786ab2f908ada30a0dabf3e42849c5561 7156 ros-one-opw-kinematics_0.5.2-1-g7b9d56e-2025.01.31.14.57_amd64.buildinfo
+ 9bd5368f67ed815b0878b3cc431d4c5c46f1c483 14192 ros-one-opw-kinematics_0.5.2-1-g7b9d56e-2025.01.31.14.57_amd64.deb
+Checksums-Sha256:
+ 3cac2534583a04589b143f6f29f761f6db27368355ce864c21d81b1d3a5d3dc6 7156 ros-one-opw-kinematics_0.5.2-1-g7b9d56e-2025.01.31.14.57_amd64.buildinfo
+ 6762a65cdb8ce04fba59e301564065b4a66732d2c85077ad2d822ac47f29e682 14192 ros-one-opw-kinematics_0.5.2-1-g7b9d56e-2025.01.31.14.57_amd64.deb
+Files:
+ 7c6a91bc4952aca92e227bbb166b12c4 7156 misc optional ros-one-opw-kinematics_0.5.2-1-g7b9d56e-2025.01.31.14.57_amd64.buildinfo
+ 98d7e0b7a2b6bda925b5d56707099b7d 14192 misc optional ros-one-opw-kinematics_0.5.2-1-g7b9d56e-2025.01.31.14.57_amd64.deb

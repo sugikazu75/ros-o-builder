@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-assimp-devel
+Binary: ros-one-assimp-devel
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.02.01.00.06
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-assimp-devel - assimp library
+Changes:
+ ros-one-assimp-devel (2.1.29-6-g5b37f2c7-2025.02.01.00.06) jammy; urgency=high
+Checksums-Sha1:
+ 579cde25ecb07ab8a10ba5db957f2c74b659183a 19191490 ros-one-assimp-devel-dbgsym_2.1.29-6-g5b37f2c7-2025.02.01.00.06_amd64.ddeb
+ 72f33de2d387f35efd5e3473bea30b0bf161e787 17031 ros-one-assimp-devel_2.1.29-6-g5b37f2c7-2025.02.01.00.06_amd64.buildinfo
+ 64760e953daf075c627c7947f4168adc5c4d6868 1589704 ros-one-assimp-devel_2.1.29-6-g5b37f2c7-2025.02.01.00.06_amd64.deb
+Checksums-Sha256:
+ 9c94a67234bf66aa13d1e6573186026b05aa667c5c2870007785b6ae4acfe3f9 19191490 ros-one-assimp-devel-dbgsym_2.1.29-6-g5b37f2c7-2025.02.01.00.06_amd64.ddeb
+ ce447dc3685ac7952df1874dddd7106bf2abe454a43cbaeeeeecd4062adae74d 17031 ros-one-assimp-devel_2.1.29-6-g5b37f2c7-2025.02.01.00.06_amd64.buildinfo
+ 17a8286f1a2fccbd86ef072fe682102a991e3f51fcd451c57d9e61335589abbd 1589704 ros-one-assimp-devel_2.1.29-6-g5b37f2c7-2025.02.01.00.06_amd64.deb
+Files:
+ 79fcec66cba90a2a17e423d50bcb9ee3 19191490 debug optional ros-one-assimp-devel-dbgsym_2.1.29-6-g5b37f2c7-2025.02.01.00.06_amd64.ddeb
+ f62982cf5364385549302e758657af42 17031 misc optional ros-one-assimp-devel_2.1.29-6-g5b37f2c7-2025.02.01.00.06_amd64.buildinfo
+ 20fda4ec90d279d9694316dc76716783 1589704 misc optional ros-one-assimp-devel_2.1.29-6-g5b37f2c7-2025.02.01.00.06_amd64.deb

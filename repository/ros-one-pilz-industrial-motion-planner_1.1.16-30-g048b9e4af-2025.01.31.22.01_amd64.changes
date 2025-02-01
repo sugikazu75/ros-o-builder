@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-pilz-industrial-motion-planner
+Binary: ros-one-pilz-industrial-motion-planner
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-30-g048b9e4af-2025.01.31.22.01
+Distribution: jammy
+Urgency: high
+Maintainer: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Changed-By: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Description:
+ ros-one-pilz-industrial-motion-planner - MoveIt plugin to generate industrial trajectories PTP, LIN, CIRC
+Changes:
+ ros-one-pilz-industrial-motion-planner (1.1.16-30-g048b9e4af-2025.01.31.22.01) jammy; urgency=high
+Checksums-Sha1:
+ e82d9dcfebb20b760f629d8ed58027e21f75c7b1 28777684 ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.22.01_amd64.ddeb
+ b22e246ebee61bf9c51693a34d8537fe17c0a9ab 27082 ros-one-pilz-industrial-motion-planner_1.1.16-30-g048b9e4af-2025.01.31.22.01_amd64.buildinfo
+ cee1bbd823b6efb09c3cffa2e60af5e6dcec6b66 397774 ros-one-pilz-industrial-motion-planner_1.1.16-30-g048b9e4af-2025.01.31.22.01_amd64.deb
+Checksums-Sha256:
+ 75f6acf283fdb00d4194c5f68d411d6d6acb0073244a45048e6fbd60beb3a1ad 28777684 ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.22.01_amd64.ddeb
+ bee807dcdd80d3659e9f6191bfa8a4a65f40d61a1106d8cf7c916b169cbf69d2 27082 ros-one-pilz-industrial-motion-planner_1.1.16-30-g048b9e4af-2025.01.31.22.01_amd64.buildinfo
+ cf95a8a490b94822da24e3523ced781d5c183908637f3694af7b6382171a4a93 397774 ros-one-pilz-industrial-motion-planner_1.1.16-30-g048b9e4af-2025.01.31.22.01_amd64.deb
+Files:
+ c832249446f77b53dcb6acd65cff04ef 28777684 debug optional ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.22.01_amd64.ddeb
+ e3314331778328273b67a6f234f2c777 27082 misc optional ros-one-pilz-industrial-motion-planner_1.1.16-30-g048b9e4af-2025.01.31.22.01_amd64.buildinfo
+ 2736dc9a944c8b0394a8e38342e6cae0 397774 misc optional ros-one-pilz-industrial-motion-planner_1.1.16-30-g048b9e4af-2025.01.31.22.01_amd64.deb

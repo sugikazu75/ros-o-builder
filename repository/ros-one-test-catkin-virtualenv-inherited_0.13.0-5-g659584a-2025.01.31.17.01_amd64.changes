@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-one-test-catkin-virtualenv-inherited
+Binary: ros-one-test-catkin-virtualenv-inherited
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.13.0-5-g659584a-2025.01.31.17.01
+Distribution: jammy
+Urgency: high
+Maintainer: Paul Bovbel <pbovbel@locusrobotics.com>
+Changed-By: Paul Bovbel <pbovbel@locusrobotics.com>
+Description:
+ ros-one-test-catkin-virtualenv-inherited - Test to make sure a package inherits it's dependency's dependenci
+Changes:
+ ros-one-test-catkin-virtualenv-inherited (0.13.0-5-g659584a-2025.01.31.17.01) jammy; urgency=high
+Checksums-Sha1:
+ 18b48541d68e29940a2dab998688cfc15bd472d2 816766 ros-one-test-catkin-virtualenv-inherited-dbgsym_0.13.0-5-g659584a-2025.01.31.17.01_amd64.ddeb
+ 7ddd06ff6a1a7e832441b4b090f52f4ba859003e 10995 ros-one-test-catkin-virtualenv-inherited_0.13.0-5-g659584a-2025.01.31.17.01_amd64.buildinfo
+ 297b3f1cd49d9eb484c2cafd4f12ef7b6666fadf 3144244 ros-one-test-catkin-virtualenv-inherited_0.13.0-5-g659584a-2025.01.31.17.01_amd64.deb
+Checksums-Sha256:
+ c36bdc801a7f37cf1582229fa7e22dc8fff1aabfab0649c942c9a579d5a2e417 816766 ros-one-test-catkin-virtualenv-inherited-dbgsym_0.13.0-5-g659584a-2025.01.31.17.01_amd64.ddeb
+ 11a5355584fba98f9e263bc399dac1565790f3e22fb5d4a3b7ca609c5496dec2 10995 ros-one-test-catkin-virtualenv-inherited_0.13.0-5-g659584a-2025.01.31.17.01_amd64.buildinfo
+ 917cd34e0abc4b12f723285865a88db16c784c42a15cb4194d12d0e385f2cd92 3144244 ros-one-test-catkin-virtualenv-inherited_0.13.0-5-g659584a-2025.01.31.17.01_amd64.deb
+Files:
+ de778bc4703b69ac4267c0331faca285 816766 debug optional ros-one-test-catkin-virtualenv-inherited-dbgsym_0.13.0-5-g659584a-2025.01.31.17.01_amd64.ddeb
+ b2e1fe042a4f86801ab0b4fbacd59b6b 10995 misc optional ros-one-test-catkin-virtualenv-inherited_0.13.0-5-g659584a-2025.01.31.17.01_amd64.buildinfo
+ 7bf80a131864c4b8fdbc343471990f59 3144244 misc optional ros-one-test-catkin-virtualenv-inherited_0.13.0-5-g659584a-2025.01.31.17.01_amd64.deb

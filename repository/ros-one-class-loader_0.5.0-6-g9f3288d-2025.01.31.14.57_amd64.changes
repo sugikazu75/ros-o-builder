@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 07 Feb 2020 00:00:00 -0000
+Source: ros-one-class-loader
+Binary: ros-one-class-loader
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.0-6-g9f3288d-2025.01.31.14.57
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-class-loader - The class_loader package is a ROS-independent package for loading
+Changes:
+ ros-one-class-loader (0.5.0-6-g9f3288d-2025.01.31.14.57) jammy; urgency=high
+ .
+   * Declare specific boost dependencies. (#136 <https://github.com/ros/class_loader/issues/136>)
+   * Contributors: Mikael Arguedas
+Checksums-Sha1:
+ 1e6ad2f585ded3c66b04cacd4a6c8bbb7955c909 635862 ros-one-class-loader-dbgsym_0.5.0-6-g9f3288d-2025.01.31.14.57_amd64.ddeb
+ 5db53000cd327f0cd948b3bd143302d1a3b47e88 10797 ros-one-class-loader_0.5.0-6-g9f3288d-2025.01.31.14.57_amd64.buildinfo
+ 648636b0cdf048fc74208d1a9260ec61d09b9c8d 64824 ros-one-class-loader_0.5.0-6-g9f3288d-2025.01.31.14.57_amd64.deb
+Checksums-Sha256:
+ aab9c6554febad052665acbc061b83ea04cf9cca4b00b1093e041654e999fe3c 635862 ros-one-class-loader-dbgsym_0.5.0-6-g9f3288d-2025.01.31.14.57_amd64.ddeb
+ 24efed3fa5bc236535f5a46b96a5516d48edd44f496039d8f51614cea9c8d0f7 10797 ros-one-class-loader_0.5.0-6-g9f3288d-2025.01.31.14.57_amd64.buildinfo
+ b7eff84641745a3ad3d80ad5ea634c494c09ac69baca7b3ac5a0ced662d088aa 64824 ros-one-class-loader_0.5.0-6-g9f3288d-2025.01.31.14.57_amd64.deb
+Files:
+ 1432d8ee57d63b1d509354519618030d 635862 debug optional ros-one-class-loader-dbgsym_0.5.0-6-g9f3288d-2025.01.31.14.57_amd64.ddeb
+ 4a0eb04f3603e0bea224d0edefb972bc 10797 misc optional ros-one-class-loader_0.5.0-6-g9f3288d-2025.01.31.14.57_amd64.buildinfo
+ 34f3436c5eba49b38e8c845b82f44401 64824 misc optional ros-one-class-loader_0.5.0-6-g9f3288d-2025.01.31.14.57_amd64.deb

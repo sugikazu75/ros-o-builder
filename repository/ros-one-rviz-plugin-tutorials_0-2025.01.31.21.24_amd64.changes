@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 13 May 2020 00:00:00 -0000
+Source: ros-one-rviz-plugin-tutorials
+Binary: ros-one-rviz-plugin-tutorials
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.01.31.21.24
+Distribution: jammy
+Urgency: high
+Maintainer: Mabel Zhang <mabel@openrobotics.org>
+Changed-By: Mabel Zhang <mabel@openrobotics.org>
+Description:
+ ros-one-rviz-plugin-tutorials - Tutorials showing how to write plugins for RViz.
+Changes:
+ ros-one-rviz-plugin-tutorials (0-2025.01.31.21.24) jammy; urgency=high
+Checksums-Sha1:
+ 882885c952c314b0349ca3c7d5143d6973b53ffb 2471524 ros-one-rviz-plugin-tutorials-dbgsym_0-2025.01.31.21.24_amd64.ddeb
+ b8a2a432973f61249335a95ef7ad6dbf35c29bfb 29491 ros-one-rviz-plugin-tutorials_0-2025.01.31.21.24_amd64.buildinfo
+ 60ee009491de14f3e48fd2d68b13a4bea2872de9 108506 ros-one-rviz-plugin-tutorials_0-2025.01.31.21.24_amd64.deb
+Checksums-Sha256:
+ 5af5972a4f36267fe23ad1644ae1035812996bdae7f7c37b3b77746dc6e29027 2471524 ros-one-rviz-plugin-tutorials-dbgsym_0-2025.01.31.21.24_amd64.ddeb
+ 1e53354b8608d83613cc7dd82612a2083b2655579f3194cf218607314f4fe450 29491 ros-one-rviz-plugin-tutorials_0-2025.01.31.21.24_amd64.buildinfo
+ b8e0a1b369bf9cb8bd25154262a54eed6e720c249b0e8a39889946308f2c7441 108506 ros-one-rviz-plugin-tutorials_0-2025.01.31.21.24_amd64.deb
+Files:
+ 27f160d88245f7a2ac2b98469ffd1ef7 2471524 debug optional ros-one-rviz-plugin-tutorials-dbgsym_0-2025.01.31.21.24_amd64.ddeb
+ f32bb7bacca16935ecca0adf3a230f76 29491 misc optional ros-one-rviz-plugin-tutorials_0-2025.01.31.21.24_amd64.buildinfo
+ fbcfb129ee5d1e6ccd7ad80089043f5f 108506 misc optional ros-one-rviz-plugin-tutorials_0-2025.01.31.21.24_amd64.deb

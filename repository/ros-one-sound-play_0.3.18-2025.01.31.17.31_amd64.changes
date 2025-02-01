@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Tue, 13 Aug 2024 00:00:00 -0000
+Source: ros-one-sound-play
+Binary: ros-one-sound-play
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.3.18-2025.01.31.17.31
+Distribution: jammy
+Urgency: high
+Maintainer: Austin Hendrix <namniart@gmail.com>
+Changed-By: Austin Hendrix <namniart@gmail.com>
+Description:
+ ros-one-sound-play - sound_play provides a ROS node that translates commands on a ROS
+Changes:
+ ros-one-sound-play (0.3.18-2025.01.31.17.31) jammy; urgency=high
+ .
+   * Merge pull request #249 <https://github.com/ros-drivers/audio_common/issues/249> from peci1/patch-1
+     festival_plugin: add support for different encodings
+   * festival_plugin: add support for different encodings
+   * Contributors: Martin Pecka, Shingo Kitagawa
+Checksums-Sha1:
+ 41e39863d2ae7d2542144208ee277af838b13a88 13157 ros-one-sound-play_0.3.18-2025.01.31.17.31_amd64.buildinfo
+ 2d94d2a3355f71aad8cddbd1742a3feaecdf3ce5 210584 ros-one-sound-play_0.3.18-2025.01.31.17.31_amd64.deb
+Checksums-Sha256:
+ 43ac954608db2104ffdc6c95888f7f0efa514292a981e49297d02f77dcf74000 13157 ros-one-sound-play_0.3.18-2025.01.31.17.31_amd64.buildinfo
+ 8e7d4883d6785ae2296c8c766338f9c9982506f74d8c56c4c434a312c2a35251 210584 ros-one-sound-play_0.3.18-2025.01.31.17.31_amd64.deb
+Files:
+ 43b4bac6d1401777f308f24d13b56885 13157 misc optional ros-one-sound-play_0.3.18-2025.01.31.17.31_amd64.buildinfo
+ a8abbc5192406c624173c0965a5d9c63 210584 misc optional ros-one-sound-play_0.3.18-2025.01.31.17.31_amd64.deb

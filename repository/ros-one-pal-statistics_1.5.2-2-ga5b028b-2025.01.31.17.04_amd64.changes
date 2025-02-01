@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Thu, 16 May 2024 00:00:00 -0000
+Source: ros-one-pal-statistics
+Binary: ros-one-pal-statistics
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.5.2-2-ga5b028b-2025.01.31.17.04
+Distribution: jammy
+Urgency: high
+Maintainer: victor <victor.lopez@pal-robotics.com>
+Changed-By: victor <victor.lopez@pal-robotics.com>
+Description:
+ ros-one-pal-statistics - The pal_statistics package
+Changes:
+ ros-one-pal-statistics (1.5.2-2-ga5b028b-2025.01.31.17.04) jammy; urgency=high
+ .
+   * do not rely on extension for std::vector<bool>
+     The standard does not define std::swap() for the bit proxy objects,
+     but defines a static method instead. This broke with clang++ 14.0.6 over
+     here.
+     See here for more details:
+     https://stackoverflow.com/a/58660208/21260084
+   * Contributors: v4hn
+Checksums-Sha1:
+ 9c8691fd52f4c91ada8b17cf606a367ba087de5d 1676954 ros-one-pal-statistics-dbgsym_1.5.2-2-ga5b028b-2025.01.31.17.04_amd64.ddeb
+ de77a196f7f742e35b1f96867a9bfab94ca4501e 20220 ros-one-pal-statistics_1.5.2-2-ga5b028b-2025.01.31.17.04_amd64.buildinfo
+ 88292d6fb5db245fdc86c7851c4376d6fb74e037 111208 ros-one-pal-statistics_1.5.2-2-ga5b028b-2025.01.31.17.04_amd64.deb
+Checksums-Sha256:
+ e8c6ca4f6264e64e8f1e20dd678ee6e21abdab7e51acd3246ae26a6df745f235 1676954 ros-one-pal-statistics-dbgsym_1.5.2-2-ga5b028b-2025.01.31.17.04_amd64.ddeb
+ 56573ec2898d84bce898826648623eca1b149e4e5ba68ec53d4a30909ed71f69 20220 ros-one-pal-statistics_1.5.2-2-ga5b028b-2025.01.31.17.04_amd64.buildinfo
+ 266ec31efe1e17a802ec4fea5ab7f873fceb959d57eebbb52be5207d6d10106a 111208 ros-one-pal-statistics_1.5.2-2-ga5b028b-2025.01.31.17.04_amd64.deb
+Files:
+ 5582158b08927ac0195c5e362185a21f 1676954 debug optional ros-one-pal-statistics-dbgsym_1.5.2-2-ga5b028b-2025.01.31.17.04_amd64.ddeb
+ d82c4008ebbdbc50259d6497dd396e1a 20220 misc optional ros-one-pal-statistics_1.5.2-2-ga5b028b-2025.01.31.17.04_amd64.buildinfo
+ a65726ac2180d787f926fd8fa6f6fa27 111208 misc optional ros-one-pal-statistics_1.5.2-2-ga5b028b-2025.01.31.17.04_amd64.deb

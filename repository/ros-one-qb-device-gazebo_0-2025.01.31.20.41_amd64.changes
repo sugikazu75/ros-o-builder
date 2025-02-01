@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 07 Jun 2024 00:00:00 -0000
+Source: ros-one-qb-device-gazebo
+Binary: ros-one-qb-device-gazebo
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.01.31.20.41
+Distribution: jammy
+Urgency: high
+Maintainer: qb Support Team <support@qbrobotics.com>
+Changed-By: qb Support Team <support@qbrobotics.com>
+Description:
+ ros-one-qb-device-gazebo - This package contains the Gazebo ROS control custom dependencies
+Changes:
+ ros-one-qb-device-gazebo (0-2025.01.31.20.41) jammy; urgency=high
+Checksums-Sha1:
+ 879a7cff2bd82af232c7171a7b4292826ebf67a3 1542950 ros-one-qb-device-gazebo-dbgsym_0-2025.01.31.20.41_amd64.ddeb
+ d395f3ba3431b2f944735af582b01fbba2ba460e 39545 ros-one-qb-device-gazebo_0-2025.01.31.20.41_amd64.buildinfo
+ 6a4d796d2f598cef0f4fa7452fe9561ea43023e6 110236 ros-one-qb-device-gazebo_0-2025.01.31.20.41_amd64.deb
+Checksums-Sha256:
+ f3d995020970570c1b84a10e5a824164379d748e7f694518cf0876a420989097 1542950 ros-one-qb-device-gazebo-dbgsym_0-2025.01.31.20.41_amd64.ddeb
+ ff2b35011b971e26ef87ba4ec667e0ba5f4068b2d3e7e82a7761852f3a5bb1d5 39545 ros-one-qb-device-gazebo_0-2025.01.31.20.41_amd64.buildinfo
+ 7625b75b70a4d7429b17a805f340ede9ab43df1a4f78edd8ef6cb6be7a8c8c36 110236 ros-one-qb-device-gazebo_0-2025.01.31.20.41_amd64.deb
+Files:
+ 7c4c3abea76cb9c3dda2541ac6b33075 1542950 debug optional ros-one-qb-device-gazebo-dbgsym_0-2025.01.31.20.41_amd64.ddeb
+ d738c797bf08826bb1d55a09b7308a5a 39545 misc optional ros-one-qb-device-gazebo_0-2025.01.31.20.41_amd64.buildinfo
+ 89c1c35f0c3f68ed6f5c05a7319f479a 110236 misc optional ros-one-qb-device-gazebo_0-2025.01.31.20.41_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-aques-talk
+Binary: ros-one-aques-talk
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.02.01.00.02
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <kei.okada@gmail.com>
+Changed-By: Kei Okada <kei.okada@gmail.com>
+Description:
+ ros-one-aques-talk - ROS interface aques_talk demo program
+Changes:
+ ros-one-aques-talk (2.1.29-6-g5b37f2c7-2025.02.01.00.02) jammy; urgency=high
+Checksums-Sha1:
+ c24eb56d71059231eeae14a04456dd27a5e867df 8171 ros-one-aques-talk_2.1.29-6-g5b37f2c7-2025.02.01.00.02_amd64.buildinfo
+ 17610fe3ff04c29266a9e2e0cb7c09267fd3ac7d 8080 ros-one-aques-talk_2.1.29-6-g5b37f2c7-2025.02.01.00.02_amd64.deb
+Checksums-Sha256:
+ 7ba5990272d6f250bf85ba51de09f4bdd49013846b6de59f0a23a8cdbbe6a745 8171 ros-one-aques-talk_2.1.29-6-g5b37f2c7-2025.02.01.00.02_amd64.buildinfo
+ 513a9223cde8961255640356d9f4c3b4890ecea15d1d626264a2e597a509d07e 8080 ros-one-aques-talk_2.1.29-6-g5b37f2c7-2025.02.01.00.02_amd64.deb
+Files:
+ ce548887b8d3276686876b305e4a1259 8171 misc optional ros-one-aques-talk_2.1.29-6-g5b37f2c7-2025.02.01.00.02_amd64.buildinfo
+ 3b0945875e33444cdfdbcb976012830b 8080 misc optional ros-one-aques-talk_2.1.29-6-g5b37f2c7-2025.02.01.00.02_amd64.deb

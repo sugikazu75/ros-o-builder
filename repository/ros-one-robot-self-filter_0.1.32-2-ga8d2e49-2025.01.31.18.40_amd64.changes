@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Fri, 07 Aug 2020 00:00:00 -0000
+Source: ros-one-robot-self-filter
+Binary: ros-one-robot-self-filter
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.32-2-ga8d2e49-2025.01.31.18.40
+Distribution: jammy
+Urgency: high
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Changed-By: Devon Ash <dash@clearpathrobotics.com>
+Description:
+ ros-one-robot-self-filter - Filters the robot's body out of point clouds.
+Changes:
+ ros-one-robot-self-filter (0.1.32-2-ga8d2e49-2025.01.31.18.40) jammy; urgency=high
+ .
+   * PCL > 1.10 uses c++ 14
+   * find_package(Boost signals) no longer required for noetic, use find_package(Boost)
+   * remove indigo/lunar from .travis.yml
+   * add noetic and fix .travs.yml
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 1dd93bb685386cf252c474a04839a3e27e96d6af 3659414 ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2025.01.31.18.40_amd64.ddeb
+ 515e677b05fdfb5d53f6ac0ff7c0738e2411bf1f 38947 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.31.18.40_amd64.buildinfo
+ 3e3e103f863bdba3eb8f4703a33ff3c21985bf04 188556 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.31.18.40_amd64.deb
+Checksums-Sha256:
+ 9525af27559f1529e6c3c399b26bd5ceb515b2cabf2c4e70d60407f69e4b8181 3659414 ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2025.01.31.18.40_amd64.ddeb
+ 697fd3b540cb66ca8c05e2459373f23b1e09ee8b7b3fcafbeca98e0a56821a2d 38947 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.31.18.40_amd64.buildinfo
+ 4f0109f6148c14c67794015f3b435ca13b38485975ebcb487dee3eec84b47ca9 188556 ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.31.18.40_amd64.deb
+Files:
+ 4751077411eb48fb29d64400067749af 3659414 debug optional ros-one-robot-self-filter-dbgsym_0.1.32-2-ga8d2e49-2025.01.31.18.40_amd64.ddeb
+ ec46f86b13e7ccb1c2218df54d651da9 38947 misc optional ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.31.18.40_amd64.buildinfo
+ 46a06a362ff8032061297148054c0ab3 188556 misc optional ros-one-robot-self-filter_0.1.32-2-ga8d2e49-2025.01.31.18.40_amd64.deb

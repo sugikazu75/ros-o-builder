@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 13 Jun 2023 00:00:00 -0000
+Source: ros-one-smach-msgs
+Binary: ros-one-smach-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.5.2-7-g94a196d-2025.01.31.17.29
+Distribution: jammy
+Urgency: high
+Maintainer: Isaac I. Y. Saito <gm130s@gmail.com>
+Changed-By: Isaac I. Y. Saito <gm130s@gmail.com>
+Description:
+ ros-one-smach-msgs - this package contains a set of messages that are used by the intr
+Changes:
+ ros-one-smach-msgs (2.5.2-7-g94a196d-2025.01.31.17.29) jammy; urgency=high
+Checksums-Sha1:
+ af63c5323e9d1114eb3956daa67bc462770bfadd 9769 ros-one-smach-msgs_2.5.2-7-g94a196d-2025.01.31.17.29_amd64.buildinfo
+ 9a730d6eb9c6f73d352379b22290a5ce9ac0d5ad 22412 ros-one-smach-msgs_2.5.2-7-g94a196d-2025.01.31.17.29_amd64.deb
+Checksums-Sha256:
+ e3391df3d052b3bb49f095e819921b4aab64dd466fe6f6df617bf0e33a2c7322 9769 ros-one-smach-msgs_2.5.2-7-g94a196d-2025.01.31.17.29_amd64.buildinfo
+ b0efc043d8097b7779c532872ac1c022c8811dbf35474e5f61689b2aea46ece9 22412 ros-one-smach-msgs_2.5.2-7-g94a196d-2025.01.31.17.29_amd64.deb
+Files:
+ 2d68ee9beb2dcb3da5bedf1343099bfc 9769 misc optional ros-one-smach-msgs_2.5.2-7-g94a196d-2025.01.31.17.29_amd64.buildinfo
+ 8ae811a67373032cc1517144e097a53f 22412 misc optional ros-one-smach-msgs_2.5.2-7-g94a196d-2025.01.31.17.29_amd64.deb

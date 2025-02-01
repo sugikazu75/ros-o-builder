@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 21 Jan 2025 00:00:00 -0000
+Source: ros-one-ros-industrial-cmake-boilerplate
+Binary: ros-one-ros-industrial-cmake-boilerplate
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.2-2025.01.31.14.37
+Distribution: jammy
+Urgency: high
+Maintainer: Levi Armstrong <levi.armstrong@gmail.com>
+Changed-By: Levi Armstrong <levi.armstrong@gmail.com>
+Description:
+ ros-one-ros-industrial-cmake-boilerplate - Contains boilerplate cmake script, macros and utils
+Changes:
+ ros-one-ros-industrial-cmake-boilerplate (0.7.2-2025.01.31.14.37) jammy; urgency=high
+ .
+   * Fix bug in cpack_component cmake variable naming
+   * Contributors: Levi Armstrong
+Checksums-Sha1:
+ b729cbce3c88dc4bc58b1eae6bed56402f2e9185 7027 ros-one-ros-industrial-cmake-boilerplate_0.7.2-2025.01.31.14.37_amd64.buildinfo
+ eacdba12f9385f239540f650c702e4e320c4e950 24770 ros-one-ros-industrial-cmake-boilerplate_0.7.2-2025.01.31.14.37_amd64.deb
+Checksums-Sha256:
+ a476a7eb0196a336f1aa441484a68022c80961f864b538af3af109348dd04f49 7027 ros-one-ros-industrial-cmake-boilerplate_0.7.2-2025.01.31.14.37_amd64.buildinfo
+ 339be8ebaf114d818b5e499973a29ccdb4c52e94ff3ddf06f72831e6b8b1a8e9 24770 ros-one-ros-industrial-cmake-boilerplate_0.7.2-2025.01.31.14.37_amd64.deb
+Files:
+ cc6b372b14bd13ecdc83ed6f3f223a5b 7027 misc optional ros-one-ros-industrial-cmake-boilerplate_0.7.2-2025.01.31.14.37_amd64.buildinfo
+ 458bd25443043a87ced31e51601b10a2 24770 misc optional ros-one-ros-industrial-cmake-boilerplate_0.7.2-2025.01.31.14.37_amd64.deb

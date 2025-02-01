@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 22 May 2024 00:00:00 -0000
+Source: ros-one-rqt-joint-trajectory-controller
+Binary: ros-one-rqt-joint-trajectory-controller
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.22.0-2025.01.31.19.14
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-rqt-joint-trajectory-controller - Graphical frontend for interacting with joint_trajectory_controll
+Changes:
+ ros-one-rqt-joint-trajectory-controller (0.22.0-2025.01.31.19.14) jammy; urgency=high
+Checksums-Sha1:
+ 4a57a449cc0442d6d68d96643db79650ebd13bf8 8231 ros-one-rqt-joint-trajectory-controller_0.22.0-2025.01.31.19.14_amd64.buildinfo
+ 6535278802057e1202df472a61391c9e3aff954f 32080 ros-one-rqt-joint-trajectory-controller_0.22.0-2025.01.31.19.14_amd64.deb
+Checksums-Sha256:
+ 51bb924d26474ccdadc8dc0334ec5f979f0cade8801f315afcbb84002c4030cc 8231 ros-one-rqt-joint-trajectory-controller_0.22.0-2025.01.31.19.14_amd64.buildinfo
+ 3ab2aec2d3fb2ae162c9b8a7771ebdb5adf8c0a3f3d76113cc10b26d04ef3ae2 32080 ros-one-rqt-joint-trajectory-controller_0.22.0-2025.01.31.19.14_amd64.deb
+Files:
+ 32e6b99afc44abbbb4fcc7746dc889b3 8231 misc optional ros-one-rqt-joint-trajectory-controller_0.22.0-2025.01.31.19.14_amd64.buildinfo
+ ae5a19a6b2813fd35848b6b17e8b1730 32080 misc optional ros-one-rqt-joint-trajectory-controller_0.22.0-2025.01.31.19.14_amd64.deb

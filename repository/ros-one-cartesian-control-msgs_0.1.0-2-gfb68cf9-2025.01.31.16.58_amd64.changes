@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 10 Jun 2021 00:00:00 -0000
+Source: ros-one-cartesian-control-msgs
+Binary: ros-one-cartesian-control-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.0-2-gfb68cf9-2025.01.31.16.58
+Distribution: jammy
+Urgency: high
+Maintainer: Felix Exner <exner@fzi.de>
+Changed-By: Felix Exner <exner@fzi.de>
+Description:
+ ros-one-cartesian-control-msgs - Cartesian trajectory execution interface.
+Changes:
+ ros-one-cartesian-control-msgs (0.1.0-2-gfb68cf9-2025.01.31.16.58) jammy; urgency=high
+ .
+   * Add package for Cartesian trajectory interface definition
+     The definition was publicly discussed and developed at:
+     https://github.com/fzi-forschungszentrum-informatik/fzi_robot_interface_proposal/tree/msg_package
+     Now it makes sense to have the message definitions here in this meta
+     package for future Cartesian trajectory controllers.
+   * Contributors: Felix Exner, Rune Søe-Knudsen, Stefan Scherzinger
+Checksums-Sha1:
+ e01e75c51ddec56297c997e8a1a1a3382508130a 9934 ros-one-cartesian-control-msgs_0.1.0-2-gfb68cf9-2025.01.31.16.58_amd64.buildinfo
+ 71cbce304d83fbc8f77c8db9e4c38b5c2526942a 59470 ros-one-cartesian-control-msgs_0.1.0-2-gfb68cf9-2025.01.31.16.58_amd64.deb
+Checksums-Sha256:
+ dbb8ee78cae6a943196802ef68c8a3a3e51158ebfa44f8b7dee2b85e9b3f8ba1 9934 ros-one-cartesian-control-msgs_0.1.0-2-gfb68cf9-2025.01.31.16.58_amd64.buildinfo
+ c9cdd1f6134f690e5a58ea5026ab3b16e078bd5154c1cdb4b97f002d01a16e25 59470 ros-one-cartesian-control-msgs_0.1.0-2-gfb68cf9-2025.01.31.16.58_amd64.deb
+Files:
+ 1cdc73a045dccbd966e5532263808acc 9934 misc optional ros-one-cartesian-control-msgs_0.1.0-2-gfb68cf9-2025.01.31.16.58_amd64.buildinfo
+ d10aa3f37f02c28821511a93a6150d20 59470 misc optional ros-one-cartesian-control-msgs_0.1.0-2-gfb68cf9-2025.01.31.16.58_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 22 May 2024 00:00:00 -0000
+Source: ros-one-diff-drive-controller
+Binary: ros-one-diff-drive-controller
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.22.0-2025.01.31.18.30
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-diff-drive-controller - Controller for a differential drive mobile base.
+Changes:
+ ros-one-diff-drive-controller (0.22.0-2025.01.31.18.30) jammy; urgency=high
+Checksums-Sha1:
+ 9b8224fbecc87f72514901c01388a579414eb12b 1533272 ros-one-diff-drive-controller-dbgsym_0.22.0-2025.01.31.18.30_amd64.ddeb
+ 83aaa618d745dd1da5bd99e320a94d30332a352b 24096 ros-one-diff-drive-controller_0.22.0-2025.01.31.18.30_amd64.buildinfo
+ 4edb788a8ff017d0645e35dc1de8f6ecd6713c74 126566 ros-one-diff-drive-controller_0.22.0-2025.01.31.18.30_amd64.deb
+Checksums-Sha256:
+ e1004d421aa49d5e1d0f54adee76686bb8b48d469706eb8d4f5e13e73858366f 1533272 ros-one-diff-drive-controller-dbgsym_0.22.0-2025.01.31.18.30_amd64.ddeb
+ 68c77d62ae4203b87857486dfd52055776736952b25e2220c686c2a46793f85e 24096 ros-one-diff-drive-controller_0.22.0-2025.01.31.18.30_amd64.buildinfo
+ 4a583f93a00149e6cbbfd867edc50f7e42c2ae08de7d2d848a54503b36511e35 126566 ros-one-diff-drive-controller_0.22.0-2025.01.31.18.30_amd64.deb
+Files:
+ 99008a46c2a97d88248b2bb32d53a175 1533272 debug optional ros-one-diff-drive-controller-dbgsym_0.22.0-2025.01.31.18.30_amd64.ddeb
+ fcb32a3d5ad13d917003502947de5134 24096 misc optional ros-one-diff-drive-controller_0.22.0-2025.01.31.18.30_amd64.buildinfo
+ 08b80c6cea299a65d77051826065adb8 126566 misc optional ros-one-diff-drive-controller_0.22.0-2025.01.31.18.30_amd64.deb

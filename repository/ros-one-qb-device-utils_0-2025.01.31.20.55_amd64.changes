@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 07 Jun 2024 00:00:00 -0000
+Source: ros-one-qb-device-utils
+Binary: ros-one-qb-device-utils
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.01.31.20.55
+Distribution: jammy
+Urgency: high
+Maintainer: qb Support Team <support@qbrobotics.com>
+Changed-By: qb Support Team <support@qbrobotics.com>
+Description:
+ ros-one-qb-device-utils - This package contains a device-independent utility functions for
+Changes:
+ ros-one-qb-device-utils (0-2025.01.31.20.55) jammy; urgency=high
+Checksums-Sha1:
+ 688c782f3631ab66b8f8c3da382c2d174f58c149 10864 ros-one-qb-device-utils_0-2025.01.31.20.55_amd64.buildinfo
+ 8129f1beb35c6cb08b92b84e38f0761ea20eabbf 6556 ros-one-qb-device-utils_0-2025.01.31.20.55_amd64.deb
+Checksums-Sha256:
+ f1ff922dbd93e46feae4062dcbdf5885c8ffa820ac7ccc157a7c51fcfbbbabc6 10864 ros-one-qb-device-utils_0-2025.01.31.20.55_amd64.buildinfo
+ 432f85598d60a0771b27c1c88812589462fd4598860fea02a6c3f26d3f4d269e 6556 ros-one-qb-device-utils_0-2025.01.31.20.55_amd64.deb
+Files:
+ a3e45d513671e748960887879e23d155 10864 misc optional ros-one-qb-device-utils_0-2025.01.31.20.55_amd64.buildinfo
+ 5d0ad9befc0143a97d16e714c98f7fec 6556 misc optional ros-one-qb-device-utils_0-2025.01.31.20.55_amd64.deb

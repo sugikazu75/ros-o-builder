@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 06 Dec 2021 00:00:00 -0000
+Source: ros-one-resource-retriever
+Binary: ros-one-resource-retriever
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.12.7-5-g40d08d6-2025.01.31.16.00
+Distribution: jammy
+Urgency: high
+Maintainer: Chris Lalancette <clalancette@osrfoundation.org>
+Changed-By: Chris Lalancette <clalancette@osrfoundation.org>
+Description:
+ ros-one-resource-retriever - This package retrieves data from url-format files such as http://
+Changes:
+ ros-one-resource-retriever (1.12.7-5-g40d08d6-2025.01.31.16.00) jammy; urgency=high
+ .
+   * Split curl dependency to avoid dev package at runtime (#67 <https://github.com/ros/resource_retriever/issues/67>)
+   * Contributors: Scott K Logan
+Checksums-Sha1:
+ 0d103fb6d6cc20d253193f13fbe6b00e5310d36e 636992 ros-one-resource-retriever-dbgsym_1.12.7-5-g40d08d6-2025.01.31.16.00_amd64.ddeb
+ 05e1ce764ca906cd494ce9933a3abb2bcac2c3f3 17413 ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.01.31.16.00_amd64.buildinfo
+ f28581d83d27a972ac3c443825b6d937b6ee3a10 59758 ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.01.31.16.00_amd64.deb
+Checksums-Sha256:
+ d2acb4de8a6ebb13d3058f2f15f4bd1f93a317a9ae23c9196cfcb0bb71729222 636992 ros-one-resource-retriever-dbgsym_1.12.7-5-g40d08d6-2025.01.31.16.00_amd64.ddeb
+ 20f12fa346d333677683e10102d9bb24d033509cfe330bbad06ae8a6eaac2894 17413 ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.01.31.16.00_amd64.buildinfo
+ 5dd3de6392c8e1d23b721103d57526e710c7e2c59fe95c0cd8469c9146f8e226 59758 ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.01.31.16.00_amd64.deb
+Files:
+ 0b1ece5a92c1e29fc4c95abf313ae5b6 636992 debug optional ros-one-resource-retriever-dbgsym_1.12.7-5-g40d08d6-2025.01.31.16.00_amd64.ddeb
+ 356fe8b085735c939eb6b0ed98e03669 17413 misc optional ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.01.31.16.00_amd64.buildinfo
+ badb8a2997329ef3da82a42c4b053842 59758 misc optional ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.01.31.16.00_amd64.deb

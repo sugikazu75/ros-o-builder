@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 29 Jul 2024 00:00:00 -0000
+Source: ros-one-cartesian-interface
+Binary: ros-one-cartesian-interface
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.7-1-gceffa65-2025.01.31.22.11
+Distribution: jammy
+Urgency: high
+Maintainer: Felix Exner <mauch@fzi.de>
+Changed-By: Felix Exner <mauch@fzi.de>
+Description:
+ ros-one-cartesian-interface - Defines a hardware interface to send Cartesian commands to a robo
+Changes:
+ ros-one-cartesian-interface (0.1.7-1-gceffa65-2025.01.31.22.11) jammy; urgency=high
+Checksums-Sha1:
+ 6f2a70d4c16c3ac45e7f3aa6785e6e8466aa29f8 11064 ros-one-cartesian-interface_0.1.7-1-gceffa65-2025.01.31.22.11_amd64.buildinfo
+ 330d58a4eb3a258dc1c65824de4e4484c97f058e 6942 ros-one-cartesian-interface_0.1.7-1-gceffa65-2025.01.31.22.11_amd64.deb
+Checksums-Sha256:
+ 578868fb495c95fb5d7f276ed82821d21eff23ecffd69ab1824032dfdbb5b8ad 11064 ros-one-cartesian-interface_0.1.7-1-gceffa65-2025.01.31.22.11_amd64.buildinfo
+ 1353a60708725236889adaef4d922b4b9dff6d41e883c17cf212730b2659a1c8 6942 ros-one-cartesian-interface_0.1.7-1-gceffa65-2025.01.31.22.11_amd64.deb
+Files:
+ a9fe6a08bba6a6f4152164b84e3c7695 11064 misc optional ros-one-cartesian-interface_0.1.7-1-gceffa65-2025.01.31.22.11_amd64.buildinfo
+ b0e158cbcb1eb81cfd13906244b490aa 6942 misc optional ros-one-cartesian-interface_0.1.7-1-gceffa65-2025.01.31.22.11_amd64.deb

@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-nfc-ros
+Binary: ros-one-nfc-ros
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.02.01.01.37
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-nfc-ros - The nfc_ros package
+Changes:
+ ros-one-nfc-ros (2.1.29-6-g5b37f2c7-2025.02.01.01.37) jammy; urgency=high
+ .
+   * [nfc_ros] nfcpy requries python3.6+, skip kinetic which has python3.5 #515 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/515>)
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ bcf3a11765e36f4d79fef4f86443400840b5a622 506108 ros-one-nfc-ros-dbgsym_2.1.29-6-g5b37f2c7-2025.02.01.01.37_amd64.ddeb
+ f3f567cdf1ae4d75f2c7d129e8706c54ee3d5490 11060 ros-one-nfc-ros_2.1.29-6-g5b37f2c7-2025.02.01.01.37_amd64.buildinfo
+ 5ce5580cf11693a4a8fa6cd3188c3817cc4a81bc 2990668 ros-one-nfc-ros_2.1.29-6-g5b37f2c7-2025.02.01.01.37_amd64.deb
+Checksums-Sha256:
+ 5fa3795781e72a6b00cfdabc83d3d6f7b1cc8b4feba930571eba5f740fd4467b 506108 ros-one-nfc-ros-dbgsym_2.1.29-6-g5b37f2c7-2025.02.01.01.37_amd64.ddeb
+ ff68a2aae3f99c5c9511b6e367f2cc240dffb439409d8f21734386fe7e84c202 11060 ros-one-nfc-ros_2.1.29-6-g5b37f2c7-2025.02.01.01.37_amd64.buildinfo
+ eb335e4d4f5022d299461160043285c6740d0bec71b8ecec9ba22cd02165f4ae 2990668 ros-one-nfc-ros_2.1.29-6-g5b37f2c7-2025.02.01.01.37_amd64.deb
+Files:
+ e11cfde58687ed33bbfada04a40a021a 506108 debug optional ros-one-nfc-ros-dbgsym_2.1.29-6-g5b37f2c7-2025.02.01.01.37_amd64.ddeb
+ 9c8d486720da06750d161c0794d21633 11060 misc optional ros-one-nfc-ros_2.1.29-6-g5b37f2c7-2025.02.01.01.37_amd64.buildinfo
+ 14840af604dd827fae45a6bf69c0cc71 2990668 misc optional ros-one-nfc-ros_2.1.29-6-g5b37f2c7-2025.02.01.01.37_amd64.deb

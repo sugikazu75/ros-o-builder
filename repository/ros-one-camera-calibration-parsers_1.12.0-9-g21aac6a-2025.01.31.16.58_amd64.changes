@@ -1,0 +1,38 @@
+Format: 1.8
+Date: Fri, 03 Apr 2020 00:00:00 -0000
+Source: ros-one-camera-calibration-parsers
+Binary: ros-one-camera-calibration-parsers
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.12.0-9-g21aac6a-2025.01.31.16.58
+Distribution: jammy
+Urgency: high
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Changed-By: Jack O'Quin <jack.oquin@gmail.com>
+Description:
+ ros-one-camera-calibration-parsers - camera_calibration_parsers contains routines for reading and writ
+Changes:
+ ros-one-camera-calibration-parsers (1.12.0-9-g21aac6a-2025.01.31.16.58) jammy; urgency=high
+ .
+   * Noetic release image_common (#155 <https://github.com/ros-perception/image_common/issues/155>)
+     * noetic - Porting Python to Python3
+     Signed-off-by: ahcorde <mailto:ahcorde@gmail.com>
+     * Updated cmake_minimum_required to 3.0.2
+     Signed-off-by: ahcorde <mailto:ahcorde@gmail.com>
+     * changed diskutils.core for setuptools
+     Signed-off-by: ahcorde <mailto:ahcorde@gmail.com>
+     * ported to noetic image_transport tutorial
+     Signed-off-by: ahcorde <mailto:ahcorde@gmail.com>
+   * Contributors: Alejandro Hernández Cordero
+Checksums-Sha1:
+ c58193d654be8ffa5fdc867cbfc91de59c3b5c6a 1089068 ros-one-camera-calibration-parsers-dbgsym_1.12.0-9-g21aac6a-2025.01.31.16.58_amd64.ddeb
+ b85a82c4ad0293c2c1c0763274db8119d478bf0b 17316 ros-one-camera-calibration-parsers_1.12.0-9-g21aac6a-2025.01.31.16.58_amd64.buildinfo
+ da903cfbb948ae40b9331bbcb1516a0776c47c99 67464 ros-one-camera-calibration-parsers_1.12.0-9-g21aac6a-2025.01.31.16.58_amd64.deb
+Checksums-Sha256:
+ c2da7664ee8d4720248dee8f3046ab7c97d41d40f39f0846257bba164b71bdf0 1089068 ros-one-camera-calibration-parsers-dbgsym_1.12.0-9-g21aac6a-2025.01.31.16.58_amd64.ddeb
+ 57775b9a2a6c5d5d351f34666ffc70690f98190c4bba31a75c102c3c9919f94c 17316 ros-one-camera-calibration-parsers_1.12.0-9-g21aac6a-2025.01.31.16.58_amd64.buildinfo
+ 8ad0a030d39828cb4cd10547e0848976ff8e3342a5e128bce01fd34925cb5678 67464 ros-one-camera-calibration-parsers_1.12.0-9-g21aac6a-2025.01.31.16.58_amd64.deb
+Files:
+ 64bf56b75a32c5b6f6785037fb0dee02 1089068 debug optional ros-one-camera-calibration-parsers-dbgsym_1.12.0-9-g21aac6a-2025.01.31.16.58_amd64.ddeb
+ 3f9c982c2253c2f2b81f63038537237e 17316 misc optional ros-one-camera-calibration-parsers_1.12.0-9-g21aac6a-2025.01.31.16.58_amd64.buildinfo
+ d8f91e2d76db0afa90b5754ac6188a5d 67464 misc optional ros-one-camera-calibration-parsers_1.12.0-9-g21aac6a-2025.01.31.16.58_amd64.deb

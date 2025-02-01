@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-ros-google-cloud-language
+Binary: ros-one-ros-google-cloud-language
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.02.01.02.03
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-ros-google-cloud-language - ros clinet library for google cloud language
+Changes:
+ ros-one-ros-google-cloud-language (2.1.29-6-g5b37f2c7-2025.02.01.02.03) jammy; urgency=high
+ .
+   * [ros_google_cloud_language] chmod -x test_rospy_node for catkin_virtualenv (#506 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/506>)
+   * [ros_google_cloud_language] Fix for python3; Avoid attribute error (#488 <https://github.com/jsk-ros-pkg/jsk_3rdparty/issues/488>)
+ .
+       * [ros_google_cloud_language] Fix importing unidecode in python2
+       * [ros_google_cloud_language] Change permission of test_rospy_node.py
+       * [ros_google_cloud_language] Add python3-unidecode to dependency
+       * [ros_google_cloud_language] Fix for python3; Avoid attribute error
+ .
+   * Contributors: Naoto Tsukamoto, Yoshiki Obinata
+Checksums-Sha1:
+ 2283159c59c2e83714b3475d3ad3896b26c1cada 506166 ros-one-ros-google-cloud-language-dbgsym_2.1.29-6-g5b37f2c7-2025.02.01.02.03_amd64.ddeb
+ f94d9f9aba1be110c29d0e4a332b1793eae65090 12337 ros-one-ros-google-cloud-language_2.1.29-6-g5b37f2c7-2025.02.01.02.03_amd64.buildinfo
+ da71fa2e8f99e05c2868307384eedf66dcd9ceb1 6927592 ros-one-ros-google-cloud-language_2.1.29-6-g5b37f2c7-2025.02.01.02.03_amd64.deb
+Checksums-Sha256:
+ 35cd5509fcf17df9b965db6c9c09775c3230b3b9adb256d3de3ea1da2bc877a7 506166 ros-one-ros-google-cloud-language-dbgsym_2.1.29-6-g5b37f2c7-2025.02.01.02.03_amd64.ddeb
+ 6fae7499fdde0530b8078ce5d050a76bdeb9a8a52854b486b4e9087bf83e1c12 12337 ros-one-ros-google-cloud-language_2.1.29-6-g5b37f2c7-2025.02.01.02.03_amd64.buildinfo
+ 74e1ac949868bcebb8a1fef6625d7d1df83cd04d4dea5c69ddda33ba2ef4714b 6927592 ros-one-ros-google-cloud-language_2.1.29-6-g5b37f2c7-2025.02.01.02.03_amd64.deb
+Files:
+ 37b1c5f9b61a5ddd12564ae166a24fa5 506166 debug optional ros-one-ros-google-cloud-language-dbgsym_2.1.29-6-g5b37f2c7-2025.02.01.02.03_amd64.ddeb
+ fa9f4ce48a6fff6357ada29d8ff77dc6 12337 misc optional ros-one-ros-google-cloud-language_2.1.29-6-g5b37f2c7-2025.02.01.02.03_amd64.buildinfo
+ 165062ebe4d8fe145f68dfa94a92923d 6927592 misc optional ros-one-ros-google-cloud-language_2.1.29-6-g5b37f2c7-2025.02.01.02.03_amd64.deb

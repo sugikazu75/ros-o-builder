@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 09 Oct 2020 00:00:00 -0000
+Source: ros-one-warehouse-ros-mongo
+Binary: ros-one-warehouse-ros-mongo
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.10.0-7-g9ba9e71-2025.01.31.19.13
+Distribution: jammy
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-one-warehouse-ros-mongo - warehouse_ros for MongoDB
+Changes:
+ ros-one-warehouse-ros-mongo (0.10.0-7-g9ba9e71-2025.01.31.19.13) jammy; urgency=high
+ .
+   * clang-format-10
+   * Python3 compatibility layer for roslaunch in CMake (#35 <https://github.com/ros-planning/warehouse_ros_mongo/issues/35>)
+   * Contributors: Robert Haschke, Tyler Weaver
+Checksums-Sha1:
+ d5fc224569183ad8b770302b76aeb536b78dd647 737852 ros-one-warehouse-ros-mongo-dbgsym_0.10.0-7-g9ba9e71-2025.01.31.19.13_amd64.ddeb
+ ce1fc655857c1b482d402c587c0da5010ebb2c8f 23368 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.01.31.19.13_amd64.buildinfo
+ 42ad06dbfd4bcb8fe98c9c43eba09fb054fea132 58058 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.01.31.19.13_amd64.deb
+Checksums-Sha256:
+ 4a8ccf18ec70f13d4d2f4df8244809440acac1f45f9c36d22eba034421f8468a 737852 ros-one-warehouse-ros-mongo-dbgsym_0.10.0-7-g9ba9e71-2025.01.31.19.13_amd64.ddeb
+ 7930d31193e4286928cfe8d8d9a0fa8b7cb10ce2ab77c9d552a3c91ab0c977db 23368 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.01.31.19.13_amd64.buildinfo
+ 687f82906fa30d22efec184c3c81b05d7be728131829dfe42f27996401862841 58058 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.01.31.19.13_amd64.deb
+Files:
+ a85f660f18a35a2e2db96acdba876058 737852 debug optional ros-one-warehouse-ros-mongo-dbgsym_0.10.0-7-g9ba9e71-2025.01.31.19.13_amd64.ddeb
+ 00ed96b6191693613245089f33df5f09 23368 misc optional ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.01.31.19.13_amd64.buildinfo
+ 5c7650253b45f42f753ad309fae87f2a 58058 misc optional ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.01.31.19.13_amd64.deb

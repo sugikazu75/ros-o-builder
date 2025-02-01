@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 11 Sep 2018 00:00:00 -0000
+Source: ros-one-slam-karto
+Binary: ros-one-slam-karto
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.8.1-14-g5c84a19-2025.01.31.18.18
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mfergs7@gmail.com>
+Changed-By: Michael Ferguson <mfergs7@gmail.com>
+Description:
+ ros-one-slam-karto - This package pulls in the Karto mapping library, and provides a R
+Changes:
+ ros-one-slam-karto (0.8.1-14-g5c84a19-2025.01.31.18.18) jammy; urgency=high
+ .
+   * set C++11 if std not specified
+     This is mainly for building on Lunar
+   * Contributors: Michael Ferguson
+Checksums-Sha1:
+ 93cf8ffb965e22b1676e35d1476a6cf642747b6e 1839470 ros-one-slam-karto-dbgsym_0.8.1-14-g5c84a19-2025.01.31.18.18_amd64.ddeb
+ 043ffd3c47fb7471258ee1b3594833ae6c102b59 24149 ros-one-slam-karto_0.8.1-14-g5c84a19-2025.01.31.18.18_amd64.buildinfo
+ 04a410371cd8534cb71a7de3f0dd4302d051ade4 117706 ros-one-slam-karto_0.8.1-14-g5c84a19-2025.01.31.18.18_amd64.deb
+Checksums-Sha256:
+ 61263d9b1f8d23d6c8c249600e289c5c2a77f4eb7246fdd739cb98a4280f9c3d 1839470 ros-one-slam-karto-dbgsym_0.8.1-14-g5c84a19-2025.01.31.18.18_amd64.ddeb
+ 460010f8d994ba252cc60cd6455c3611789cb6ef69e35240a21323bb6a5fea90 24149 ros-one-slam-karto_0.8.1-14-g5c84a19-2025.01.31.18.18_amd64.buildinfo
+ 7a691970139596e03b47c22819fdc6862d79a6a4b222a02cb240183cd883d104 117706 ros-one-slam-karto_0.8.1-14-g5c84a19-2025.01.31.18.18_amd64.deb
+Files:
+ 03c991a30b70b26c93bccbb3e9684dea 1839470 debug optional ros-one-slam-karto-dbgsym_0.8.1-14-g5c84a19-2025.01.31.18.18_amd64.ddeb
+ ce7e6368d25e2a7f196153f1c04bbe04 24149 misc optional ros-one-slam-karto_0.8.1-14-g5c84a19-2025.01.31.18.18_amd64.buildinfo
+ 87fb6f95d0a88c7f867816efeb3651cf 117706 misc optional ros-one-slam-karto_0.8.1-14-g5c84a19-2025.01.31.18.18_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 03 Oct 2022 00:00:00 -0000
+Source: ros-one-cv-bridge
+Binary: ros-one-cv-bridge
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.16.2-2-gcfabf72-2025.01.31.16.59
+Distribution: jammy
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-cv-bridge - This contains CvBridge, which converts between ROS Image messages
+Changes:
+ ros-one-cv-bridge (1.16.2-2-gcfabf72-2025.01.31.16.59) jammy; urgency=high
+Checksums-Sha1:
+ 7dc59cb5176b03a3c2d843d83b277e78fa80eb35 781446 ros-one-cv-bridge-dbgsym_1.16.2-2-gcfabf72-2025.01.31.16.59_amd64.ddeb
+ f7313038c7a74897a955d33aa434f7a3dfab02f4 27424 ros-one-cv-bridge_1.16.2-2-gcfabf72-2025.01.31.16.59_amd64.buildinfo
+ 769716b314baf53de956cb32f430a4a611f3e98f 88680 ros-one-cv-bridge_1.16.2-2-gcfabf72-2025.01.31.16.59_amd64.deb
+Checksums-Sha256:
+ ca70efa2104caaa4ccb5d10ba76358f7a3d28e187e698da6ffc92055fd2659f8 781446 ros-one-cv-bridge-dbgsym_1.16.2-2-gcfabf72-2025.01.31.16.59_amd64.ddeb
+ cada0b757c494b913d2a5c9df01f166005188221e9a0f875c933bfca3c31dabc 27424 ros-one-cv-bridge_1.16.2-2-gcfabf72-2025.01.31.16.59_amd64.buildinfo
+ bb5b797722a72c0ea9ec86564a3a67241eb45efc5cd055b1f95e5df3576c0687 88680 ros-one-cv-bridge_1.16.2-2-gcfabf72-2025.01.31.16.59_amd64.deb
+Files:
+ d2946d88745f39fbe32f480857954d2b 781446 debug optional ros-one-cv-bridge-dbgsym_1.16.2-2-gcfabf72-2025.01.31.16.59_amd64.ddeb
+ 614825da0ac7a1ff006d3224c70db451 27424 misc optional ros-one-cv-bridge_1.16.2-2-gcfabf72-2025.01.31.16.59_amd64.buildinfo
+ 4ee9730cb877216173eaffe5adc426c0 88680 misc optional ros-one-cv-bridge_1.16.2-2-gcfabf72-2025.01.31.16.59_amd64.deb

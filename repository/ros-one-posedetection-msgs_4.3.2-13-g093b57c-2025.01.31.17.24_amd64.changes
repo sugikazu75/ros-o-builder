@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sun, 03 May 2020 00:00:00 -0000
+Source: ros-one-posedetection-msgs
+Binary: ros-one-posedetection-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 4.3.2-13-g093b57c-2025.01.31.17.24
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-posedetection-msgs - posedetection_msgs provides messages and services to facilitate p
+Changes:
+ ros-one-posedetection-msgs (4.3.2-13-g093b57c-2025.01.31.17.24) jammy; urgency=high
+ .
+   * fix for noetic, need to use OpenCV2 instead of OpenCV (#26 <https://github.com/jsk-ros-pkg/jsk_common_msgs/issues/26>)
+ .
+       * add noetic test to travis.yml, update jsk_travis 0.5.10
+ .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 0bba1b36ca10e455f3982ce449769308a907f997 1335370 ros-one-posedetection-msgs-dbgsym_4.3.2-13-g093b57c-2025.01.31.17.24_amd64.ddeb
+ 1ba3218591f573dfa69511ce8faa420414ce3b7f 27822 ros-one-posedetection-msgs_4.3.2-13-g093b57c-2025.01.31.17.24_amd64.buildinfo
+ 857c929db58c7a256dcd70e35ca04b727504677c 129584 ros-one-posedetection-msgs_4.3.2-13-g093b57c-2025.01.31.17.24_amd64.deb
+Checksums-Sha256:
+ 8f658f68db263b6c3c288c1e7e3f2fbfa621ee6257412978295603e59975fa93 1335370 ros-one-posedetection-msgs-dbgsym_4.3.2-13-g093b57c-2025.01.31.17.24_amd64.ddeb
+ 994b10008e3fe6168122c45a5aaefb82d1c43ee464011592f93b9c8f1df86d2a 27822 ros-one-posedetection-msgs_4.3.2-13-g093b57c-2025.01.31.17.24_amd64.buildinfo
+ 961253e672f50f6c8f8f28a4de77272ad79f9d7a413205e7a48fb8962a65f1f0 129584 ros-one-posedetection-msgs_4.3.2-13-g093b57c-2025.01.31.17.24_amd64.deb
+Files:
+ d8fd0764d8900b20b27313fcb28288a3 1335370 debug optional ros-one-posedetection-msgs-dbgsym_4.3.2-13-g093b57c-2025.01.31.17.24_amd64.ddeb
+ 935b62c46497d496a67518078d361d9e 27822 misc optional ros-one-posedetection-msgs_4.3.2-13-g093b57c-2025.01.31.17.24_amd64.buildinfo
+ 652e5c1c3034ab373aaa15f02a5a7649 129584 misc optional ros-one-posedetection-msgs_4.3.2-13-g093b57c-2025.01.31.17.24_amd64.deb

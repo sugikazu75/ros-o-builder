@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 22 May 2024 00:00:00 -0000
+Source: ros-one-four-wheel-steering-controller
+Binary: ros-one-four-wheel-steering-controller
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.22.0-2025.01.31.18.42
+Distribution: jammy
+Urgency: high
+Maintainer: Vincent Rousseau <vincent.rousseau@irstea.fr>
+Changed-By: Vincent Rousseau <vincent.rousseau@irstea.fr>
+Description:
+ ros-one-four-wheel-steering-controller - Controller for a four wheel steering mobile base.
+Changes:
+ ros-one-four-wheel-steering-controller (0.22.0-2025.01.31.18.42) jammy; urgency=high
+Checksums-Sha1:
+ b7be4101d3c70b5bf43fbabfe043f324d65bcb08 1178244 ros-one-four-wheel-steering-controller-dbgsym_0.22.0-2025.01.31.18.42_amd64.ddeb
+ 9022895708e12dc238f0be7e634640d3bdcbec15 19383 ros-one-four-wheel-steering-controller_0.22.0-2025.01.31.18.42_amd64.buildinfo
+ 5a742f2647627059e9a8818e395d3d6df4b5db4a 88990 ros-one-four-wheel-steering-controller_0.22.0-2025.01.31.18.42_amd64.deb
+Checksums-Sha256:
+ 4078ac02b89111ea5a9c18803cd7de486d97b30ea00e1a38f66c7200ad2ca506 1178244 ros-one-four-wheel-steering-controller-dbgsym_0.22.0-2025.01.31.18.42_amd64.ddeb
+ 7a571441662305447d6f0b2ba304e1e5cca3fa662c51a7054f623880744cf3a6 19383 ros-one-four-wheel-steering-controller_0.22.0-2025.01.31.18.42_amd64.buildinfo
+ 88e02f80fd2ba88beb4ed6aea890dcb6d13c8ab85850679932ec02c50603057e 88990 ros-one-four-wheel-steering-controller_0.22.0-2025.01.31.18.42_amd64.deb
+Files:
+ 921ee03962045c5726fa414d1e9a4159 1178244 debug optional ros-one-four-wheel-steering-controller-dbgsym_0.22.0-2025.01.31.18.42_amd64.ddeb
+ 5535542ce49c6107dc9d3b3280279690 19383 misc optional ros-one-four-wheel-steering-controller_0.22.0-2025.01.31.18.42_amd64.buildinfo
+ 24eeaeb2c29f71ea961158c59614cd0f 88990 misc optional ros-one-four-wheel-steering-controller_0.22.0-2025.01.31.18.42_amd64.deb

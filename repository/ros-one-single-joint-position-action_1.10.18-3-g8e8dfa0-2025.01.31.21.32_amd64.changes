@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-single-joint-position-action
+Binary: ros-one-single-joint-position-action
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2025.01.31.21.32
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-single-joint-position-action - The single joint position action is a node that provides an actio
+Changes:
+ ros-one-single-joint-position-action (1.10.18-3-g8e8dfa0-2025.01.31.21.32) jammy; urgency=high
+Checksums-Sha1:
+ 0c1e0cf0d85da5b5480b66d7f02f44f63c27730b 933740 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.01.31.21.32_amd64.ddeb
+ e00516fb7deba7829acef654fe706f318117cbbb 13909 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.31.21.32_amd64.buildinfo
+ dc3c2d81e98779306fd1ce0bac41c20364e89a53 82652 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.31.21.32_amd64.deb
+Checksums-Sha256:
+ 85c7e0a5459d646eefaf29c0480403bd2f541547670a78b4a489c15a8a1bc94c 933740 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.01.31.21.32_amd64.ddeb
+ 7866a82eea712484d9173c705d89b9b9fc639f984259e24d8af989f7434cae94 13909 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.31.21.32_amd64.buildinfo
+ 2f5cb7a70ad647df9bcb95124d908f51cc360cb5fcf6fc5259762b753f51502e 82652 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.31.21.32_amd64.deb
+Files:
+ 60acbcf681caefd5d674b2c46ae84afc 933740 debug optional ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.01.31.21.32_amd64.ddeb
+ 139312096cdf3a5941992b7208ce2e90 13909 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.31.21.32_amd64.buildinfo
+ c31a63fbe65b398ea9026f5440639741 82652 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.01.31.21.32_amd64.deb

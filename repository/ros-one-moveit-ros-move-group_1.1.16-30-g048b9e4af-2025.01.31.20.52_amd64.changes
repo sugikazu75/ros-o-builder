@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-move-group
+Binary: ros-one-moveit-ros-move-group
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-30-g048b9e4af-2025.01.31.20.52
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-move-group - The move_group node for MoveIt
+Changes:
+ ros-one-moveit-ros-move-group (1.1.16-30-g048b9e4af-2025.01.31.20.52) jammy; urgency=high
+Checksums-Sha1:
+ 8c35fcdd08f2eb8199c6b0d13ec71b4ac831de78 24182728 ros-one-moveit-ros-move-group-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.20.52_amd64.ddeb
+ 36e0e57a9132b5aaec7190f8f345200c1575a08b 24091 ros-one-moveit-ros-move-group_1.1.16-30-g048b9e4af-2025.01.31.20.52_amd64.buildinfo
+ 9ef14d106d7855b7f001c27282f866dbc8a251ed 354932 ros-one-moveit-ros-move-group_1.1.16-30-g048b9e4af-2025.01.31.20.52_amd64.deb
+Checksums-Sha256:
+ 26bf9c8ae07d61132987442044d1e48190299bc7ee7c45623a36fd31b1a649dd 24182728 ros-one-moveit-ros-move-group-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.20.52_amd64.ddeb
+ b7b4d09d198e34964070e94bb1fa950d10c952e175b58f55ab428bc50fdd5094 24091 ros-one-moveit-ros-move-group_1.1.16-30-g048b9e4af-2025.01.31.20.52_amd64.buildinfo
+ ebd1ec7c73a4655efd0ed505a2b0c17bedc429db9e28428e97c33b98d1eefac0 354932 ros-one-moveit-ros-move-group_1.1.16-30-g048b9e4af-2025.01.31.20.52_amd64.deb
+Files:
+ 9990039013bee5101d926170117ebe88 24182728 debug optional ros-one-moveit-ros-move-group-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.20.52_amd64.ddeb
+ ab129edabac1523493369ec2045e2c70 24091 misc optional ros-one-moveit-ros-move-group_1.1.16-30-g048b9e4af-2025.01.31.20.52_amd64.buildinfo
+ adc8edf3b81c8e01237657b3fcf150dd 354932 misc optional ros-one-moveit-ros-move-group_1.1.16-30-g048b9e4af-2025.01.31.20.52_amd64.deb

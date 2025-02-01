@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Wed, 21 Apr 2021 00:00:00 -0000
+Source: ros-one-rqt-service-caller
+Binary: ros-one-rqt-service-caller
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.4.10-1-g08ff4cc-2025.01.31.18.13
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rqt-service-caller - rqt_service_caller provides a GUI plugin for calling arbitrary se
+Changes:
+ ros-one-rqt-service-caller (0.4.10-1-g08ff4cc-2025.01.31.18.13) jammy; urgency=high
+ .
+   * Merge pull request #18 <https://github.com/ros-visualization/rqt_service_caller/issues/18> from ros-visualization/sloretz-update-maintainer
+     Update maintainer in package.xml
+   * Update maintainer in package.xml
+   * fix shebang line for python3 (#16 <https://github.com/ros-visualization/rqt_service_caller/issues/16>)
+   * Contributors: Michael Carroll, Mikael Arguedas, Shane Loretz
+Checksums-Sha1:
+ 0fee7c8881707b520d23143d8754b7dbd73baa64 8210 ros-one-rqt-service-caller_0.4.10-1-g08ff4cc-2025.01.31.18.13_amd64.buildinfo
+ 6943a39f549da5e6962a6f58119282d3c8bdaa25 16182 ros-one-rqt-service-caller_0.4.10-1-g08ff4cc-2025.01.31.18.13_amd64.deb
+Checksums-Sha256:
+ bd7e327480ec55654ecc8c4c47ff2cb289d36d5b45382b5765bcc1bfd7fb4784 8210 ros-one-rqt-service-caller_0.4.10-1-g08ff4cc-2025.01.31.18.13_amd64.buildinfo
+ cda24cc3c50ce3f4446613cd0bda2ed5bb5ef1fefbde618f74c18bd93674056d 16182 ros-one-rqt-service-caller_0.4.10-1-g08ff4cc-2025.01.31.18.13_amd64.deb
+Files:
+ 3822126530a000f06ababbe472f42ddb 8210 misc optional ros-one-rqt-service-caller_0.4.10-1-g08ff4cc-2025.01.31.18.13_amd64.buildinfo
+ 832f78380f0d94cdf6a3a04cf8ce286f 16182 misc optional ros-one-rqt-service-caller_0.4.10-1-g08ff4cc-2025.01.31.18.13_amd64.deb

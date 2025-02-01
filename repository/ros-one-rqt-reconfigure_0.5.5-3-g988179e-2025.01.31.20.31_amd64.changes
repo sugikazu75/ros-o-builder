@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 20 Apr 2022 00:00:00 -0000
+Source: ros-one-rqt-reconfigure
+Binary: ros-one-rqt-reconfigure
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.5-3-g988179e-2025.01.31.20.31
+Distribution: jammy
+Urgency: high
+Maintainer: Dharini Dutia <dharini@openrobotics.org>
+Changed-By: Dharini Dutia <dharini@openrobotics.org>
+Description:
+ ros-one-rqt-reconfigure - This rqt plugin succeeds former dynamic_reconfigure's GUI (reconf
+Changes:
+ ros-one-rqt-reconfigure (0.5.5-3-g988179e-2025.01.31.20.31) jammy; urgency=high
+ .
+   * Show enum item description as tooltip (#113 <https://github.com/ros-visualization/rqt_reconfigure/issues/113>)
+   * Contributors: Matthijs van der Burgh
+Checksums-Sha1:
+ 389942f07eec4286c57280dd732d5af717f847d0 8248 ros-one-rqt-reconfigure_0.5.5-3-g988179e-2025.01.31.20.31_amd64.buildinfo
+ f53a9e92849bf9cc88ec317d598dbbd65dde1430 55842 ros-one-rqt-reconfigure_0.5.5-3-g988179e-2025.01.31.20.31_amd64.deb
+Checksums-Sha256:
+ 6744b3cc3fc8e9548fa0b9c6d318e2b1ef0a7742ea4de30f78bf3e6e9e1cc819 8248 ros-one-rqt-reconfigure_0.5.5-3-g988179e-2025.01.31.20.31_amd64.buildinfo
+ c75b1928feb395ea76ed37be0e2ca09d4b19c322e4479cb39da8754524661d85 55842 ros-one-rqt-reconfigure_0.5.5-3-g988179e-2025.01.31.20.31_amd64.deb
+Files:
+ f205b270ad4eccd774c8dea52543d53e 8248 misc optional ros-one-rqt-reconfigure_0.5.5-3-g988179e-2025.01.31.20.31_amd64.buildinfo
+ e641e8752c6cd4dc8fc4527c54ae1afa 55842 misc optional ros-one-rqt-reconfigure_0.5.5-3-g988179e-2025.01.31.20.31_amd64.deb

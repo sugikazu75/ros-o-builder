@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 25 Mar 2022 00:00:00 -0000
+Source: ros-one-rqt-gui
+Binary: ros-one-rqt-gui
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.5.2-8-gb606144-2025.01.31.17.42
+Distribution: jammy
+Urgency: high
+Maintainer: Dharini Dutia <dharini@openrobotics.org>
+Changed-By: Dharini Dutia <dharini@openrobotics.org>
+Description:
+ ros-one-rqt-gui - rqt_gui provides the main to start an instance of the ROS integra
+Changes:
+ ros-one-rqt-gui (0.5.2-8-gb606144-2025.01.31.17.42) jammy; urgency=high
+ .
+   * Changed getiter to iter (#1 <https://github.com/ros-visualization/rqt/issues/1>) (#241 <https://github.com/ros-visualization/rqt/issues/241>)
+   * Update maintainers (#233 <https://github.com/ros-visualization/rqt/issues/233>) (#237 <https://github.com/ros-visualization/rqt/issues/237>)
+   * Contributors: Michael Jeronimo, sven-herrmann
+Checksums-Sha1:
+ 9b38c25c8679c1ee817fc1a1668756f184b045df 13140 ros-one-rqt-gui_0.5.2-8-gb606144-2025.01.31.17.42_amd64.buildinfo
+ b25e8946a81515cb0f03bac5a74e9d0912d06f55 95638 ros-one-rqt-gui_0.5.2-8-gb606144-2025.01.31.17.42_amd64.deb
+Checksums-Sha256:
+ 7de1a74cd74bb9925dbd2f067ff79f1d20e323d0e25b0b3190620c7b494a9163 13140 ros-one-rqt-gui_0.5.2-8-gb606144-2025.01.31.17.42_amd64.buildinfo
+ 63728c35441ca242f75f4e3ce160774cb237cb3179ad3712317c0df1f89ca913 95638 ros-one-rqt-gui_0.5.2-8-gb606144-2025.01.31.17.42_amd64.deb
+Files:
+ 4ff51842f771bbe9e8b173794f512e75 13140 misc optional ros-one-rqt-gui_0.5.2-8-gb606144-2025.01.31.17.42_amd64.buildinfo
+ 02a7adc769341b48e12f4df38a4d82b3 95638 misc optional ros-one-rqt-gui_0.5.2-8-gb606144-2025.01.31.17.42_amd64.deb

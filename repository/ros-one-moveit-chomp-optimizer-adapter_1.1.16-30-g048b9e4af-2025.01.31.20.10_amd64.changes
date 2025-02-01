@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-chomp-optimizer-adapter
+Binary: ros-one-moveit-chomp-optimizer-adapter
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-30-g048b9e4af-2025.01.31.20.10
+Distribution: jammy
+Urgency: high
+Maintainer: Raghavender Sahdev <raghavendersahdev@gmail.com>
+Changed-By: Raghavender Sahdev <raghavendersahdev@gmail.com>
+Description:
+ ros-one-moveit-chomp-optimizer-adapter - MoveIt planning request adapter utilizing chomp for solution opti
+Changes:
+ ros-one-moveit-chomp-optimizer-adapter (1.1.16-30-g048b9e4af-2025.01.31.20.10) jammy; urgency=high
+Checksums-Sha1:
+ 2404fcde38fb260c1428eb9a504559bdaa66e169 1752434 ros-one-moveit-chomp-optimizer-adapter-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.20.10_amd64.ddeb
+ dab37c53386bc5f92b3d4a3c01b5137b8105c933 22813 ros-one-moveit-chomp-optimizer-adapter_1.1.16-30-g048b9e4af-2025.01.31.20.10_amd64.buildinfo
+ de808e751695c163bf1eaa1c585a70f3e4131940 28794 ros-one-moveit-chomp-optimizer-adapter_1.1.16-30-g048b9e4af-2025.01.31.20.10_amd64.deb
+Checksums-Sha256:
+ 8d3be1076295374f4c605c17e73b0a0fa21ee2ec61d5cc5d7dc6318f61fd8e91 1752434 ros-one-moveit-chomp-optimizer-adapter-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.20.10_amd64.ddeb
+ 0a95dc785cbd1ef44d01ff51118f5a49dd90a4c7bc3e44e22fbfa50d60d1c120 22813 ros-one-moveit-chomp-optimizer-adapter_1.1.16-30-g048b9e4af-2025.01.31.20.10_amd64.buildinfo
+ 692cbf8c60134ca13c8422bb881f6566c131ce355206c39f55d9ca170d47dcae 28794 ros-one-moveit-chomp-optimizer-adapter_1.1.16-30-g048b9e4af-2025.01.31.20.10_amd64.deb
+Files:
+ 255b02eed18b12da28f7432a74fa5b01 1752434 debug optional ros-one-moveit-chomp-optimizer-adapter-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.20.10_amd64.ddeb
+ 20ba96bc4eeb9137cb0ddd17e5d27da8 22813 misc optional ros-one-moveit-chomp-optimizer-adapter_1.1.16-30-g048b9e4af-2025.01.31.20.10_amd64.buildinfo
+ 63813b5db90b99473bbe59b7868c3e28 28794 misc optional ros-one-moveit-chomp-optimizer-adapter_1.1.16-30-g048b9e4af-2025.01.31.20.10_amd64.deb

@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Thu, 15 Jun 2023 00:00:00 -0000
+Source: ros-one-rostime
+Binary: ros-one-rostime
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.3-3-gcae00b4-2025.01.31.14.37
+Distribution: jammy
+Urgency: high
+Maintainer: Martin Pecka <peckama2@fel.cvut.cz>
+Changed-By: Martin Pecka <peckama2@fel.cvut.cz>
+Description:
+ ros-one-rostime - Time and Duration implementations for C++ libraries, including ro
+Changes:
+ ros-one-rostime (0.7.3-3-gcae00b4-2025.01.31.14.37) jammy; urgency=high
+ .
+   * Fix min() usage
+   * Use shorter wall sleeps in sim time for very short durations
+   * Changed maintainer to Martin Pecka
+   * Removed constants for WEEK and YEAR as they might be ambiguous.
+   * rostime: Added <limits> headers wherever std::numeric_limits are used.
+   * Fixed handling of infinite or >int64 doubles in Time and Duration constructors. Added tests for Rate(double) constructor, verified Rate(inf) works and Rate(0) does not.
+   * rostime: Added useful time and duration constants.
+   * Contributors: Martin Pecka
+Checksums-Sha1:
+ 24b0cc4617f133a67380c015fd954ad281d28160 233520 ros-one-rostime-dbgsym_0.7.3-3-gcae00b4-2025.01.31.14.37_amd64.ddeb
+ 43e7aefc37fc82ca34fcd87e918993ac3dd63b40 9424 ros-one-rostime_0.7.3-3-gcae00b4-2025.01.31.14.37_amd64.buildinfo
+ 8b349542d3b057ffdc8924a65e0fb0d00e50153c 40648 ros-one-rostime_0.7.3-3-gcae00b4-2025.01.31.14.37_amd64.deb
+Checksums-Sha256:
+ d81e274342cf76b72647153604efef593b9526a0f8d3ca1d64441adb15aa9b05 233520 ros-one-rostime-dbgsym_0.7.3-3-gcae00b4-2025.01.31.14.37_amd64.ddeb
+ 2dc33c88fe53395daa4fb28d384900f93ea1d0c9f366e94c6e0cb020c4c2bff3 9424 ros-one-rostime_0.7.3-3-gcae00b4-2025.01.31.14.37_amd64.buildinfo
+ f723427369221a915717b8eec6c6e44d151f8245bb5f398402318e06f388e6bf 40648 ros-one-rostime_0.7.3-3-gcae00b4-2025.01.31.14.37_amd64.deb
+Files:
+ dcbde49714335e738d506941612f1a3b 233520 debug optional ros-one-rostime-dbgsym_0.7.3-3-gcae00b4-2025.01.31.14.37_amd64.ddeb
+ da23d0cdf477dabbd39bde2fc96dbb8a 9424 misc optional ros-one-rostime_0.7.3-3-gcae00b4-2025.01.31.14.37_amd64.buildinfo
+ 2b4e8399df4fc656eee872fc36083ef4 40648 misc optional ros-one-rostime_0.7.3-3-gcae00b4-2025.01.31.14.37_amd64.deb

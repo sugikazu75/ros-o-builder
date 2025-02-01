@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 20 May 2021 00:00:00 -0000
+Source: ros-one-pr2-power-board
+Binary: ros-one-pr2-power-board
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.10-5-gc7f225d-2025.01.31.19.18
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-power-board - This provides a ROS node for the PR2 Power Board.
+Changes:
+ ros-one-pr2-power-board (1.1.10-5-gc7f225d-2025.01.31.19.18) jammy; urgency=high
+ .
+   * fixes for boost dependencies
+   * cmake changes for warnings under noetic
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ 1a312d979819b928fbd9862b9e5d076b34dfd6b7 1520996 ros-one-pr2-power-board-dbgsym_1.1.10-5-gc7f225d-2025.01.31.19.18_amd64.ddeb
+ 976440c369c6aad84024f33fa24ce4042f352ecf 11755 ros-one-pr2-power-board_1.1.10-5-gc7f225d-2025.01.31.19.18_amd64.buildinfo
+ c2bf1e31b59760c4d2f7369ea31c771ae36e2883 141008 ros-one-pr2-power-board_1.1.10-5-gc7f225d-2025.01.31.19.18_amd64.deb
+Checksums-Sha256:
+ 1344a7dc59b8c2da47519ae9b800cfc6e02a659bef8457f1e955bc4ad0a5267f 1520996 ros-one-pr2-power-board-dbgsym_1.1.10-5-gc7f225d-2025.01.31.19.18_amd64.ddeb
+ 7e65bb6de1d27280cdb6485f39f2202e1bd99f4fc6c487646c698b1921f8511c 11755 ros-one-pr2-power-board_1.1.10-5-gc7f225d-2025.01.31.19.18_amd64.buildinfo
+ 7aca9df89a7a39d8b44882482c9fb9fcdfec18d881790e62a38bb35508938859 141008 ros-one-pr2-power-board_1.1.10-5-gc7f225d-2025.01.31.19.18_amd64.deb
+Files:
+ d79ba2591498066520a4cf5ad576e528 1520996 debug optional ros-one-pr2-power-board-dbgsym_1.1.10-5-gc7f225d-2025.01.31.19.18_amd64.ddeb
+ af57ad993f1744c28bdda5abd316a35e 11755 misc optional ros-one-pr2-power-board_1.1.10-5-gc7f225d-2025.01.31.19.18_amd64.buildinfo
+ 93fa5f2b9897fd3533513707e3ae714a 141008 misc optional ros-one-pr2-power-board_1.1.10-5-gc7f225d-2025.01.31.19.18_amd64.deb

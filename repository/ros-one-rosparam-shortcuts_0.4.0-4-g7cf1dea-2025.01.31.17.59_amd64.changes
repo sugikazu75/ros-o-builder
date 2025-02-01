@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 02 Jun 2020 00:00:00 -0000
+Source: ros-one-rosparam-shortcuts
+Binary: ros-one-rosparam-shortcuts
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.4.0-4-g7cf1dea-2025.01.31.17.59
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Coleman <davetcoleman@gmail.com>
+Changed-By: Dave Coleman <davetcoleman@gmail.com>
+Description:
+ ros-one-rosparam-shortcuts - Quickly load variables from rosparam with good command line error
+Changes:
+ ros-one-rosparam-shortcuts (0.4.0-4-g7cf1dea-2025.01.31.17.59) jammy; urgency=high
+ .
+   * bump cmake version (#13 <https://github.com/PickNikRobotics/rosparam_shortcuts/issues/13>)
+     get rid of CMP0048 warning.
+     https://github.com/ros-planning/geometric_shapes/pull/129
+   * Contributors: Michael Görner
+Checksums-Sha1:
+ e614ebc319bf9aa7be0d441e064f762e44c834a8 907382 ros-one-rosparam-shortcuts-dbgsym_0.4.0-4-g7cf1dea-2025.01.31.17.59_amd64.ddeb
+ dd02be2893ca78c1e3a72b2dbf1bb64871698a47 11725 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.31.17.59_amd64.buildinfo
+ 23ea9eab92d46f5ab0cbd09cf56a11376b51bd0f 43042 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.31.17.59_amd64.deb
+Checksums-Sha256:
+ c0f3a7884555bb1bd334f2bc32b7ec745c7450faefd9226c04671b6b010ab05a 907382 ros-one-rosparam-shortcuts-dbgsym_0.4.0-4-g7cf1dea-2025.01.31.17.59_amd64.ddeb
+ a9dafb76a2ba1e07f94afe4193e28b174dd6527dab829c3ef0d41a8aaa605f60 11725 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.31.17.59_amd64.buildinfo
+ d49125abe9904e5d8a730eaa8d7407dc0690b0d7ca4d5082db7d05327e76c71a 43042 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.31.17.59_amd64.deb
+Files:
+ 9e3b305aa6b1f97a3e709854831927fc 907382 debug optional ros-one-rosparam-shortcuts-dbgsym_0.4.0-4-g7cf1dea-2025.01.31.17.59_amd64.ddeb
+ bced078aa30a40016840ae28daa81321 11725 misc optional ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.31.17.59_amd64.buildinfo
+ 4f6bde1144e47f7dd1db094fafacb13a 43042 misc optional ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.01.31.17.59_amd64.deb
