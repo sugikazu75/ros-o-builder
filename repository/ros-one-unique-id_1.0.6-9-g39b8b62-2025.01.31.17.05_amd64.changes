@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 04 Apr 2017 00:00:00 -0000
+Source: ros-one-unique-id
+Binary: ros-one-unique-id
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.0.6-9-g39b8b62-2025.01.31.17.05
+Distribution: jammy
+Urgency: high
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Changed-By: Jack O'Quin <jack.oquin@gmail.com>
+Description:
+ ros-one-unique-id - ROS Python and C++ interfaces for universally unique identifiers.
+Changes:
+ ros-one-unique-id (1.0.6-9-g39b8b62-2025.01.31.17.05) jammy; urgency=high
+Checksums-Sha1:
+ 3c8e01dad5b91a84ca9f7c5cd0c7e94b609362df 12315 ros-one-unique-id_1.0.6-9-g39b8b62-2025.01.31.17.05_amd64.buildinfo
+ 9a19c889af75931c08f047e59a0a0616a7d4ac24 10620 ros-one-unique-id_1.0.6-9-g39b8b62-2025.01.31.17.05_amd64.deb
+Checksums-Sha256:
+ 71d16c6336e7b89d0476828cbf9fa8975ae10a6c99ac9e66aabed4a935c50cad 12315 ros-one-unique-id_1.0.6-9-g39b8b62-2025.01.31.17.05_amd64.buildinfo
+ dd242bf520466e82074bd8ed58d56e0488a33cf54c2d85e8153503aa29d8a1a7 10620 ros-one-unique-id_1.0.6-9-g39b8b62-2025.01.31.17.05_amd64.deb
+Files:
+ 77593295fe65ad56e417f183a9a6b07e 12315 misc optional ros-one-unique-id_1.0.6-9-g39b8b62-2025.01.31.17.05_amd64.buildinfo
+ 6d38fcf0c47e548fc7b63e4bcdaeb745 10620 misc optional ros-one-unique-id_1.0.6-9-g39b8b62-2025.01.31.17.05_amd64.deb

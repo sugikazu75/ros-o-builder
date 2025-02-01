@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-calibration
+Binary: ros-one-calibration
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.01.31.17.12
+Distribution: jammy
+Urgency: high
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Changed-By: David Feil-Seifer <david.feilseifer@gmail.com>
+Description:
+ ros-one-calibration - Provides a toolchain running through the robot calibration proces
+Changes:
+ ros-one-calibration (0-2025.01.31.17.12) jammy; urgency=high
+ .
+   * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ dd6d8c40b3f09af20fb9788623c21451d02715ce 8108 ros-one-calibration_0-2025.01.31.17.12_amd64.buildinfo
+ 257f794050b6870b8f413afd625557b323eeb42e 2086 ros-one-calibration_0-2025.01.31.17.12_amd64.deb
+Checksums-Sha256:
+ 79a94de33789ad383839051d01d4fb919031c770ca96d65c155d22c13003c4f9 8108 ros-one-calibration_0-2025.01.31.17.12_amd64.buildinfo
+ 117c64819977a01098a43f30d0a1bc0dd9f53a13e4d0c237861f07c45deed6e4 2086 ros-one-calibration_0-2025.01.31.17.12_amd64.deb
+Files:
+ 07397dbf749acf713ab4308264e3cb72 8108 misc optional ros-one-calibration_0-2025.01.31.17.12_amd64.buildinfo
+ 11d88dcb012061df072a615de68f77d5 2086 misc optional ros-one-calibration_0-2025.01.31.17.12_amd64.deb

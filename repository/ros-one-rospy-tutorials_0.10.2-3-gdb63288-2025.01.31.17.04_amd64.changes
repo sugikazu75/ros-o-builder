@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 31 Jul 2020 00:00:00 -0000
+Source: ros-one-rospy-tutorials
+Binary: ros-one-rospy-tutorials
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.10.2-3-gdb63288-2025.01.31.17.04
+Distribution: jammy
+Urgency: high
+Maintainer: Mabel Zhang <mabel@openrobotics.org>
+Changed-By: Mabel Zhang <mabel@openrobotics.org>
+Description:
+ ros-one-rospy-tutorials - This package attempts to show the features of ROS python API step
+Changes:
+ ros-one-rospy-tutorials (0.10.2-3-gdb63288-2025.01.31.17.04) jammy; urgency=high
+Checksums-Sha1:
+ 659b3d325a8df34cc511e4392eb383f884aa9a60 12966 ros-one-rospy-tutorials_0.10.2-3-gdb63288-2025.01.31.17.04_amd64.buildinfo
+ e7836ec8cf1c591333fe5a5b917d134c4c902715 32856 ros-one-rospy-tutorials_0.10.2-3-gdb63288-2025.01.31.17.04_amd64.deb
+Checksums-Sha256:
+ 02b465730eea1692a4cbdaf3da44e95b96a9fde3dd304b8c8e502eac5669bc29 12966 ros-one-rospy-tutorials_0.10.2-3-gdb63288-2025.01.31.17.04_amd64.buildinfo
+ fca3761dd8ffeb2397f2461f4dfe512f5b9b1fba755f56be7efc87b1bd8b7131 32856 ros-one-rospy-tutorials_0.10.2-3-gdb63288-2025.01.31.17.04_amd64.deb
+Files:
+ 0b4b5486306e01e5d3520599c879a9d3 12966 misc optional ros-one-rospy-tutorials_0.10.2-3-gdb63288-2025.01.31.17.04_amd64.buildinfo
+ 27bd2ac5d2cc6c09b6e08c3260f6d0ff 32856 misc optional ros-one-rospy-tutorials_0.10.2-3-gdb63288-2025.01.31.17.04_amd64.deb

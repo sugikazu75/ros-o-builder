@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-commander
+Binary: ros-one-moveit-commander
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-30-g048b9e4af-2025.01.31.19.46
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Görner <me@v4hn.de>
+Changed-By: Michael Görner <me@v4hn.de>
+Description:
+ ros-one-moveit-commander - Python interfaces to MoveIt
+Changes:
+ ros-one-moveit-commander (1.1.16-30-g048b9e4af-2025.01.31.19.46) jammy; urgency=high
+ .
+   * Fix type error
+   * Contributors: Robert Haschke
+Checksums-Sha1:
+ 164ba26c96c71ba6e9fcbe18d09756aa57763518 8590 ros-one-moveit-commander_1.1.16-30-g048b9e4af-2025.01.31.19.46_amd64.buildinfo
+ 74bf410f6f6a2237b951b71c56d64936080105ff 50304 ros-one-moveit-commander_1.1.16-30-g048b9e4af-2025.01.31.19.46_amd64.deb
+Checksums-Sha256:
+ 0d78ca03a3347090d8d48f2b2431edf3716707d3590299a2eab52dea7a283249 8590 ros-one-moveit-commander_1.1.16-30-g048b9e4af-2025.01.31.19.46_amd64.buildinfo
+ 8576b6dc6f4d71dc75542447b35363feef01e70bc7212278023dcf74ea7d8ad2 50304 ros-one-moveit-commander_1.1.16-30-g048b9e4af-2025.01.31.19.46_amd64.deb
+Files:
+ 3e238d27f72fdcc1e560d869dd994ff5 8590 misc optional ros-one-moveit-commander_1.1.16-30-g048b9e4af-2025.01.31.19.46_amd64.buildinfo
+ ba0155cc2d02641009e0f41d266b3de7 50304 misc optional ros-one-moveit-commander_1.1.16-30-g048b9e4af-2025.01.31.19.46_amd64.deb

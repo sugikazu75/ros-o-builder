@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 03 Sep 2020 00:00:00 -0000
+Source: ros-one-ros-type-introspection
+Binary: ros-one-ros-type-introspection
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.01.31.17.07
+Distribution: jammy
+Urgency: high
+Maintainer: Davide Faconti <davide.faconti@gmail.com>
+Changed-By: Davide Faconti <davide.faconti@gmail.com>
+Description:
+ ros-one-ros-type-introspection - The ros_type_introspection package allows the user to parse and d
+Changes:
+ ros-one-ros-type-introspection (0-2025.01.31.17.07) jammy; urgency=high
+ .
+   * Removed flyweight and fixed potential conversion errors
+   * Update README.md
+   * Contributors: Davide Faconti
+Checksums-Sha1:
+ 00e26c3896a96e3e5b85046c24bd427fb73e58fb 1226294 ros-one-ros-type-introspection-dbgsym_0-2025.01.31.17.07_amd64.ddeb
+ 931b49b225cd9310a0835d729d128d582ce388a2 11310 ros-one-ros-type-introspection_0-2025.01.31.17.07_amd64.buildinfo
+ d745463e066e267acd2ad85d139492773885e429 91350 ros-one-ros-type-introspection_0-2025.01.31.17.07_amd64.deb
+Checksums-Sha256:
+ 6da8536d000941940266ae1cc54d4183f8db47ef155a8b33973063bf0b62aa5a 1226294 ros-one-ros-type-introspection-dbgsym_0-2025.01.31.17.07_amd64.ddeb
+ 2d09c96d4c2397ad34eb99f8395dd78fc9540358151d78c636ef41f69ee9904b 11310 ros-one-ros-type-introspection_0-2025.01.31.17.07_amd64.buildinfo
+ 1f1190ef75b27e27d8073a6d3dd052901992ef79149519e173480f94f18cb0a3 91350 ros-one-ros-type-introspection_0-2025.01.31.17.07_amd64.deb
+Files:
+ 438d04ba55dc224f8e7a9bae58ba5f71 1226294 debug optional ros-one-ros-type-introspection-dbgsym_0-2025.01.31.17.07_amd64.ddeb
+ 51a17f769d239555a5c5711a0008dac7 11310 misc optional ros-one-ros-type-introspection_0-2025.01.31.17.07_amd64.buildinfo
+ 5eb61af9738a49ba7e9bded82326bf74 91350 misc optional ros-one-ros-type-introspection_0-2025.01.31.17.07_amd64.deb

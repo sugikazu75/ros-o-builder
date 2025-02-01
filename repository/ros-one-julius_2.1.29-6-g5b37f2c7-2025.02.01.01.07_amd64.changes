@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 05 Jan 2025 00:00:00 -0000
+Source: ros-one-julius
+Binary: ros-one-julius
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 2.1.29-6-g5b37f2c7-2025.02.01.01.07
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-julius - julius: Open-Source Large Vocabulary CSR Engine (http://julius.so
+Changes:
+ ros-one-julius (2.1.29-6-g5b37f2c7-2025.02.01.01.07) jammy; urgency=high
+Checksums-Sha1:
+ f64fbb275d66632c43615b1d43ed856bc21c2aa6 11189 ros-one-julius_2.1.29-6-g5b37f2c7-2025.02.01.01.07_amd64.buildinfo
+ f05654469a1c255fe7fc080e686e827e7aeabc76 7252 ros-one-julius_2.1.29-6-g5b37f2c7-2025.02.01.01.07_amd64.deb
+Checksums-Sha256:
+ 10e52bc7ee74649ee1d3294073897663de3b2f32b41fa82220cdccfbf4d7f1f5 11189 ros-one-julius_2.1.29-6-g5b37f2c7-2025.02.01.01.07_amd64.buildinfo
+ 37e9db1a9f8dea788a148ff4a692518d18f60b039719a9a41fd1d8df9de0cc8e 7252 ros-one-julius_2.1.29-6-g5b37f2c7-2025.02.01.01.07_amd64.deb
+Files:
+ ef2fc45365d8cfafecac6cef0cda88e3 11189 misc optional ros-one-julius_2.1.29-6-g5b37f2c7-2025.02.01.01.07_amd64.buildinfo
+ 8d498396d4be33513ded208c99a9865a 7252 misc optional ros-one-julius_2.1.29-6-g5b37f2c7-2025.02.01.01.07_amd64.deb

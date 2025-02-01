@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 13 Oct 2023 00:00:00 -0000
+Source: ros-one-tf2-sensor-msgs
+Binary: ros-one-tf2-sensor-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.5-23-gfbcdc99-2025.01.31.17.31
+Distribution: jammy
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-tf2-sensor-msgs - Small lib to transform sensor_msgs with tf.
+Changes:
+ ros-one-tf2-sensor-msgs (0.7.5-23-gfbcdc99-2025.01.31.17.31) jammy; urgency=high
+Checksums-Sha1:
+ a5c9f70fff7952a89efda0f0ab6e670e65d1c08f 13601 ros-one-tf2-sensor-msgs_0.7.5-23-gfbcdc99-2025.01.31.17.31_amd64.buildinfo
+ a37a0dff1e0430a86d2794b677bdf6e56c4622e1 9702 ros-one-tf2-sensor-msgs_0.7.5-23-gfbcdc99-2025.01.31.17.31_amd64.deb
+Checksums-Sha256:
+ 774acba40539f2a827eb3fae5695b3633df7dd00f4bd2b6cfd119265a047134a 13601 ros-one-tf2-sensor-msgs_0.7.5-23-gfbcdc99-2025.01.31.17.31_amd64.buildinfo
+ 5cfd99d326610c0be513104834d2446561d71b52ce1346815b94cced3d926c4b 9702 ros-one-tf2-sensor-msgs_0.7.5-23-gfbcdc99-2025.01.31.17.31_amd64.deb
+Files:
+ b3f7642208ac8441128f3492b3779065 13601 misc optional ros-one-tf2-sensor-msgs_0.7.5-23-gfbcdc99-2025.01.31.17.31_amd64.buildinfo
+ 576e0ccda422ef3d56a891afcb2bf400 9702 misc optional ros-one-tf2-sensor-msgs_0.7.5-23-gfbcdc99-2025.01.31.17.31_amd64.deb

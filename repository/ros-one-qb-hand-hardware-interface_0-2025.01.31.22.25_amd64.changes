@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 23 Jul 2024 00:00:00 -0000
+Source: ros-one-qb-hand-hardware-interface
+Binary: ros-one-qb-hand-hardware-interface
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0-2025.01.31.22.25
+Distribution: jammy
+Urgency: high
+Maintainer: Alessandro Tondo <alessandro.tondo@qbrobotics.com>
+Changed-By: Alessandro Tondo <alessandro.tondo@qbrobotics.com>
+Description:
+ ros-one-qb-hand-hardware-interface - This package contains the hardware interface for qbrobotics® qbha
+Changes:
+ ros-one-qb-hand-hardware-interface (0-2025.01.31.22.25) jammy; urgency=high
+Checksums-Sha1:
+ bc2b2e4a7b4e91531c47ccdb9f91cd4001884884 724162 ros-one-qb-hand-hardware-interface-dbgsym_0-2025.01.31.22.25_amd64.ddeb
+ 9e91ce99b8041877f11ccf7269c14278a037013a 17370 ros-one-qb-hand-hardware-interface_0-2025.01.31.22.25_amd64.buildinfo
+ 90232bb1800d2b573a609e9bd8ea6a5a25a56a69 40710 ros-one-qb-hand-hardware-interface_0-2025.01.31.22.25_amd64.deb
+Checksums-Sha256:
+ 3c57809c1c7a75355f364cb6cd374b24c1a3ce2ba71c6addd5c53bd40be5daec 724162 ros-one-qb-hand-hardware-interface-dbgsym_0-2025.01.31.22.25_amd64.ddeb
+ d1d6be3afad04319735f265844711b79992b474c1640d681676fbfa4cda570a7 17370 ros-one-qb-hand-hardware-interface_0-2025.01.31.22.25_amd64.buildinfo
+ f25396ee806187396ba8a432e8cc822ee9efc59717d973fd466bfa550d3044e2 40710 ros-one-qb-hand-hardware-interface_0-2025.01.31.22.25_amd64.deb
+Files:
+ 83334505806a620e07efd4ad7ae154cd 724162 debug optional ros-one-qb-hand-hardware-interface-dbgsym_0-2025.01.31.22.25_amd64.ddeb
+ 2255614324f7278d527eb3683d2bd01a 17370 misc optional ros-one-qb-hand-hardware-interface_0-2025.01.31.22.25_amd64.buildinfo
+ 410f88d3c45067eae319f8c74e72413c 40710 misc optional ros-one-qb-hand-hardware-interface_0-2025.01.31.22.25_amd64.deb

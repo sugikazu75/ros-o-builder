@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 03 Aug 2020 00:00:00 -0000
+Source: ros-one-multisense-lib
+Binary: ros-one-multisense-lib
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 4.0.5-46-g945e646-2025.01.31.18.57
+Distribution: jammy
+Urgency: high
+Maintainer: Carnegie Robotics <support@carnegierobotics.com>
+Changed-By: Carnegie Robotics <support@carnegierobotics.com>
+Description:
+ ros-one-multisense-lib - multisense_lib
+Changes:
+ ros-one-multisense-lib (4.0.5-46-g945e646-2025.01.31.18.57) jammy; urgency=high
+Checksums-Sha1:
+ 9b767766d63b8210c24cd488637bc213d0a49ac6 2949330 ros-one-multisense-lib-dbgsym_4.0.5-46-g945e646-2025.01.31.18.57_amd64.ddeb
+ 4bf74697b17232eebd6409fb0c06b3114c407f98 27534 ros-one-multisense-lib_4.0.5-46-g945e646-2025.01.31.18.57_amd64.buildinfo
+ cb59765b4543eeab310fde5963933a100c3d05a1 224188 ros-one-multisense-lib_4.0.5-46-g945e646-2025.01.31.18.57_amd64.deb
+Checksums-Sha256:
+ 8a1e74835d0c1135b1a38b882a97c6228fa41bba7afede96e9e5b0ca3b203c40 2949330 ros-one-multisense-lib-dbgsym_4.0.5-46-g945e646-2025.01.31.18.57_amd64.ddeb
+ 4706753b24f73eb71aae4372dc264e56edf1591c5c4723b426455614f49eb456 27534 ros-one-multisense-lib_4.0.5-46-g945e646-2025.01.31.18.57_amd64.buildinfo
+ c399f012601cc2337ac0f3616a4a6e817a992126ae5be181d8a61c480936ad2d 224188 ros-one-multisense-lib_4.0.5-46-g945e646-2025.01.31.18.57_amd64.deb
+Files:
+ af23b1c1663840d0358be614b7ea30af 2949330 debug optional ros-one-multisense-lib-dbgsym_4.0.5-46-g945e646-2025.01.31.18.57_amd64.ddeb
+ fceac8bdb9ee335863df954d507f4908 27534 misc optional ros-one-multisense-lib_4.0.5-46-g945e646-2025.01.31.18.57_amd64.buildinfo
+ b307aa6fc2ea325e36cd61db79e44311 224188 misc optional ros-one-multisense-lib_4.0.5-46-g945e646-2025.01.31.18.57_amd64.deb

@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 08 Jun 2020 00:00:00 -0000
+Source: ros-one-tf
+Binary: ros-one-tf
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.13.2-10-g674e0c4-2025.01.31.17.45
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf - tf is a package that lets the user keep track of multiple coordin
+Changes:
+ ros-one-tf (1.13.2-10-g674e0c4-2025.01.31.17.45) jammy; urgency=high
+ .
+   * fix shebang line for python3 (#212 <https://github.com/ros/geometry/issues/212>)
+   * Contributors: Mikael Arguedas
+Checksums-Sha1:
+ f477e87a748f636800dd8577cc522c390971b9f7 2978292 ros-one-tf-dbgsym_1.13.2-10-g674e0c4-2025.01.31.17.45_amd64.ddeb
+ 90139de71160be31216006bfe043e63d114b219e 13884 ros-one-tf_1.13.2-10-g674e0c4-2025.01.31.17.45_amd64.buildinfo
+ e8b59cd8ca96fab7b93929880d0d1ceb9d3cb255 222424 ros-one-tf_1.13.2-10-g674e0c4-2025.01.31.17.45_amd64.deb
+Checksums-Sha256:
+ 6334b4df4a2f01bd8e32c4bfe303763f7c2469879141761c33f0c95db44ae635 2978292 ros-one-tf-dbgsym_1.13.2-10-g674e0c4-2025.01.31.17.45_amd64.ddeb
+ a53d70586e28b081d27d03f4f684c959f860f117b9295655fb3d647ff78a42dd 13884 ros-one-tf_1.13.2-10-g674e0c4-2025.01.31.17.45_amd64.buildinfo
+ d7a050ed9ba9f69f00bbab759805ae1068a03b0ccd781f8584cd134c89f4f514 222424 ros-one-tf_1.13.2-10-g674e0c4-2025.01.31.17.45_amd64.deb
+Files:
+ a946298099a38b0ec3505fb7273a93b9 2978292 debug optional ros-one-tf-dbgsym_1.13.2-10-g674e0c4-2025.01.31.17.45_amd64.ddeb
+ 3e2bed706c91a3f88d0817d8a88ef070 13884 misc optional ros-one-tf_1.13.2-10-g674e0c4-2025.01.31.17.45_amd64.buildinfo
+ 7029aae5c46f105b6be13ec969602f93 222424 misc optional ros-one-tf_1.13.2-10-g674e0c4-2025.01.31.17.45_amd64.deb

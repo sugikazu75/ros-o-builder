@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-simple-controller-manager
+Binary: ros-one-moveit-simple-controller-manager
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-30-g048b9e4af-2025.01.31.21.50
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-simple-controller-manager - A generic, simple controller manager plugin for MoveIt.
+Changes:
+ ros-one-moveit-simple-controller-manager (1.1.16-30-g048b9e4af-2025.01.31.21.50) jammy; urgency=high
+Checksums-Sha1:
+ c44adece51aff0a2f53723e7914f5310a38fcee3 2075818 ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.21.50_amd64.ddeb
+ 8c2955eaee4c89c94a696cd7a36f33a9f103a200 22822 ros-one-moveit-simple-controller-manager_1.1.16-30-g048b9e4af-2025.01.31.21.50_amd64.buildinfo
+ eead29eefdbdcc9c97a7fe4ee02de6055dd4deed 165914 ros-one-moveit-simple-controller-manager_1.1.16-30-g048b9e4af-2025.01.31.21.50_amd64.deb
+Checksums-Sha256:
+ 29bd4f26bc51a9122f3767a2d677ed4532c1c0d2f8ddd957712fa0985ed1efea 2075818 ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.21.50_amd64.ddeb
+ 981f1cde56038917ee10c6011e3b369da0691a5c489b74b64511761b370994d7 22822 ros-one-moveit-simple-controller-manager_1.1.16-30-g048b9e4af-2025.01.31.21.50_amd64.buildinfo
+ 91740947b63ee6118ff271d18b7495746085f705671c3f2a097544fffebe3b11 165914 ros-one-moveit-simple-controller-manager_1.1.16-30-g048b9e4af-2025.01.31.21.50_amd64.deb
+Files:
+ 16fd6732da4c9947b2156b8b52b4cf61 2075818 debug optional ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.21.50_amd64.ddeb
+ 23ca2e8c1e6ce7c27f08c762103d5ee5 22822 misc optional ros-one-moveit-simple-controller-manager_1.1.16-30-g048b9e4af-2025.01.31.21.50_amd64.buildinfo
+ 019e35576298131af0de52d8a98dd549 165914 misc optional ros-one-moveit-simple-controller-manager_1.1.16-30-g048b9e4af-2025.01.31.21.50_amd64.deb

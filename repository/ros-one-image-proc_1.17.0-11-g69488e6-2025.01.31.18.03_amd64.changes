@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Mon, 17 Oct 2022 00:00:00 -0000
+Source: ros-one-image-proc
+Binary: ros-one-image-proc
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.17.0-11-g69488e6-2025.01.31.18.03
+Distribution: jammy
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-image-proc - Single image rectification and color processing.
+Changes:
+ ros-one-image-proc (1.17.0-11-g69488e6-2025.01.31.18.03) jammy; urgency=high
+ .
+   * Switch to hpp headers of pluginlib
+   * Drop old C++ standard compiler flag
+   * Switch to new boost/bind/bind.hpp
+   * Update ROI parameters on resize
+   * Contributors: Jochen Sprickerhof, Yuki Furuta
+Checksums-Sha1:
+ 58823f64260c58c9dc7d2a8d2d945f627370589a 3072960 ros-one-image-proc-dbgsym_1.17.0-11-g69488e6-2025.01.31.18.03_amd64.ddeb
+ 728346f8ee309502807c705ea06eb58dab3e3152 31223 ros-one-image-proc_1.17.0-11-g69488e6-2025.01.31.18.03_amd64.buildinfo
+ 60015e8865fa4cf23220353e02bc234a3dc5425f 174468 ros-one-image-proc_1.17.0-11-g69488e6-2025.01.31.18.03_amd64.deb
+Checksums-Sha256:
+ 1d872a51575a2943707f5088396cd005da6b6822c3bf35f37468dd9df84c921b 3072960 ros-one-image-proc-dbgsym_1.17.0-11-g69488e6-2025.01.31.18.03_amd64.ddeb
+ d386fab2368032317eea5fad5f3a14d55a751f666cd1600d037e4b07bf3d9a57 31223 ros-one-image-proc_1.17.0-11-g69488e6-2025.01.31.18.03_amd64.buildinfo
+ 83294bdee5cda611fa35a97667940d958f2ef3d4a00f3b8076b321123e301d25 174468 ros-one-image-proc_1.17.0-11-g69488e6-2025.01.31.18.03_amd64.deb
+Files:
+ d42249601ee888596cce94d0b6378719 3072960 debug optional ros-one-image-proc-dbgsym_1.17.0-11-g69488e6-2025.01.31.18.03_amd64.ddeb
+ 99a0710d8baec0107299546f328da63e 31223 misc optional ros-one-image-proc_1.17.0-11-g69488e6-2025.01.31.18.03_amd64.buildinfo
+ 3d00444bb0c0a59f2bc0ac0f930367b9 174468 misc optional ros-one-image-proc_1.17.0-11-g69488e6-2025.01.31.18.03_amd64.deb

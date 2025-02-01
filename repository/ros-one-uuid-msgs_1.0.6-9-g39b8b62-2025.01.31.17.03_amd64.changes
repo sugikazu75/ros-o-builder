@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 04 Apr 2017 00:00:00 -0000
+Source: ros-one-uuid-msgs
+Binary: ros-one-uuid-msgs
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.0.6-9-g39b8b62-2025.01.31.17.03
+Distribution: jammy
+Urgency: high
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Changed-By: Jack O'Quin <jack.oquin@gmail.com>
+Description:
+ ros-one-uuid-msgs - ROS messages for universally unique identifiers.
+Changes:
+ ros-one-uuid-msgs (1.0.6-9-g39b8b62-2025.01.31.17.03) jammy; urgency=high
+Checksums-Sha1:
+ 9f296db1d8d22a36d26116eb256aae971e2d815a 9764 ros-one-uuid-msgs_1.0.6-9-g39b8b62-2025.01.31.17.03_amd64.buildinfo
+ e17cbdde5b40ad9278df42a51093573d28c3041a 12366 ros-one-uuid-msgs_1.0.6-9-g39b8b62-2025.01.31.17.03_amd64.deb
+Checksums-Sha256:
+ ca1fe8c477d88f17de456dfde35b309df11fd2602f6f9c2b4690881ce2c6828c 9764 ros-one-uuid-msgs_1.0.6-9-g39b8b62-2025.01.31.17.03_amd64.buildinfo
+ a1aa57127b7f14888b3688dc5784f47d062babf26e2d5790d6e6d21fd07b8c50 12366 ros-one-uuid-msgs_1.0.6-9-g39b8b62-2025.01.31.17.03_amd64.deb
+Files:
+ 6be849ea329cc76bd9578518a23e021d 9764 misc optional ros-one-uuid-msgs_1.0.6-9-g39b8b62-2025.01.31.17.03_amd64.buildinfo
+ 8a612b3fb6c10ac6b224f2ae48f551f6 12366 misc optional ros-one-uuid-msgs_1.0.6-9-g39b8b62-2025.01.31.17.03_amd64.deb

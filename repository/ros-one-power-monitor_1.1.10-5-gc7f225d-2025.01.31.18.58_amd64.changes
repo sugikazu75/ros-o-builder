@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Thu, 20 May 2021 00:00:00 -0000
+Source: ros-one-power-monitor
+Binary: ros-one-power-monitor
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.10-5-gc7f225d-2025.01.31.18.58
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-power-monitor - The power_monitor collects messages from the ocean_battery_server
+Changes:
+ ros-one-power-monitor (1.1.10-5-gc7f225d-2025.01.31.18.58) jammy; urgency=high
+ .
+   * cmake changes for warnings under noetic
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ 947602a0391dfdf49a6d6493a8aa5f6c21020a5e 1173408 ros-one-power-monitor-dbgsym_1.1.10-5-gc7f225d-2025.01.31.18.58_amd64.ddeb
+ a3caf55a9398bbf4a1eea2c9d025d953f4629581 15535 ros-one-power-monitor_1.1.10-5-gc7f225d-2025.01.31.18.58_amd64.buildinfo
+ 92128a72b6028a544650dfbfebe4318f5326016f 92102 ros-one-power-monitor_1.1.10-5-gc7f225d-2025.01.31.18.58_amd64.deb
+Checksums-Sha256:
+ 609dc742a8988624d1bc56f652328670ba4bbba12baaa2330be489353cbcbfb7 1173408 ros-one-power-monitor-dbgsym_1.1.10-5-gc7f225d-2025.01.31.18.58_amd64.ddeb
+ b48f2ae5fee5ffaf23d6f365cbc99d06eea8eed162a6bef2a2d72d097be93423 15535 ros-one-power-monitor_1.1.10-5-gc7f225d-2025.01.31.18.58_amd64.buildinfo
+ 3cf3ac39b87f35d95b45fc4335cca9113fc0e7cb62f65d514dbf38f8abfd9e43 92102 ros-one-power-monitor_1.1.10-5-gc7f225d-2025.01.31.18.58_amd64.deb
+Files:
+ 918e7b818ad2ef65b58e77ddfa75b4bc 1173408 debug optional ros-one-power-monitor-dbgsym_1.1.10-5-gc7f225d-2025.01.31.18.58_amd64.ddeb
+ 606ea505b16a23dc4df38e331a1a118a 15535 misc optional ros-one-power-monitor_1.1.10-5-gc7f225d-2025.01.31.18.58_amd64.buildinfo
+ eafc2b82e4af90053cb807b20ed366de 92102 misc optional ros-one-power-monitor_1.1.10-5-gc7f225d-2025.01.31.18.58_amd64.deb

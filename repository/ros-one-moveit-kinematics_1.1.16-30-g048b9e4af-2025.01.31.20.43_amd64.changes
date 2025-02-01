@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-kinematics
+Binary: ros-one-moveit-kinematics
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-30-g048b9e4af-2025.01.31.20.43
+Distribution: jammy
+Urgency: high
+Maintainer: Dave Coleman <dave@picknik.ai>
+Changed-By: Dave Coleman <dave@picknik.ai>
+Description:
+ ros-one-moveit-kinematics - Package for all inverse kinematics solvers in MoveIt
+Changes:
+ ros-one-moveit-kinematics (1.1.16-30-g048b9e4af-2025.01.31.20.43) jammy; urgency=high
+Checksums-Sha1:
+ 7488351dfa4371689439ed0c03036990ece59b5c 8727646 ros-one-moveit-kinematics-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.20.43_amd64.ddeb
+ b4cccf32c3706c409c5597f2ef3a5c3c413d29f5 22683 ros-one-moveit-kinematics_1.1.16-30-g048b9e4af-2025.01.31.20.43_amd64.buildinfo
+ 0d10e362b10558ebe7d5654ce1c579fd302f386e 240048 ros-one-moveit-kinematics_1.1.16-30-g048b9e4af-2025.01.31.20.43_amd64.deb
+Checksums-Sha256:
+ 282fa799d1101f52272d5ba06fdc5a716f18d36a5390fac52cdd09a24c7ab64d 8727646 ros-one-moveit-kinematics-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.20.43_amd64.ddeb
+ aed157f0b25d7fcc2e9288f13dc49cb2d0e7ec2c65b08561e6876a3d2d599fae 22683 ros-one-moveit-kinematics_1.1.16-30-g048b9e4af-2025.01.31.20.43_amd64.buildinfo
+ df5745d26709d44c01382a0988284de2be12b952ef9f88f9ad1bbc4eff5db65a 240048 ros-one-moveit-kinematics_1.1.16-30-g048b9e4af-2025.01.31.20.43_amd64.deb
+Files:
+ cd523df724ef65c31bb3abe9c4a80397 8727646 debug optional ros-one-moveit-kinematics-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.20.43_amd64.ddeb
+ f8d5d03d5e5d8a874ab1d9aae0cdf9c4 22683 misc optional ros-one-moveit-kinematics_1.1.16-30-g048b9e4af-2025.01.31.20.43_amd64.buildinfo
+ 3155f4b88753f867b30a3ae479cce3b2 240048 misc optional ros-one-moveit-kinematics_1.1.16-30-g048b9e4af-2025.01.31.20.43_amd64.deb

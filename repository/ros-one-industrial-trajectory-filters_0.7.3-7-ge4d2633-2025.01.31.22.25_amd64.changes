@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 15 Jul 2021 00:00:00 -0000
+Source: ros-one-industrial-trajectory-filters
+Binary: ros-one-industrial-trajectory-filters
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.7.3-7-ge4d2633-2025.01.31.22.25
+Distribution: jammy
+Urgency: high
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-industrial-trajectory-filters - ROS Industrial libraries/plugins for filtering trajectories.
+Changes:
+ ros-one-industrial-trajectory-filters (0.7.3-7-ge4d2633-2025.01.31.22.25) jammy; urgency=high
+ .
+   * No changes
+Checksums-Sha1:
+ 3520120e34ea21db5d2aeda7de6d75ca59dca018 3216784 ros-one-industrial-trajectory-filters-dbgsym_0.7.3-7-ge4d2633-2025.01.31.22.25_amd64.ddeb
+ 2eb25d217de1472cb3ad8d0d7a9ef4fc051c2e12 24129 ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.01.31.22.25_amd64.buildinfo
+ 8b8af96afa03932f5c2f873d1949f820776dc29b 52450 ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.01.31.22.25_amd64.deb
+Checksums-Sha256:
+ f02c06a0844b7030bdf9a264424ca23a9271e1956521beafe63c1c07adea39f0 3216784 ros-one-industrial-trajectory-filters-dbgsym_0.7.3-7-ge4d2633-2025.01.31.22.25_amd64.ddeb
+ 718e651fab710207f7effb504046252b3be1006ecbbf71f1524b264be9bcb208 24129 ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.01.31.22.25_amd64.buildinfo
+ c7fe9e950fdc9cfefc23fae569ba1808cf36164e4cde4be7a6580a4646f38980 52450 ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.01.31.22.25_amd64.deb
+Files:
+ cdad29f0e88fb259886cddd4ee4c57b5 3216784 debug optional ros-one-industrial-trajectory-filters-dbgsym_0.7.3-7-ge4d2633-2025.01.31.22.25_amd64.ddeb
+ 850c1d3abebaf6818491d49f3b866283 24129 misc optional ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.01.31.22.25_amd64.buildinfo
+ 9296b72de1b874244b059fd71d718364 52450 misc optional ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.01.31.22.25_amd64.deb

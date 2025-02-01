@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-occupancy-map-monitor
+Binary: ros-one-moveit-ros-occupancy-map-monitor
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 1.1.16-30-g048b9e4af-2025.01.31.20.29
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-occupancy-map-monitor - Components of MoveIt connecting to occupancy map
+Changes:
+ ros-one-moveit-ros-occupancy-map-monitor (1.1.16-30-g048b9e4af-2025.01.31.20.29) jammy; urgency=high
+Checksums-Sha1:
+ 5f63ad8972f46cd836dd20de50af8a4f35ba591b 2221596 ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.20.29_amd64.ddeb
+ 46de4c1f93f463c232553697654ac12ff33bc875 22761 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-30-g048b9e4af-2025.01.31.20.29_amd64.buildinfo
+ d1a4f1dabc131950b0249d1d5d388f90d07b9fd1 134766 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-30-g048b9e4af-2025.01.31.20.29_amd64.deb
+Checksums-Sha256:
+ 4c0412b5efe27939f0aa635fb4ffc65ca5a251b14e826d221215bc88058faaa7 2221596 ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.20.29_amd64.ddeb
+ 12ee4105eec50040e3c631754e5e910a4f9cb0e12e6545221bb31454fbbfebd3 22761 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-30-g048b9e4af-2025.01.31.20.29_amd64.buildinfo
+ 9fee54ec694350b5328c23b111d1fc407bbd7ccb3de31458cc6f3eaf7e09d72f 134766 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-30-g048b9e4af-2025.01.31.20.29_amd64.deb
+Files:
+ 1f24184ba7c3635c2df8881ebf81d5e3 2221596 debug optional ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-30-g048b9e4af-2025.01.31.20.29_amd64.ddeb
+ 0e4d8aa554e9501078707bb4bbcabb75 22761 misc optional ros-one-moveit-ros-occupancy-map-monitor_1.1.16-30-g048b9e4af-2025.01.31.20.29_amd64.buildinfo
+ 56d05da0c498afeebcb890da48cd101b 134766 misc optional ros-one-moveit-ros-occupancy-map-monitor_1.1.16-30-g048b9e4af-2025.01.31.20.29_amd64.deb

@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Tue, 18 Jan 2022 00:00:00 -0000
+Source: ros-one-mocap-optitrack
+Binary: ros-one-mocap-optitrack
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.1.4-1-g1f4941f-2025.01.31.18.00
+Distribution: jammy
+Urgency: high
+Maintainer: Tony Baltovski <tony@baltovski.ca>
+Changed-By: Tony Baltovski <tony@baltovski.ca>
+Description:
+ ros-one-mocap-optitrack - Streaming of OptiTrack mocap data to tf This package contains a n
+Changes:
+ ros-one-mocap-optitrack (0.1.4-1-g1f4941f-2025.01.31.18.00) jammy; urgency=high
+ .
+   * initialize the  dynamic server in the initializer list
+   * white space
+   * unnecessary changes
+   * fix: params namespace
+   * Contributors: Jad
+Checksums-Sha1:
+ 37c7b9fc55895ee7d73eb4286db66d7ac79eb816 1343062 ros-one-mocap-optitrack-dbgsym_0.1.4-1-g1f4941f-2025.01.31.18.00_amd64.ddeb
+ ff8a209511e78a5bd136f5bc5a52fafa35c19010 18636 ros-one-mocap-optitrack_0.1.4-1-g1f4941f-2025.01.31.18.00_amd64.buildinfo
+ 881d8ed9dc8b6bc75bc30f4e29201e290a4392a8 101998 ros-one-mocap-optitrack_0.1.4-1-g1f4941f-2025.01.31.18.00_amd64.deb
+Checksums-Sha256:
+ ee2ab09d9e59118bba680bd3885790390bb669af27d36da34b0ac9371626e219 1343062 ros-one-mocap-optitrack-dbgsym_0.1.4-1-g1f4941f-2025.01.31.18.00_amd64.ddeb
+ c8cb897f3ce5d3826e8dcc3227a4213b3b1c5b472c894968ab3e1524cf1a5452 18636 ros-one-mocap-optitrack_0.1.4-1-g1f4941f-2025.01.31.18.00_amd64.buildinfo
+ 730ec76d61f47c357f3a03c8fb767ea5f0ea66fc01edfc186fbaf9b1906ec274 101998 ros-one-mocap-optitrack_0.1.4-1-g1f4941f-2025.01.31.18.00_amd64.deb
+Files:
+ 576b331290ab16aaa45bcf34a1648764 1343062 debug optional ros-one-mocap-optitrack-dbgsym_0.1.4-1-g1f4941f-2025.01.31.18.00_amd64.ddeb
+ f144809fa3f07a36848d6ec8e126ccae 18636 misc optional ros-one-mocap-optitrack_0.1.4-1-g1f4941f-2025.01.31.18.00_amd64.buildinfo
+ 510aebf8d9f7d39d49d34540237629d4 101998 misc optional ros-one-mocap-optitrack_0.1.4-1-g1f4941f-2025.01.31.18.00_amd64.deb

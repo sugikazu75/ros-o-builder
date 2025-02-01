@@ -1,0 +1,14 @@
+[31m[1mCould not resolve rosdep key 'ament_index_cpp' for distro 'jammy':[0m
+[31m[1mTry to resolve the problem with rosdep and then continue.[0m
+ROS Distro index file associate with commit '253db694c9be7f3c5d4d9f7ad3bce157537cda5b'[0m
+New ROS Distro index url: 'https://raw.githubusercontent.com/ros/rosdistro/253db694c9be7f3c5d4d9f7ad3bce157537cda5b/index-v4.yaml'[0m
+[1m[32m==> [0m[0mGenerating debs for [36mubuntu:jammy[0m for package(s) ['plotjuggler'][0m[0m
+No definition of [ament_index_cpp] for OS [ubuntu]
+	rosdep key : ament_index_cpp
+	OS name    : ubuntu
+	OS version : jammy
+	Data:
+debian:
+		- libament-index-cpp-dev
+		
+[31m[1merror: (25, 'Inappropriate ioctl for device')[0m

@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Wed, 18 Dec 2019 00:00:00 -0000
+Source: ros-one-fake-joint-launch
+Binary: ros-one-fake-joint-launch
+Built-For-Profiles: noudeb nocheck
+Architecture: amd64
+Version: 0.0.4-6-g1e5d5a2-2025.01.31.19.41
+Distribution: jammy
+Urgency: high
+Maintainer: Tokyo Opensource Robotics Kyokai (TORK) Developer Team <dev@opensource-robotics.tokyo.jp>
+Changed-By: Tokyo Opensource Robotics Kyokai (TORK) Developer Team <dev@opensource-robotics.tokyo.jp>
+Description:
+ ros-one-fake-joint-launch - Collection of the launch files for fake_joint_driver.
+Changes:
+ ros-one-fake-joint-launch (0.0.4-6-g1e5d5a2-2025.01.31.19.41) jammy; urgency=high
+ .
+   * Changes for melodic release (#4 <https://github.com/tork-a/fake_joint/issues/4>)
+     - Add melodic entries for travis.yml
+     - Remove and rename files which is not supported by current Melodic release
+     - Rename UR related launch files for Melodic release
+   * Remove dependencies that are not in melodic (#6 <https://github.com/tork-a/fake_joint/issues/6>)
+   * Remove vs060 example
+   * Contributors: Ryosuke Tajima, Tyler Weaver
+Checksums-Sha1:
+ c7bb3bf53f9fe5c48103338e9d197fb8c00cf2cc 24577 ros-one-fake-joint-launch_0.0.4-6-g1e5d5a2-2025.01.31.19.41_amd64.buildinfo
+ 334e2435dd88eb986ed157a79388d593d8b2948b 9242 ros-one-fake-joint-launch_0.0.4-6-g1e5d5a2-2025.01.31.19.41_amd64.deb
+Checksums-Sha256:
+ 578824d737ee2a72d3f5f477853a9917e3983de70b3826024b60df9654ef5cc5 24577 ros-one-fake-joint-launch_0.0.4-6-g1e5d5a2-2025.01.31.19.41_amd64.buildinfo
+ 1a78bd504163b65e9ac18a9888b2c02f81d8f686d790c1efb8e178284b9418a7 9242 ros-one-fake-joint-launch_0.0.4-6-g1e5d5a2-2025.01.31.19.41_amd64.deb
+Files:
+ 3ac69b4ad87b744ae9ff0fb0c0b64336 24577 misc optional ros-one-fake-joint-launch_0.0.4-6-g1e5d5a2-2025.01.31.19.41_amd64.buildinfo
+ fc328d2d6de41bf05963bc71e90f4b74 9242 misc optional ros-one-fake-joint-launch_0.0.4-6-g1e5d5a2-2025.01.31.19.41_amd64.deb
